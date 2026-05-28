@@ -1,0 +1,519 @@
+[
+  {
+    "id": "ZW1301",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Chikomba",
+      "en": "Chikomba",
+      "slug": "chikomba-zw1301"
+    },
+    "code": {
+      "id": "ZW1301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW13",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland East",
+        "en": "Mashonaland East",
+        "slug": "mashonaland-east-zw13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 30
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.851",
+      "lon": "31.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1302",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Goromonzi",
+      "en": "Goromonzi",
+      "slug": "goromonzi-zw1302"
+    },
+    "code": {
+      "id": "ZW1302",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW13",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland East",
+        "en": "Mashonaland East",
+        "slug": "mashonaland-east-zw13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 25
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.8",
+      "lon": "31.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1303",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hwedza",
+      "en": "Hwedza",
+      "slug": "hwedza-zw1303"
+    },
+    "code": {
+      "id": "ZW1303",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW13",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland East",
+        "en": "Mashonaland East",
+        "slug": "mashonaland-east-zw13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.765",
+      "lon": "31.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1304",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Marondera",
+      "en": "Marondera",
+      "slug": "marondera-zw1304"
+    },
+    "code": {
+      "id": "ZW1304",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW13",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland East",
+        "en": "Mashonaland East",
+        "slug": "mashonaland-east-zw13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.25",
+      "lon": "31.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1321",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Marondera Urban",
+      "en": "Marondera Urban",
+      "slug": "marondera-urban-zw1321"
+    },
+    "code": {
+      "id": "ZW1321",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW13",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland East",
+        "en": "Mashonaland East",
+        "slug": "mashonaland-east-zw13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.213",
+      "lon": "31.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1305",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mudzi",
+      "en": "Mudzi",
+      "slug": "mudzi-zw1305"
+    },
+    "code": {
+      "id": "ZW1305",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW13",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland East",
+        "en": "Mashonaland East",
+        "slug": "mashonaland-east-zw13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.049",
+      "lon": "32.551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1306",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Murehwa",
+      "en": "Murehwa",
+      "slug": "murehwa-zw1306"
+    },
+    "code": {
+      "id": "ZW1306",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW13",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland East",
+        "en": "Mashonaland East",
+        "slug": "mashonaland-east-zw13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 30
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.8",
+      "lon": "31.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1307",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mutoko",
+      "en": "Mutoko",
+      "slug": "mutoko-zw1307"
+    },
+    "code": {
+      "id": "ZW1307",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW13",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland East",
+        "en": "Mashonaland East",
+        "slug": "mashonaland-east-zw13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 29
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.423",
+      "lon": "32.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1326",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ruwa",
+      "en": "Ruwa",
+      "slug": "ruwa-zw1326"
+    },
+    "code": {
+      "id": "ZW1326",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW13",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland East",
+        "en": "Mashonaland East",
+        "slug": "mashonaland-east-zw13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.887",
+      "lon": "31.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1308",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Seke",
+      "en": "Seke",
+      "slug": "seke-zw1308"
+    },
+    "code": {
+      "id": "ZW1308",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW13",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland East",
+        "en": "Mashonaland East",
+        "slug": "mashonaland-east-zw13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.302",
+      "lon": "30.865"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1309",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Uzumba Maramba Pfungwe",
+      "en": "Uzumba Maramba Pfungwe",
+      "slug": "uzumba-maramba-pfungwe-zw1309"
+    },
+    "code": {
+      "id": "ZW1309",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW13",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland East",
+        "en": "Mashonaland East",
+        "slug": "mashonaland-east-zw13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.097",
+      "lon": "31.965"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

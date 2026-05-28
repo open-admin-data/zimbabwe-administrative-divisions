@@ -1,0 +1,613 @@
+[
+  {
+    "id": "ZW1401",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Chegutu",
+      "en": "Chegutu",
+      "slug": "chegutu-zw1401"
+    },
+    "code": {
+      "id": "ZW1401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW14",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland West",
+        "en": "Mashonaland West",
+        "slug": "mashonaland-west-zw14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 29
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.189",
+      "lon": "30.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1423",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Chegutu Urban",
+      "en": "Chegutu Urban",
+      "slug": "chegutu-urban-zw1423"
+    },
+    "code": {
+      "id": "ZW1423",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW14",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland West",
+        "en": "Mashonaland West",
+        "slug": "mashonaland-west-zw14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.125",
+      "lon": "30.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1421",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Chinhoyi",
+      "en": "Chinhoyi",
+      "slug": "chinhoyi-zw1421"
+    },
+    "code": {
+      "id": "ZW1421",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW14",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland West",
+        "en": "Mashonaland West",
+        "slug": "mashonaland-west-zw14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.351",
+      "lon": "30.186"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1402",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hurungwe",
+      "en": "Hurungwe",
+      "slug": "hurungwe-zw1402"
+    },
+    "code": {
+      "id": "ZW1402",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW14",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland West",
+        "en": "Mashonaland West",
+        "slug": "mashonaland-west-zw14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 26
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.521",
+      "lon": "29.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1403",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kadoma Urban",
+      "en": "Kadoma Urban",
+      "slug": "kadoma-urban-zw1403"
+    },
+    "code": {
+      "id": "ZW1403",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW14",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland West",
+        "en": "Mashonaland West",
+        "slug": "mashonaland-west-zw14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.318",
+      "lon": "29.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1404",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kariba",
+      "en": "Kariba",
+      "slug": "kariba-zw1404"
+    },
+    "code": {
+      "id": "ZW1404",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW14",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland West",
+        "en": "Mashonaland West",
+        "slug": "mashonaland-west-zw14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.888",
+      "lon": "28.564"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1424",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kariba Urban",
+      "en": "Kariba Urban",
+      "slug": "kariba-urban-zw1424"
+    },
+    "code": {
+      "id": "ZW1424",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW14",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland West",
+        "en": "Mashonaland West",
+        "slug": "mashonaland-west-zw14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.528",
+      "lon": "28.807"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1426",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Karoi",
+      "en": "Karoi",
+      "slug": "karoi-zw1426"
+    },
+    "code": {
+      "id": "ZW1426",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW14",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland West",
+        "en": "Mashonaland West",
+        "slug": "mashonaland-west-zw14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.822",
+      "lon": "29.694"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1405",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Makonde",
+      "en": "Makonde",
+      "slug": "makonde-zw1405"
+    },
+    "code": {
+      "id": "ZW1405",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW14",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland West",
+        "en": "Mashonaland West",
+        "slug": "mashonaland-west-zw14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.062",
+      "lon": "30.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1427",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mhondoro-Ngezi",
+      "en": "Mhondoro-Ngezi",
+      "slug": "mhondoro-ngezi-zw1427"
+    },
+    "code": {
+      "id": "ZW1427",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW14",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland West",
+        "en": "Mashonaland West",
+        "slug": "mashonaland-west-zw14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.569",
+      "lon": "30.16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1425",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Norton",
+      "en": "Norton",
+      "slug": "norton-zw1425"
+    },
+    "code": {
+      "id": "ZW1425",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW14",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland West",
+        "en": "Mashonaland West",
+        "slug": "mashonaland-west-zw14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.885",
+      "lon": "30.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1428",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sanyati",
+      "en": "Sanyati",
+      "slug": "sanyati-zw1428"
+    },
+    "code": {
+      "id": "ZW1428",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW14",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland West",
+        "en": "Mashonaland West",
+        "slug": "mashonaland-west-zw14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.973",
+      "lon": "29.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1406",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zvimba",
+      "en": "Zvimba",
+      "slug": "zvimba-zw1406"
+    },
+    "code": {
+      "id": "ZW1406",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW14",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland West",
+        "en": "Mashonaland West",
+        "slug": "mashonaland-west-zw14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 35
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.376",
+      "lon": "30.42"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

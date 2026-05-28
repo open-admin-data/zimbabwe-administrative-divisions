@@ -1,0 +1,1568 @@
+[
+  {
+    "id": "ZW120701",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw120701"
+    },
+    "code": {
+      "id": "ZW120701",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1207",
+      "level": 2,
+      "name": {
+        "local": "Shamva",
+        "en": "Shamva",
+        "slug": "shamva-zw1207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1207",
+        "level": 2,
+        "name": {
+          "local": "Shamva",
+          "en": "Shamva",
+          "slug": "shamva-zw1207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.888",
+      "lon": "31.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120710",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw120710"
+    },
+    "code": {
+      "id": "ZW120710",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1207",
+      "level": 2,
+      "name": {
+        "local": "Shamva",
+        "en": "Shamva",
+        "slug": "shamva-zw1207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1207",
+        "level": 2,
+        "name": {
+          "local": "Shamva",
+          "en": "Shamva",
+          "slug": "shamva-zw1207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.037",
+      "lon": "31.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120711",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw120711"
+    },
+    "code": {
+      "id": "ZW120711",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1207",
+      "level": 2,
+      "name": {
+        "local": "Shamva",
+        "en": "Shamva",
+        "slug": "shamva-zw1207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1207",
+        "level": 2,
+        "name": {
+          "local": "Shamva",
+          "en": "Shamva",
+          "slug": "shamva-zw1207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.15",
+      "lon": "31.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120712",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw120712"
+    },
+    "code": {
+      "id": "ZW120712",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1207",
+      "level": 2,
+      "name": {
+        "local": "Shamva",
+        "en": "Shamva",
+        "slug": "shamva-zw1207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1207",
+        "level": 2,
+        "name": {
+          "local": "Shamva",
+          "en": "Shamva",
+          "slug": "shamva-zw1207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.157",
+      "lon": "31.626"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120713",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw120713"
+    },
+    "code": {
+      "id": "ZW120713",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1207",
+      "level": 2,
+      "name": {
+        "local": "Shamva",
+        "en": "Shamva",
+        "slug": "shamva-zw1207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1207",
+        "level": 2,
+        "name": {
+          "local": "Shamva",
+          "en": "Shamva",
+          "slug": "shamva-zw1207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.205",
+      "lon": "31.59"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120714",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw120714"
+    },
+    "code": {
+      "id": "ZW120714",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1207",
+      "level": 2,
+      "name": {
+        "local": "Shamva",
+        "en": "Shamva",
+        "slug": "shamva-zw1207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1207",
+        "level": 2,
+        "name": {
+          "local": "Shamva",
+          "en": "Shamva",
+          "slug": "shamva-zw1207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.968",
+      "lon": "31.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120715",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw120715"
+    },
+    "code": {
+      "id": "ZW120715",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1207",
+      "level": 2,
+      "name": {
+        "local": "Shamva",
+        "en": "Shamva",
+        "slug": "shamva-zw1207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1207",
+        "level": 2,
+        "name": {
+          "local": "Shamva",
+          "en": "Shamva",
+          "slug": "shamva-zw1207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.157",
+      "lon": "31.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120716",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "16",
+      "en": "16",
+      "slug": "16-zw120716"
+    },
+    "code": {
+      "id": "ZW120716",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1207",
+      "level": 2,
+      "name": {
+        "local": "Shamva",
+        "en": "Shamva",
+        "slug": "shamva-zw1207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1207",
+        "level": 2,
+        "name": {
+          "local": "Shamva",
+          "en": "Shamva",
+          "slug": "shamva-zw1207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.014",
+      "lon": "31.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120717",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "17",
+      "en": "17",
+      "slug": "17-zw120717"
+    },
+    "code": {
+      "id": "ZW120717",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1207",
+      "level": 2,
+      "name": {
+        "local": "Shamva",
+        "en": "Shamva",
+        "slug": "shamva-zw1207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1207",
+        "level": 2,
+        "name": {
+          "local": "Shamva",
+          "en": "Shamva",
+          "slug": "shamva-zw1207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.239",
+      "lon": "31.596"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120718",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "18",
+      "en": "18",
+      "slug": "18-zw120718"
+    },
+    "code": {
+      "id": "ZW120718",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1207",
+      "level": 2,
+      "name": {
+        "local": "Shamva",
+        "en": "Shamva",
+        "slug": "shamva-zw1207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1207",
+        "level": 2,
+        "name": {
+          "local": "Shamva",
+          "en": "Shamva",
+          "slug": "shamva-zw1207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.326",
+      "lon": "31.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120719",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "19",
+      "en": "19",
+      "slug": "19-zw120719"
+    },
+    "code": {
+      "id": "ZW120719",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1207",
+      "level": 2,
+      "name": {
+        "local": "Shamva",
+        "en": "Shamva",
+        "slug": "shamva-zw1207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1207",
+        "level": 2,
+        "name": {
+          "local": "Shamva",
+          "en": "Shamva",
+          "slug": "shamva-zw1207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.285",
+      "lon": "31.702"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120702",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw120702"
+    },
+    "code": {
+      "id": "ZW120702",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1207",
+      "level": 2,
+      "name": {
+        "local": "Shamva",
+        "en": "Shamva",
+        "slug": "shamva-zw1207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1207",
+        "level": 2,
+        "name": {
+          "local": "Shamva",
+          "en": "Shamva",
+          "slug": "shamva-zw1207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.873",
+      "lon": "31.493"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120720",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "20",
+      "en": "20",
+      "slug": "20-zw120720"
+    },
+    "code": {
+      "id": "ZW120720",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1207",
+      "level": 2,
+      "name": {
+        "local": "Shamva",
+        "en": "Shamva",
+        "slug": "shamva-zw1207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1207",
+        "level": 2,
+        "name": {
+          "local": "Shamva",
+          "en": "Shamva",
+          "slug": "shamva-zw1207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.391",
+      "lon": "31.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120721",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "21",
+      "en": "21",
+      "slug": "21-zw120721"
+    },
+    "code": {
+      "id": "ZW120721",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1207",
+      "level": 2,
+      "name": {
+        "local": "Shamva",
+        "en": "Shamva",
+        "slug": "shamva-zw1207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1207",
+        "level": 2,
+        "name": {
+          "local": "Shamva",
+          "en": "Shamva",
+          "slug": "shamva-zw1207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.411",
+      "lon": "31.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120722",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "22",
+      "en": "22",
+      "slug": "22-zw120722"
+    },
+    "code": {
+      "id": "ZW120722",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1207",
+      "level": 2,
+      "name": {
+        "local": "Shamva",
+        "en": "Shamva",
+        "slug": "shamva-zw1207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1207",
+        "level": 2,
+        "name": {
+          "local": "Shamva",
+          "en": "Shamva",
+          "slug": "shamva-zw1207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.293",
+      "lon": "31.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120723",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "23",
+      "en": "23",
+      "slug": "23-zw120723"
+    },
+    "code": {
+      "id": "ZW120723",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1207",
+      "level": 2,
+      "name": {
+        "local": "Shamva",
+        "en": "Shamva",
+        "slug": "shamva-zw1207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1207",
+        "level": 2,
+        "name": {
+          "local": "Shamva",
+          "en": "Shamva",
+          "slug": "shamva-zw1207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.294",
+      "lon": "31.551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120724",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "24",
+      "en": "24",
+      "slug": "24-zw120724"
+    },
+    "code": {
+      "id": "ZW120724",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1207",
+      "level": 2,
+      "name": {
+        "local": "Shamva",
+        "en": "Shamva",
+        "slug": "shamva-zw1207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1207",
+        "level": 2,
+        "name": {
+          "local": "Shamva",
+          "en": "Shamva",
+          "slug": "shamva-zw1207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.279",
+      "lon": "31.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120725",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "25",
+      "en": "25",
+      "slug": "25-zw120725"
+    },
+    "code": {
+      "id": "ZW120725",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1207",
+      "level": 2,
+      "name": {
+        "local": "Shamva",
+        "en": "Shamva",
+        "slug": "shamva-zw1207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1207",
+        "level": 2,
+        "name": {
+          "local": "Shamva",
+          "en": "Shamva",
+          "slug": "shamva-zw1207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.946",
+      "lon": "31.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120726",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "26",
+      "en": "26",
+      "slug": "26-zw120726"
+    },
+    "code": {
+      "id": "ZW120726",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1207",
+      "level": 2,
+      "name": {
+        "local": "Shamva",
+        "en": "Shamva",
+        "slug": "shamva-zw1207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1207",
+        "level": 2,
+        "name": {
+          "local": "Shamva",
+          "en": "Shamva",
+          "slug": "shamva-zw1207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.978",
+      "lon": "31.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120727",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "27",
+      "en": "27",
+      "slug": "27-zw120727"
+    },
+    "code": {
+      "id": "ZW120727",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1207",
+      "level": 2,
+      "name": {
+        "local": "Shamva",
+        "en": "Shamva",
+        "slug": "shamva-zw1207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1207",
+        "level": 2,
+        "name": {
+          "local": "Shamva",
+          "en": "Shamva",
+          "slug": "shamva-zw1207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.139",
+      "lon": "31.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120728",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "28",
+      "en": "28",
+      "slug": "28-zw120728"
+    },
+    "code": {
+      "id": "ZW120728",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1207",
+      "level": 2,
+      "name": {
+        "local": "Shamva",
+        "en": "Shamva",
+        "slug": "shamva-zw1207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1207",
+        "level": 2,
+        "name": {
+          "local": "Shamva",
+          "en": "Shamva",
+          "slug": "shamva-zw1207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.345",
+      "lon": "31.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120729",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "29",
+      "en": "29",
+      "slug": "29-zw120729"
+    },
+    "code": {
+      "id": "ZW120729",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1207",
+      "level": 2,
+      "name": {
+        "local": "Shamva",
+        "en": "Shamva",
+        "slug": "shamva-zw1207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1207",
+        "level": 2,
+        "name": {
+          "local": "Shamva",
+          "en": "Shamva",
+          "slug": "shamva-zw1207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.317",
+      "lon": "31.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120703",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw120703"
+    },
+    "code": {
+      "id": "ZW120703",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1207",
+      "level": 2,
+      "name": {
+        "local": "Shamva",
+        "en": "Shamva",
+        "slug": "shamva-zw1207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1207",
+        "level": 2,
+        "name": {
+          "local": "Shamva",
+          "en": "Shamva",
+          "slug": "shamva-zw1207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.907",
+      "lon": "31.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120704",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw120704"
+    },
+    "code": {
+      "id": "ZW120704",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1207",
+      "level": 2,
+      "name": {
+        "local": "Shamva",
+        "en": "Shamva",
+        "slug": "shamva-zw1207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1207",
+        "level": 2,
+        "name": {
+          "local": "Shamva",
+          "en": "Shamva",
+          "slug": "shamva-zw1207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.936",
+      "lon": "31.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120705",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw120705"
+    },
+    "code": {
+      "id": "ZW120705",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1207",
+      "level": 2,
+      "name": {
+        "local": "Shamva",
+        "en": "Shamva",
+        "slug": "shamva-zw1207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1207",
+        "level": 2,
+        "name": {
+          "local": "Shamva",
+          "en": "Shamva",
+          "slug": "shamva-zw1207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.969",
+      "lon": "31.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120706",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw120706"
+    },
+    "code": {
+      "id": "ZW120706",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1207",
+      "level": 2,
+      "name": {
+        "local": "Shamva",
+        "en": "Shamva",
+        "slug": "shamva-zw1207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1207",
+        "level": 2,
+        "name": {
+          "local": "Shamva",
+          "en": "Shamva",
+          "slug": "shamva-zw1207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.99",
+      "lon": "31.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120707",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw120707"
+    },
+    "code": {
+      "id": "ZW120707",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1207",
+      "level": 2,
+      "name": {
+        "local": "Shamva",
+        "en": "Shamva",
+        "slug": "shamva-zw1207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1207",
+        "level": 2,
+        "name": {
+          "local": "Shamva",
+          "en": "Shamva",
+          "slug": "shamva-zw1207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.012",
+      "lon": "31.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120708",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw120708"
+    },
+    "code": {
+      "id": "ZW120708",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1207",
+      "level": 2,
+      "name": {
+        "local": "Shamva",
+        "en": "Shamva",
+        "slug": "shamva-zw1207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1207",
+        "level": 2,
+        "name": {
+          "local": "Shamva",
+          "en": "Shamva",
+          "slug": "shamva-zw1207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.043",
+      "lon": "31.387"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120709",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw120709"
+    },
+    "code": {
+      "id": "ZW120709",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1207",
+      "level": 2,
+      "name": {
+        "local": "Shamva",
+        "en": "Shamva",
+        "slug": "shamva-zw1207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1207",
+        "level": 2,
+        "name": {
+          "local": "Shamva",
+          "en": "Shamva",
+          "slug": "shamva-zw1207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.063",
+      "lon": "31.464"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "ZW1326",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ruwa",
+    "en": "Ruwa",
+    "slug": "ruwa-zw1326"
+  },
+  "code": {
+    "id": "ZW1326",
+    "iso": null
+  },
+  "parent": {
+    "id": "ZW13",
+    "level": 1,
+    "name": {
+      "local": "Mashonaland East",
+      "en": "Mashonaland East",
+      "slug": "mashonaland-east-zw13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ZW13",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland East",
+        "en": "Mashonaland East",
+        "slug": "mashonaland-east-zw13"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.887",
+    "lon": "31.233"
+  },
+  "metadata": {},
+  "source": {}
+}

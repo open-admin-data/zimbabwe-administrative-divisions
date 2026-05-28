@@ -1,0 +1,1028 @@
+[
+  {
+    "id": "ZW150701",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw150701"
+    },
+    "code": {
+      "id": "ZW150701",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1507",
+      "level": 2,
+      "name": {
+        "local": "Umguza",
+        "en": "Umguza",
+        "slug": "umguza-zw1507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1507",
+        "level": 2,
+        "name": {
+          "local": "Umguza",
+          "en": "Umguza",
+          "slug": "umguza-zw1507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.242",
+      "lon": "28.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150710",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw150710"
+    },
+    "code": {
+      "id": "ZW150710",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1507",
+      "level": 2,
+      "name": {
+        "local": "Umguza",
+        "en": "Umguza",
+        "slug": "umguza-zw1507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1507",
+        "level": 2,
+        "name": {
+          "local": "Umguza",
+          "en": "Umguza",
+          "slug": "umguza-zw1507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.605",
+      "lon": "28.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150711",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw150711"
+    },
+    "code": {
+      "id": "ZW150711",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1507",
+      "level": 2,
+      "name": {
+        "local": "Umguza",
+        "en": "Umguza",
+        "slug": "umguza-zw1507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1507",
+        "level": 2,
+        "name": {
+          "local": "Umguza",
+          "en": "Umguza",
+          "slug": "umguza-zw1507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.463",
+      "lon": "28.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150712",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw150712"
+    },
+    "code": {
+      "id": "ZW150712",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1507",
+      "level": 2,
+      "name": {
+        "local": "Umguza",
+        "en": "Umguza",
+        "slug": "umguza-zw1507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1507",
+        "level": 2,
+        "name": {
+          "local": "Umguza",
+          "en": "Umguza",
+          "slug": "umguza-zw1507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.658",
+      "lon": "28.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150713",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw150713"
+    },
+    "code": {
+      "id": "ZW150713",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1507",
+      "level": 2,
+      "name": {
+        "local": "Umguza",
+        "en": "Umguza",
+        "slug": "umguza-zw1507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1507",
+        "level": 2,
+        "name": {
+          "local": "Umguza",
+          "en": "Umguza",
+          "slug": "umguza-zw1507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.772",
+      "lon": "27.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150714",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw150714"
+    },
+    "code": {
+      "id": "ZW150714",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1507",
+      "level": 2,
+      "name": {
+        "local": "Umguza",
+        "en": "Umguza",
+        "slug": "umguza-zw1507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1507",
+        "level": 2,
+        "name": {
+          "local": "Umguza",
+          "en": "Umguza",
+          "slug": "umguza-zw1507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.969",
+      "lon": "28.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150715",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw150715"
+    },
+    "code": {
+      "id": "ZW150715",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1507",
+      "level": 2,
+      "name": {
+        "local": "Umguza",
+        "en": "Umguza",
+        "slug": "umguza-zw1507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1507",
+        "level": 2,
+        "name": {
+          "local": "Umguza",
+          "en": "Umguza",
+          "slug": "umguza-zw1507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.825",
+      "lon": "28.289"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150716",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "16",
+      "en": "16",
+      "slug": "16-zw150716"
+    },
+    "code": {
+      "id": "ZW150716",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1507",
+      "level": 2,
+      "name": {
+        "local": "Umguza",
+        "en": "Umguza",
+        "slug": "umguza-zw1507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1507",
+        "level": 2,
+        "name": {
+          "local": "Umguza",
+          "en": "Umguza",
+          "slug": "umguza-zw1507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.18",
+      "lon": "28.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150717",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "17",
+      "en": "17",
+      "slug": "17-zw150717"
+    },
+    "code": {
+      "id": "ZW150717",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1507",
+      "level": 2,
+      "name": {
+        "local": "Umguza",
+        "en": "Umguza",
+        "slug": "umguza-zw1507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1507",
+        "level": 2,
+        "name": {
+          "local": "Umguza",
+          "en": "Umguza",
+          "slug": "umguza-zw1507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.644",
+      "lon": "28.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150718",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "18",
+      "en": "18",
+      "slug": "18-zw150718"
+    },
+    "code": {
+      "id": "ZW150718",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1507",
+      "level": 2,
+      "name": {
+        "local": "Umguza",
+        "en": "Umguza",
+        "slug": "umguza-zw1507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1507",
+        "level": 2,
+        "name": {
+          "local": "Umguza",
+          "en": "Umguza",
+          "slug": "umguza-zw1507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.626",
+      "lon": "27.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150719",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "19",
+      "en": "19",
+      "slug": "19-zw150719"
+    },
+    "code": {
+      "id": "ZW150719",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1507",
+      "level": 2,
+      "name": {
+        "local": "Umguza",
+        "en": "Umguza",
+        "slug": "umguza-zw1507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1507",
+        "level": 2,
+        "name": {
+          "local": "Umguza",
+          "en": "Umguza",
+          "slug": "umguza-zw1507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.885",
+      "lon": "28.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150702",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw150702"
+    },
+    "code": {
+      "id": "ZW150702",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1507",
+      "level": 2,
+      "name": {
+        "local": "Umguza",
+        "en": "Umguza",
+        "slug": "umguza-zw1507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1507",
+        "level": 2,
+        "name": {
+          "local": "Umguza",
+          "en": "Umguza",
+          "slug": "umguza-zw1507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.132",
+      "lon": "28.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150703",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw150703"
+    },
+    "code": {
+      "id": "ZW150703",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1507",
+      "level": 2,
+      "name": {
+        "local": "Umguza",
+        "en": "Umguza",
+        "slug": "umguza-zw1507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1507",
+        "level": 2,
+        "name": {
+          "local": "Umguza",
+          "en": "Umguza",
+          "slug": "umguza-zw1507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.969",
+      "lon": "28.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150704",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw150704"
+    },
+    "code": {
+      "id": "ZW150704",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1507",
+      "level": 2,
+      "name": {
+        "local": "Umguza",
+        "en": "Umguza",
+        "slug": "umguza-zw1507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1507",
+        "level": 2,
+        "name": {
+          "local": "Umguza",
+          "en": "Umguza",
+          "slug": "umguza-zw1507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.943",
+      "lon": "28.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150705",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw150705"
+    },
+    "code": {
+      "id": "ZW150705",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1507",
+      "level": 2,
+      "name": {
+        "local": "Umguza",
+        "en": "Umguza",
+        "slug": "umguza-zw1507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1507",
+        "level": 2,
+        "name": {
+          "local": "Umguza",
+          "en": "Umguza",
+          "slug": "umguza-zw1507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.009",
+      "lon": "28.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150706",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw150706"
+    },
+    "code": {
+      "id": "ZW150706",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1507",
+      "level": 2,
+      "name": {
+        "local": "Umguza",
+        "en": "Umguza",
+        "slug": "umguza-zw1507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1507",
+        "level": 2,
+        "name": {
+          "local": "Umguza",
+          "en": "Umguza",
+          "slug": "umguza-zw1507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.001",
+      "lon": "28.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150707",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw150707"
+    },
+    "code": {
+      "id": "ZW150707",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1507",
+      "level": 2,
+      "name": {
+        "local": "Umguza",
+        "en": "Umguza",
+        "slug": "umguza-zw1507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1507",
+        "level": 2,
+        "name": {
+          "local": "Umguza",
+          "en": "Umguza",
+          "slug": "umguza-zw1507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.044",
+      "lon": "28.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150708",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw150708"
+    },
+    "code": {
+      "id": "ZW150708",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1507",
+      "level": 2,
+      "name": {
+        "local": "Umguza",
+        "en": "Umguza",
+        "slug": "umguza-zw1507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1507",
+        "level": 2,
+        "name": {
+          "local": "Umguza",
+          "en": "Umguza",
+          "slug": "umguza-zw1507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.951",
+      "lon": "28.564"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150709",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw150709"
+    },
+    "code": {
+      "id": "ZW150709",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1507",
+      "level": 2,
+      "name": {
+        "local": "Umguza",
+        "en": "Umguza",
+        "slug": "umguza-zw1507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1507",
+        "level": 2,
+        "name": {
+          "local": "Umguza",
+          "en": "Umguza",
+          "slug": "umguza-zw1507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.815",
+      "lon": "28.445"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

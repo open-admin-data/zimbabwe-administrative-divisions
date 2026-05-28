@@ -1,0 +1,47 @@
+{
+  "id": "ZW1505",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Nkayi",
+    "en": "Nkayi",
+    "slug": "nkayi-zw1505"
+  },
+  "code": {
+    "id": "ZW1505",
+    "iso": null
+  },
+  "parent": {
+    "id": "ZW15",
+    "level": 1,
+    "name": {
+      "local": "Matabeleland North",
+      "en": "Matabeleland North",
+      "slug": "matabeleland-north-zw15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ZW15",
+      "level": 1,
+      "name": {
+        "local": "Matabeleland North",
+        "en": "Matabeleland North",
+        "slug": "matabeleland-north-zw15"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 30
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.923",
+    "lon": "28.614"
+  },
+  "metadata": {},
+  "source": {}
+}

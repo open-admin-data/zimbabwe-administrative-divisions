@@ -1,0 +1,47 @@
+{
+  "id": "ZW1309",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Uzumba Maramba Pfungwe",
+    "en": "Uzumba Maramba Pfungwe",
+    "slug": "uzumba-maramba-pfungwe-zw1309"
+  },
+  "code": {
+    "id": "ZW1309",
+    "iso": null
+  },
+  "parent": {
+    "id": "ZW13",
+    "level": 1,
+    "name": {
+      "local": "Mashonaland East",
+      "en": "Mashonaland East",
+      "slug": "mashonaland-east-zw13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ZW13",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland East",
+        "en": "Mashonaland East",
+        "slug": "mashonaland-east-zw13"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.097",
+    "lon": "31.965"
+  },
+  "metadata": {},
+  "source": {}
+}

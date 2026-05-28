@@ -1,0 +1,1352 @@
+[
+  {
+    "id": "ZW130201",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw130201"
+    },
+    "code": {
+      "id": "ZW130201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1302",
+      "level": 2,
+      "name": {
+        "local": "Goromonzi",
+        "en": "Goromonzi",
+        "slug": "goromonzi-zw1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1302",
+        "level": 2,
+        "name": {
+          "local": "Goromonzi",
+          "en": "Goromonzi",
+          "slug": "goromonzi-zw1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.509",
+      "lon": "31.152"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130210",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw130210"
+    },
+    "code": {
+      "id": "ZW130210",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1302",
+      "level": 2,
+      "name": {
+        "local": "Goromonzi",
+        "en": "Goromonzi",
+        "slug": "goromonzi-zw1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1302",
+        "level": 2,
+        "name": {
+          "local": "Goromonzi",
+          "en": "Goromonzi",
+          "slug": "goromonzi-zw1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.514",
+      "lon": "31.549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130211",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw130211"
+    },
+    "code": {
+      "id": "ZW130211",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1302",
+      "level": 2,
+      "name": {
+        "local": "Goromonzi",
+        "en": "Goromonzi",
+        "slug": "goromonzi-zw1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1302",
+        "level": 2,
+        "name": {
+          "local": "Goromonzi",
+          "en": "Goromonzi",
+          "slug": "goromonzi-zw1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.605",
+      "lon": "31.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130212",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw130212"
+    },
+    "code": {
+      "id": "ZW130212",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1302",
+      "level": 2,
+      "name": {
+        "local": "Goromonzi",
+        "en": "Goromonzi",
+        "slug": "goromonzi-zw1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1302",
+        "level": 2,
+        "name": {
+          "local": "Goromonzi",
+          "en": "Goromonzi",
+          "slug": "goromonzi-zw1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.729",
+      "lon": "31.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130213",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw130213"
+    },
+    "code": {
+      "id": "ZW130213",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1302",
+      "level": 2,
+      "name": {
+        "local": "Goromonzi",
+        "en": "Goromonzi",
+        "slug": "goromonzi-zw1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1302",
+        "level": 2,
+        "name": {
+          "local": "Goromonzi",
+          "en": "Goromonzi",
+          "slug": "goromonzi-zw1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.758",
+      "lon": "31.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130214",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw130214"
+    },
+    "code": {
+      "id": "ZW130214",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1302",
+      "level": 2,
+      "name": {
+        "local": "Goromonzi",
+        "en": "Goromonzi",
+        "slug": "goromonzi-zw1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1302",
+        "level": 2,
+        "name": {
+          "local": "Goromonzi",
+          "en": "Goromonzi",
+          "slug": "goromonzi-zw1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.764",
+      "lon": "31.308"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130215",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw130215"
+    },
+    "code": {
+      "id": "ZW130215",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1302",
+      "level": 2,
+      "name": {
+        "local": "Goromonzi",
+        "en": "Goromonzi",
+        "slug": "goromonzi-zw1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1302",
+        "level": 2,
+        "name": {
+          "local": "Goromonzi",
+          "en": "Goromonzi",
+          "slug": "goromonzi-zw1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.782",
+      "lon": "31.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130216",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "16",
+      "en": "16",
+      "slug": "16-zw130216"
+    },
+    "code": {
+      "id": "ZW130216",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1302",
+      "level": 2,
+      "name": {
+        "local": "Goromonzi",
+        "en": "Goromonzi",
+        "slug": "goromonzi-zw1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1302",
+        "level": 2,
+        "name": {
+          "local": "Goromonzi",
+          "en": "Goromonzi",
+          "slug": "goromonzi-zw1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.838",
+      "lon": "31.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130217",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "17",
+      "en": "17",
+      "slug": "17-zw130217"
+    },
+    "code": {
+      "id": "ZW130217",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1302",
+      "level": 2,
+      "name": {
+        "local": "Goromonzi",
+        "en": "Goromonzi",
+        "slug": "goromonzi-zw1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1302",
+        "level": 2,
+        "name": {
+          "local": "Goromonzi",
+          "en": "Goromonzi",
+          "slug": "goromonzi-zw1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.873",
+      "lon": "31.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130218",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "18",
+      "en": "18",
+      "slug": "18-zw130218"
+    },
+    "code": {
+      "id": "ZW130218",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1302",
+      "level": 2,
+      "name": {
+        "local": "Goromonzi",
+        "en": "Goromonzi",
+        "slug": "goromonzi-zw1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1302",
+        "level": 2,
+        "name": {
+          "local": "Goromonzi",
+          "en": "Goromonzi",
+          "slug": "goromonzi-zw1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.842",
+      "lon": "31.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130219",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "19",
+      "en": "19",
+      "slug": "19-zw130219"
+    },
+    "code": {
+      "id": "ZW130219",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1302",
+      "level": 2,
+      "name": {
+        "local": "Goromonzi",
+        "en": "Goromonzi",
+        "slug": "goromonzi-zw1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1302",
+        "level": 2,
+        "name": {
+          "local": "Goromonzi",
+          "en": "Goromonzi",
+          "slug": "goromonzi-zw1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.924",
+      "lon": "31.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130202",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw130202"
+    },
+    "code": {
+      "id": "ZW130202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1302",
+      "level": 2,
+      "name": {
+        "local": "Goromonzi",
+        "en": "Goromonzi",
+        "slug": "goromonzi-zw1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1302",
+        "level": 2,
+        "name": {
+          "local": "Goromonzi",
+          "en": "Goromonzi",
+          "slug": "goromonzi-zw1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.524",
+      "lon": "31.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130220",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "20",
+      "en": "20",
+      "slug": "20-zw130220"
+    },
+    "code": {
+      "id": "ZW130220",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1302",
+      "level": 2,
+      "name": {
+        "local": "Goromonzi",
+        "en": "Goromonzi",
+        "slug": "goromonzi-zw1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1302",
+        "level": 2,
+        "name": {
+          "local": "Goromonzi",
+          "en": "Goromonzi",
+          "slug": "goromonzi-zw1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.97",
+      "lon": "31.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130221",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "21",
+      "en": "21",
+      "slug": "21-zw130221"
+    },
+    "code": {
+      "id": "ZW130221",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1302",
+      "level": 2,
+      "name": {
+        "local": "Goromonzi",
+        "en": "Goromonzi",
+        "slug": "goromonzi-zw1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1302",
+        "level": 2,
+        "name": {
+          "local": "Goromonzi",
+          "en": "Goromonzi",
+          "slug": "goromonzi-zw1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.051",
+      "lon": "31.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130222",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "22",
+      "en": "22",
+      "slug": "22-zw130222"
+    },
+    "code": {
+      "id": "ZW130222",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1302",
+      "level": 2,
+      "name": {
+        "local": "Goromonzi",
+        "en": "Goromonzi",
+        "slug": "goromonzi-zw1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1302",
+        "level": 2,
+        "name": {
+          "local": "Goromonzi",
+          "en": "Goromonzi",
+          "slug": "goromonzi-zw1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.047",
+      "lon": "31.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130223",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "23",
+      "en": "23",
+      "slug": "23-zw130223"
+    },
+    "code": {
+      "id": "ZW130223",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1302",
+      "level": 2,
+      "name": {
+        "local": "Goromonzi",
+        "en": "Goromonzi",
+        "slug": "goromonzi-zw1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1302",
+        "level": 2,
+        "name": {
+          "local": "Goromonzi",
+          "en": "Goromonzi",
+          "slug": "goromonzi-zw1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.974",
+      "lon": "31.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130224",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "24",
+      "en": "24",
+      "slug": "24-zw130224"
+    },
+    "code": {
+      "id": "ZW130224",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1302",
+      "level": 2,
+      "name": {
+        "local": "Goromonzi",
+        "en": "Goromonzi",
+        "slug": "goromonzi-zw1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1302",
+        "level": 2,
+        "name": {
+          "local": "Goromonzi",
+          "en": "Goromonzi",
+          "slug": "goromonzi-zw1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.94",
+      "lon": "31.229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130225",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "25",
+      "en": "25",
+      "slug": "25-zw130225"
+    },
+    "code": {
+      "id": "ZW130225",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1302",
+      "level": 2,
+      "name": {
+        "local": "Goromonzi",
+        "en": "Goromonzi",
+        "slug": "goromonzi-zw1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1302",
+        "level": 2,
+        "name": {
+          "local": "Goromonzi",
+          "en": "Goromonzi",
+          "slug": "goromonzi-zw1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.878",
+      "lon": "31.288"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130203",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw130203"
+    },
+    "code": {
+      "id": "ZW130203",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1302",
+      "level": 2,
+      "name": {
+        "local": "Goromonzi",
+        "en": "Goromonzi",
+        "slug": "goromonzi-zw1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1302",
+        "level": 2,
+        "name": {
+          "local": "Goromonzi",
+          "en": "Goromonzi",
+          "slug": "goromonzi-zw1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.6",
+      "lon": "31.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130204",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw130204"
+    },
+    "code": {
+      "id": "ZW130204",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1302",
+      "level": 2,
+      "name": {
+        "local": "Goromonzi",
+        "en": "Goromonzi",
+        "slug": "goromonzi-zw1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1302",
+        "level": 2,
+        "name": {
+          "local": "Goromonzi",
+          "en": "Goromonzi",
+          "slug": "goromonzi-zw1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.59",
+      "lon": "31.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130205",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw130205"
+    },
+    "code": {
+      "id": "ZW130205",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1302",
+      "level": 2,
+      "name": {
+        "local": "Goromonzi",
+        "en": "Goromonzi",
+        "slug": "goromonzi-zw1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1302",
+        "level": 2,
+        "name": {
+          "local": "Goromonzi",
+          "en": "Goromonzi",
+          "slug": "goromonzi-zw1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.561",
+      "lon": "31.101"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130206",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw130206"
+    },
+    "code": {
+      "id": "ZW130206",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1302",
+      "level": 2,
+      "name": {
+        "local": "Goromonzi",
+        "en": "Goromonzi",
+        "slug": "goromonzi-zw1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1302",
+        "level": 2,
+        "name": {
+          "local": "Goromonzi",
+          "en": "Goromonzi",
+          "slug": "goromonzi-zw1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.623",
+      "lon": "31.082"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130207",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw130207"
+    },
+    "code": {
+      "id": "ZW130207",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1302",
+      "level": 2,
+      "name": {
+        "local": "Goromonzi",
+        "en": "Goromonzi",
+        "slug": "goromonzi-zw1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1302",
+        "level": 2,
+        "name": {
+          "local": "Goromonzi",
+          "en": "Goromonzi",
+          "slug": "goromonzi-zw1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.676",
+      "lon": "31.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130208",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw130208"
+    },
+    "code": {
+      "id": "ZW130208",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1302",
+      "level": 2,
+      "name": {
+        "local": "Goromonzi",
+        "en": "Goromonzi",
+        "slug": "goromonzi-zw1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1302",
+        "level": 2,
+        "name": {
+          "local": "Goromonzi",
+          "en": "Goromonzi",
+          "slug": "goromonzi-zw1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.683",
+      "lon": "31.334"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130209",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw130209"
+    },
+    "code": {
+      "id": "ZW130209",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1302",
+      "level": 2,
+      "name": {
+        "local": "Goromonzi",
+        "en": "Goromonzi",
+        "slug": "goromonzi-zw1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1302",
+        "level": 2,
+        "name": {
+          "local": "Goromonzi",
+          "en": "Goromonzi",
+          "slug": "goromonzi-zw1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.65",
+      "lon": "31.412"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

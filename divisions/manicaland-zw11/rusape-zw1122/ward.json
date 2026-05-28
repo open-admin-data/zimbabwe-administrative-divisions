@@ -1,0 +1,542 @@
+[
+  {
+    "id": "ZW112201",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw112201"
+    },
+    "code": {
+      "id": "ZW112201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1122",
+      "level": 2,
+      "name": {
+        "local": "Rusape",
+        "en": "Rusape",
+        "slug": "rusape-zw1122"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1122",
+        "level": 2,
+        "name": {
+          "local": "Rusape",
+          "en": "Rusape",
+          "slug": "rusape-zw1122"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.547",
+      "lon": "32.125"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW112210",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw112210"
+    },
+    "code": {
+      "id": "ZW112210",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1122",
+      "level": 2,
+      "name": {
+        "local": "Rusape",
+        "en": "Rusape",
+        "slug": "rusape-zw1122"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1122",
+        "level": 2,
+        "name": {
+          "local": "Rusape",
+          "en": "Rusape",
+          "slug": "rusape-zw1122"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.523",
+      "lon": "32.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW112202",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw112202"
+    },
+    "code": {
+      "id": "ZW112202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1122",
+      "level": 2,
+      "name": {
+        "local": "Rusape",
+        "en": "Rusape",
+        "slug": "rusape-zw1122"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1122",
+        "level": 2,
+        "name": {
+          "local": "Rusape",
+          "en": "Rusape",
+          "slug": "rusape-zw1122"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.539",
+      "lon": "32.118"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW112203",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw112203"
+    },
+    "code": {
+      "id": "ZW112203",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1122",
+      "level": 2,
+      "name": {
+        "local": "Rusape",
+        "en": "Rusape",
+        "slug": "rusape-zw1122"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1122",
+        "level": 2,
+        "name": {
+          "local": "Rusape",
+          "en": "Rusape",
+          "slug": "rusape-zw1122"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.541",
+      "lon": "32.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW112204",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw112204"
+    },
+    "code": {
+      "id": "ZW112204",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1122",
+      "level": 2,
+      "name": {
+        "local": "Rusape",
+        "en": "Rusape",
+        "slug": "rusape-zw1122"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1122",
+        "level": 2,
+        "name": {
+          "local": "Rusape",
+          "en": "Rusape",
+          "slug": "rusape-zw1122"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.543",
+      "lon": "32.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW112205",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw112205"
+    },
+    "code": {
+      "id": "ZW112205",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1122",
+      "level": 2,
+      "name": {
+        "local": "Rusape",
+        "en": "Rusape",
+        "slug": "rusape-zw1122"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1122",
+        "level": 2,
+        "name": {
+          "local": "Rusape",
+          "en": "Rusape",
+          "slug": "rusape-zw1122"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.552",
+      "lon": "32.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW112206",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw112206"
+    },
+    "code": {
+      "id": "ZW112206",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1122",
+      "level": 2,
+      "name": {
+        "local": "Rusape",
+        "en": "Rusape",
+        "slug": "rusape-zw1122"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1122",
+        "level": 2,
+        "name": {
+          "local": "Rusape",
+          "en": "Rusape",
+          "slug": "rusape-zw1122"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.552",
+      "lon": "32.12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW112207",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw112207"
+    },
+    "code": {
+      "id": "ZW112207",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1122",
+      "level": 2,
+      "name": {
+        "local": "Rusape",
+        "en": "Rusape",
+        "slug": "rusape-zw1122"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1122",
+        "level": 2,
+        "name": {
+          "local": "Rusape",
+          "en": "Rusape",
+          "slug": "rusape-zw1122"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.538",
+      "lon": "32.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW112208",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw112208"
+    },
+    "code": {
+      "id": "ZW112208",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1122",
+      "level": 2,
+      "name": {
+        "local": "Rusape",
+        "en": "Rusape",
+        "slug": "rusape-zw1122"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1122",
+        "level": 2,
+        "name": {
+          "local": "Rusape",
+          "en": "Rusape",
+          "slug": "rusape-zw1122"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.54",
+      "lon": "32.136"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW112209",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw112209"
+    },
+    "code": {
+      "id": "ZW112209",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1122",
+      "level": 2,
+      "name": {
+        "local": "Rusape",
+        "en": "Rusape",
+        "slug": "rusape-zw1122"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1122",
+        "level": 2,
+        "name": {
+          "local": "Rusape",
+          "en": "Rusape",
+          "slug": "rusape-zw1122"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.545",
+      "lon": "32.146"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

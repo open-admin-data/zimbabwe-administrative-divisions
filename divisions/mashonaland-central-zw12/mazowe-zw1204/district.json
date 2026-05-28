@@ -1,0 +1,47 @@
+{
+  "id": "ZW1204",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mazowe",
+    "en": "Mazowe",
+    "slug": "mazowe-zw1204"
+  },
+  "code": {
+    "id": "ZW1204",
+    "iso": null
+  },
+  "parent": {
+    "id": "ZW12",
+    "level": 1,
+    "name": {
+      "local": "Mashonaland Central",
+      "en": "Mashonaland Central",
+      "slug": "mashonaland-central-zw12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ZW12",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland Central",
+        "en": "Mashonaland Central",
+        "slug": "mashonaland-central-zw12"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 34
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.259",
+    "lon": "30.901"
+  },
+  "metadata": {},
+  "source": {}
+}

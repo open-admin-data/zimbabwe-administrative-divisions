@@ -1,0 +1,1784 @@
+[
+  {
+    "id": "ZW170501",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw170501"
+    },
+    "code": {
+      "id": "ZW170501",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1705",
+      "level": 2,
+      "name": {
+        "local": "Kwekwe",
+        "en": "Kwekwe",
+        "slug": "kwekwe-zw1705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1705",
+        "level": 2,
+        "name": {
+          "local": "Kwekwe",
+          "en": "Kwekwe",
+          "slug": "kwekwe-zw1705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.815",
+      "lon": "30.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170510",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw170510"
+    },
+    "code": {
+      "id": "ZW170510",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1705",
+      "level": 2,
+      "name": {
+        "local": "Kwekwe",
+        "en": "Kwekwe",
+        "slug": "kwekwe-zw1705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1705",
+        "level": 2,
+        "name": {
+          "local": "Kwekwe",
+          "en": "Kwekwe",
+          "slug": "kwekwe-zw1705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.695",
+      "lon": "29.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170511",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw170511"
+    },
+    "code": {
+      "id": "ZW170511",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1705",
+      "level": 2,
+      "name": {
+        "local": "Kwekwe",
+        "en": "Kwekwe",
+        "slug": "kwekwe-zw1705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1705",
+        "level": 2,
+        "name": {
+          "local": "Kwekwe",
+          "en": "Kwekwe",
+          "slug": "kwekwe-zw1705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.75",
+      "lon": "29.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170512",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw170512"
+    },
+    "code": {
+      "id": "ZW170512",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1705",
+      "level": 2,
+      "name": {
+        "local": "Kwekwe",
+        "en": "Kwekwe",
+        "slug": "kwekwe-zw1705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1705",
+        "level": 2,
+        "name": {
+          "local": "Kwekwe",
+          "en": "Kwekwe",
+          "slug": "kwekwe-zw1705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.624",
+      "lon": "29.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170513",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw170513"
+    },
+    "code": {
+      "id": "ZW170513",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1705",
+      "level": 2,
+      "name": {
+        "local": "Kwekwe",
+        "en": "Kwekwe",
+        "slug": "kwekwe-zw1705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1705",
+        "level": 2,
+        "name": {
+          "local": "Kwekwe",
+          "en": "Kwekwe",
+          "slug": "kwekwe-zw1705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.694",
+      "lon": "29.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170514",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw170514"
+    },
+    "code": {
+      "id": "ZW170514",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1705",
+      "level": 2,
+      "name": {
+        "local": "Kwekwe",
+        "en": "Kwekwe",
+        "slug": "kwekwe-zw1705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1705",
+        "level": 2,
+        "name": {
+          "local": "Kwekwe",
+          "en": "Kwekwe",
+          "slug": "kwekwe-zw1705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.838",
+      "lon": "29.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170515",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw170515"
+    },
+    "code": {
+      "id": "ZW170515",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1705",
+      "level": 2,
+      "name": {
+        "local": "Kwekwe",
+        "en": "Kwekwe",
+        "slug": "kwekwe-zw1705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1705",
+        "level": 2,
+        "name": {
+          "local": "Kwekwe",
+          "en": "Kwekwe",
+          "slug": "kwekwe-zw1705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.838",
+      "lon": "29.216"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170516",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "16",
+      "en": "16",
+      "slug": "16-zw170516"
+    },
+    "code": {
+      "id": "ZW170516",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1705",
+      "level": 2,
+      "name": {
+        "local": "Kwekwe",
+        "en": "Kwekwe",
+        "slug": "kwekwe-zw1705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1705",
+        "level": 2,
+        "name": {
+          "local": "Kwekwe",
+          "en": "Kwekwe",
+          "slug": "kwekwe-zw1705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.659",
+      "lon": "29.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170517",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "17",
+      "en": "17",
+      "slug": "17-zw170517"
+    },
+    "code": {
+      "id": "ZW170517",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1705",
+      "level": 2,
+      "name": {
+        "local": "Kwekwe",
+        "en": "Kwekwe",
+        "slug": "kwekwe-zw1705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1705",
+        "level": 2,
+        "name": {
+          "local": "Kwekwe",
+          "en": "Kwekwe",
+          "slug": "kwekwe-zw1705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.745",
+      "lon": "29.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170518",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "18",
+      "en": "18",
+      "slug": "18-zw170518"
+    },
+    "code": {
+      "id": "ZW170518",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1705",
+      "level": 2,
+      "name": {
+        "local": "Kwekwe",
+        "en": "Kwekwe",
+        "slug": "kwekwe-zw1705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1705",
+        "level": 2,
+        "name": {
+          "local": "Kwekwe",
+          "en": "Kwekwe",
+          "slug": "kwekwe-zw1705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.839",
+      "lon": "29.002"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170519",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "19",
+      "en": "19",
+      "slug": "19-zw170519"
+    },
+    "code": {
+      "id": "ZW170519",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1705",
+      "level": 2,
+      "name": {
+        "local": "Kwekwe",
+        "en": "Kwekwe",
+        "slug": "kwekwe-zw1705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1705",
+        "level": 2,
+        "name": {
+          "local": "Kwekwe",
+          "en": "Kwekwe",
+          "slug": "kwekwe-zw1705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.846",
+      "lon": "29.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170502",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw170502"
+    },
+    "code": {
+      "id": "ZW170502",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1705",
+      "level": 2,
+      "name": {
+        "local": "Kwekwe",
+        "en": "Kwekwe",
+        "slug": "kwekwe-zw1705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1705",
+        "level": 2,
+        "name": {
+          "local": "Kwekwe",
+          "en": "Kwekwe",
+          "slug": "kwekwe-zw1705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.925",
+      "lon": "30.261"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170520",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "20",
+      "en": "20",
+      "slug": "20-zw170520"
+    },
+    "code": {
+      "id": "ZW170520",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1705",
+      "level": 2,
+      "name": {
+        "local": "Kwekwe",
+        "en": "Kwekwe",
+        "slug": "kwekwe-zw1705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1705",
+        "level": 2,
+        "name": {
+          "local": "Kwekwe",
+          "en": "Kwekwe",
+          "slug": "kwekwe-zw1705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.916",
+      "lon": "29.104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170521",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "21",
+      "en": "21",
+      "slug": "21-zw170521"
+    },
+    "code": {
+      "id": "ZW170521",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1705",
+      "level": 2,
+      "name": {
+        "local": "Kwekwe",
+        "en": "Kwekwe",
+        "slug": "kwekwe-zw1705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1705",
+        "level": 2,
+        "name": {
+          "local": "Kwekwe",
+          "en": "Kwekwe",
+          "slug": "kwekwe-zw1705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.979",
+      "lon": "29.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170522",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "22",
+      "en": "22",
+      "slug": "22-zw170522"
+    },
+    "code": {
+      "id": "ZW170522",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1705",
+      "level": 2,
+      "name": {
+        "local": "Kwekwe",
+        "en": "Kwekwe",
+        "slug": "kwekwe-zw1705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1705",
+        "level": 2,
+        "name": {
+          "local": "Kwekwe",
+          "en": "Kwekwe",
+          "slug": "kwekwe-zw1705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.063",
+      "lon": "29.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170523",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "23",
+      "en": "23",
+      "slug": "23-zw170523"
+    },
+    "code": {
+      "id": "ZW170523",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1705",
+      "level": 2,
+      "name": {
+        "local": "Kwekwe",
+        "en": "Kwekwe",
+        "slug": "kwekwe-zw1705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1705",
+        "level": 2,
+        "name": {
+          "local": "Kwekwe",
+          "en": "Kwekwe",
+          "slug": "kwekwe-zw1705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.106",
+      "lon": "29.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170524",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "24",
+      "en": "24",
+      "slug": "24-zw170524"
+    },
+    "code": {
+      "id": "ZW170524",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1705",
+      "level": 2,
+      "name": {
+        "local": "Kwekwe",
+        "en": "Kwekwe",
+        "slug": "kwekwe-zw1705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1705",
+        "level": 2,
+        "name": {
+          "local": "Kwekwe",
+          "en": "Kwekwe",
+          "slug": "kwekwe-zw1705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.22",
+      "lon": "29.131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170525",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "25",
+      "en": "25",
+      "slug": "25-zw170525"
+    },
+    "code": {
+      "id": "ZW170525",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1705",
+      "level": 2,
+      "name": {
+        "local": "Kwekwe",
+        "en": "Kwekwe",
+        "slug": "kwekwe-zw1705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1705",
+        "level": 2,
+        "name": {
+          "local": "Kwekwe",
+          "en": "Kwekwe",
+          "slug": "kwekwe-zw1705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.127",
+      "lon": "29.124"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170526",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "26",
+      "en": "26",
+      "slug": "26-zw170526"
+    },
+    "code": {
+      "id": "ZW170526",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1705",
+      "level": 2,
+      "name": {
+        "local": "Kwekwe",
+        "en": "Kwekwe",
+        "slug": "kwekwe-zw1705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1705",
+        "level": 2,
+        "name": {
+          "local": "Kwekwe",
+          "en": "Kwekwe",
+          "slug": "kwekwe-zw1705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.985",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170527",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "27",
+      "en": "27",
+      "slug": "27-zw170527"
+    },
+    "code": {
+      "id": "ZW170527",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1705",
+      "level": 2,
+      "name": {
+        "local": "Kwekwe",
+        "en": "Kwekwe",
+        "slug": "kwekwe-zw1705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1705",
+        "level": 2,
+        "name": {
+          "local": "Kwekwe",
+          "en": "Kwekwe",
+          "slug": "kwekwe-zw1705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.011",
+      "lon": "29.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170528",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "28",
+      "en": "28",
+      "slug": "28-zw170528"
+    },
+    "code": {
+      "id": "ZW170528",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1705",
+      "level": 2,
+      "name": {
+        "local": "Kwekwe",
+        "en": "Kwekwe",
+        "slug": "kwekwe-zw1705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1705",
+        "level": 2,
+        "name": {
+          "local": "Kwekwe",
+          "en": "Kwekwe",
+          "slug": "kwekwe-zw1705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.958",
+      "lon": "29.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170529",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "29",
+      "en": "29",
+      "slug": "29-zw170529"
+    },
+    "code": {
+      "id": "ZW170529",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1705",
+      "level": 2,
+      "name": {
+        "local": "Kwekwe",
+        "en": "Kwekwe",
+        "slug": "kwekwe-zw1705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1705",
+        "level": 2,
+        "name": {
+          "local": "Kwekwe",
+          "en": "Kwekwe",
+          "slug": "kwekwe-zw1705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.788",
+      "lon": "28.929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170503",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw170503"
+    },
+    "code": {
+      "id": "ZW170503",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1705",
+      "level": 2,
+      "name": {
+        "local": "Kwekwe",
+        "en": "Kwekwe",
+        "slug": "kwekwe-zw1705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1705",
+        "level": 2,
+        "name": {
+          "local": "Kwekwe",
+          "en": "Kwekwe",
+          "slug": "kwekwe-zw1705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.048",
+      "lon": "29.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170530",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "30",
+      "en": "30",
+      "slug": "30-zw170530"
+    },
+    "code": {
+      "id": "ZW170530",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1705",
+      "level": 2,
+      "name": {
+        "local": "Kwekwe",
+        "en": "Kwekwe",
+        "slug": "kwekwe-zw1705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1705",
+        "level": 2,
+        "name": {
+          "local": "Kwekwe",
+          "en": "Kwekwe",
+          "slug": "kwekwe-zw1705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.026",
+      "lon": "29.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170531",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "31",
+      "en": "31",
+      "slug": "31-zw170531"
+    },
+    "code": {
+      "id": "ZW170531",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1705",
+      "level": 2,
+      "name": {
+        "local": "Kwekwe",
+        "en": "Kwekwe",
+        "slug": "kwekwe-zw1705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1705",
+        "level": 2,
+        "name": {
+          "local": "Kwekwe",
+          "en": "Kwekwe",
+          "slug": "kwekwe-zw1705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.755",
+      "lon": "29.788"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170532",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "32",
+      "en": "32",
+      "slug": "32-zw170532"
+    },
+    "code": {
+      "id": "ZW170532",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1705",
+      "level": 2,
+      "name": {
+        "local": "Kwekwe",
+        "en": "Kwekwe",
+        "slug": "kwekwe-zw1705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1705",
+        "level": 2,
+        "name": {
+          "local": "Kwekwe",
+          "en": "Kwekwe",
+          "slug": "kwekwe-zw1705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.622",
+      "lon": "29.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170533",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "33",
+      "en": "33",
+      "slug": "33-zw170533"
+    },
+    "code": {
+      "id": "ZW170533",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1705",
+      "level": 2,
+      "name": {
+        "local": "Kwekwe",
+        "en": "Kwekwe",
+        "slug": "kwekwe-zw1705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1705",
+        "level": 2,
+        "name": {
+          "local": "Kwekwe",
+          "en": "Kwekwe",
+          "slug": "kwekwe-zw1705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.923",
+      "lon": "28.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170504",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw170504"
+    },
+    "code": {
+      "id": "ZW170504",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1705",
+      "level": 2,
+      "name": {
+        "local": "Kwekwe",
+        "en": "Kwekwe",
+        "slug": "kwekwe-zw1705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1705",
+        "level": 2,
+        "name": {
+          "local": "Kwekwe",
+          "en": "Kwekwe",
+          "slug": "kwekwe-zw1705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.892",
+      "lon": "29.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170505",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw170505"
+    },
+    "code": {
+      "id": "ZW170505",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1705",
+      "level": 2,
+      "name": {
+        "local": "Kwekwe",
+        "en": "Kwekwe",
+        "slug": "kwekwe-zw1705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1705",
+        "level": 2,
+        "name": {
+          "local": "Kwekwe",
+          "en": "Kwekwe",
+          "slug": "kwekwe-zw1705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.683",
+      "lon": "29.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170506",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw170506"
+    },
+    "code": {
+      "id": "ZW170506",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1705",
+      "level": 2,
+      "name": {
+        "local": "Kwekwe",
+        "en": "Kwekwe",
+        "slug": "kwekwe-zw1705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1705",
+        "level": 2,
+        "name": {
+          "local": "Kwekwe",
+          "en": "Kwekwe",
+          "slug": "kwekwe-zw1705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.359",
+      "lon": "29.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170507",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw170507"
+    },
+    "code": {
+      "id": "ZW170507",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1705",
+      "level": 2,
+      "name": {
+        "local": "Kwekwe",
+        "en": "Kwekwe",
+        "slug": "kwekwe-zw1705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1705",
+        "level": 2,
+        "name": {
+          "local": "Kwekwe",
+          "en": "Kwekwe",
+          "slug": "kwekwe-zw1705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.386",
+      "lon": "29.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170508",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw170508"
+    },
+    "code": {
+      "id": "ZW170508",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1705",
+      "level": 2,
+      "name": {
+        "local": "Kwekwe",
+        "en": "Kwekwe",
+        "slug": "kwekwe-zw1705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1705",
+        "level": 2,
+        "name": {
+          "local": "Kwekwe",
+          "en": "Kwekwe",
+          "slug": "kwekwe-zw1705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.503",
+      "lon": "29.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170509",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw170509"
+    },
+    "code": {
+      "id": "ZW170509",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1705",
+      "level": 2,
+      "name": {
+        "local": "Kwekwe",
+        "en": "Kwekwe",
+        "slug": "kwekwe-zw1705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1705",
+        "level": 2,
+        "name": {
+          "local": "Kwekwe",
+          "en": "Kwekwe",
+          "slug": "kwekwe-zw1705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.575",
+      "lon": "29.454"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

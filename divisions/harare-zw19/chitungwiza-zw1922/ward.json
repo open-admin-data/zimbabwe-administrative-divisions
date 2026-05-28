@@ -1,0 +1,1352 @@
+[
+  {
+    "id": "ZW192201",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw192201"
+    },
+    "code": {
+      "id": "ZW192201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1922",
+      "level": 2,
+      "name": {
+        "local": "Chitungwiza",
+        "en": "Chitungwiza",
+        "slug": "chitungwiza-zw1922"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1922",
+        "level": 2,
+        "name": {
+          "local": "Chitungwiza",
+          "en": "Chitungwiza",
+          "slug": "chitungwiza-zw1922"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.986",
+      "lon": "31.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192210",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw192210"
+    },
+    "code": {
+      "id": "ZW192210",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1922",
+      "level": 2,
+      "name": {
+        "local": "Chitungwiza",
+        "en": "Chitungwiza",
+        "slug": "chitungwiza-zw1922"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1922",
+        "level": 2,
+        "name": {
+          "local": "Chitungwiza",
+          "en": "Chitungwiza",
+          "slug": "chitungwiza-zw1922"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.996",
+      "lon": "31.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192211",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw192211"
+    },
+    "code": {
+      "id": "ZW192211",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1922",
+      "level": 2,
+      "name": {
+        "local": "Chitungwiza",
+        "en": "Chitungwiza",
+        "slug": "chitungwiza-zw1922"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1922",
+        "level": 2,
+        "name": {
+          "local": "Chitungwiza",
+          "en": "Chitungwiza",
+          "slug": "chitungwiza-zw1922"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.01",
+      "lon": "31.055"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192212",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw192212"
+    },
+    "code": {
+      "id": "ZW192212",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1922",
+      "level": 2,
+      "name": {
+        "local": "Chitungwiza",
+        "en": "Chitungwiza",
+        "slug": "chitungwiza-zw1922"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1922",
+        "level": 2,
+        "name": {
+          "local": "Chitungwiza",
+          "en": "Chitungwiza",
+          "slug": "chitungwiza-zw1922"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.023",
+      "lon": "31.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192213",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw192213"
+    },
+    "code": {
+      "id": "ZW192213",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1922",
+      "level": 2,
+      "name": {
+        "local": "Chitungwiza",
+        "en": "Chitungwiza",
+        "slug": "chitungwiza-zw1922"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1922",
+        "level": 2,
+        "name": {
+          "local": "Chitungwiza",
+          "en": "Chitungwiza",
+          "slug": "chitungwiza-zw1922"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.016",
+      "lon": "31.065"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192214",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw192214"
+    },
+    "code": {
+      "id": "ZW192214",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1922",
+      "level": 2,
+      "name": {
+        "local": "Chitungwiza",
+        "en": "Chitungwiza",
+        "slug": "chitungwiza-zw1922"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1922",
+        "level": 2,
+        "name": {
+          "local": "Chitungwiza",
+          "en": "Chitungwiza",
+          "slug": "chitungwiza-zw1922"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.005",
+      "lon": "31.068"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192215",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw192215"
+    },
+    "code": {
+      "id": "ZW192215",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1922",
+      "level": 2,
+      "name": {
+        "local": "Chitungwiza",
+        "en": "Chitungwiza",
+        "slug": "chitungwiza-zw1922"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1922",
+        "level": 2,
+        "name": {
+          "local": "Chitungwiza",
+          "en": "Chitungwiza",
+          "slug": "chitungwiza-zw1922"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.011",
+      "lon": "31.079"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192216",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "16",
+      "en": "16",
+      "slug": "16-zw192216"
+    },
+    "code": {
+      "id": "ZW192216",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1922",
+      "level": 2,
+      "name": {
+        "local": "Chitungwiza",
+        "en": "Chitungwiza",
+        "slug": "chitungwiza-zw1922"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1922",
+        "level": 2,
+        "name": {
+          "local": "Chitungwiza",
+          "en": "Chitungwiza",
+          "slug": "chitungwiza-zw1922"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.022",
+      "lon": "31.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192217",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "17",
+      "en": "17",
+      "slug": "17-zw192217"
+    },
+    "code": {
+      "id": "ZW192217",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1922",
+      "level": 2,
+      "name": {
+        "local": "Chitungwiza",
+        "en": "Chitungwiza",
+        "slug": "chitungwiza-zw1922"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1922",
+        "level": 2,
+        "name": {
+          "local": "Chitungwiza",
+          "en": "Chitungwiza",
+          "slug": "chitungwiza-zw1922"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.027",
+      "lon": "31.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192218",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "18",
+      "en": "18",
+      "slug": "18-zw192218"
+    },
+    "code": {
+      "id": "ZW192218",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1922",
+      "level": 2,
+      "name": {
+        "local": "Chitungwiza",
+        "en": "Chitungwiza",
+        "slug": "chitungwiza-zw1922"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1922",
+        "level": 2,
+        "name": {
+          "local": "Chitungwiza",
+          "en": "Chitungwiza",
+          "slug": "chitungwiza-zw1922"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.04",
+      "lon": "31.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192219",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "19",
+      "en": "19",
+      "slug": "19-zw192219"
+    },
+    "code": {
+      "id": "ZW192219",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1922",
+      "level": 2,
+      "name": {
+        "local": "Chitungwiza",
+        "en": "Chitungwiza",
+        "slug": "chitungwiza-zw1922"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1922",
+        "level": 2,
+        "name": {
+          "local": "Chitungwiza",
+          "en": "Chitungwiza",
+          "slug": "chitungwiza-zw1922"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.02",
+      "lon": "31.095"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192202",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw192202"
+    },
+    "code": {
+      "id": "ZW192202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1922",
+      "level": 2,
+      "name": {
+        "local": "Chitungwiza",
+        "en": "Chitungwiza",
+        "slug": "chitungwiza-zw1922"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1922",
+        "level": 2,
+        "name": {
+          "local": "Chitungwiza",
+          "en": "Chitungwiza",
+          "slug": "chitungwiza-zw1922"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.992",
+      "lon": "31.049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192220",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "20",
+      "en": "20",
+      "slug": "20-zw192220"
+    },
+    "code": {
+      "id": "ZW192220",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1922",
+      "level": 2,
+      "name": {
+        "local": "Chitungwiza",
+        "en": "Chitungwiza",
+        "slug": "chitungwiza-zw1922"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1922",
+        "level": 2,
+        "name": {
+          "local": "Chitungwiza",
+          "en": "Chitungwiza",
+          "slug": "chitungwiza-zw1922"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.007",
+      "lon": "31.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192221",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "21",
+      "en": "21",
+      "slug": "21-zw192221"
+    },
+    "code": {
+      "id": "ZW192221",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1922",
+      "level": 2,
+      "name": {
+        "local": "Chitungwiza",
+        "en": "Chitungwiza",
+        "slug": "chitungwiza-zw1922"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1922",
+        "level": 2,
+        "name": {
+          "local": "Chitungwiza",
+          "en": "Chitungwiza",
+          "slug": "chitungwiza-zw1922"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.01",
+      "lon": "31.096"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192222",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "22",
+      "en": "22",
+      "slug": "22-zw192222"
+    },
+    "code": {
+      "id": "ZW192222",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1922",
+      "level": 2,
+      "name": {
+        "local": "Chitungwiza",
+        "en": "Chitungwiza",
+        "slug": "chitungwiza-zw1922"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1922",
+        "level": 2,
+        "name": {
+          "local": "Chitungwiza",
+          "en": "Chitungwiza",
+          "slug": "chitungwiza-zw1922"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.027",
+      "lon": "31.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192223",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "23",
+      "en": "23",
+      "slug": "23-zw192223"
+    },
+    "code": {
+      "id": "ZW192223",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1922",
+      "level": 2,
+      "name": {
+        "local": "Chitungwiza",
+        "en": "Chitungwiza",
+        "slug": "chitungwiza-zw1922"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1922",
+        "level": 2,
+        "name": {
+          "local": "Chitungwiza",
+          "en": "Chitungwiza",
+          "slug": "chitungwiza-zw1922"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.027",
+      "lon": "31.099"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192224",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "24",
+      "en": "24",
+      "slug": "24-zw192224"
+    },
+    "code": {
+      "id": "ZW192224",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1922",
+      "level": 2,
+      "name": {
+        "local": "Chitungwiza",
+        "en": "Chitungwiza",
+        "slug": "chitungwiza-zw1922"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1922",
+        "level": 2,
+        "name": {
+          "local": "Chitungwiza",
+          "en": "Chitungwiza",
+          "slug": "chitungwiza-zw1922"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.032",
+      "lon": "31.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192225",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "25",
+      "en": "25",
+      "slug": "25-zw192225"
+    },
+    "code": {
+      "id": "ZW192225",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1922",
+      "level": 2,
+      "name": {
+        "local": "Chitungwiza",
+        "en": "Chitungwiza",
+        "slug": "chitungwiza-zw1922"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1922",
+        "level": 2,
+        "name": {
+          "local": "Chitungwiza",
+          "en": "Chitungwiza",
+          "slug": "chitungwiza-zw1922"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.017",
+      "lon": "31.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192203",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw192203"
+    },
+    "code": {
+      "id": "ZW192203",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1922",
+      "level": 2,
+      "name": {
+        "local": "Chitungwiza",
+        "en": "Chitungwiza",
+        "slug": "chitungwiza-zw1922"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1922",
+        "level": 2,
+        "name": {
+          "local": "Chitungwiza",
+          "en": "Chitungwiza",
+          "slug": "chitungwiza-zw1922"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.989",
+      "lon": "31.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192204",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw192204"
+    },
+    "code": {
+      "id": "ZW192204",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1922",
+      "level": 2,
+      "name": {
+        "local": "Chitungwiza",
+        "en": "Chitungwiza",
+        "slug": "chitungwiza-zw1922"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1922",
+        "level": 2,
+        "name": {
+          "local": "Chitungwiza",
+          "en": "Chitungwiza",
+          "slug": "chitungwiza-zw1922"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.994",
+      "lon": "31.031"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192205",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw192205"
+    },
+    "code": {
+      "id": "ZW192205",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1922",
+      "level": 2,
+      "name": {
+        "local": "Chitungwiza",
+        "en": "Chitungwiza",
+        "slug": "chitungwiza-zw1922"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1922",
+        "level": 2,
+        "name": {
+          "local": "Chitungwiza",
+          "en": "Chitungwiza",
+          "slug": "chitungwiza-zw1922"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.998",
+      "lon": "31.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192206",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw192206"
+    },
+    "code": {
+      "id": "ZW192206",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1922",
+      "level": 2,
+      "name": {
+        "local": "Chitungwiza",
+        "en": "Chitungwiza",
+        "slug": "chitungwiza-zw1922"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1922",
+        "level": 2,
+        "name": {
+          "local": "Chitungwiza",
+          "en": "Chitungwiza",
+          "slug": "chitungwiza-zw1922"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.007",
+      "lon": "31.027"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192207",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw192207"
+    },
+    "code": {
+      "id": "ZW192207",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1922",
+      "level": 2,
+      "name": {
+        "local": "Chitungwiza",
+        "en": "Chitungwiza",
+        "slug": "chitungwiza-zw1922"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1922",
+        "level": 2,
+        "name": {
+          "local": "Chitungwiza",
+          "en": "Chitungwiza",
+          "slug": "chitungwiza-zw1922"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.999",
+      "lon": "31.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192208",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw192208"
+    },
+    "code": {
+      "id": "ZW192208",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1922",
+      "level": 2,
+      "name": {
+        "local": "Chitungwiza",
+        "en": "Chitungwiza",
+        "slug": "chitungwiza-zw1922"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1922",
+        "level": 2,
+        "name": {
+          "local": "Chitungwiza",
+          "en": "Chitungwiza",
+          "slug": "chitungwiza-zw1922"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.993",
+      "lon": "31.055"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192209",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw192209"
+    },
+    "code": {
+      "id": "ZW192209",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1922",
+      "level": 2,
+      "name": {
+        "local": "Chitungwiza",
+        "en": "Chitungwiza",
+        "slug": "chitungwiza-zw1922"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1922",
+        "level": 2,
+        "name": {
+          "local": "Chitungwiza",
+          "en": "Chitungwiza",
+          "slug": "chitungwiza-zw1922"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.004",
+      "lon": "31.057"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

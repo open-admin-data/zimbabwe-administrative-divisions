@@ -1,0 +1,826 @@
+# Matabeleland North — Zimbabwe Administrative Divisions
+
+> 9 districts, 193 wards
+> Code: ZW15
+> Coordinates: -18.618, 27.453
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Districts
+
+### Binga
+
+Code: ZW1501, Coordinates: -17.692, 27.71
+Wards: 25
+
+#### 1
+
+Code: ZW150101, Coordinates: -17.048, 27.976
+
+#### 10
+
+Code: ZW150110, Coordinates: -17.935, 27.317
+
+#### 11
+
+Code: ZW150111, Coordinates: -17.916, 27.466
+
+#### 12
+
+Code: ZW150112, Coordinates: -17.867, 27.57
+
+#### 13
+
+Code: ZW150113, Coordinates: -18.032, 27.14
+
+#### 14
+
+Code: ZW150114, Coordinates: -18.188, 27.525
+
+#### 15
+
+Code: ZW150115, Coordinates: -17.97, 27.541
+
+#### 16
+
+Code: ZW150116, Coordinates: -18.03, 27.412
+
+#### 17
+
+Code: ZW150117, Coordinates: -18.014, 27.866
+
+#### 18
+
+Code: ZW150118, Coordinates: -18.231, 27.198
+
+#### 19
+
+Code: ZW150119, Coordinates: -18.304, 27.361
+
+#### 2
+
+Code: ZW150102, Coordinates: -17.432, 28.019
+
+#### 20
+
+Code: ZW150120, Coordinates: -18.463, 27.336
+
+#### 21
+
+Code: ZW150121, Coordinates: -18.24, 27.83
+
+#### 22
+
+Code: ZW150122, Coordinates: -17.152, 27.914
+
+#### 23
+
+Code: ZW150123, Coordinates: -17.383, 28.163
+
+#### 24
+
+Code: ZW150124, Coordinates: -17.602, 27.369
+
+#### 25
+
+Code: ZW150125, Coordinates: -18.087, 26.968
+
+#### 3
+
+Code: ZW150103, Coordinates: -17.456, 27.904
+
+#### 4
+
+Code: ZW150104, Coordinates: -17.548, 27.79
+
+#### 5
+
+Code: ZW150105, Coordinates: -17.566, 27.537
+
+#### 6
+
+Code: ZW150106, Coordinates: -17.713, 27.471
+
+#### 7
+
+Code: ZW150107, Coordinates: -17.726, 27.359
+
+#### 8
+
+Code: ZW150108, Coordinates: -17.777, 27.256
+
+#### 9
+
+Code: ZW150109, Coordinates: -17.921, 27.16
+
+### Bubi
+
+Code: ZW1502, Coordinates: -19.567, 28.843
+Wards: 23
+
+#### 1
+
+Code: ZW150201, Coordinates: -19.601, 28.7
+
+#### 10
+
+Code: ZW150210, Coordinates: -19.74, 28.626
+
+#### 11
+
+Code: ZW150211, Coordinates: -19.678, 28.808
+
+#### 12
+
+Code: ZW150212, Coordinates: -19.585, 28.991
+
+#### 13
+
+Code: ZW150213, Coordinates: -19.842, 28.908
+
+#### 14
+
+Code: ZW150214, Coordinates: -19.879, 28.654
+
+#### 15
+
+Code: ZW150215, Coordinates: -19.66, 28.866
+
+#### 16
+
+Code: ZW150216, Coordinates: -19.419, 28.462
+
+#### 17
+
+Code: ZW150217, Coordinates: -19.39, 28.237
+
+#### 18
+
+Code: ZW150218, Coordinates: -19.269, 28.177
+
+#### 19
+
+Code: ZW150219, Coordinates: -19.355, 28.989
+
+#### 2
+
+Code: ZW150202, Coordinates: -19.283, 28.437
+
+#### 20
+
+Code: ZW150220, Coordinates: -19.312, 28.607
+
+#### 21
+
+Code: ZW150221, Coordinates: -19.429, 28.82
+
+#### 22
+
+Code: ZW150222, Coordinates: -19.712, 28.733
+
+#### 23
+
+Code: ZW150223, Coordinates: -19.834, 28.81
+
+#### 3
+
+Code: ZW150203, Coordinates: -19.294, 28.333
+
+#### 4
+
+Code: ZW150204, Coordinates: -19.347, 28.295
+
+#### 5
+
+Code: ZW150205, Coordinates: -19.452, 28.416
+
+#### 6
+
+Code: ZW150206, Coordinates: -19.388, 28.533
+
+#### 7
+
+Code: ZW150207, Coordinates: -19.322, 28.533
+
+#### 8
+
+Code: ZW150208, Coordinates: -19.466, 28.535
+
+#### 9
+
+Code: ZW150209, Coordinates: -19.603, 28.546
+
+### Hwange
+
+Code: ZW1503, Coordinates: -18.84, 26.594
+Wards: 20
+
+#### 1
+
+Code: ZW150301, Coordinates: -18.211, 25.981
+
+#### 10
+
+Code: ZW150310, Coordinates: -18.096, 26.72
+
+#### 11
+
+Code: ZW150311, Coordinates: -18.351, 27.045
+
+#### 12
+
+Code: ZW150312, Coordinates: -18.241, 26.688
+
+#### 13
+
+Code: ZW150313, Coordinates: -18.338, 26.833
+
+#### 14
+
+Code: ZW150314, Coordinates: -18.45, 26.824
+
+#### 15
+
+Code: ZW150315, Coordinates: -18.525, 26.869
+
+#### 16
+
+Code: ZW150316, Coordinates: -18.441, 26.964
+
+#### 17
+
+Code: ZW150317, Coordinates: -18.534, 27.062
+
+#### 18
+
+Code: ZW150318, Coordinates: -18.626, 26.862
+
+#### 19
+
+Code: ZW150319, Coordinates: -18.84, 26.594
+
+#### 2
+
+Code: ZW150302, Coordinates: -18.035, 25.892
+
+#### 20
+
+Code: ZW150320, Coordinates: -18.375, 26.646
+
+#### 3
+
+Code: ZW150303, Coordinates: -18.065, 25.957
+
+#### 4
+
+Code: ZW150304, Coordinates: -18.009, 26.127
+
+#### 5
+
+Code: ZW150305, Coordinates: -18.139, 26.055
+
+#### 6
+
+Code: ZW150306, Coordinates: -18.139, 26.226
+
+#### 7
+
+Code: ZW150307, Coordinates: -17.997, 26.253
+
+#### 8
+
+Code: ZW150308, Coordinates: -18.046, 26.457
+
+#### 9
+
+Code: ZW150309, Coordinates: -18.229, 26.416
+
+### Hwange Urban
+
+Code: ZW1521, Coordinates: -18.335, 26.481
+Wards: 15
+
+#### 1
+
+Code: ZW152101, Coordinates: -18.301, 26.493
+
+#### 10
+
+Code: ZW152110, Coordinates: -18.328, 26.456
+
+#### 11
+
+Code: ZW152111, Coordinates: -18.352, 26.421
+
+#### 12
+
+Code: ZW152112, Coordinates: -18.377, 26.442
+
+#### 13
+
+Code: ZW152113, Coordinates: -18.399, 26.377
+
+#### 14
+
+Code: ZW152114, Coordinates: -18.377, 26.492
+
+#### 15
+
+Code: ZW152115, Coordinates: -18.433, 26.446
+
+#### 2
+
+Code: ZW152102, Coordinates: -18.334, 26.511
+
+#### 3
+
+Code: ZW152103, Coordinates: -18.328, 26.538
+
+#### 4
+
+Code: ZW152104, Coordinates: -18.298, 26.51
+
+#### 5
+
+Code: ZW152105, Coordinates: -18.256, 26.525
+
+#### 6
+
+Code: ZW152106, Coordinates: -18.307, 26.539
+
+#### 7
+
+Code: ZW152107, Coordinates: -18.38, 26.532
+
+#### 8
+
+Code: ZW152108, Coordinates: -18.355, 26.498
+
+#### 9
+
+Code: ZW152109, Coordinates: -18.347, 26.46
+
+### Lupane
+
+Code: ZW1504, Coordinates: -18.882, 27.829
+Wards: 28
+
+#### 1
+
+Code: ZW150401, Coordinates: -18.436, 27.406
+
+#### 10
+
+Code: ZW150410, Coordinates: -18.728, 27.933
+
+#### 11
+
+Code: ZW150411, Coordinates: -18.727, 28.116
+
+#### 12
+
+Code: ZW150412, Coordinates: -18.716, 28.257
+
+#### 13
+
+Code: ZW150413, Coordinates: -18.737, 27.554
+
+#### 14
+
+Code: ZW150414, Coordinates: -18.808, 27.613
+
+#### 15
+
+Code: ZW150415, Coordinates: -18.859, 27.762
+
+#### 16
+
+Code: ZW150416, Coordinates: -18.867, 27.977
+
+#### 17
+
+Code: ZW150417, Coordinates: -18.861, 28.222
+
+#### 18
+
+Code: ZW150418, Coordinates: -18.97, 27.913
+
+#### 19
+
+Code: ZW150419, Coordinates: -19.041, 27.982
+
+#### 2
+
+Code: ZW150402, Coordinates: -18.445, 27.661
+
+#### 20
+
+Code: ZW150420, Coordinates: -18.953, 28.177
+
+#### 21
+
+Code: ZW150421, Coordinates: -19.084, 28.26
+
+#### 22
+
+Code: ZW150422, Coordinates: -19.105, 27.743
+
+#### 23
+
+Code: ZW150423, Coordinates: -19.132, 28.125
+
+#### 24
+
+Code: ZW150424, Coordinates: -18.569, 27.309
+
+#### 25
+
+Code: ZW150425, Coordinates: -18.722, 27.275
+
+#### 26
+
+Code: ZW150426, Coordinates: -18.937, 27.521
+
+#### 27
+
+Code: ZW150427, Coordinates: -18.484, 27.874
+
+#### 28
+
+Code: ZW150428, Coordinates: -19.214, 27.998
+
+#### 3
+
+Code: ZW150403, Coordinates: -18.354, 27.929
+
+#### 4
+
+Code: ZW150404, Coordinates: -18.518, 27.632
+
+#### 5
+
+Code: ZW150405, Coordinates: -18.578, 27.844
+
+#### 6
+
+Code: ZW150406, Coordinates: -18.587, 28.053
+
+#### 7
+
+Code: ZW150407, Coordinates: -18.589, 28.224
+
+#### 8
+
+Code: ZW150408, Coordinates: -18.646, 27.611
+
+#### 9
+
+Code: ZW150409, Coordinates: -18.696, 27.802
+
+### Nkayi
+
+Code: ZW1505, Coordinates: -18.923, 28.614
+Wards: 30
+
+#### 1
+
+Code: ZW150501, Coordinates: -18.642, 29.003
+
+#### 10
+
+Code: ZW150510, Coordinates: -18.665, 28.449
+
+#### 11
+
+Code: ZW150511, Coordinates: -18.737, 28.36
+
+#### 12
+
+Code: ZW150512, Coordinates: -18.749, 28.463
+
+#### 13
+
+Code: ZW150513, Coordinates: -18.881, 28.389
+
+#### 14
+
+Code: ZW150514, Coordinates: -18.882, 28.507
+
+#### 15
+
+Code: ZW150515, Coordinates: -18.811, 28.549
+
+#### 16
+
+Code: ZW150516, Coordinates: -18.822, 28.646
+
+#### 17
+
+Code: ZW150517, Coordinates: -18.968, 28.719
+
+#### 18
+
+Code: ZW150518, Coordinates: -18.916, 28.879
+
+#### 19
+
+Code: ZW150519, Coordinates: -18.966, 28.805
+
+#### 2
+
+Code: ZW150502, Coordinates: -18.648, 28.871
+
+#### 20
+
+Code: ZW150520, Coordinates: -19.066, 28.955
+
+#### 21
+
+Code: ZW150521, Coordinates: -19.189, 28.949
+
+#### 22
+
+Code: ZW150522, Coordinates: -19.122, 28.813
+
+#### 23
+
+Code: ZW150523, Coordinates: -19.122, 28.648
+
+#### 24
+
+Code: ZW150524, Coordinates: -19.074, 28.517
+
+#### 25
+
+Code: ZW150525, Coordinates: -19.011, 28.393
+
+#### 26
+
+Code: ZW150526, Coordinates: -18.709, 28.551
+
+#### 27
+
+Code: ZW150527, Coordinates: -18.932, 28.6
+
+#### 28
+
+Code: ZW150528, Coordinates: -18.86, 28.721
+
+#### 29
+
+Code: ZW150529, Coordinates: -19.015, 28.897
+
+#### 3
+
+Code: ZW150503, Coordinates: -18.648, 28.792
+
+#### 30
+
+Code: ZW150530, Coordinates: -19.234, 28.793
+
+#### 4
+
+Code: ZW150504, Coordinates: -18.665, 28.72
+
+#### 5
+
+Code: ZW150505, Coordinates: -18.797, 28.795
+
+#### 6
+
+Code: ZW150506, Coordinates: -18.603, 28.642
+
+#### 7
+
+Code: ZW150507, Coordinates: -18.679, 28.643
+
+#### 8
+
+Code: ZW150508, Coordinates: -18.612, 28.381
+
+#### 9
+
+Code: ZW150509, Coordinates: -18.604, 28.514
+
+### Tsholotsho
+
+Code: ZW1506, Coordinates: -19.64, 27.289
+Wards: 22
+
+#### 1
+
+Code: ZW150601, Coordinates: -19.451, 27.059
+
+#### 10
+
+Code: ZW150610, Coordinates: -19.805, 27.444
+
+#### 11
+
+Code: ZW150611, Coordinates: -19.836, 27.55
+
+#### 12
+
+Code: ZW150612, Coordinates: -19.739, 27.639
+
+#### 13
+
+Code: ZW150613, Coordinates: -19.81, 27.814
+
+#### 14
+
+Code: ZW150614, Coordinates: -19.881, 27.626
+
+#### 15
+
+Code: ZW150615, Coordinates: -19.921, 27.756
+
+#### 16
+
+Code: ZW150616, Coordinates: -20.008, 27.72
+
+#### 17
+
+Code: ZW150617, Coordinates: -19.999, 27.854
+
+#### 18
+
+Code: ZW150618, Coordinates: -20.057, 27.898
+
+#### 19
+
+Code: ZW150619, Coordinates: -20.097, 27.814
+
+#### 2
+
+Code: ZW150602, Coordinates: -19.461, 27.384
+
+#### 20
+
+Code: ZW150620, Coordinates: -19.981, 27.961
+
+#### 21
+
+Code: ZW150621, Coordinates: -19.59, 27.343
+
+#### 22
+
+Code: ZW150622, Coordinates: -19.676, 27.741
+
+#### 3
+
+Code: ZW150603, Coordinates: -19.234, 27.435
+
+#### 4
+
+Code: ZW150604, Coordinates: -19.183, 27.656
+
+#### 5
+
+Code: ZW150605, Coordinates: -19.281, 27.628
+
+#### 6
+
+Code: ZW150606, Coordinates: -19.451, 27.684
+
+#### 7
+
+Code: ZW150607, Coordinates: -19.693, 26.989
+
+#### 8
+
+Code: ZW150608, Coordinates: -19.682, 27.342
+
+#### 9
+
+Code: ZW150609, Coordinates: -19.534, 27.579
+
+### Umguza
+
+Code: ZW1507, Coordinates: -19.86, 28.252
+Wards: 19
+
+#### 1
+
+Code: ZW150701, Coordinates: -20.242, 28.671
+
+#### 10
+
+Code: ZW150710, Coordinates: -19.605, 28.178
+
+#### 11
+
+Code: ZW150711, Coordinates: -19.463, 28.182
+
+#### 12
+
+Code: ZW150712, Coordinates: -19.658, 28.034
+
+#### 13
+
+Code: ZW150713, Coordinates: -19.772, 27.989
+
+#### 14
+
+Code: ZW150714, Coordinates: -19.969, 28.176
+
+#### 15
+
+Code: ZW150715, Coordinates: -19.825, 28.289
+
+#### 16
+
+Code: ZW150716, Coordinates: -20.18, 28.353
+
+#### 17
+
+Code: ZW150717, Coordinates: -19.644, 28.305
+
+#### 18
+
+Code: ZW150718, Coordinates: -19.626, 27.819
+
+#### 19
+
+Code: ZW150719, Coordinates: -19.885, 28.305
+
+#### 2
+
+Code: ZW150702, Coordinates: -20.132, 28.719
+
+#### 3
+
+Code: ZW150703, Coordinates: -19.969, 28.925
+
+#### 4
+
+Code: ZW150704, Coordinates: -19.943, 28.848
+
+#### 5
+
+Code: ZW150705, Coordinates: -20.009, 28.858
+
+#### 6
+
+Code: ZW150706, Coordinates: -20.001, 28.804
+
+#### 7
+
+Code: ZW150707, Coordinates: -20.044, 28.744
+
+#### 8
+
+Code: ZW150708, Coordinates: -19.951, 28.564
+
+#### 9
+
+Code: ZW150709, Coordinates: -19.815, 28.445
+
+### Victoria Falls
+
+Code: ZW1522, Coordinates: -17.931, 25.831
+Wards: 11
+
+#### 1
+
+Code: ZW152201, Coordinates: -17.923, 25.818
+
+#### 10
+
+Code: ZW152210, Coordinates: -17.957, 25.825
+
+#### 11
+
+Code: ZW152211, Coordinates: -17.954, 25.814
+
+#### 2
+
+Code: ZW152202, Coordinates: -17.924, 25.839
+
+#### 3
+
+Code: ZW152203, Coordinates: -17.931, 25.826
+
+#### 4
+
+Code: ZW152204, Coordinates: -17.936, 25.827
+
+#### 5
+
+Code: ZW152205, Coordinates: -17.934, 25.832
+
+#### 6
+
+Code: ZW152206, Coordinates: -17.939, 25.828
+
+#### 7
+
+Code: ZW152207, Coordinates: -17.944, 25.827
+
+#### 8
+
+Code: ZW152208, Coordinates: -17.943, 25.832
+
+#### 9
+
+Code: ZW152209, Coordinates: -17.95, 25.823
+

@@ -1,0 +1,47 @@
+{
+  "id": "ZW1623",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Plumtree",
+    "en": "Plumtree",
+    "slug": "plumtree-zw1623"
+  },
+  "code": {
+    "id": "ZW1623",
+    "iso": null
+  },
+  "parent": {
+    "id": "ZW16",
+    "level": 1,
+    "name": {
+      "local": "Matabeleland South",
+      "en": "Matabeleland South",
+      "slug": "matabeleland-south-zw16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ZW16",
+      "level": 1,
+      "name": {
+        "local": "Matabeleland South",
+        "en": "Matabeleland South",
+        "slug": "matabeleland-south-zw16"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.507",
+    "lon": "27.82"
+  },
+  "metadata": {},
+  "source": {}
+}

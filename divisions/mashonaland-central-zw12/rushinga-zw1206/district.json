@@ -1,0 +1,47 @@
+{
+  "id": "ZW1206",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Rushinga",
+    "en": "Rushinga",
+    "slug": "rushinga-zw1206"
+  },
+  "code": {
+    "id": "ZW1206",
+    "iso": null
+  },
+  "parent": {
+    "id": "ZW12",
+    "level": 1,
+    "name": {
+      "local": "Mashonaland Central",
+      "en": "Mashonaland Central",
+      "slug": "mashonaland-central-zw12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ZW12",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland Central",
+        "en": "Mashonaland Central",
+        "slug": "mashonaland-central-zw12"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 25
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.618",
+    "lon": "32.336"
+  },
+  "metadata": {},
+  "source": {}
+}

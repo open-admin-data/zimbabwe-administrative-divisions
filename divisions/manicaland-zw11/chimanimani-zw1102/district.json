@@ -1,0 +1,47 @@
+{
+  "id": "ZW1102",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Chimanimani",
+    "en": "Chimanimani",
+    "slug": "chimanimani-zw1102"
+  },
+  "code": {
+    "id": "ZW1102",
+    "iso": null
+  },
+  "parent": {
+    "id": "ZW11",
+    "level": 1,
+    "name": {
+      "local": "Manicaland",
+      "en": "Manicaland",
+      "slug": "manicaland-zw11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ZW11",
+      "level": 1,
+      "name": {
+        "local": "Manicaland",
+        "en": "Manicaland",
+        "slug": "manicaland-zw11"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 23
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.741",
+    "lon": "32.698"
+  },
+  "metadata": {},
+  "source": {}
+}

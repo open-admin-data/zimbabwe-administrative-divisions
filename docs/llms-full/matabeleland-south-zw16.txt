@@ -1,0 +1,739 @@
+# Matabeleland South — Zimbabwe Administrative Divisions
+
+> 10 districts, 170 wards
+> Code: ZW16
+> Coordinates: -20.918, 28.646
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Districts
+
+### Beitbridge
+
+Code: ZW1601, Coordinates: -21.812, 29.942
+Wards: 16
+
+#### 1
+
+Code: ZW160101, Coordinates: -22.215, 30.843
+
+#### 10
+
+Code: ZW160110, Coordinates: -21.702, 29.423
+
+#### 11
+
+Code: ZW160111, Coordinates: -21.644, 29.604
+
+#### 12
+
+Code: ZW160112, Coordinates: -21.523, 29.633
+
+#### 13
+
+Code: ZW160113, Coordinates: -21.905, 30.426
+
+#### 14
+
+Code: ZW160114, Coordinates: -22.07, 29.617
+
+#### 15
+
+Code: ZW160115, Coordinates: -22.148, 30.18
+
+#### 16
+
+Code: ZW160116, Coordinates: -21.649, 30.071
+
+#### 2
+
+Code: ZW160102, Coordinates: -22.233, 30.455
+
+#### 3
+
+Code: ZW160103, Coordinates: -22.022, 30.48
+
+#### 4
+
+Code: ZW160104, Coordinates: -21.882, 30.085
+
+#### 5
+
+Code: ZW160105, Coordinates: -22.059, 30.121
+
+#### 6
+
+Code: ZW160106, Coordinates: -22.045, 29.891
+
+#### 7
+
+Code: ZW160107, Coordinates: -21.928, 29.612
+
+#### 8
+
+Code: ZW160108, Coordinates: -22.041, 29.335
+
+#### 9
+
+Code: ZW160109, Coordinates: -21.924, 29.223
+
+### Beitbridge Urban
+
+Code: ZW1622, Coordinates: -22.205, 30.001
+Wards: 6
+
+#### 1
+
+Code: ZW162201, Coordinates: -22.213, 30.024
+
+#### 2
+
+Code: ZW162202, Coordinates: -22.207, 29.995
+
+#### 3
+
+Code: ZW162203, Coordinates: -22.179, 30.017
+
+#### 4
+
+Code: ZW162204, Coordinates: -22.208, 29.972
+
+#### 5
+
+Code: ZW162205, Coordinates: -22.177, 29.96
+
+#### 6
+
+Code: ZW162206, Coordinates: -22.177, 29.985
+
+### Bulilima
+
+Code: ZW1602, Coordinates: -20.155, 27.527
+Wards: 22
+
+#### 1
+
+Code: ZW160201, Coordinates: -20.365, 27.925
+
+#### 10
+
+Code: ZW160210, Coordinates: -19.968, 27.102
+
+#### 11
+
+Code: ZW160211, Coordinates: -20.1, 27.409
+
+#### 12
+
+Code: ZW160212, Coordinates: -20.163, 27.326
+
+#### 13
+
+Code: ZW160213, Coordinates: -19.892, 27.375
+
+#### 14
+
+Code: ZW160214, Coordinates: -20.338, 27.391
+
+#### 15
+
+Code: ZW160215, Coordinates: -20.284, 27.532
+
+#### 16
+
+Code: ZW160216, Coordinates: -20.425, 27.492
+
+#### 17
+
+Code: ZW160217, Coordinates: -20.142, 28.159
+
+#### 18
+
+Code: ZW160218, Coordinates: -20.139, 27.962
+
+#### 19
+
+Code: ZW160219, Coordinates: -20.308, 28.127
+
+#### 2
+
+Code: ZW160202, Coordinates: -20.33, 27.792
+
+#### 20
+
+Code: ZW160220, Coordinates: -20.385, 27.619
+
+#### 21
+
+Code: ZW160221, Coordinates: -20.398, 27.771
+
+#### 22
+
+Code: ZW160222, Coordinates: -19.997, 27.438
+
+#### 3
+
+Code: ZW160203, Coordinates: -20.24, 27.87
+
+#### 4
+
+Code: ZW160204, Coordinates: -20.268, 27.65
+
+#### 5
+
+Code: ZW160205, Coordinates: -20.16, 27.733
+
+#### 6
+
+Code: ZW160206, Coordinates: -20.012, 27.553
+
+#### 7
+
+Code: ZW160207, Coordinates: -20.12, 27.576
+
+#### 8
+
+Code: ZW160208, Coordinates: -19.888, 27.476
+
+#### 9
+
+Code: ZW160209, Coordinates: -19.875, 27.174
+
+### Gwanda
+
+Code: ZW1604, Coordinates: -21.28, 29.292
+Wards: 24
+
+#### 1
+
+Code: ZW160401, Coordinates: -20.859, 29.175
+
+#### 10
+
+Code: ZW160410, Coordinates: -21.174, 28.716
+
+#### 11
+
+Code: ZW160411, Coordinates: -21.281, 28.812
+
+#### 12
+
+Code: ZW160412, Coordinates: -21.466, 28.869
+
+#### 13
+
+Code: ZW160413, Coordinates: -21.216, 28.99
+
+#### 14
+
+Code: ZW160414, Coordinates: -21.35, 29.04
+
+#### 15
+
+Code: ZW160415, Coordinates: -21.395, 29.229
+
+#### 16
+
+Code: ZW160416, Coordinates: -21.551, 28.879
+
+#### 17
+
+Code: ZW160417, Coordinates: -21.583, 29.059
+
+#### 18
+
+Code: ZW160418, Coordinates: -21.508, 29.247
+
+#### 19
+
+Code: ZW160419, Coordinates: -21.703, 28.903
+
+#### 2
+
+Code: ZW160402, Coordinates: -20.776, 29.191
+
+#### 20
+
+Code: ZW160420, Coordinates: -21.654, 29.168
+
+#### 21
+
+Code: ZW160421, Coordinates: -20.929, 28.876
+
+#### 22
+
+Code: ZW160422, Coordinates: -21.148, 29.183
+
+#### 23
+
+Code: ZW160423, Coordinates: -21.289, 29.623
+
+#### 24
+
+Code: ZW160424, Coordinates: -21.82, 29.14
+
+#### 3
+
+Code: ZW160403, Coordinates: -20.635, 29.122
+
+#### 4
+
+Code: ZW160404, Coordinates: -20.693, 29.077
+
+#### 5
+
+Code: ZW160405, Coordinates: -20.686, 28.985
+
+#### 6
+
+Code: ZW160406, Coordinates: -20.722, 28.825
+
+#### 7
+
+Code: ZW160407, Coordinates: -20.734, 28.732
+
+#### 8
+
+Code: ZW160408, Coordinates: -20.88, 28.757
+
+#### 9
+
+Code: ZW160409, Coordinates: -21.087, 28.777
+
+### Gwanda Urban
+
+Code: ZW1621, Coordinates: -20.933, 28.998
+Wards: 10
+
+#### 1
+
+Code: ZW162101, Coordinates: -20.947, 29.001
+
+#### 10
+
+Code: ZW162110, Coordinates: -20.927, 28.964
+
+#### 2
+
+Code: ZW162102, Coordinates: -20.933, 29
+
+#### 3
+
+Code: ZW162103, Coordinates: -20.925, 29.01
+
+#### 4
+
+Code: ZW162104, Coordinates: -20.938, 29.013
+
+#### 5
+
+Code: ZW162105, Coordinates: -20.927, 29.026
+
+#### 6
+
+Code: ZW162106, Coordinates: -20.931, 29.03
+
+#### 7
+
+Code: ZW162107, Coordinates: -20.941, 29.021
+
+#### 8
+
+Code: ZW162108, Coordinates: -20.947, 29.02
+
+#### 9
+
+Code: ZW162109, Coordinates: -20.942, 29.029
+
+### Insiza
+
+Code: ZW1605, Coordinates: -20.273, 29.486
+Wards: 23
+
+#### 1
+
+Code: ZW160501, Coordinates: -20.649, 29.241
+
+#### 10
+
+Code: ZW160510, Coordinates: -20.429, 29.661
+
+#### 11
+
+Code: ZW160511, Coordinates: -20.807, 29.269
+
+#### 12
+
+Code: ZW160512, Coordinates: -20.802, 29.552
+
+#### 13
+
+Code: ZW160513, Coordinates: -20.076, 29.49
+
+#### 14
+
+Code: ZW160514, Coordinates: -20.109, 29.287
+
+#### 15
+
+Code: ZW160515, Coordinates: -20.436, 29.274
+
+#### 16
+
+Code: ZW160516, Coordinates: -20.475, 29.18
+
+#### 17
+
+Code: ZW160517, Coordinates: -20.462, 29.39
+
+#### 18
+
+Code: ZW160518, Coordinates: -20.075, 29.129
+
+#### 19
+
+Code: ZW160519, Coordinates: -20.436, 29.518
+
+#### 2
+
+Code: ZW160502, Coordinates: -20.625, 29.3
+
+#### 20
+
+Code: ZW160520, Coordinates: -20.191, 29.699
+
+#### 21
+
+Code: ZW160521, Coordinates: -20.042, 29.752
+
+#### 22
+
+Code: ZW160522, Coordinates: -19.826, 29.105
+
+#### 23
+
+Code: ZW160523, Coordinates: -19.734, 29.328
+
+#### 3
+
+Code: ZW160503, Coordinates: -20.78, 29.325
+
+#### 4
+
+Code: ZW160504, Coordinates: -20.696, 29.424
+
+#### 5
+
+Code: ZW160505, Coordinates: -20.82, 29.441
+
+#### 6
+
+Code: ZW160506, Coordinates: -20.947, 29.431
+
+#### 7
+
+Code: ZW160507, Coordinates: -20.911, 29.556
+
+#### 8
+
+Code: ZW160508, Coordinates: -20.771, 29.618
+
+#### 9
+
+Code: ZW160509, Coordinates: -20.639, 29.539
+
+### Mangwe
+
+Code: ZW1603, Coordinates: -21.012, 27.951
+Wards: 17
+
+#### 1
+
+Code: ZW160301, Coordinates: -20.7, 27.942
+
+#### 10
+
+Code: ZW160310, Coordinates: -21.35, 28.222
+
+#### 11
+
+Code: ZW160311, Coordinates: -20.809, 28.034
+
+#### 12
+
+Code: ZW160312, Coordinates: -20.596, 27.858
+
+#### 13
+
+Code: ZW160313, Coordinates: -20.704, 27.848
+
+#### 14
+
+Code: ZW160314, Coordinates: -20.888, 27.741
+
+#### 15
+
+Code: ZW160315, Coordinates: -21.197, 27.897
+
+#### 16
+
+Code: ZW160316, Coordinates: -21.314, 28.074
+
+#### 17
+
+Code: ZW160317, Coordinates: -21.505, 28.158
+
+#### 2
+
+Code: ZW160302, Coordinates: -20.628, 27.741
+
+#### 3
+
+Code: ZW160303, Coordinates: -20.762, 27.77
+
+#### 4
+
+Code: ZW160304, Coordinates: -20.989, 27.753
+
+#### 5
+
+Code: ZW160305, Coordinates: -21.115, 27.872
+
+#### 6
+
+Code: ZW160306, Coordinates: -21.105, 28.007
+
+#### 7
+
+Code: ZW160307, Coordinates: -21.231, 28.022
+
+#### 8
+
+Code: ZW160308, Coordinates: -21.46, 28.022
+
+#### 9
+
+Code: ZW160309, Coordinates: -21.536, 28.329
+
+### Matobo
+
+Code: ZW1606, Coordinates: -20.968, 28.46
+Wards: 26
+
+#### 1
+
+Code: ZW160601, Coordinates: -21.467, 28.702
+
+#### 10
+
+Code: ZW160610, Coordinates: -21.094, 28.379
+
+#### 11
+
+Code: ZW160611, Coordinates: -21.055, 28.284
+
+#### 12
+
+Code: ZW160612, Coordinates: -20.989, 28.234
+
+#### 13
+
+Code: ZW160613, Coordinates: -20.858, 28.367
+
+#### 14
+
+Code: ZW160614, Coordinates: -20.951, 28.423
+
+#### 15
+
+Code: ZW160615, Coordinates: -20.466, 28.623
+
+#### 16
+
+Code: ZW160616, Coordinates: -20.621, 28.711
+
+#### 17
+
+Code: ZW160617, Coordinates: -20.637, 28.424
+
+#### 18
+
+Code: ZW160618, Coordinates: -20.631, 28.284
+
+#### 19
+
+Code: ZW160619, Coordinates: -21.086, 28.463
+
+#### 2
+
+Code: ZW160602, Coordinates: -21.326, 28.617
+
+#### 20
+
+Code: ZW160620, Coordinates: -21.559, 28.582
+
+#### 21
+
+Code: ZW160621, Coordinates: -20.859, 28.524
+
+#### 22
+
+Code: ZW160622, Coordinates: -21.01, 28.487
+
+#### 23
+
+Code: ZW160623, Coordinates: -20.774, 28.6
+
+#### 24
+
+Code: ZW160624, Coordinates: -20.481, 28.382
+
+#### 25
+
+Code: ZW160625, Coordinates: -20.443, 28.74
+
+#### 26
+
+Code: ZW160626, Coordinates: -20.889, 28.297
+
+#### 3
+
+Code: ZW160603, Coordinates: -21.189, 28.507
+
+#### 4
+
+Code: ZW160604, Coordinates: -21.125, 28.593
+
+#### 5
+
+Code: ZW160605, Coordinates: -21.536, 28.427
+
+#### 6
+
+Code: ZW160606, Coordinates: -21.364, 28.374
+
+#### 7
+
+Code: ZW160607, Coordinates: -21.287, 28.356
+
+#### 8
+
+Code: ZW160608, Coordinates: -21.215, 28.362
+
+#### 9
+
+Code: ZW160609, Coordinates: -21.201, 28.226
+
+### Plumtree
+
+Code: ZW1623, Coordinates: -20.507, 27.82
+Wards: 6
+
+#### 1
+
+Code: ZW162301, Coordinates: -20.551, 27.824
+
+#### 2
+
+Code: ZW162302, Coordinates: -20.535, 27.793
+
+#### 3
+
+Code: ZW162303, Coordinates: -20.512, 27.786
+
+#### 4
+
+Code: ZW162304, Coordinates: -20.502, 27.806
+
+#### 5
+
+Code: ZW162305, Coordinates: -20.496, 27.762
+
+#### 6
+
+Code: ZW162306, Coordinates: -20.474, 27.831
+
+### Umzingwane
+
+Code: ZW1607, Coordinates: -20.329, 28.954
+Wards: 20
+
+#### 1
+
+Code: ZW160701, Coordinates: -20.155, 28.805
+
+#### 10
+
+Code: ZW160710, Coordinates: -20.567, 28.754
+
+#### 11
+
+Code: ZW160711, Coordinates: -20.589, 28.81
+
+#### 12
+
+Code: ZW160712, Coordinates: -20.611, 28.903
+
+#### 13
+
+Code: ZW160713, Coordinates: -20.526, 29.072
+
+#### 14
+
+Code: ZW160714, Coordinates: -20.278, 29.102
+
+#### 15
+
+Code: ZW160715, Coordinates: -20.29, 29
+
+#### 16
+
+Code: ZW160716, Coordinates: -20.294, 28.945
+
+#### 17
+
+Code: ZW160717, Coordinates: -20.278, 28.897
+
+#### 18
+
+Code: ZW160718, Coordinates: -20.267, 28.784
+
+#### 19
+
+Code: ZW160719, Coordinates: -20.104, 28.948
+
+#### 2
+
+Code: ZW160702, Coordinates: -20.207, 28.78
+
+#### 20
+
+Code: ZW160720, Coordinates: -20.376, 29.181
+
+#### 3
+
+Code: ZW160703, Coordinates: -20.356, 28.916
+
+#### 4
+
+Code: ZW160704, Coordinates: -20.394, 28.834
+
+#### 5
+
+Code: ZW160705, Coordinates: -20.422, 28.939
+
+#### 6
+
+Code: ZW160706, Coordinates: -20.52, 28.966
+
+#### 7
+
+Code: ZW160707, Coordinates: -20.584, 28.97
+
+#### 8
+
+Code: ZW160708, Coordinates: -20.509, 28.868
+
+#### 9
+
+Code: ZW160709, Coordinates: -20.498, 28.782
+

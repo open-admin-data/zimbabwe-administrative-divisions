@@ -1,0 +1,30 @@
+{
+  "id": "ZW12",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Mashonaland Central",
+    "en": "Mashonaland Central",
+    "slug": "mashonaland-central-zw12"
+  },
+  "code": {
+    "id": "ZW12",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 10,
+    "ward": 232
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.679",
+    "lon": "31.602"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,1676 @@
+[
+  {
+    "id": "ZW110601",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw110601"
+    },
+    "code": {
+      "id": "ZW110601",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1106",
+      "level": 2,
+      "name": {
+        "local": "Mutasa",
+        "en": "Mutasa",
+        "slug": "mutasa-zw1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1106",
+        "level": 2,
+        "name": {
+          "local": "Mutasa",
+          "en": "Mutasa",
+          "slug": "mutasa-zw1106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.352",
+      "lon": "32.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110610",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw110610"
+    },
+    "code": {
+      "id": "ZW110610",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1106",
+      "level": 2,
+      "name": {
+        "local": "Mutasa",
+        "en": "Mutasa",
+        "slug": "mutasa-zw1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1106",
+        "level": 2,
+        "name": {
+          "local": "Mutasa",
+          "en": "Mutasa",
+          "slug": "mutasa-zw1106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.62",
+      "lon": "32.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110611",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw110611"
+    },
+    "code": {
+      "id": "ZW110611",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1106",
+      "level": 2,
+      "name": {
+        "local": "Mutasa",
+        "en": "Mutasa",
+        "slug": "mutasa-zw1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1106",
+        "level": 2,
+        "name": {
+          "local": "Mutasa",
+          "en": "Mutasa",
+          "slug": "mutasa-zw1106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.583",
+      "lon": "32.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110612",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw110612"
+    },
+    "code": {
+      "id": "ZW110612",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1106",
+      "level": 2,
+      "name": {
+        "local": "Mutasa",
+        "en": "Mutasa",
+        "slug": "mutasa-zw1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1106",
+        "level": 2,
+        "name": {
+          "local": "Mutasa",
+          "en": "Mutasa",
+          "slug": "mutasa-zw1106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.493",
+      "lon": "32.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110613",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw110613"
+    },
+    "code": {
+      "id": "ZW110613",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1106",
+      "level": 2,
+      "name": {
+        "local": "Mutasa",
+        "en": "Mutasa",
+        "slug": "mutasa-zw1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1106",
+        "level": 2,
+        "name": {
+          "local": "Mutasa",
+          "en": "Mutasa",
+          "slug": "mutasa-zw1106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.461",
+      "lon": "32.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110614",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw110614"
+    },
+    "code": {
+      "id": "ZW110614",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1106",
+      "level": 2,
+      "name": {
+        "local": "Mutasa",
+        "en": "Mutasa",
+        "slug": "mutasa-zw1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1106",
+        "level": 2,
+        "name": {
+          "local": "Mutasa",
+          "en": "Mutasa",
+          "slug": "mutasa-zw1106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.59",
+      "lon": "32.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110615",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw110615"
+    },
+    "code": {
+      "id": "ZW110615",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1106",
+      "level": 2,
+      "name": {
+        "local": "Mutasa",
+        "en": "Mutasa",
+        "slug": "mutasa-zw1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1106",
+        "level": 2,
+        "name": {
+          "local": "Mutasa",
+          "en": "Mutasa",
+          "slug": "mutasa-zw1106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.596",
+      "lon": "32.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110616",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "16",
+      "en": "16",
+      "slug": "16-zw110616"
+    },
+    "code": {
+      "id": "ZW110616",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1106",
+      "level": 2,
+      "name": {
+        "local": "Mutasa",
+        "en": "Mutasa",
+        "slug": "mutasa-zw1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1106",
+        "level": 2,
+        "name": {
+          "local": "Mutasa",
+          "en": "Mutasa",
+          "slug": "mutasa-zw1106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.705",
+      "lon": "32.513"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110617",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "17",
+      "en": "17",
+      "slug": "17-zw110617"
+    },
+    "code": {
+      "id": "ZW110617",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1106",
+      "level": 2,
+      "name": {
+        "local": "Mutasa",
+        "en": "Mutasa",
+        "slug": "mutasa-zw1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1106",
+        "level": 2,
+        "name": {
+          "local": "Mutasa",
+          "en": "Mutasa",
+          "slug": "mutasa-zw1106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.695",
+      "lon": "32.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110618",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "18",
+      "en": "18",
+      "slug": "18-zw110618"
+    },
+    "code": {
+      "id": "ZW110618",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1106",
+      "level": 2,
+      "name": {
+        "local": "Mutasa",
+        "en": "Mutasa",
+        "slug": "mutasa-zw1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1106",
+        "level": 2,
+        "name": {
+          "local": "Mutasa",
+          "en": "Mutasa",
+          "slug": "mutasa-zw1106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.745",
+      "lon": "32.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110619",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "19",
+      "en": "19",
+      "slug": "19-zw110619"
+    },
+    "code": {
+      "id": "ZW110619",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1106",
+      "level": 2,
+      "name": {
+        "local": "Mutasa",
+        "en": "Mutasa",
+        "slug": "mutasa-zw1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1106",
+        "level": 2,
+        "name": {
+          "local": "Mutasa",
+          "en": "Mutasa",
+          "slug": "mutasa-zw1106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.656",
+      "lon": "32.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110602",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw110602"
+    },
+    "code": {
+      "id": "ZW110602",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1106",
+      "level": 2,
+      "name": {
+        "local": "Mutasa",
+        "en": "Mutasa",
+        "slug": "mutasa-zw1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1106",
+        "level": 2,
+        "name": {
+          "local": "Mutasa",
+          "en": "Mutasa",
+          "slug": "mutasa-zw1106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.3",
+      "lon": "32.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110620",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "20",
+      "en": "20",
+      "slug": "20-zw110620"
+    },
+    "code": {
+      "id": "ZW110620",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1106",
+      "level": 2,
+      "name": {
+        "local": "Mutasa",
+        "en": "Mutasa",
+        "slug": "mutasa-zw1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1106",
+        "level": 2,
+        "name": {
+          "local": "Mutasa",
+          "en": "Mutasa",
+          "slug": "mutasa-zw1106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.744",
+      "lon": "32.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110621",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "21",
+      "en": "21",
+      "slug": "21-zw110621"
+    },
+    "code": {
+      "id": "ZW110621",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1106",
+      "level": 2,
+      "name": {
+        "local": "Mutasa",
+        "en": "Mutasa",
+        "slug": "mutasa-zw1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1106",
+        "level": 2,
+        "name": {
+          "local": "Mutasa",
+          "en": "Mutasa",
+          "slug": "mutasa-zw1106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.876",
+      "lon": "32.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110622",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "22",
+      "en": "22",
+      "slug": "22-zw110622"
+    },
+    "code": {
+      "id": "ZW110622",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1106",
+      "level": 2,
+      "name": {
+        "local": "Mutasa",
+        "en": "Mutasa",
+        "slug": "mutasa-zw1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1106",
+        "level": 2,
+        "name": {
+          "local": "Mutasa",
+          "en": "Mutasa",
+          "slug": "mutasa-zw1106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.908",
+      "lon": "32.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110623",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "23",
+      "en": "23",
+      "slug": "23-zw110623"
+    },
+    "code": {
+      "id": "ZW110623",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1106",
+      "level": 2,
+      "name": {
+        "local": "Mutasa",
+        "en": "Mutasa",
+        "slug": "mutasa-zw1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1106",
+        "level": 2,
+        "name": {
+          "local": "Mutasa",
+          "en": "Mutasa",
+          "slug": "mutasa-zw1106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.866",
+      "lon": "32.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110624",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "24",
+      "en": "24",
+      "slug": "24-zw110624"
+    },
+    "code": {
+      "id": "ZW110624",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1106",
+      "level": 2,
+      "name": {
+        "local": "Mutasa",
+        "en": "Mutasa",
+        "slug": "mutasa-zw1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1106",
+        "level": 2,
+        "name": {
+          "local": "Mutasa",
+          "en": "Mutasa",
+          "slug": "mutasa-zw1106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.782",
+      "lon": "32.588"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110625",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "25",
+      "en": "25",
+      "slug": "25-zw110625"
+    },
+    "code": {
+      "id": "ZW110625",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1106",
+      "level": 2,
+      "name": {
+        "local": "Mutasa",
+        "en": "Mutasa",
+        "slug": "mutasa-zw1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1106",
+        "level": 2,
+        "name": {
+          "local": "Mutasa",
+          "en": "Mutasa",
+          "slug": "mutasa-zw1106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.864",
+      "lon": "32.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110626",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "26",
+      "en": "26",
+      "slug": "26-zw110626"
+    },
+    "code": {
+      "id": "ZW110626",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1106",
+      "level": 2,
+      "name": {
+        "local": "Mutasa",
+        "en": "Mutasa",
+        "slug": "mutasa-zw1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1106",
+        "level": 2,
+        "name": {
+          "local": "Mutasa",
+          "en": "Mutasa",
+          "slug": "mutasa-zw1106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.812",
+      "lon": "32.682"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110627",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "27",
+      "en": "27",
+      "slug": "27-zw110627"
+    },
+    "code": {
+      "id": "ZW110627",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1106",
+      "level": 2,
+      "name": {
+        "local": "Mutasa",
+        "en": "Mutasa",
+        "slug": "mutasa-zw1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1106",
+        "level": 2,
+        "name": {
+          "local": "Mutasa",
+          "en": "Mutasa",
+          "slug": "mutasa-zw1106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.695",
+      "lon": "32.861"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110628",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "28",
+      "en": "28",
+      "slug": "28-zw110628"
+    },
+    "code": {
+      "id": "ZW110628",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1106",
+      "level": 2,
+      "name": {
+        "local": "Mutasa",
+        "en": "Mutasa",
+        "slug": "mutasa-zw1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1106",
+        "level": 2,
+        "name": {
+          "local": "Mutasa",
+          "en": "Mutasa",
+          "slug": "mutasa-zw1106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.268",
+      "lon": "33.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110629",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "29",
+      "en": "29",
+      "slug": "29-zw110629"
+    },
+    "code": {
+      "id": "ZW110629",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1106",
+      "level": 2,
+      "name": {
+        "local": "Mutasa",
+        "en": "Mutasa",
+        "slug": "mutasa-zw1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1106",
+        "level": 2,
+        "name": {
+          "local": "Mutasa",
+          "en": "Mutasa",
+          "slug": "mutasa-zw1106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.349",
+      "lon": "33.04"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110603",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw110603"
+    },
+    "code": {
+      "id": "ZW110603",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1106",
+      "level": 2,
+      "name": {
+        "local": "Mutasa",
+        "en": "Mutasa",
+        "slug": "mutasa-zw1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1106",
+        "level": 2,
+        "name": {
+          "local": "Mutasa",
+          "en": "Mutasa",
+          "slug": "mutasa-zw1106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.4",
+      "lon": "32.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110630",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "30",
+      "en": "30",
+      "slug": "30-zw110630"
+    },
+    "code": {
+      "id": "ZW110630",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1106",
+      "level": 2,
+      "name": {
+        "local": "Mutasa",
+        "en": "Mutasa",
+        "slug": "mutasa-zw1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1106",
+        "level": 2,
+        "name": {
+          "local": "Mutasa",
+          "en": "Mutasa",
+          "slug": "mutasa-zw1106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.415",
+      "lon": "32.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110631",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "31",
+      "en": "31",
+      "slug": "31-zw110631"
+    },
+    "code": {
+      "id": "ZW110631",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1106",
+      "level": 2,
+      "name": {
+        "local": "Mutasa",
+        "en": "Mutasa",
+        "slug": "mutasa-zw1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1106",
+        "level": 2,
+        "name": {
+          "local": "Mutasa",
+          "en": "Mutasa",
+          "slug": "mutasa-zw1106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.484",
+      "lon": "32.851"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110604",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw110604"
+    },
+    "code": {
+      "id": "ZW110604",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1106",
+      "level": 2,
+      "name": {
+        "local": "Mutasa",
+        "en": "Mutasa",
+        "slug": "mutasa-zw1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1106",
+        "level": 2,
+        "name": {
+          "local": "Mutasa",
+          "en": "Mutasa",
+          "slug": "mutasa-zw1106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.438",
+      "lon": "32.995"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110605",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw110605"
+    },
+    "code": {
+      "id": "ZW110605",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1106",
+      "level": 2,
+      "name": {
+        "local": "Mutasa",
+        "en": "Mutasa",
+        "slug": "mutasa-zw1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1106",
+        "level": 2,
+        "name": {
+          "local": "Mutasa",
+          "en": "Mutasa",
+          "slug": "mutasa-zw1106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.455",
+      "lon": "32.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110606",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw110606"
+    },
+    "code": {
+      "id": "ZW110606",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1106",
+      "level": 2,
+      "name": {
+        "local": "Mutasa",
+        "en": "Mutasa",
+        "slug": "mutasa-zw1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1106",
+        "level": 2,
+        "name": {
+          "local": "Mutasa",
+          "en": "Mutasa",
+          "slug": "mutasa-zw1106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.491",
+      "lon": "32.823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110607",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw110607"
+    },
+    "code": {
+      "id": "ZW110607",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1106",
+      "level": 2,
+      "name": {
+        "local": "Mutasa",
+        "en": "Mutasa",
+        "slug": "mutasa-zw1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1106",
+        "level": 2,
+        "name": {
+          "local": "Mutasa",
+          "en": "Mutasa",
+          "slug": "mutasa-zw1106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.547",
+      "lon": "32.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110608",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw110608"
+    },
+    "code": {
+      "id": "ZW110608",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1106",
+      "level": 2,
+      "name": {
+        "local": "Mutasa",
+        "en": "Mutasa",
+        "slug": "mutasa-zw1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1106",
+        "level": 2,
+        "name": {
+          "local": "Mutasa",
+          "en": "Mutasa",
+          "slug": "mutasa-zw1106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.592",
+      "lon": "32.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110609",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw110609"
+    },
+    "code": {
+      "id": "ZW110609",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1106",
+      "level": 2,
+      "name": {
+        "local": "Mutasa",
+        "en": "Mutasa",
+        "slug": "mutasa-zw1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1106",
+        "level": 2,
+        "name": {
+          "local": "Mutasa",
+          "en": "Mutasa",
+          "slug": "mutasa-zw1106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.586",
+      "lon": "32.88"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

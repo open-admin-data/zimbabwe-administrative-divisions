@@ -1,0 +1,1568 @@
+[
+  {
+    "id": "ZW130701",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw130701"
+    },
+    "code": {
+      "id": "ZW130701",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1307",
+      "level": 2,
+      "name": {
+        "local": "Mutoko",
+        "en": "Mutoko",
+        "slug": "mutoko-zw1307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1307",
+        "level": 2,
+        "name": {
+          "local": "Mutoko",
+          "en": "Mutoko",
+          "slug": "mutoko-zw1307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.104",
+      "lon": "32.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130710",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw130710"
+    },
+    "code": {
+      "id": "ZW130710",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1307",
+      "level": 2,
+      "name": {
+        "local": "Mutoko",
+        "en": "Mutoko",
+        "slug": "mutoko-zw1307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1307",
+        "level": 2,
+        "name": {
+          "local": "Mutoko",
+          "en": "Mutoko",
+          "slug": "mutoko-zw1307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.375",
+      "lon": "32.086"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130711",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw130711"
+    },
+    "code": {
+      "id": "ZW130711",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1307",
+      "level": 2,
+      "name": {
+        "local": "Mutoko",
+        "en": "Mutoko",
+        "slug": "mutoko-zw1307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1307",
+        "level": 2,
+        "name": {
+          "local": "Mutoko",
+          "en": "Mutoko",
+          "slug": "mutoko-zw1307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.37",
+      "lon": "32.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130712",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw130712"
+    },
+    "code": {
+      "id": "ZW130712",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1307",
+      "level": 2,
+      "name": {
+        "local": "Mutoko",
+        "en": "Mutoko",
+        "slug": "mutoko-zw1307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1307",
+        "level": 2,
+        "name": {
+          "local": "Mutoko",
+          "en": "Mutoko",
+          "slug": "mutoko-zw1307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.336",
+      "lon": "32.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130713",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw130713"
+    },
+    "code": {
+      "id": "ZW130713",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1307",
+      "level": 2,
+      "name": {
+        "local": "Mutoko",
+        "en": "Mutoko",
+        "slug": "mutoko-zw1307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1307",
+        "level": 2,
+        "name": {
+          "local": "Mutoko",
+          "en": "Mutoko",
+          "slug": "mutoko-zw1307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.307",
+      "lon": "32.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130714",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw130714"
+    },
+    "code": {
+      "id": "ZW130714",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1307",
+      "level": 2,
+      "name": {
+        "local": "Mutoko",
+        "en": "Mutoko",
+        "slug": "mutoko-zw1307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1307",
+        "level": 2,
+        "name": {
+          "local": "Mutoko",
+          "en": "Mutoko",
+          "slug": "mutoko-zw1307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.325",
+      "lon": "32.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130715",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw130715"
+    },
+    "code": {
+      "id": "ZW130715",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1307",
+      "level": 2,
+      "name": {
+        "local": "Mutoko",
+        "en": "Mutoko",
+        "slug": "mutoko-zw1307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1307",
+        "level": 2,
+        "name": {
+          "local": "Mutoko",
+          "en": "Mutoko",
+          "slug": "mutoko-zw1307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.283",
+      "lon": "32.464"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130716",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "16",
+      "en": "16",
+      "slug": "16-zw130716"
+    },
+    "code": {
+      "id": "ZW130716",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1307",
+      "level": 2,
+      "name": {
+        "local": "Mutoko",
+        "en": "Mutoko",
+        "slug": "mutoko-zw1307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1307",
+        "level": 2,
+        "name": {
+          "local": "Mutoko",
+          "en": "Mutoko",
+          "slug": "mutoko-zw1307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.363",
+      "lon": "32.371"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130717",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "17",
+      "en": "17",
+      "slug": "17-zw130717"
+    },
+    "code": {
+      "id": "ZW130717",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1307",
+      "level": 2,
+      "name": {
+        "local": "Mutoko",
+        "en": "Mutoko",
+        "slug": "mutoko-zw1307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1307",
+        "level": 2,
+        "name": {
+          "local": "Mutoko",
+          "en": "Mutoko",
+          "slug": "mutoko-zw1307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.432",
+      "lon": "32.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130718",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "18",
+      "en": "18",
+      "slug": "18-zw130718"
+    },
+    "code": {
+      "id": "ZW130718",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1307",
+      "level": 2,
+      "name": {
+        "local": "Mutoko",
+        "en": "Mutoko",
+        "slug": "mutoko-zw1307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1307",
+        "level": 2,
+        "name": {
+          "local": "Mutoko",
+          "en": "Mutoko",
+          "slug": "mutoko-zw1307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.411",
+      "lon": "32.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130719",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "19",
+      "en": "19",
+      "slug": "19-zw130719"
+    },
+    "code": {
+      "id": "ZW130719",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1307",
+      "level": 2,
+      "name": {
+        "local": "Mutoko",
+        "en": "Mutoko",
+        "slug": "mutoko-zw1307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1307",
+        "level": 2,
+        "name": {
+          "local": "Mutoko",
+          "en": "Mutoko",
+          "slug": "mutoko-zw1307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.488",
+      "lon": "32.593"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130702",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw130702"
+    },
+    "code": {
+      "id": "ZW130702",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1307",
+      "level": 2,
+      "name": {
+        "local": "Mutoko",
+        "en": "Mutoko",
+        "slug": "mutoko-zw1307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1307",
+        "level": 2,
+        "name": {
+          "local": "Mutoko",
+          "en": "Mutoko",
+          "slug": "mutoko-zw1307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.232",
+      "lon": "32.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130720",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "20",
+      "en": "20",
+      "slug": "20-zw130720"
+    },
+    "code": {
+      "id": "ZW130720",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1307",
+      "level": 2,
+      "name": {
+        "local": "Mutoko",
+        "en": "Mutoko",
+        "slug": "mutoko-zw1307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1307",
+        "level": 2,
+        "name": {
+          "local": "Mutoko",
+          "en": "Mutoko",
+          "slug": "mutoko-zw1307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.415",
+      "lon": "32.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130721",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "21",
+      "en": "21",
+      "slug": "21-zw130721"
+    },
+    "code": {
+      "id": "ZW130721",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1307",
+      "level": 2,
+      "name": {
+        "local": "Mutoko",
+        "en": "Mutoko",
+        "slug": "mutoko-zw1307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1307",
+        "level": 2,
+        "name": {
+          "local": "Mutoko",
+          "en": "Mutoko",
+          "slug": "mutoko-zw1307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.431",
+      "lon": "32.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130722",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "22",
+      "en": "22",
+      "slug": "22-zw130722"
+    },
+    "code": {
+      "id": "ZW130722",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1307",
+      "level": 2,
+      "name": {
+        "local": "Mutoko",
+        "en": "Mutoko",
+        "slug": "mutoko-zw1307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1307",
+        "level": 2,
+        "name": {
+          "local": "Mutoko",
+          "en": "Mutoko",
+          "slug": "mutoko-zw1307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.453",
+      "lon": "32.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130723",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "23",
+      "en": "23",
+      "slug": "23-zw130723"
+    },
+    "code": {
+      "id": "ZW130723",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1307",
+      "level": 2,
+      "name": {
+        "local": "Mutoko",
+        "en": "Mutoko",
+        "slug": "mutoko-zw1307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1307",
+        "level": 2,
+        "name": {
+          "local": "Mutoko",
+          "en": "Mutoko",
+          "slug": "mutoko-zw1307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.487",
+      "lon": "32.387"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130724",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "24",
+      "en": "24",
+      "slug": "24-zw130724"
+    },
+    "code": {
+      "id": "ZW130724",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1307",
+      "level": 2,
+      "name": {
+        "local": "Mutoko",
+        "en": "Mutoko",
+        "slug": "mutoko-zw1307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1307",
+        "level": 2,
+        "name": {
+          "local": "Mutoko",
+          "en": "Mutoko",
+          "slug": "mutoko-zw1307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.584",
+      "lon": "32.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130725",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "25",
+      "en": "25",
+      "slug": "25-zw130725"
+    },
+    "code": {
+      "id": "ZW130725",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1307",
+      "level": 2,
+      "name": {
+        "local": "Mutoko",
+        "en": "Mutoko",
+        "slug": "mutoko-zw1307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1307",
+        "level": 2,
+        "name": {
+          "local": "Mutoko",
+          "en": "Mutoko",
+          "slug": "mutoko-zw1307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.488",
+      "lon": "31.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130726",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "26",
+      "en": "26",
+      "slug": "26-zw130726"
+    },
+    "code": {
+      "id": "ZW130726",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1307",
+      "level": 2,
+      "name": {
+        "local": "Mutoko",
+        "en": "Mutoko",
+        "slug": "mutoko-zw1307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1307",
+        "level": 2,
+        "name": {
+          "local": "Mutoko",
+          "en": "Mutoko",
+          "slug": "mutoko-zw1307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.61",
+      "lon": "32.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130727",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "27",
+      "en": "27",
+      "slug": "27-zw130727"
+    },
+    "code": {
+      "id": "ZW130727",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1307",
+      "level": 2,
+      "name": {
+        "local": "Mutoko",
+        "en": "Mutoko",
+        "slug": "mutoko-zw1307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1307",
+        "level": 2,
+        "name": {
+          "local": "Mutoko",
+          "en": "Mutoko",
+          "slug": "mutoko-zw1307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.543",
+      "lon": "32.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130728",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "28",
+      "en": "28",
+      "slug": "28-zw130728"
+    },
+    "code": {
+      "id": "ZW130728",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1307",
+      "level": 2,
+      "name": {
+        "local": "Mutoko",
+        "en": "Mutoko",
+        "slug": "mutoko-zw1307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1307",
+        "level": 2,
+        "name": {
+          "local": "Mutoko",
+          "en": "Mutoko",
+          "slug": "mutoko-zw1307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.607",
+      "lon": "32.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130729",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "29",
+      "en": "29",
+      "slug": "29-zw130729"
+    },
+    "code": {
+      "id": "ZW130729",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1307",
+      "level": 2,
+      "name": {
+        "local": "Mutoko",
+        "en": "Mutoko",
+        "slug": "mutoko-zw1307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1307",
+        "level": 2,
+        "name": {
+          "local": "Mutoko",
+          "en": "Mutoko",
+          "slug": "mutoko-zw1307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.71",
+      "lon": "32.186"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130703",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw130703"
+    },
+    "code": {
+      "id": "ZW130703",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1307",
+      "level": 2,
+      "name": {
+        "local": "Mutoko",
+        "en": "Mutoko",
+        "slug": "mutoko-zw1307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1307",
+        "level": 2,
+        "name": {
+          "local": "Mutoko",
+          "en": "Mutoko",
+          "slug": "mutoko-zw1307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.177",
+      "lon": "32.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130704",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw130704"
+    },
+    "code": {
+      "id": "ZW130704",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1307",
+      "level": 2,
+      "name": {
+        "local": "Mutoko",
+        "en": "Mutoko",
+        "slug": "mutoko-zw1307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1307",
+        "level": 2,
+        "name": {
+          "local": "Mutoko",
+          "en": "Mutoko",
+          "slug": "mutoko-zw1307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.195",
+      "lon": "32.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130705",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw130705"
+    },
+    "code": {
+      "id": "ZW130705",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1307",
+      "level": 2,
+      "name": {
+        "local": "Mutoko",
+        "en": "Mutoko",
+        "slug": "mutoko-zw1307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1307",
+        "level": 2,
+        "name": {
+          "local": "Mutoko",
+          "en": "Mutoko",
+          "slug": "mutoko-zw1307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.343",
+      "lon": "32.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130706",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw130706"
+    },
+    "code": {
+      "id": "ZW130706",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1307",
+      "level": 2,
+      "name": {
+        "local": "Mutoko",
+        "en": "Mutoko",
+        "slug": "mutoko-zw1307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1307",
+        "level": 2,
+        "name": {
+          "local": "Mutoko",
+          "en": "Mutoko",
+          "slug": "mutoko-zw1307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.291",
+      "lon": "32.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130707",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw130707"
+    },
+    "code": {
+      "id": "ZW130707",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1307",
+      "level": 2,
+      "name": {
+        "local": "Mutoko",
+        "en": "Mutoko",
+        "slug": "mutoko-zw1307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1307",
+        "level": 2,
+        "name": {
+          "local": "Mutoko",
+          "en": "Mutoko",
+          "slug": "mutoko-zw1307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.256",
+      "lon": "32.243"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130708",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw130708"
+    },
+    "code": {
+      "id": "ZW130708",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1307",
+      "level": 2,
+      "name": {
+        "local": "Mutoko",
+        "en": "Mutoko",
+        "slug": "mutoko-zw1307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1307",
+        "level": 2,
+        "name": {
+          "local": "Mutoko",
+          "en": "Mutoko",
+          "slug": "mutoko-zw1307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.261",
+      "lon": "32.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130709",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw130709"
+    },
+    "code": {
+      "id": "ZW130709",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1307",
+      "level": 2,
+      "name": {
+        "local": "Mutoko",
+        "en": "Mutoko",
+        "slug": "mutoko-zw1307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1307",
+        "level": 2,
+        "name": {
+          "local": "Mutoko",
+          "en": "Mutoko",
+          "slug": "mutoko-zw1307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.237",
+      "lon": "32.43"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

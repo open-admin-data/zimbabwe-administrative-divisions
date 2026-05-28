@@ -1,0 +1,47 @@
+{
+  "id": "ZW1723",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Redcliff",
+    "en": "Redcliff",
+    "slug": "redcliff-zw1723"
+  },
+  "code": {
+    "id": "ZW1723",
+    "iso": null
+  },
+  "parent": {
+    "id": "ZW17",
+    "level": 1,
+    "name": {
+      "local": "Midlands",
+      "en": "Midlands",
+      "slug": "midlands-zw17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ZW17",
+      "level": 1,
+      "name": {
+        "local": "Midlands",
+        "en": "Midlands",
+        "slug": "midlands-zw17"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.012",
+    "lon": "29.76"
+  },
+  "metadata": {},
+  "source": {}
+}

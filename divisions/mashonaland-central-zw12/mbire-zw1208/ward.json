@@ -1,0 +1,920 @@
+[
+  {
+    "id": "ZW120801",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw120801"
+    },
+    "code": {
+      "id": "ZW120801",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1208",
+      "level": 2,
+      "name": {
+        "local": "Mbire",
+        "en": "Mbire",
+        "slug": "mbire-zw1208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1208",
+        "level": 2,
+        "name": {
+          "local": "Mbire",
+          "en": "Mbire",
+          "slug": "mbire-zw1208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.789",
+      "lon": "30.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120810",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw120810"
+    },
+    "code": {
+      "id": "ZW120810",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1208",
+      "level": 2,
+      "name": {
+        "local": "Mbire",
+        "en": "Mbire",
+        "slug": "mbire-zw1208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1208",
+        "level": 2,
+        "name": {
+          "local": "Mbire",
+          "en": "Mbire",
+          "slug": "mbire-zw1208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.288",
+      "lon": "30.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120811",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw120811"
+    },
+    "code": {
+      "id": "ZW120811",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1208",
+      "level": 2,
+      "name": {
+        "local": "Mbire",
+        "en": "Mbire",
+        "slug": "mbire-zw1208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1208",
+        "level": 2,
+        "name": {
+          "local": "Mbire",
+          "en": "Mbire",
+          "slug": "mbire-zw1208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.246",
+      "lon": "30.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120812",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw120812"
+    },
+    "code": {
+      "id": "ZW120812",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1208",
+      "level": 2,
+      "name": {
+        "local": "Mbire",
+        "en": "Mbire",
+        "slug": "mbire-zw1208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1208",
+        "level": 2,
+        "name": {
+          "local": "Mbire",
+          "en": "Mbire",
+          "slug": "mbire-zw1208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.123",
+      "lon": "30.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120813",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw120813"
+    },
+    "code": {
+      "id": "ZW120813",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1208",
+      "level": 2,
+      "name": {
+        "local": "Mbire",
+        "en": "Mbire",
+        "slug": "mbire-zw1208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1208",
+        "level": 2,
+        "name": {
+          "local": "Mbire",
+          "en": "Mbire",
+          "slug": "mbire-zw1208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.157",
+      "lon": "30.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120814",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw120814"
+    },
+    "code": {
+      "id": "ZW120814",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1208",
+      "level": 2,
+      "name": {
+        "local": "Mbire",
+        "en": "Mbire",
+        "slug": "mbire-zw1208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1208",
+        "level": 2,
+        "name": {
+          "local": "Mbire",
+          "en": "Mbire",
+          "slug": "mbire-zw1208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.289",
+      "lon": "30.892"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120815",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw120815"
+    },
+    "code": {
+      "id": "ZW120815",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1208",
+      "level": 2,
+      "name": {
+        "local": "Mbire",
+        "en": "Mbire",
+        "slug": "mbire-zw1208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1208",
+        "level": 2,
+        "name": {
+          "local": "Mbire",
+          "en": "Mbire",
+          "slug": "mbire-zw1208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.323",
+      "lon": "30.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120816",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "16",
+      "en": "16",
+      "slug": "16-zw120816"
+    },
+    "code": {
+      "id": "ZW120816",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1208",
+      "level": 2,
+      "name": {
+        "local": "Mbire",
+        "en": "Mbire",
+        "slug": "mbire-zw1208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1208",
+        "level": 2,
+        "name": {
+          "local": "Mbire",
+          "en": "Mbire",
+          "slug": "mbire-zw1208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.276",
+      "lon": "30.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120817",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "17",
+      "en": "17",
+      "slug": "17-zw120817"
+    },
+    "code": {
+      "id": "ZW120817",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1208",
+      "level": 2,
+      "name": {
+        "local": "Mbire",
+        "en": "Mbire",
+        "slug": "mbire-zw1208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1208",
+        "level": 2,
+        "name": {
+          "local": "Mbire",
+          "en": "Mbire",
+          "slug": "mbire-zw1208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.21",
+      "lon": "30.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120802",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw120802"
+    },
+    "code": {
+      "id": "ZW120802",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1208",
+      "level": 2,
+      "name": {
+        "local": "Mbire",
+        "en": "Mbire",
+        "slug": "mbire-zw1208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1208",
+        "level": 2,
+        "name": {
+          "local": "Mbire",
+          "en": "Mbire",
+          "slug": "mbire-zw1208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.138",
+      "lon": "30.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120803",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw120803"
+    },
+    "code": {
+      "id": "ZW120803",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1208",
+      "level": 2,
+      "name": {
+        "local": "Mbire",
+        "en": "Mbire",
+        "slug": "mbire-zw1208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1208",
+        "level": 2,
+        "name": {
+          "local": "Mbire",
+          "en": "Mbire",
+          "slug": "mbire-zw1208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.085",
+      "lon": "30.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120804",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw120804"
+    },
+    "code": {
+      "id": "ZW120804",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1208",
+      "level": 2,
+      "name": {
+        "local": "Mbire",
+        "en": "Mbire",
+        "slug": "mbire-zw1208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1208",
+        "level": 2,
+        "name": {
+          "local": "Mbire",
+          "en": "Mbire",
+          "slug": "mbire-zw1208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.134",
+      "lon": "30.807"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120805",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw120805"
+    },
+    "code": {
+      "id": "ZW120805",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1208",
+      "level": 2,
+      "name": {
+        "local": "Mbire",
+        "en": "Mbire",
+        "slug": "mbire-zw1208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1208",
+        "level": 2,
+        "name": {
+          "local": "Mbire",
+          "en": "Mbire",
+          "slug": "mbire-zw1208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.071",
+      "lon": "31.113"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120806",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw120806"
+    },
+    "code": {
+      "id": "ZW120806",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1208",
+      "level": 2,
+      "name": {
+        "local": "Mbire",
+        "en": "Mbire",
+        "slug": "mbire-zw1208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1208",
+        "level": 2,
+        "name": {
+          "local": "Mbire",
+          "en": "Mbire",
+          "slug": "mbire-zw1208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.336",
+      "lon": "30.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120807",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw120807"
+    },
+    "code": {
+      "id": "ZW120807",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1208",
+      "level": 2,
+      "name": {
+        "local": "Mbire",
+        "en": "Mbire",
+        "slug": "mbire-zw1208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1208",
+        "level": 2,
+        "name": {
+          "local": "Mbire",
+          "en": "Mbire",
+          "slug": "mbire-zw1208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.311",
+      "lon": "30.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120808",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw120808"
+    },
+    "code": {
+      "id": "ZW120808",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1208",
+      "level": 2,
+      "name": {
+        "local": "Mbire",
+        "en": "Mbire",
+        "slug": "mbire-zw1208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1208",
+        "level": 2,
+        "name": {
+          "local": "Mbire",
+          "en": "Mbire",
+          "slug": "mbire-zw1208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.304",
+      "lon": "30.59"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120809",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw120809"
+    },
+    "code": {
+      "id": "ZW120809",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1208",
+      "level": 2,
+      "name": {
+        "local": "Mbire",
+        "en": "Mbire",
+        "slug": "mbire-zw1208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1208",
+        "level": 2,
+        "name": {
+          "local": "Mbire",
+          "en": "Mbire",
+          "slug": "mbire-zw1208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.206",
+      "lon": "30.494"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

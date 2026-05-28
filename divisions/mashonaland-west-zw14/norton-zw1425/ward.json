@@ -1,0 +1,704 @@
+[
+  {
+    "id": "ZW142501",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw142501"
+    },
+    "code": {
+      "id": "ZW142501",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1425",
+      "level": 2,
+      "name": {
+        "local": "Norton",
+        "en": "Norton",
+        "slug": "norton-zw1425"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1425",
+        "level": 2,
+        "name": {
+          "local": "Norton",
+          "en": "Norton",
+          "slug": "norton-zw1425"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.867",
+      "lon": "30.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142510",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw142510"
+    },
+    "code": {
+      "id": "ZW142510",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1425",
+      "level": 2,
+      "name": {
+        "local": "Norton",
+        "en": "Norton",
+        "slug": "norton-zw1425"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1425",
+        "level": 2,
+        "name": {
+          "local": "Norton",
+          "en": "Norton",
+          "slug": "norton-zw1425"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.884",
+      "lon": "30.665"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142511",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw142511"
+    },
+    "code": {
+      "id": "ZW142511",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1425",
+      "level": 2,
+      "name": {
+        "local": "Norton",
+        "en": "Norton",
+        "slug": "norton-zw1425"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1425",
+        "level": 2,
+        "name": {
+          "local": "Norton",
+          "en": "Norton",
+          "slug": "norton-zw1425"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.885",
+      "lon": "30.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142512",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw142512"
+    },
+    "code": {
+      "id": "ZW142512",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1425",
+      "level": 2,
+      "name": {
+        "local": "Norton",
+        "en": "Norton",
+        "slug": "norton-zw1425"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1425",
+        "level": 2,
+        "name": {
+          "local": "Norton",
+          "en": "Norton",
+          "slug": "norton-zw1425"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.886",
+      "lon": "30.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142513",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw142513"
+    },
+    "code": {
+      "id": "ZW142513",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1425",
+      "level": 2,
+      "name": {
+        "local": "Norton",
+        "en": "Norton",
+        "slug": "norton-zw1425"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1425",
+        "level": 2,
+        "name": {
+          "local": "Norton",
+          "en": "Norton",
+          "slug": "norton-zw1425"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.869",
+      "lon": "30.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142502",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw142502"
+    },
+    "code": {
+      "id": "ZW142502",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1425",
+      "level": 2,
+      "name": {
+        "local": "Norton",
+        "en": "Norton",
+        "slug": "norton-zw1425"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1425",
+        "level": 2,
+        "name": {
+          "local": "Norton",
+          "en": "Norton",
+          "slug": "norton-zw1425"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.873",
+      "lon": "30.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142503",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw142503"
+    },
+    "code": {
+      "id": "ZW142503",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1425",
+      "level": 2,
+      "name": {
+        "local": "Norton",
+        "en": "Norton",
+        "slug": "norton-zw1425"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1425",
+        "level": 2,
+        "name": {
+          "local": "Norton",
+          "en": "Norton",
+          "slug": "norton-zw1425"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.88",
+      "lon": "30.694"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142504",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw142504"
+    },
+    "code": {
+      "id": "ZW142504",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1425",
+      "level": 2,
+      "name": {
+        "local": "Norton",
+        "en": "Norton",
+        "slug": "norton-zw1425"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1425",
+        "level": 2,
+        "name": {
+          "local": "Norton",
+          "en": "Norton",
+          "slug": "norton-zw1425"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.904",
+      "lon": "30.658"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142505",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw142505"
+    },
+    "code": {
+      "id": "ZW142505",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1425",
+      "level": 2,
+      "name": {
+        "local": "Norton",
+        "en": "Norton",
+        "slug": "norton-zw1425"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1425",
+        "level": 2,
+        "name": {
+          "local": "Norton",
+          "en": "Norton",
+          "slug": "norton-zw1425"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.876",
+      "lon": "30.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142506",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw142506"
+    },
+    "code": {
+      "id": "ZW142506",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1425",
+      "level": 2,
+      "name": {
+        "local": "Norton",
+        "en": "Norton",
+        "slug": "norton-zw1425"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1425",
+        "level": 2,
+        "name": {
+          "local": "Norton",
+          "en": "Norton",
+          "slug": "norton-zw1425"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.86",
+      "lon": "30.673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142507",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw142507"
+    },
+    "code": {
+      "id": "ZW142507",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1425",
+      "level": 2,
+      "name": {
+        "local": "Norton",
+        "en": "Norton",
+        "slug": "norton-zw1425"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1425",
+        "level": 2,
+        "name": {
+          "local": "Norton",
+          "en": "Norton",
+          "slug": "norton-zw1425"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.876",
+      "lon": "30.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142508",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw142508"
+    },
+    "code": {
+      "id": "ZW142508",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1425",
+      "level": 2,
+      "name": {
+        "local": "Norton",
+        "en": "Norton",
+        "slug": "norton-zw1425"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1425",
+        "level": 2,
+        "name": {
+          "local": "Norton",
+          "en": "Norton",
+          "slug": "norton-zw1425"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.879",
+      "lon": "30.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142509",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw142509"
+    },
+    "code": {
+      "id": "ZW142509",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1425",
+      "level": 2,
+      "name": {
+        "local": "Norton",
+        "en": "Norton",
+        "slug": "norton-zw1425"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1425",
+        "level": 2,
+        "name": {
+          "local": "Norton",
+          "en": "Norton",
+          "slug": "norton-zw1425"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.884",
+      "lon": "30.671"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "ZW1205",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mount Darwin",
+    "en": "Mount Darwin",
+    "slug": "mount-darwin-zw1205"
+  },
+  "code": {
+    "id": "ZW1205",
+    "iso": null
+  },
+  "parent": {
+    "id": "ZW12",
+    "level": 1,
+    "name": {
+      "local": "Mashonaland Central",
+      "en": "Mashonaland Central",
+      "slug": "mashonaland-central-zw12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ZW12",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland Central",
+        "en": "Mashonaland Central",
+        "slug": "mashonaland-central-zw12"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 40
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.539",
+    "lon": "31.639"
+  },
+  "metadata": {},
+  "source": {}
+}

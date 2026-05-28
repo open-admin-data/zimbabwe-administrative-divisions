@@ -1,0 +1,1568 @@
+[
+  {
+    "id": "ZW120201",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw120201"
+    },
+    "code": {
+      "id": "ZW120201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1202",
+      "level": 2,
+      "name": {
+        "local": "Centenary/ Muzarabani",
+        "en": "Centenary/ Muzarabani",
+        "slug": "centenary-muzarabani-zw1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1202",
+        "level": 2,
+        "name": {
+          "local": "Centenary/ Muzarabani",
+          "en": "Centenary/ Muzarabani",
+          "slug": "centenary-muzarabani-zw1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.196",
+      "lon": "31.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120210",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw120210"
+    },
+    "code": {
+      "id": "ZW120210",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1202",
+      "level": 2,
+      "name": {
+        "local": "Centenary/ Muzarabani",
+        "en": "Centenary/ Muzarabani",
+        "slug": "centenary-muzarabani-zw1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1202",
+        "level": 2,
+        "name": {
+          "local": "Centenary/ Muzarabani",
+          "en": "Centenary/ Muzarabani",
+          "slug": "centenary-muzarabani-zw1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.456",
+      "lon": "31.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120211",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw120211"
+    },
+    "code": {
+      "id": "ZW120211",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1202",
+      "level": 2,
+      "name": {
+        "local": "Centenary/ Muzarabani",
+        "en": "Centenary/ Muzarabani",
+        "slug": "centenary-muzarabani-zw1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1202",
+        "level": 2,
+        "name": {
+          "local": "Centenary/ Muzarabani",
+          "en": "Centenary/ Muzarabani",
+          "slug": "centenary-muzarabani-zw1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.581",
+      "lon": "31.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120212",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw120212"
+    },
+    "code": {
+      "id": "ZW120212",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1202",
+      "level": 2,
+      "name": {
+        "local": "Centenary/ Muzarabani",
+        "en": "Centenary/ Muzarabani",
+        "slug": "centenary-muzarabani-zw1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1202",
+        "level": 2,
+        "name": {
+          "local": "Centenary/ Muzarabani",
+          "en": "Centenary/ Muzarabani",
+          "slug": "centenary-muzarabani-zw1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.634",
+      "lon": "31.257"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120213",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw120213"
+    },
+    "code": {
+      "id": "ZW120213",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1202",
+      "level": 2,
+      "name": {
+        "local": "Centenary/ Muzarabani",
+        "en": "Centenary/ Muzarabani",
+        "slug": "centenary-muzarabani-zw1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1202",
+        "level": 2,
+        "name": {
+          "local": "Centenary/ Muzarabani",
+          "en": "Centenary/ Muzarabani",
+          "slug": "centenary-muzarabani-zw1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.718",
+      "lon": "31.026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120214",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw120214"
+    },
+    "code": {
+      "id": "ZW120214",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1202",
+      "level": 2,
+      "name": {
+        "local": "Centenary/ Muzarabani",
+        "en": "Centenary/ Muzarabani",
+        "slug": "centenary-muzarabani-zw1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1202",
+        "level": 2,
+        "name": {
+          "local": "Centenary/ Muzarabani",
+          "en": "Centenary/ Muzarabani",
+          "slug": "centenary-muzarabani-zw1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.771",
+      "lon": "31.155"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120215",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw120215"
+    },
+    "code": {
+      "id": "ZW120215",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1202",
+      "level": 2,
+      "name": {
+        "local": "Centenary/ Muzarabani",
+        "en": "Centenary/ Muzarabani",
+        "slug": "centenary-muzarabani-zw1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1202",
+        "level": 2,
+        "name": {
+          "local": "Centenary/ Muzarabani",
+          "en": "Centenary/ Muzarabani",
+          "slug": "centenary-muzarabani-zw1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.732",
+      "lon": "31.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120216",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "16",
+      "en": "16",
+      "slug": "16-zw120216"
+    },
+    "code": {
+      "id": "ZW120216",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1202",
+      "level": 2,
+      "name": {
+        "local": "Centenary/ Muzarabani",
+        "en": "Centenary/ Muzarabani",
+        "slug": "centenary-muzarabani-zw1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1202",
+        "level": 2,
+        "name": {
+          "local": "Centenary/ Muzarabani",
+          "en": "Centenary/ Muzarabani",
+          "slug": "centenary-muzarabani-zw1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.544",
+      "lon": "31.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120217",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "17",
+      "en": "17",
+      "slug": "17-zw120217"
+    },
+    "code": {
+      "id": "ZW120217",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1202",
+      "level": 2,
+      "name": {
+        "local": "Centenary/ Muzarabani",
+        "en": "Centenary/ Muzarabani",
+        "slug": "centenary-muzarabani-zw1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1202",
+        "level": 2,
+        "name": {
+          "local": "Centenary/ Muzarabani",
+          "en": "Centenary/ Muzarabani",
+          "slug": "centenary-muzarabani-zw1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.376",
+      "lon": "31.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120218",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "18",
+      "en": "18",
+      "slug": "18-zw120218"
+    },
+    "code": {
+      "id": "ZW120218",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1202",
+      "level": 2,
+      "name": {
+        "local": "Centenary/ Muzarabani",
+        "en": "Centenary/ Muzarabani",
+        "slug": "centenary-muzarabani-zw1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1202",
+        "level": 2,
+        "name": {
+          "local": "Centenary/ Muzarabani",
+          "en": "Centenary/ Muzarabani",
+          "slug": "centenary-muzarabani-zw1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.385",
+      "lon": "31.434"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120219",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "19",
+      "en": "19",
+      "slug": "19-zw120219"
+    },
+    "code": {
+      "id": "ZW120219",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1202",
+      "level": 2,
+      "name": {
+        "local": "Centenary/ Muzarabani",
+        "en": "Centenary/ Muzarabani",
+        "slug": "centenary-muzarabani-zw1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1202",
+        "level": 2,
+        "name": {
+          "local": "Centenary/ Muzarabani",
+          "en": "Centenary/ Muzarabani",
+          "slug": "centenary-muzarabani-zw1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.35",
+      "lon": "31.075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120202",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw120202"
+    },
+    "code": {
+      "id": "ZW120202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1202",
+      "level": 2,
+      "name": {
+        "local": "Centenary/ Muzarabani",
+        "en": "Centenary/ Muzarabani",
+        "slug": "centenary-muzarabani-zw1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1202",
+        "level": 2,
+        "name": {
+          "local": "Centenary/ Muzarabani",
+          "en": "Centenary/ Muzarabani",
+          "slug": "centenary-muzarabani-zw1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.249",
+      "lon": "31.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120220",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "20",
+      "en": "20",
+      "slug": "20-zw120220"
+    },
+    "code": {
+      "id": "ZW120220",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1202",
+      "level": 2,
+      "name": {
+        "local": "Centenary/ Muzarabani",
+        "en": "Centenary/ Muzarabani",
+        "slug": "centenary-muzarabani-zw1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1202",
+        "level": 2,
+        "name": {
+          "local": "Centenary/ Muzarabani",
+          "en": "Centenary/ Muzarabani",
+          "slug": "centenary-muzarabani-zw1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.485",
+      "lon": "31.118"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120221",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "21",
+      "en": "21",
+      "slug": "21-zw120221"
+    },
+    "code": {
+      "id": "ZW120221",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1202",
+      "level": 2,
+      "name": {
+        "local": "Centenary/ Muzarabani",
+        "en": "Centenary/ Muzarabani",
+        "slug": "centenary-muzarabani-zw1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1202",
+        "level": 2,
+        "name": {
+          "local": "Centenary/ Muzarabani",
+          "en": "Centenary/ Muzarabani",
+          "slug": "centenary-muzarabani-zw1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.524",
+      "lon": "31.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120222",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "22",
+      "en": "22",
+      "slug": "22-zw120222"
+    },
+    "code": {
+      "id": "ZW120222",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1202",
+      "level": 2,
+      "name": {
+        "local": "Centenary/ Muzarabani",
+        "en": "Centenary/ Muzarabani",
+        "slug": "centenary-muzarabani-zw1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1202",
+        "level": 2,
+        "name": {
+          "local": "Centenary/ Muzarabani",
+          "en": "Centenary/ Muzarabani",
+          "slug": "centenary-muzarabani-zw1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.76",
+      "lon": "31.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120223",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "23",
+      "en": "23",
+      "slug": "23-zw120223"
+    },
+    "code": {
+      "id": "ZW120223",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1202",
+      "level": 2,
+      "name": {
+        "local": "Centenary/ Muzarabani",
+        "en": "Centenary/ Muzarabani",
+        "slug": "centenary-muzarabani-zw1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1202",
+        "level": 2,
+        "name": {
+          "local": "Centenary/ Muzarabani",
+          "en": "Centenary/ Muzarabani",
+          "slug": "centenary-muzarabani-zw1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.073",
+      "lon": "31.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120224",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "24",
+      "en": "24",
+      "slug": "24-zw120224"
+    },
+    "code": {
+      "id": "ZW120224",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1202",
+      "level": 2,
+      "name": {
+        "local": "Centenary/ Muzarabani",
+        "en": "Centenary/ Muzarabani",
+        "slug": "centenary-muzarabani-zw1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1202",
+        "level": 2,
+        "name": {
+          "local": "Centenary/ Muzarabani",
+          "en": "Centenary/ Muzarabani",
+          "slug": "centenary-muzarabani-zw1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.167",
+      "lon": "31.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120225",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "25",
+      "en": "25",
+      "slug": "25-zw120225"
+    },
+    "code": {
+      "id": "ZW120225",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1202",
+      "level": 2,
+      "name": {
+        "local": "Centenary/ Muzarabani",
+        "en": "Centenary/ Muzarabani",
+        "slug": "centenary-muzarabani-zw1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1202",
+        "level": 2,
+        "name": {
+          "local": "Centenary/ Muzarabani",
+          "en": "Centenary/ Muzarabani",
+          "slug": "centenary-muzarabani-zw1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.529",
+      "lon": "31.246"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120226",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "26",
+      "en": "26",
+      "slug": "26-zw120226"
+    },
+    "code": {
+      "id": "ZW120226",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1202",
+      "level": 2,
+      "name": {
+        "local": "Centenary/ Muzarabani",
+        "en": "Centenary/ Muzarabani",
+        "slug": "centenary-muzarabani-zw1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1202",
+        "level": 2,
+        "name": {
+          "local": "Centenary/ Muzarabani",
+          "en": "Centenary/ Muzarabani",
+          "slug": "centenary-muzarabani-zw1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.681",
+      "lon": "31.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120227",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "27",
+      "en": "27",
+      "slug": "27-zw120227"
+    },
+    "code": {
+      "id": "ZW120227",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1202",
+      "level": 2,
+      "name": {
+        "local": "Centenary/ Muzarabani",
+        "en": "Centenary/ Muzarabani",
+        "slug": "centenary-muzarabani-zw1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1202",
+        "level": 2,
+        "name": {
+          "local": "Centenary/ Muzarabani",
+          "en": "Centenary/ Muzarabani",
+          "slug": "centenary-muzarabani-zw1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.369",
+      "lon": "31.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120228",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "28",
+      "en": "28",
+      "slug": "28-zw120228"
+    },
+    "code": {
+      "id": "ZW120228",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1202",
+      "level": 2,
+      "name": {
+        "local": "Centenary/ Muzarabani",
+        "en": "Centenary/ Muzarabani",
+        "slug": "centenary-muzarabani-zw1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1202",
+        "level": 2,
+        "name": {
+          "local": "Centenary/ Muzarabani",
+          "en": "Centenary/ Muzarabani",
+          "slug": "centenary-muzarabani-zw1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.797",
+      "lon": "30.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120229",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "29",
+      "en": "29",
+      "slug": "29-zw120229"
+    },
+    "code": {
+      "id": "ZW120229",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1202",
+      "level": 2,
+      "name": {
+        "local": "Centenary/ Muzarabani",
+        "en": "Centenary/ Muzarabani",
+        "slug": "centenary-muzarabani-zw1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1202",
+        "level": 2,
+        "name": {
+          "local": "Centenary/ Muzarabani",
+          "en": "Centenary/ Muzarabani",
+          "slug": "centenary-muzarabani-zw1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.534",
+      "lon": "30.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120203",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw120203"
+    },
+    "code": {
+      "id": "ZW120203",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1202",
+      "level": 2,
+      "name": {
+        "local": "Centenary/ Muzarabani",
+        "en": "Centenary/ Muzarabani",
+        "slug": "centenary-muzarabani-zw1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1202",
+        "level": 2,
+        "name": {
+          "local": "Centenary/ Muzarabani",
+          "en": "Centenary/ Muzarabani",
+          "slug": "centenary-muzarabani-zw1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.317",
+      "lon": "31.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120204",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw120204"
+    },
+    "code": {
+      "id": "ZW120204",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1202",
+      "level": 2,
+      "name": {
+        "local": "Centenary/ Muzarabani",
+        "en": "Centenary/ Muzarabani",
+        "slug": "centenary-muzarabani-zw1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1202",
+        "level": 2,
+        "name": {
+          "local": "Centenary/ Muzarabani",
+          "en": "Centenary/ Muzarabani",
+          "slug": "centenary-muzarabani-zw1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.202",
+      "lon": "31.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120205",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw120205"
+    },
+    "code": {
+      "id": "ZW120205",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1202",
+      "level": 2,
+      "name": {
+        "local": "Centenary/ Muzarabani",
+        "en": "Centenary/ Muzarabani",
+        "slug": "centenary-muzarabani-zw1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1202",
+        "level": 2,
+        "name": {
+          "local": "Centenary/ Muzarabani",
+          "en": "Centenary/ Muzarabani",
+          "slug": "centenary-muzarabani-zw1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.262",
+      "lon": "30.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120206",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw120206"
+    },
+    "code": {
+      "id": "ZW120206",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1202",
+      "level": 2,
+      "name": {
+        "local": "Centenary/ Muzarabani",
+        "en": "Centenary/ Muzarabani",
+        "slug": "centenary-muzarabani-zw1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1202",
+        "level": 2,
+        "name": {
+          "local": "Centenary/ Muzarabani",
+          "en": "Centenary/ Muzarabani",
+          "slug": "centenary-muzarabani-zw1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.347",
+      "lon": "30.947"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120207",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw120207"
+    },
+    "code": {
+      "id": "ZW120207",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1202",
+      "level": 2,
+      "name": {
+        "local": "Centenary/ Muzarabani",
+        "en": "Centenary/ Muzarabani",
+        "slug": "centenary-muzarabani-zw1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1202",
+        "level": 2,
+        "name": {
+          "local": "Centenary/ Muzarabani",
+          "en": "Centenary/ Muzarabani",
+          "slug": "centenary-muzarabani-zw1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.345",
+      "lon": "30.879"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120208",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw120208"
+    },
+    "code": {
+      "id": "ZW120208",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1202",
+      "level": 2,
+      "name": {
+        "local": "Centenary/ Muzarabani",
+        "en": "Centenary/ Muzarabani",
+        "slug": "centenary-muzarabani-zw1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1202",
+        "level": 2,
+        "name": {
+          "local": "Centenary/ Muzarabani",
+          "en": "Centenary/ Muzarabani",
+          "slug": "centenary-muzarabani-zw1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.369",
+      "lon": "31.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120209",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw120209"
+    },
+    "code": {
+      "id": "ZW120209",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1202",
+      "level": 2,
+      "name": {
+        "local": "Centenary/ Muzarabani",
+        "en": "Centenary/ Muzarabani",
+        "slug": "centenary-muzarabani-zw1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1202",
+        "level": 2,
+        "name": {
+          "local": "Centenary/ Muzarabani",
+          "en": "Centenary/ Muzarabani",
+          "slug": "centenary-muzarabani-zw1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.495",
+      "lon": "31.066"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

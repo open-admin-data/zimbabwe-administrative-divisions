@@ -1,0 +1,11 @@
+id,name.local,name.en,name.slug,code.id,children_count.ward,geo.lat,geo.lon
+ZW1101,Buhera,Buhera,buhera-zw1101,ZW1101,33,-19.506,31.937
+ZW1102,Chimanimani,Chimanimani,chimanimani-zw1102,ZW1102,23,-19.741,32.698
+ZW1103,Chipinge,Chipinge,chipinge-zw1103,ZW1103,30,-20.62,32.381
+ZW1123,Chipinge Urban,Chipinge Urban,chipinge-urban-zw1123,ZW1123,8,-20.196,32.627
+ZW1104,Makoni,Makoni,makoni-zw1104,ZW1104,39,-18.385,32.144
+ZW1105,Mutare,Mutare,mutare-zw1105,ZW1105,36,-19.249,32.439
+ZW1121,Mutare Urban,Mutare Urban,mutare-urban-zw1121,ZW1121,19,-18.996,32.613
+ZW1106,Mutasa,Mutasa,mutasa-zw1106,ZW1106,31,-18.58,32.677
+ZW1107,Nyanga,Nyanga,nyanga-zw1107,ZW1107,31,-17.911,32.777
+ZW1122,Rusape,Rusape,rusape-zw1122,ZW1122,10,-18.534,32.13

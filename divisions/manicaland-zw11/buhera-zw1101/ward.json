@@ -1,0 +1,1784 @@
+[
+  {
+    "id": "ZW110101",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw110101"
+    },
+    "code": {
+      "id": "ZW110101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1101",
+      "level": 2,
+      "name": {
+        "local": "Buhera",
+        "en": "Buhera",
+        "slug": "buhera-zw1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1101",
+        "level": 2,
+        "name": {
+          "local": "Buhera",
+          "en": "Buhera",
+          "slug": "buhera-zw1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.141",
+      "lon": "31.414"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110110",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw110110"
+    },
+    "code": {
+      "id": "ZW110110",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1101",
+      "level": 2,
+      "name": {
+        "local": "Buhera",
+        "en": "Buhera",
+        "slug": "buhera-zw1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1101",
+        "level": 2,
+        "name": {
+          "local": "Buhera",
+          "en": "Buhera",
+          "slug": "buhera-zw1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.153",
+      "lon": "31.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110111",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw110111"
+    },
+    "code": {
+      "id": "ZW110111",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1101",
+      "level": 2,
+      "name": {
+        "local": "Buhera",
+        "en": "Buhera",
+        "slug": "buhera-zw1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1101",
+        "level": 2,
+        "name": {
+          "local": "Buhera",
+          "en": "Buhera",
+          "slug": "buhera-zw1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.19",
+      "lon": "31.84"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110112",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw110112"
+    },
+    "code": {
+      "id": "ZW110112",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1101",
+      "level": 2,
+      "name": {
+        "local": "Buhera",
+        "en": "Buhera",
+        "slug": "buhera-zw1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1101",
+        "level": 2,
+        "name": {
+          "local": "Buhera",
+          "en": "Buhera",
+          "slug": "buhera-zw1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.198",
+      "lon": "31.952"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110113",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw110113"
+    },
+    "code": {
+      "id": "ZW110113",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1101",
+      "level": 2,
+      "name": {
+        "local": "Buhera",
+        "en": "Buhera",
+        "slug": "buhera-zw1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1101",
+        "level": 2,
+        "name": {
+          "local": "Buhera",
+          "en": "Buhera",
+          "slug": "buhera-zw1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.22",
+      "lon": "31.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110114",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw110114"
+    },
+    "code": {
+      "id": "ZW110114",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1101",
+      "level": 2,
+      "name": {
+        "local": "Buhera",
+        "en": "Buhera",
+        "slug": "buhera-zw1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1101",
+        "level": 2,
+        "name": {
+          "local": "Buhera",
+          "en": "Buhera",
+          "slug": "buhera-zw1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.333",
+      "lon": "31.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110115",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw110115"
+    },
+    "code": {
+      "id": "ZW110115",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1101",
+      "level": 2,
+      "name": {
+        "local": "Buhera",
+        "en": "Buhera",
+        "slug": "buhera-zw1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1101",
+        "level": 2,
+        "name": {
+          "local": "Buhera",
+          "en": "Buhera",
+          "slug": "buhera-zw1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.314",
+      "lon": "31.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110116",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "16",
+      "en": "16",
+      "slug": "16-zw110116"
+    },
+    "code": {
+      "id": "ZW110116",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1101",
+      "level": 2,
+      "name": {
+        "local": "Buhera",
+        "en": "Buhera",
+        "slug": "buhera-zw1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1101",
+        "level": 2,
+        "name": {
+          "local": "Buhera",
+          "en": "Buhera",
+          "slug": "buhera-zw1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.419",
+      "lon": "31.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110117",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "17",
+      "en": "17",
+      "slug": "17-zw110117"
+    },
+    "code": {
+      "id": "ZW110117",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1101",
+      "level": 2,
+      "name": {
+        "local": "Buhera",
+        "en": "Buhera",
+        "slug": "buhera-zw1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1101",
+        "level": 2,
+        "name": {
+          "local": "Buhera",
+          "en": "Buhera",
+          "slug": "buhera-zw1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.385",
+      "lon": "31.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110118",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "18",
+      "en": "18",
+      "slug": "18-zw110118"
+    },
+    "code": {
+      "id": "ZW110118",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1101",
+      "level": 2,
+      "name": {
+        "local": "Buhera",
+        "en": "Buhera",
+        "slug": "buhera-zw1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1101",
+        "level": 2,
+        "name": {
+          "local": "Buhera",
+          "en": "Buhera",
+          "slug": "buhera-zw1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.318",
+      "lon": "31.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110119",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "19",
+      "en": "19",
+      "slug": "19-zw110119"
+    },
+    "code": {
+      "id": "ZW110119",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1101",
+      "level": 2,
+      "name": {
+        "local": "Buhera",
+        "en": "Buhera",
+        "slug": "buhera-zw1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1101",
+        "level": 2,
+        "name": {
+          "local": "Buhera",
+          "en": "Buhera",
+          "slug": "buhera-zw1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.505",
+      "lon": "31.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110102",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw110102"
+    },
+    "code": {
+      "id": "ZW110102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1101",
+      "level": 2,
+      "name": {
+        "local": "Buhera",
+        "en": "Buhera",
+        "slug": "buhera-zw1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1101",
+        "level": 2,
+        "name": {
+          "local": "Buhera",
+          "en": "Buhera",
+          "slug": "buhera-zw1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.213",
+      "lon": "31.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110120",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "20",
+      "en": "20",
+      "slug": "20-zw110120"
+    },
+    "code": {
+      "id": "ZW110120",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1101",
+      "level": 2,
+      "name": {
+        "local": "Buhera",
+        "en": "Buhera",
+        "slug": "buhera-zw1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1101",
+        "level": 2,
+        "name": {
+          "local": "Buhera",
+          "en": "Buhera",
+          "slug": "buhera-zw1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.361",
+      "lon": "32.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110121",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "21",
+      "en": "21",
+      "slug": "21-zw110121"
+    },
+    "code": {
+      "id": "ZW110121",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1101",
+      "level": 2,
+      "name": {
+        "local": "Buhera",
+        "en": "Buhera",
+        "slug": "buhera-zw1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1101",
+        "level": 2,
+        "name": {
+          "local": "Buhera",
+          "en": "Buhera",
+          "slug": "buhera-zw1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.567",
+      "lon": "31.825"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110122",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "22",
+      "en": "22",
+      "slug": "22-zw110122"
+    },
+    "code": {
+      "id": "ZW110122",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1101",
+      "level": 2,
+      "name": {
+        "local": "Buhera",
+        "en": "Buhera",
+        "slug": "buhera-zw1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1101",
+        "level": 2,
+        "name": {
+          "local": "Buhera",
+          "en": "Buhera",
+          "slug": "buhera-zw1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.516",
+      "lon": "31.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110123",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "23",
+      "en": "23",
+      "slug": "23-zw110123"
+    },
+    "code": {
+      "id": "ZW110123",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1101",
+      "level": 2,
+      "name": {
+        "local": "Buhera",
+        "en": "Buhera",
+        "slug": "buhera-zw1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1101",
+        "level": 2,
+        "name": {
+          "local": "Buhera",
+          "en": "Buhera",
+          "slug": "buhera-zw1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.457",
+      "lon": "32.063"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110124",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "24",
+      "en": "24",
+      "slug": "24-zw110124"
+    },
+    "code": {
+      "id": "ZW110124",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1101",
+      "level": 2,
+      "name": {
+        "local": "Buhera",
+        "en": "Buhera",
+        "slug": "buhera-zw1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1101",
+        "level": 2,
+        "name": {
+          "local": "Buhera",
+          "en": "Buhera",
+          "slug": "buhera-zw1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.63",
+      "lon": "31.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110125",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "25",
+      "en": "25",
+      "slug": "25-zw110125"
+    },
+    "code": {
+      "id": "ZW110125",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1101",
+      "level": 2,
+      "name": {
+        "local": "Buhera",
+        "en": "Buhera",
+        "slug": "buhera-zw1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1101",
+        "level": 2,
+        "name": {
+          "local": "Buhera",
+          "en": "Buhera",
+          "slug": "buhera-zw1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.588",
+      "lon": "32.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110126",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "26",
+      "en": "26",
+      "slug": "26-zw110126"
+    },
+    "code": {
+      "id": "ZW110126",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1101",
+      "level": 2,
+      "name": {
+        "local": "Buhera",
+        "en": "Buhera",
+        "slug": "buhera-zw1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1101",
+        "level": 2,
+        "name": {
+          "local": "Buhera",
+          "en": "Buhera",
+          "slug": "buhera-zw1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.772",
+      "lon": "31.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110127",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "27",
+      "en": "27",
+      "slug": "27-zw110127"
+    },
+    "code": {
+      "id": "ZW110127",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1101",
+      "level": 2,
+      "name": {
+        "local": "Buhera",
+        "en": "Buhera",
+        "slug": "buhera-zw1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1101",
+        "level": 2,
+        "name": {
+          "local": "Buhera",
+          "en": "Buhera",
+          "slug": "buhera-zw1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.736",
+      "lon": "32.086"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110128",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "28",
+      "en": "28",
+      "slug": "28-zw110128"
+    },
+    "code": {
+      "id": "ZW110128",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1101",
+      "level": 2,
+      "name": {
+        "local": "Buhera",
+        "en": "Buhera",
+        "slug": "buhera-zw1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1101",
+        "level": 2,
+        "name": {
+          "local": "Buhera",
+          "en": "Buhera",
+          "slug": "buhera-zw1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.665",
+      "lon": "32.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110129",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "29",
+      "en": "29",
+      "slug": "29-zw110129"
+    },
+    "code": {
+      "id": "ZW110129",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1101",
+      "level": 2,
+      "name": {
+        "local": "Buhera",
+        "en": "Buhera",
+        "slug": "buhera-zw1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1101",
+        "level": 2,
+        "name": {
+          "local": "Buhera",
+          "en": "Buhera",
+          "slug": "buhera-zw1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.828",
+      "lon": "32.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110103",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw110103"
+    },
+    "code": {
+      "id": "ZW110103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1101",
+      "level": 2,
+      "name": {
+        "local": "Buhera",
+        "en": "Buhera",
+        "slug": "buhera-zw1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1101",
+        "level": 2,
+        "name": {
+          "local": "Buhera",
+          "en": "Buhera",
+          "slug": "buhera-zw1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.229",
+      "lon": "31.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110130",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "30",
+      "en": "30",
+      "slug": "30-zw110130"
+    },
+    "code": {
+      "id": "ZW110130",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1101",
+      "level": 2,
+      "name": {
+        "local": "Buhera",
+        "en": "Buhera",
+        "slug": "buhera-zw1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1101",
+        "level": 2,
+        "name": {
+          "local": "Buhera",
+          "en": "Buhera",
+          "slug": "buhera-zw1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.84",
+      "lon": "32.325"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110131",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "31",
+      "en": "31",
+      "slug": "31-zw110131"
+    },
+    "code": {
+      "id": "ZW110131",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1101",
+      "level": 2,
+      "name": {
+        "local": "Buhera",
+        "en": "Buhera",
+        "slug": "buhera-zw1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1101",
+        "level": 2,
+        "name": {
+          "local": "Buhera",
+          "en": "Buhera",
+          "slug": "buhera-zw1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.147",
+      "lon": "31.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110132",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "32",
+      "en": "32",
+      "slug": "32-zw110132"
+    },
+    "code": {
+      "id": "ZW110132",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1101",
+      "level": 2,
+      "name": {
+        "local": "Buhera",
+        "en": "Buhera",
+        "slug": "buhera-zw1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1101",
+        "level": 2,
+        "name": {
+          "local": "Buhera",
+          "en": "Buhera",
+          "slug": "buhera-zw1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.44",
+      "lon": "31.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110133",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "33",
+      "en": "33",
+      "slug": "33-zw110133"
+    },
+    "code": {
+      "id": "ZW110133",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1101",
+      "level": 2,
+      "name": {
+        "local": "Buhera",
+        "en": "Buhera",
+        "slug": "buhera-zw1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1101",
+        "level": 2,
+        "name": {
+          "local": "Buhera",
+          "en": "Buhera",
+          "slug": "buhera-zw1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.934",
+      "lon": "32.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110104",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw110104"
+    },
+    "code": {
+      "id": "ZW110104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1101",
+      "level": 2,
+      "name": {
+        "local": "Buhera",
+        "en": "Buhera",
+        "slug": "buhera-zw1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1101",
+        "level": 2,
+        "name": {
+          "local": "Buhera",
+          "en": "Buhera",
+          "slug": "buhera-zw1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.304",
+      "lon": "31.363"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110105",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw110105"
+    },
+    "code": {
+      "id": "ZW110105",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1101",
+      "level": 2,
+      "name": {
+        "local": "Buhera",
+        "en": "Buhera",
+        "slug": "buhera-zw1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1101",
+        "level": 2,
+        "name": {
+          "local": "Buhera",
+          "en": "Buhera",
+          "slug": "buhera-zw1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.264",
+      "lon": "31.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110106",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw110106"
+    },
+    "code": {
+      "id": "ZW110106",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1101",
+      "level": 2,
+      "name": {
+        "local": "Buhera",
+        "en": "Buhera",
+        "slug": "buhera-zw1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1101",
+        "level": 2,
+        "name": {
+          "local": "Buhera",
+          "en": "Buhera",
+          "slug": "buhera-zw1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.325",
+      "lon": "31.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110107",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw110107"
+    },
+    "code": {
+      "id": "ZW110107",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1101",
+      "level": 2,
+      "name": {
+        "local": "Buhera",
+        "en": "Buhera",
+        "slug": "buhera-zw1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1101",
+        "level": 2,
+        "name": {
+          "local": "Buhera",
+          "en": "Buhera",
+          "slug": "buhera-zw1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.23",
+      "lon": "31.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110108",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw110108"
+    },
+    "code": {
+      "id": "ZW110108",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1101",
+      "level": 2,
+      "name": {
+        "local": "Buhera",
+        "en": "Buhera",
+        "slug": "buhera-zw1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1101",
+        "level": 2,
+        "name": {
+          "local": "Buhera",
+          "en": "Buhera",
+          "slug": "buhera-zw1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.087",
+      "lon": "31.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110109",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw110109"
+    },
+    "code": {
+      "id": "ZW110109",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1101",
+      "level": 2,
+      "name": {
+        "local": "Buhera",
+        "en": "Buhera",
+        "slug": "buhera-zw1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1101",
+        "level": 2,
+        "name": {
+          "local": "Buhera",
+          "en": "Buhera",
+          "slug": "buhera-zw1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.066",
+      "lon": "31.738"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

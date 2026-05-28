@@ -1,0 +1,472 @@
+[
+  {
+    "id": "ZW1101",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Buhera",
+      "en": "Buhera",
+      "slug": "buhera-zw1101"
+    },
+    "code": {
+      "id": "ZW1101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW11",
+      "level": 1,
+      "name": {
+        "local": "Manicaland",
+        "en": "Manicaland",
+        "slug": "manicaland-zw11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 33
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.506",
+      "lon": "31.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1102",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Chimanimani",
+      "en": "Chimanimani",
+      "slug": "chimanimani-zw1102"
+    },
+    "code": {
+      "id": "ZW1102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW11",
+      "level": 1,
+      "name": {
+        "local": "Manicaland",
+        "en": "Manicaland",
+        "slug": "manicaland-zw11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.741",
+      "lon": "32.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1103",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Chipinge",
+      "en": "Chipinge",
+      "slug": "chipinge-zw1103"
+    },
+    "code": {
+      "id": "ZW1103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW11",
+      "level": 1,
+      "name": {
+        "local": "Manicaland",
+        "en": "Manicaland",
+        "slug": "manicaland-zw11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 30
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.62",
+      "lon": "32.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1123",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Chipinge Urban",
+      "en": "Chipinge Urban",
+      "slug": "chipinge-urban-zw1123"
+    },
+    "code": {
+      "id": "ZW1123",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW11",
+      "level": 1,
+      "name": {
+        "local": "Manicaland",
+        "en": "Manicaland",
+        "slug": "manicaland-zw11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.196",
+      "lon": "32.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1104",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Makoni",
+      "en": "Makoni",
+      "slug": "makoni-zw1104"
+    },
+    "code": {
+      "id": "ZW1104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW11",
+      "level": 1,
+      "name": {
+        "local": "Manicaland",
+        "en": "Manicaland",
+        "slug": "manicaland-zw11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 39
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.385",
+      "lon": "32.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1105",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mutare",
+      "en": "Mutare",
+      "slug": "mutare-zw1105"
+    },
+    "code": {
+      "id": "ZW1105",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW11",
+      "level": 1,
+      "name": {
+        "local": "Manicaland",
+        "en": "Manicaland",
+        "slug": "manicaland-zw11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 36
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.249",
+      "lon": "32.439"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1121",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mutare Urban",
+      "en": "Mutare Urban",
+      "slug": "mutare-urban-zw1121"
+    },
+    "code": {
+      "id": "ZW1121",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW11",
+      "level": 1,
+      "name": {
+        "local": "Manicaland",
+        "en": "Manicaland",
+        "slug": "manicaland-zw11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.996",
+      "lon": "32.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1106",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mutasa",
+      "en": "Mutasa",
+      "slug": "mutasa-zw1106"
+    },
+    "code": {
+      "id": "ZW1106",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW11",
+      "level": 1,
+      "name": {
+        "local": "Manicaland",
+        "en": "Manicaland",
+        "slug": "manicaland-zw11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 31
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.58",
+      "lon": "32.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1107",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nyanga",
+      "en": "Nyanga",
+      "slug": "nyanga-zw1107"
+    },
+    "code": {
+      "id": "ZW1107",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW11",
+      "level": 1,
+      "name": {
+        "local": "Manicaland",
+        "en": "Manicaland",
+        "slug": "manicaland-zw11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 31
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.911",
+      "lon": "32.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1122",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rusape",
+      "en": "Rusape",
+      "slug": "rusape-zw1122"
+    },
+    "code": {
+      "id": "ZW1122",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW11",
+      "level": 1,
+      "name": {
+        "local": "Manicaland",
+        "en": "Manicaland",
+        "slug": "manicaland-zw11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.534",
+      "lon": "32.13"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

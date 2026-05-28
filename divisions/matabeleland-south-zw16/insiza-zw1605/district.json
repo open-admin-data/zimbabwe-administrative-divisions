@@ -1,0 +1,47 @@
+{
+  "id": "ZW1605",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Insiza",
+    "en": "Insiza",
+    "slug": "insiza-zw1605"
+  },
+  "code": {
+    "id": "ZW1605",
+    "iso": null
+  },
+  "parent": {
+    "id": "ZW16",
+    "level": 1,
+    "name": {
+      "local": "Matabeleland South",
+      "en": "Matabeleland South",
+      "slug": "matabeleland-south-zw16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ZW16",
+      "level": 1,
+      "name": {
+        "local": "Matabeleland South",
+        "en": "Matabeleland South",
+        "slug": "matabeleland-south-zw16"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 23
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.273",
+    "lon": "29.486"
+  },
+  "metadata": {},
+  "source": {}
+}

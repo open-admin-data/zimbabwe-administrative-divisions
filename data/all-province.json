@@ -1,0 +1,302 @@
+[
+  {
+    "id": "ZW10",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Bulawayo",
+      "en": "Bulawayo",
+      "slug": "bulawayo-zw10"
+    },
+    "code": {
+      "id": "ZW10",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 1,
+      "ward": 29
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.106",
+      "lon": "28.535"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW19",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Harare",
+      "en": "Harare",
+      "slug": "harare-zw19"
+    },
+    "code": {
+      "id": "ZW19",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 4,
+      "ward": 78
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.855",
+      "lon": "31.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW11",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Manicaland",
+      "en": "Manicaland",
+      "slug": "manicaland-zw11"
+    },
+    "code": {
+      "id": "ZW11",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 10,
+      "ward": 260
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.287",
+      "lon": "32.07"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW12",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Mashonaland Central",
+      "en": "Mashonaland Central",
+      "slug": "mashonaland-central-zw12"
+    },
+    "code": {
+      "id": "ZW12",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 10,
+      "ward": 232
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.679",
+      "lon": "31.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW13",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Mashonaland East",
+      "en": "Mashonaland East",
+      "slug": "mashonaland-east-zw13"
+    },
+    "code": {
+      "id": "ZW13",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 11,
+      "ward": 229
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.977",
+      "lon": "31.603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW14",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Mashonaland West",
+      "en": "Mashonaland West",
+      "slug": "mashonaland-west-zw14"
+    },
+    "code": {
+      "id": "ZW14",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 13,
+      "ward": 231
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.259",
+      "lon": "29.868"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW18",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Masvingo",
+      "en": "Masvingo",
+      "slug": "masvingo-zw18"
+    },
+    "code": {
+      "id": "ZW18",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 9,
+      "ward": 243
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.785",
+      "lon": "31.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW15",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Matabeleland North",
+      "en": "Matabeleland North",
+      "slug": "matabeleland-north-zw15"
+    },
+    "code": {
+      "id": "ZW15",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 9,
+      "ward": 193
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.618",
+      "lon": "27.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW16",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Matabeleland South",
+      "en": "Matabeleland South",
+      "slug": "matabeleland-south-zw16"
+    },
+    "code": {
+      "id": "ZW16",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 10,
+      "ward": 170
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.918",
+      "lon": "28.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW17",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Midlands",
+      "en": "Midlands",
+      "slug": "midlands-zw17"
+    },
+    "code": {
+      "id": "ZW17",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 14,
+      "ward": 296
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.082",
+      "lon": "29.862"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,31 @@
+# Zimbabwe Administrative Divisions — Full Reference
+
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Per-Province Data Files
+
+- [Bulawayo](https://github.com/open-admin-data/zimbabwe-administrative-divisions/blob/main/docs/llms-full/bulawayo-zw10.txt) — 1 districts, 29 wards
+- [Harare](https://github.com/open-admin-data/zimbabwe-administrative-divisions/blob/main/docs/llms-full/harare-zw19.txt) — 4 districts, 78 wards
+- [Manicaland](https://github.com/open-admin-data/zimbabwe-administrative-divisions/blob/main/docs/llms-full/manicaland-zw11.txt) — 10 districts, 260 wards
+- [Mashonaland Central](https://github.com/open-admin-data/zimbabwe-administrative-divisions/blob/main/docs/llms-full/mashonaland-central-zw12.txt) — 10 districts, 232 wards
+- [Mashonaland East](https://github.com/open-admin-data/zimbabwe-administrative-divisions/blob/main/docs/llms-full/mashonaland-east-zw13.txt) — 11 districts, 229 wards
+- [Mashonaland West](https://github.com/open-admin-data/zimbabwe-administrative-divisions/blob/main/docs/llms-full/mashonaland-west-zw14.txt) — 13 districts, 231 wards
+- [Masvingo](https://github.com/open-admin-data/zimbabwe-administrative-divisions/blob/main/docs/llms-full/masvingo-zw18.txt) — 9 districts, 243 wards
+- [Matabeleland North](https://github.com/open-admin-data/zimbabwe-administrative-divisions/blob/main/docs/llms-full/matabeleland-north-zw15.txt) — 9 districts, 193 wards
+- [Matabeleland South](https://github.com/open-admin-data/zimbabwe-administrative-divisions/blob/main/docs/llms-full/matabeleland-south-zw16.txt) — 10 districts, 170 wards
+- [Midlands](https://github.com/open-admin-data/zimbabwe-administrative-divisions/blob/main/docs/llms-full/midlands-zw17.txt) — 14 districts, 296 wards
+
+## Summary
+
+| Province | Districts | Wards | 
+|---|---|---|
+| Bulawayo | 1 | 29 | 
+| Harare | 4 | 78 | 
+| Manicaland | 10 | 260 | 
+| Mashonaland Central | 10 | 232 | 
+| Mashonaland East | 11 | 229 | 
+| Mashonaland West | 13 | 231 | 
+| Masvingo | 9 | 243 | 
+| Matabeleland North | 9 | 193 | 
+| Matabeleland South | 10 | 170 | 
+| Midlands | 14 | 296 | 

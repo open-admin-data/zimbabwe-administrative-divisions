@@ -1,0 +1,974 @@
+[
+  {
+    "id": "ZW130501",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw130501"
+    },
+    "code": {
+      "id": "ZW130501",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1305",
+      "level": 2,
+      "name": {
+        "local": "Mudzi",
+        "en": "Mudzi",
+        "slug": "mudzi-zw1305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1305",
+        "level": 2,
+        "name": {
+          "local": "Mudzi",
+          "en": "Mudzi",
+          "slug": "mudzi-zw1305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.861",
+      "lon": "32.907"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130510",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw130510"
+    },
+    "code": {
+      "id": "ZW130510",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1305",
+      "level": 2,
+      "name": {
+        "local": "Mudzi",
+        "en": "Mudzi",
+        "slug": "mudzi-zw1305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1305",
+        "level": 2,
+        "name": {
+          "local": "Mudzi",
+          "en": "Mudzi",
+          "slug": "mudzi-zw1305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.988",
+      "lon": "32.681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130511",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw130511"
+    },
+    "code": {
+      "id": "ZW130511",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1305",
+      "level": 2,
+      "name": {
+        "local": "Mudzi",
+        "en": "Mudzi",
+        "slug": "mudzi-zw1305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1305",
+        "level": 2,
+        "name": {
+          "local": "Mudzi",
+          "en": "Mudzi",
+          "slug": "mudzi-zw1305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.982",
+      "lon": "32.785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130512",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw130512"
+    },
+    "code": {
+      "id": "ZW130512",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1305",
+      "level": 2,
+      "name": {
+        "local": "Mudzi",
+        "en": "Mudzi",
+        "slug": "mudzi-zw1305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1305",
+        "level": 2,
+        "name": {
+          "local": "Mudzi",
+          "en": "Mudzi",
+          "slug": "mudzi-zw1305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.111",
+      "lon": "32.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130513",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw130513"
+    },
+    "code": {
+      "id": "ZW130513",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1305",
+      "level": 2,
+      "name": {
+        "local": "Mudzi",
+        "en": "Mudzi",
+        "slug": "mudzi-zw1305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1305",
+        "level": 2,
+        "name": {
+          "local": "Mudzi",
+          "en": "Mudzi",
+          "slug": "mudzi-zw1305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.239",
+      "lon": "32.496"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130514",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw130514"
+    },
+    "code": {
+      "id": "ZW130514",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1305",
+      "level": 2,
+      "name": {
+        "local": "Mudzi",
+        "en": "Mudzi",
+        "slug": "mudzi-zw1305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1305",
+        "level": 2,
+        "name": {
+          "local": "Mudzi",
+          "en": "Mudzi",
+          "slug": "mudzi-zw1305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.334",
+      "lon": "32.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130515",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw130515"
+    },
+    "code": {
+      "id": "ZW130515",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1305",
+      "level": 2,
+      "name": {
+        "local": "Mudzi",
+        "en": "Mudzi",
+        "slug": "mudzi-zw1305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1305",
+        "level": 2,
+        "name": {
+          "local": "Mudzi",
+          "en": "Mudzi",
+          "slug": "mudzi-zw1305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.222",
+      "lon": "32.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130516",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "16",
+      "en": "16",
+      "slug": "16-zw130516"
+    },
+    "code": {
+      "id": "ZW130516",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1305",
+      "level": 2,
+      "name": {
+        "local": "Mudzi",
+        "en": "Mudzi",
+        "slug": "mudzi-zw1305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1305",
+        "level": 2,
+        "name": {
+          "local": "Mudzi",
+          "en": "Mudzi",
+          "slug": "mudzi-zw1305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.155",
+      "lon": "32.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130517",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "17",
+      "en": "17",
+      "slug": "17-zw130517"
+    },
+    "code": {
+      "id": "ZW130517",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1305",
+      "level": 2,
+      "name": {
+        "local": "Mudzi",
+        "en": "Mudzi",
+        "slug": "mudzi-zw1305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1305",
+        "level": 2,
+        "name": {
+          "local": "Mudzi",
+          "en": "Mudzi",
+          "slug": "mudzi-zw1305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.817",
+      "lon": "32.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130518",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "18",
+      "en": "18",
+      "slug": "18-zw130518"
+    },
+    "code": {
+      "id": "ZW130518",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1305",
+      "level": 2,
+      "name": {
+        "local": "Mudzi",
+        "en": "Mudzi",
+        "slug": "mudzi-zw1305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1305",
+        "level": 2,
+        "name": {
+          "local": "Mudzi",
+          "en": "Mudzi",
+          "slug": "mudzi-zw1305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.214",
+      "lon": "32.563"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130502",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw130502"
+    },
+    "code": {
+      "id": "ZW130502",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1305",
+      "level": 2,
+      "name": {
+        "local": "Mudzi",
+        "en": "Mudzi",
+        "slug": "mudzi-zw1305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1305",
+        "level": 2,
+        "name": {
+          "local": "Mudzi",
+          "en": "Mudzi",
+          "slug": "mudzi-zw1305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.849",
+      "lon": "32.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130503",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw130503"
+    },
+    "code": {
+      "id": "ZW130503",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1305",
+      "level": 2,
+      "name": {
+        "local": "Mudzi",
+        "en": "Mudzi",
+        "slug": "mudzi-zw1305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1305",
+        "level": 2,
+        "name": {
+          "local": "Mudzi",
+          "en": "Mudzi",
+          "slug": "mudzi-zw1305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.914",
+      "lon": "32.513"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130504",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw130504"
+    },
+    "code": {
+      "id": "ZW130504",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1305",
+      "level": 2,
+      "name": {
+        "local": "Mudzi",
+        "en": "Mudzi",
+        "slug": "mudzi-zw1305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1305",
+        "level": 2,
+        "name": {
+          "local": "Mudzi",
+          "en": "Mudzi",
+          "slug": "mudzi-zw1305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.969",
+      "lon": "32.395"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130505",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw130505"
+    },
+    "code": {
+      "id": "ZW130505",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1305",
+      "level": 2,
+      "name": {
+        "local": "Mudzi",
+        "en": "Mudzi",
+        "slug": "mudzi-zw1305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1305",
+        "level": 2,
+        "name": {
+          "local": "Mudzi",
+          "en": "Mudzi",
+          "slug": "mudzi-zw1305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.002",
+      "lon": "32.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130506",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw130506"
+    },
+    "code": {
+      "id": "ZW130506",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1305",
+      "level": 2,
+      "name": {
+        "local": "Mudzi",
+        "en": "Mudzi",
+        "slug": "mudzi-zw1305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1305",
+        "level": 2,
+        "name": {
+          "local": "Mudzi",
+          "en": "Mudzi",
+          "slug": "mudzi-zw1305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.093",
+      "lon": "32.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130507",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw130507"
+    },
+    "code": {
+      "id": "ZW130507",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1305",
+      "level": 2,
+      "name": {
+        "local": "Mudzi",
+        "en": "Mudzi",
+        "slug": "mudzi-zw1305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1305",
+        "level": 2,
+        "name": {
+          "local": "Mudzi",
+          "en": "Mudzi",
+          "slug": "mudzi-zw1305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.13",
+      "lon": "32.466"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130508",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw130508"
+    },
+    "code": {
+      "id": "ZW130508",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1305",
+      "level": 2,
+      "name": {
+        "local": "Mudzi",
+        "en": "Mudzi",
+        "slug": "mudzi-zw1305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1305",
+        "level": 2,
+        "name": {
+          "local": "Mudzi",
+          "en": "Mudzi",
+          "slug": "mudzi-zw1305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.068",
+      "lon": "32.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130509",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw130509"
+    },
+    "code": {
+      "id": "ZW130509",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1305",
+      "level": 2,
+      "name": {
+        "local": "Mudzi",
+        "en": "Mudzi",
+        "slug": "mudzi-zw1305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1305",
+        "level": 2,
+        "name": {
+          "local": "Mudzi",
+          "en": "Mudzi",
+          "slug": "mudzi-zw1305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.972",
+      "lon": "32.593"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

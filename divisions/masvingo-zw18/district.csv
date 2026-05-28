@@ -1,0 +1,10 @@
+id,name.local,name.en,name.slug,code.id,children_count.ward,geo.lat,geo.lon
+ZW1801,Bikita,Bikita,bikita-zw1801,ZW1801,32,-20.202,31.959
+ZW1802,Chiredzi,Chiredzi,chiredzi-zw1802,ZW1802,32,-21.419,31.834
+ZW1822,Chiredzi Urban,Chiredzi Urban,chiredzi-urban-zw1822,ZW1822,8,-21.034,31.662
+ZW1803,Chivi,Chivi,chivi-zw1803,ZW1803,32,-20.5,30.568
+ZW1804,Gutu,Gutu,gutu-zw1804,ZW1804,42,-19.591,31.233
+ZW1805,Masvingo,Masvingo,masvingo-zw1805,ZW1805,35,-20.31,30.881
+ZW1821,Masvingo Urban,Masvingo Urban,masvingo-urban-zw1821,ZW1821,10,-20.082,30.83
+ZW1806,Mwenezi,Mwenezi,mwenezi-zw1806,ZW1806,18,-21.398,30.7
+ZW1807,Zaka,Zaka,zaka-zw1807,ZW1807,34,-20.378,31.449

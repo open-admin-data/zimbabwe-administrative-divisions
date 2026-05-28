@@ -1,0 +1,1892 @@
+[
+  {
+    "id": "ZW140601",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw140601"
+    },
+    "code": {
+      "id": "ZW140601",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1406",
+      "level": 2,
+      "name": {
+        "local": "Zvimba",
+        "en": "Zvimba",
+        "slug": "zvimba-zw1406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1406",
+        "level": 2,
+        "name": {
+          "local": "Zvimba",
+          "en": "Zvimba",
+          "slug": "zvimba-zw1406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.64",
+      "lon": "30.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140610",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw140610"
+    },
+    "code": {
+      "id": "ZW140610",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1406",
+      "level": 2,
+      "name": {
+        "local": "Zvimba",
+        "en": "Zvimba",
+        "slug": "zvimba-zw1406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1406",
+        "level": 2,
+        "name": {
+          "local": "Zvimba",
+          "en": "Zvimba",
+          "slug": "zvimba-zw1406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.723",
+      "lon": "30.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140611",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw140611"
+    },
+    "code": {
+      "id": "ZW140611",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1406",
+      "level": 2,
+      "name": {
+        "local": "Zvimba",
+        "en": "Zvimba",
+        "slug": "zvimba-zw1406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1406",
+        "level": 2,
+        "name": {
+          "local": "Zvimba",
+          "en": "Zvimba",
+          "slug": "zvimba-zw1406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.734",
+      "lon": "30.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140612",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw140612"
+    },
+    "code": {
+      "id": "ZW140612",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1406",
+      "level": 2,
+      "name": {
+        "local": "Zvimba",
+        "en": "Zvimba",
+        "slug": "zvimba-zw1406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1406",
+        "level": 2,
+        "name": {
+          "local": "Zvimba",
+          "en": "Zvimba",
+          "slug": "zvimba-zw1406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.665",
+      "lon": "30.037"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140613",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw140613"
+    },
+    "code": {
+      "id": "ZW140613",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1406",
+      "level": 2,
+      "name": {
+        "local": "Zvimba",
+        "en": "Zvimba",
+        "slug": "zvimba-zw1406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1406",
+        "level": 2,
+        "name": {
+          "local": "Zvimba",
+          "en": "Zvimba",
+          "slug": "zvimba-zw1406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.96",
+      "lon": "30.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140614",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw140614"
+    },
+    "code": {
+      "id": "ZW140614",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1406",
+      "level": 2,
+      "name": {
+        "local": "Zvimba",
+        "en": "Zvimba",
+        "slug": "zvimba-zw1406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1406",
+        "level": 2,
+        "name": {
+          "local": "Zvimba",
+          "en": "Zvimba",
+          "slug": "zvimba-zw1406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.073",
+      "lon": "30.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140615",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw140615"
+    },
+    "code": {
+      "id": "ZW140615",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1406",
+      "level": 2,
+      "name": {
+        "local": "Zvimba",
+        "en": "Zvimba",
+        "slug": "zvimba-zw1406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1406",
+        "level": 2,
+        "name": {
+          "local": "Zvimba",
+          "en": "Zvimba",
+          "slug": "zvimba-zw1406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.201",
+      "lon": "30.641"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140616",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "16",
+      "en": "16",
+      "slug": "16-zw140616"
+    },
+    "code": {
+      "id": "ZW140616",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1406",
+      "level": 2,
+      "name": {
+        "local": "Zvimba",
+        "en": "Zvimba",
+        "slug": "zvimba-zw1406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1406",
+        "level": 2,
+        "name": {
+          "local": "Zvimba",
+          "en": "Zvimba",
+          "slug": "zvimba-zw1406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.039",
+      "lon": "30.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140617",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "17",
+      "en": "17",
+      "slug": "17-zw140617"
+    },
+    "code": {
+      "id": "ZW140617",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1406",
+      "level": 2,
+      "name": {
+        "local": "Zvimba",
+        "en": "Zvimba",
+        "slug": "zvimba-zw1406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1406",
+        "level": 2,
+        "name": {
+          "local": "Zvimba",
+          "en": "Zvimba",
+          "slug": "zvimba-zw1406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.333",
+      "lon": "30.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140618",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "18",
+      "en": "18",
+      "slug": "18-zw140618"
+    },
+    "code": {
+      "id": "ZW140618",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1406",
+      "level": 2,
+      "name": {
+        "local": "Zvimba",
+        "en": "Zvimba",
+        "slug": "zvimba-zw1406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1406",
+        "level": 2,
+        "name": {
+          "local": "Zvimba",
+          "en": "Zvimba",
+          "slug": "zvimba-zw1406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.357",
+      "lon": "30.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140619",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "19",
+      "en": "19",
+      "slug": "19-zw140619"
+    },
+    "code": {
+      "id": "ZW140619",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1406",
+      "level": 2,
+      "name": {
+        "local": "Zvimba",
+        "en": "Zvimba",
+        "slug": "zvimba-zw1406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1406",
+        "level": 2,
+        "name": {
+          "local": "Zvimba",
+          "en": "Zvimba",
+          "slug": "zvimba-zw1406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.598",
+      "lon": "30.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140602",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw140602"
+    },
+    "code": {
+      "id": "ZW140602",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1406",
+      "level": 2,
+      "name": {
+        "local": "Zvimba",
+        "en": "Zvimba",
+        "slug": "zvimba-zw1406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1406",
+        "level": 2,
+        "name": {
+          "local": "Zvimba",
+          "en": "Zvimba",
+          "slug": "zvimba-zw1406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.693",
+      "lon": "30.196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140620",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "20",
+      "en": "20",
+      "slug": "20-zw140620"
+    },
+    "code": {
+      "id": "ZW140620",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1406",
+      "level": 2,
+      "name": {
+        "local": "Zvimba",
+        "en": "Zvimba",
+        "slug": "zvimba-zw1406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1406",
+        "level": 2,
+        "name": {
+          "local": "Zvimba",
+          "en": "Zvimba",
+          "slug": "zvimba-zw1406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.562",
+      "lon": "30.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140621",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "21",
+      "en": "21",
+      "slug": "21-zw140621"
+    },
+    "code": {
+      "id": "ZW140621",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1406",
+      "level": 2,
+      "name": {
+        "local": "Zvimba",
+        "en": "Zvimba",
+        "slug": "zvimba-zw1406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1406",
+        "level": 2,
+        "name": {
+          "local": "Zvimba",
+          "en": "Zvimba",
+          "slug": "zvimba-zw1406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.746",
+      "lon": "30.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140622",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "22",
+      "en": "22",
+      "slug": "22-zw140622"
+    },
+    "code": {
+      "id": "ZW140622",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1406",
+      "level": 2,
+      "name": {
+        "local": "Zvimba",
+        "en": "Zvimba",
+        "slug": "zvimba-zw1406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1406",
+        "level": 2,
+        "name": {
+          "local": "Zvimba",
+          "en": "Zvimba",
+          "slug": "zvimba-zw1406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.37",
+      "lon": "30.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140623",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "23",
+      "en": "23",
+      "slug": "23-zw140623"
+    },
+    "code": {
+      "id": "ZW140623",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1406",
+      "level": 2,
+      "name": {
+        "local": "Zvimba",
+        "en": "Zvimba",
+        "slug": "zvimba-zw1406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1406",
+        "level": 2,
+        "name": {
+          "local": "Zvimba",
+          "en": "Zvimba",
+          "slug": "zvimba-zw1406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.379",
+      "lon": "30.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140624",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "24",
+      "en": "24",
+      "slug": "24-zw140624"
+    },
+    "code": {
+      "id": "ZW140624",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1406",
+      "level": 2,
+      "name": {
+        "local": "Zvimba",
+        "en": "Zvimba",
+        "slug": "zvimba-zw1406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1406",
+        "level": 2,
+        "name": {
+          "local": "Zvimba",
+          "en": "Zvimba",
+          "slug": "zvimba-zw1406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.702",
+      "lon": "30.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140625",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "25",
+      "en": "25",
+      "slug": "25-zw140625"
+    },
+    "code": {
+      "id": "ZW140625",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1406",
+      "level": 2,
+      "name": {
+        "local": "Zvimba",
+        "en": "Zvimba",
+        "slug": "zvimba-zw1406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1406",
+        "level": 2,
+        "name": {
+          "local": "Zvimba",
+          "en": "Zvimba",
+          "slug": "zvimba-zw1406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.791",
+      "lon": "30.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140626",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "26",
+      "en": "26",
+      "slug": "26-zw140626"
+    },
+    "code": {
+      "id": "ZW140626",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1406",
+      "level": 2,
+      "name": {
+        "local": "Zvimba",
+        "en": "Zvimba",
+        "slug": "zvimba-zw1406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1406",
+        "level": 2,
+        "name": {
+          "local": "Zvimba",
+          "en": "Zvimba",
+          "slug": "zvimba-zw1406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.696",
+      "lon": "30.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140627",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "27",
+      "en": "27",
+      "slug": "27-zw140627"
+    },
+    "code": {
+      "id": "ZW140627",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1406",
+      "level": 2,
+      "name": {
+        "local": "Zvimba",
+        "en": "Zvimba",
+        "slug": "zvimba-zw1406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1406",
+        "level": 2,
+        "name": {
+          "local": "Zvimba",
+          "en": "Zvimba",
+          "slug": "zvimba-zw1406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.805",
+      "lon": "30.013"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140628",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "28",
+      "en": "28",
+      "slug": "28-zw140628"
+    },
+    "code": {
+      "id": "ZW140628",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1406",
+      "level": 2,
+      "name": {
+        "local": "Zvimba",
+        "en": "Zvimba",
+        "slug": "zvimba-zw1406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1406",
+        "level": 2,
+        "name": {
+          "local": "Zvimba",
+          "en": "Zvimba",
+          "slug": "zvimba-zw1406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.697",
+      "lon": "30.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140629",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "29",
+      "en": "29",
+      "slug": "29-zw140629"
+    },
+    "code": {
+      "id": "ZW140629",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1406",
+      "level": 2,
+      "name": {
+        "local": "Zvimba",
+        "en": "Zvimba",
+        "slug": "zvimba-zw1406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1406",
+        "level": 2,
+        "name": {
+          "local": "Zvimba",
+          "en": "Zvimba",
+          "slug": "zvimba-zw1406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.788",
+      "lon": "30.193"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140603",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw140603"
+    },
+    "code": {
+      "id": "ZW140603",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1406",
+      "level": 2,
+      "name": {
+        "local": "Zvimba",
+        "en": "Zvimba",
+        "slug": "zvimba-zw1406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1406",
+        "level": 2,
+        "name": {
+          "local": "Zvimba",
+          "en": "Zvimba",
+          "slug": "zvimba-zw1406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.752",
+      "lon": "30.31"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140630",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "30",
+      "en": "30",
+      "slug": "30-zw140630"
+    },
+    "code": {
+      "id": "ZW140630",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1406",
+      "level": 2,
+      "name": {
+        "local": "Zvimba",
+        "en": "Zvimba",
+        "slug": "zvimba-zw1406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1406",
+        "level": 2,
+        "name": {
+          "local": "Zvimba",
+          "en": "Zvimba",
+          "slug": "zvimba-zw1406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.189",
+      "lon": "30.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140631",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "31",
+      "en": "31",
+      "slug": "31-zw140631"
+    },
+    "code": {
+      "id": "ZW140631",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1406",
+      "level": 2,
+      "name": {
+        "local": "Zvimba",
+        "en": "Zvimba",
+        "slug": "zvimba-zw1406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1406",
+        "level": 2,
+        "name": {
+          "local": "Zvimba",
+          "en": "Zvimba",
+          "slug": "zvimba-zw1406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.197",
+      "lon": "30.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140632",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "32",
+      "en": "32",
+      "slug": "32-zw140632"
+    },
+    "code": {
+      "id": "ZW140632",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1406",
+      "level": 2,
+      "name": {
+        "local": "Zvimba",
+        "en": "Zvimba",
+        "slug": "zvimba-zw1406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1406",
+        "level": 2,
+        "name": {
+          "local": "Zvimba",
+          "en": "Zvimba",
+          "slug": "zvimba-zw1406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.399",
+      "lon": "30.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140633",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "33",
+      "en": "33",
+      "slug": "33-zw140633"
+    },
+    "code": {
+      "id": "ZW140633",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1406",
+      "level": 2,
+      "name": {
+        "local": "Zvimba",
+        "en": "Zvimba",
+        "slug": "zvimba-zw1406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1406",
+        "level": 2,
+        "name": {
+          "local": "Zvimba",
+          "en": "Zvimba",
+          "slug": "zvimba-zw1406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.481",
+      "lon": "30.293"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140634",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "34",
+      "en": "34",
+      "slug": "34-zw140634"
+    },
+    "code": {
+      "id": "ZW140634",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1406",
+      "level": 2,
+      "name": {
+        "local": "Zvimba",
+        "en": "Zvimba",
+        "slug": "zvimba-zw1406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1406",
+        "level": 2,
+        "name": {
+          "local": "Zvimba",
+          "en": "Zvimba",
+          "slug": "zvimba-zw1406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.475",
+      "lon": "30.443"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140635",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "35",
+      "en": "35",
+      "slug": "35-zw140635"
+    },
+    "code": {
+      "id": "ZW140635",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1406",
+      "level": 2,
+      "name": {
+        "local": "Zvimba",
+        "en": "Zvimba",
+        "slug": "zvimba-zw1406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1406",
+        "level": 2,
+        "name": {
+          "local": "Zvimba",
+          "en": "Zvimba",
+          "slug": "zvimba-zw1406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.826",
+      "lon": "30.859"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140604",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw140604"
+    },
+    "code": {
+      "id": "ZW140604",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1406",
+      "level": 2,
+      "name": {
+        "local": "Zvimba",
+        "en": "Zvimba",
+        "slug": "zvimba-zw1406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1406",
+        "level": 2,
+        "name": {
+          "local": "Zvimba",
+          "en": "Zvimba",
+          "slug": "zvimba-zw1406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.825",
+      "lon": "30.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140605",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw140605"
+    },
+    "code": {
+      "id": "ZW140605",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1406",
+      "level": 2,
+      "name": {
+        "local": "Zvimba",
+        "en": "Zvimba",
+        "slug": "zvimba-zw1406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1406",
+        "level": 2,
+        "name": {
+          "local": "Zvimba",
+          "en": "Zvimba",
+          "slug": "zvimba-zw1406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.795",
+      "lon": "30.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140606",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw140606"
+    },
+    "code": {
+      "id": "ZW140606",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1406",
+      "level": 2,
+      "name": {
+        "local": "Zvimba",
+        "en": "Zvimba",
+        "slug": "zvimba-zw1406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1406",
+        "level": 2,
+        "name": {
+          "local": "Zvimba",
+          "en": "Zvimba",
+          "slug": "zvimba-zw1406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.818",
+      "lon": "30.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140607",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw140607"
+    },
+    "code": {
+      "id": "ZW140607",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1406",
+      "level": 2,
+      "name": {
+        "local": "Zvimba",
+        "en": "Zvimba",
+        "slug": "zvimba-zw1406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1406",
+        "level": 2,
+        "name": {
+          "local": "Zvimba",
+          "en": "Zvimba",
+          "slug": "zvimba-zw1406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.791",
+      "lon": "30.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140608",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw140608"
+    },
+    "code": {
+      "id": "ZW140608",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1406",
+      "level": 2,
+      "name": {
+        "local": "Zvimba",
+        "en": "Zvimba",
+        "slug": "zvimba-zw1406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1406",
+        "level": 2,
+        "name": {
+          "local": "Zvimba",
+          "en": "Zvimba",
+          "slug": "zvimba-zw1406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.633",
+      "lon": "30.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140609",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw140609"
+    },
+    "code": {
+      "id": "ZW140609",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1406",
+      "level": 2,
+      "name": {
+        "local": "Zvimba",
+        "en": "Zvimba",
+        "slug": "zvimba-zw1406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1406",
+        "level": 2,
+        "name": {
+          "local": "Zvimba",
+          "en": "Zvimba",
+          "slug": "zvimba-zw1406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.701",
+      "lon": "30.157"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

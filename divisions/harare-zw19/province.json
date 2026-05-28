@@ -1,0 +1,30 @@
+{
+  "id": "ZW19",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Harare",
+    "en": "Harare",
+    "slug": "harare-zw19"
+  },
+  "code": {
+    "id": "ZW19",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 4,
+    "ward": 78
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.855",
+    "lon": "31.052"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,650 @@
+[
+  {
+    "id": "ZW132101",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw132101"
+    },
+    "code": {
+      "id": "ZW132101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1321",
+      "level": 2,
+      "name": {
+        "local": "Marondera Urban",
+        "en": "Marondera Urban",
+        "slug": "marondera-urban-zw1321"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1321",
+        "level": 2,
+        "name": {
+          "local": "Marondera Urban",
+          "en": "Marondera Urban",
+          "slug": "marondera-urban-zw1321"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.181",
+      "lon": "31.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW132110",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw132110"
+    },
+    "code": {
+      "id": "ZW132110",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1321",
+      "level": 2,
+      "name": {
+        "local": "Marondera Urban",
+        "en": "Marondera Urban",
+        "slug": "marondera-urban-zw1321"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1321",
+        "level": 2,
+        "name": {
+          "local": "Marondera Urban",
+          "en": "Marondera Urban",
+          "slug": "marondera-urban-zw1321"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.225",
+      "lon": "31.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW132111",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw132111"
+    },
+    "code": {
+      "id": "ZW132111",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1321",
+      "level": 2,
+      "name": {
+        "local": "Marondera Urban",
+        "en": "Marondera Urban",
+        "slug": "marondera-urban-zw1321"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1321",
+        "level": 2,
+        "name": {
+          "local": "Marondera Urban",
+          "en": "Marondera Urban",
+          "slug": "marondera-urban-zw1321"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.196",
+      "lon": "31.565"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW132112",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw132112"
+    },
+    "code": {
+      "id": "ZW132112",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1321",
+      "level": 2,
+      "name": {
+        "local": "Marondera Urban",
+        "en": "Marondera Urban",
+        "slug": "marondera-urban-zw1321"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1321",
+        "level": 2,
+        "name": {
+          "local": "Marondera Urban",
+          "en": "Marondera Urban",
+          "slug": "marondera-urban-zw1321"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.222",
+      "lon": "31.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW132102",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw132102"
+    },
+    "code": {
+      "id": "ZW132102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1321",
+      "level": 2,
+      "name": {
+        "local": "Marondera Urban",
+        "en": "Marondera Urban",
+        "slug": "marondera-urban-zw1321"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1321",
+        "level": 2,
+        "name": {
+          "local": "Marondera Urban",
+          "en": "Marondera Urban",
+          "slug": "marondera-urban-zw1321"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.182",
+      "lon": "31.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW132103",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw132103"
+    },
+    "code": {
+      "id": "ZW132103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1321",
+      "level": 2,
+      "name": {
+        "local": "Marondera Urban",
+        "en": "Marondera Urban",
+        "slug": "marondera-urban-zw1321"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1321",
+        "level": 2,
+        "name": {
+          "local": "Marondera Urban",
+          "en": "Marondera Urban",
+          "slug": "marondera-urban-zw1321"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.18",
+      "lon": "31.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW132104",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw132104"
+    },
+    "code": {
+      "id": "ZW132104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1321",
+      "level": 2,
+      "name": {
+        "local": "Marondera Urban",
+        "en": "Marondera Urban",
+        "slug": "marondera-urban-zw1321"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1321",
+        "level": 2,
+        "name": {
+          "local": "Marondera Urban",
+          "en": "Marondera Urban",
+          "slug": "marondera-urban-zw1321"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.172",
+      "lon": "31.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW132105",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw132105"
+    },
+    "code": {
+      "id": "ZW132105",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1321",
+      "level": 2,
+      "name": {
+        "local": "Marondera Urban",
+        "en": "Marondera Urban",
+        "slug": "marondera-urban-zw1321"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1321",
+        "level": 2,
+        "name": {
+          "local": "Marondera Urban",
+          "en": "Marondera Urban",
+          "slug": "marondera-urban-zw1321"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.172",
+      "lon": "31.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW132106",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw132106"
+    },
+    "code": {
+      "id": "ZW132106",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1321",
+      "level": 2,
+      "name": {
+        "local": "Marondera Urban",
+        "en": "Marondera Urban",
+        "slug": "marondera-urban-zw1321"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1321",
+        "level": 2,
+        "name": {
+          "local": "Marondera Urban",
+          "en": "Marondera Urban",
+          "slug": "marondera-urban-zw1321"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.168",
+      "lon": "31.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW132107",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw132107"
+    },
+    "code": {
+      "id": "ZW132107",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1321",
+      "level": 2,
+      "name": {
+        "local": "Marondera Urban",
+        "en": "Marondera Urban",
+        "slug": "marondera-urban-zw1321"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1321",
+        "level": 2,
+        "name": {
+          "local": "Marondera Urban",
+          "en": "Marondera Urban",
+          "slug": "marondera-urban-zw1321"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.176",
+      "lon": "31.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW132108",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw132108"
+    },
+    "code": {
+      "id": "ZW132108",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1321",
+      "level": 2,
+      "name": {
+        "local": "Marondera Urban",
+        "en": "Marondera Urban",
+        "slug": "marondera-urban-zw1321"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1321",
+        "level": 2,
+        "name": {
+          "local": "Marondera Urban",
+          "en": "Marondera Urban",
+          "slug": "marondera-urban-zw1321"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.203",
+      "lon": "31.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW132109",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw132109"
+    },
+    "code": {
+      "id": "ZW132109",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1321",
+      "level": 2,
+      "name": {
+        "local": "Marondera Urban",
+        "en": "Marondera Urban",
+        "slug": "marondera-urban-zw1321"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1321",
+        "level": 2,
+        "name": {
+          "local": "Marondera Urban",
+          "en": "Marondera Urban",
+          "slug": "marondera-urban-zw1321"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.22",
+      "lon": "31.533"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

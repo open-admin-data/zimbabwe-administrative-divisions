@@ -1,0 +1,1298 @@
+[
+  {
+    "id": "ZW170701",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw170701"
+    },
+    "code": {
+      "id": "ZW170701",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1707",
+      "level": 2,
+      "name": {
+        "local": "Shurugwi",
+        "en": "Shurugwi",
+        "slug": "shurugwi-zw1707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1707",
+        "level": 2,
+        "name": {
+          "local": "Shurugwi",
+          "en": "Shurugwi",
+          "slug": "shurugwi-zw1707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.537",
+      "lon": "30.351"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170710",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw170710"
+    },
+    "code": {
+      "id": "ZW170710",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1707",
+      "level": 2,
+      "name": {
+        "local": "Shurugwi",
+        "en": "Shurugwi",
+        "slug": "shurugwi-zw1707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1707",
+        "level": 2,
+        "name": {
+          "local": "Shurugwi",
+          "en": "Shurugwi",
+          "slug": "shurugwi-zw1707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.827",
+      "lon": "30.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170711",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw170711"
+    },
+    "code": {
+      "id": "ZW170711",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1707",
+      "level": 2,
+      "name": {
+        "local": "Shurugwi",
+        "en": "Shurugwi",
+        "slug": "shurugwi-zw1707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1707",
+        "level": 2,
+        "name": {
+          "local": "Shurugwi",
+          "en": "Shurugwi",
+          "slug": "shurugwi-zw1707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.761",
+      "lon": "30.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170712",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw170712"
+    },
+    "code": {
+      "id": "ZW170712",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1707",
+      "level": 2,
+      "name": {
+        "local": "Shurugwi",
+        "en": "Shurugwi",
+        "slug": "shurugwi-zw1707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1707",
+        "level": 2,
+        "name": {
+          "local": "Shurugwi",
+          "en": "Shurugwi",
+          "slug": "shurugwi-zw1707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.745",
+      "lon": "30.24"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170713",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw170713"
+    },
+    "code": {
+      "id": "ZW170713",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1707",
+      "level": 2,
+      "name": {
+        "local": "Shurugwi",
+        "en": "Shurugwi",
+        "slug": "shurugwi-zw1707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1707",
+        "level": 2,
+        "name": {
+          "local": "Shurugwi",
+          "en": "Shurugwi",
+          "slug": "shurugwi-zw1707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.662",
+      "lon": "30.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170714",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw170714"
+    },
+    "code": {
+      "id": "ZW170714",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1707",
+      "level": 2,
+      "name": {
+        "local": "Shurugwi",
+        "en": "Shurugwi",
+        "slug": "shurugwi-zw1707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1707",
+        "level": 2,
+        "name": {
+          "local": "Shurugwi",
+          "en": "Shurugwi",
+          "slug": "shurugwi-zw1707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.608",
+      "lon": "30.245"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170715",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw170715"
+    },
+    "code": {
+      "id": "ZW170715",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1707",
+      "level": 2,
+      "name": {
+        "local": "Shurugwi",
+        "en": "Shurugwi",
+        "slug": "shurugwi-zw1707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1707",
+        "level": 2,
+        "name": {
+          "local": "Shurugwi",
+          "en": "Shurugwi",
+          "slug": "shurugwi-zw1707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.585",
+      "lon": "30.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170716",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "16",
+      "en": "16",
+      "slug": "16-zw170716"
+    },
+    "code": {
+      "id": "ZW170716",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1707",
+      "level": 2,
+      "name": {
+        "local": "Shurugwi",
+        "en": "Shurugwi",
+        "slug": "shurugwi-zw1707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1707",
+        "level": 2,
+        "name": {
+          "local": "Shurugwi",
+          "en": "Shurugwi",
+          "slug": "shurugwi-zw1707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.535",
+      "lon": "30.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170717",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "17",
+      "en": "17",
+      "slug": "17-zw170717"
+    },
+    "code": {
+      "id": "ZW170717",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1707",
+      "level": 2,
+      "name": {
+        "local": "Shurugwi",
+        "en": "Shurugwi",
+        "slug": "shurugwi-zw1707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1707",
+        "level": 2,
+        "name": {
+          "local": "Shurugwi",
+          "en": "Shurugwi",
+          "slug": "shurugwi-zw1707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.573",
+      "lon": "29.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170718",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "18",
+      "en": "18",
+      "slug": "18-zw170718"
+    },
+    "code": {
+      "id": "ZW170718",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1707",
+      "level": 2,
+      "name": {
+        "local": "Shurugwi",
+        "en": "Shurugwi",
+        "slug": "shurugwi-zw1707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1707",
+        "level": 2,
+        "name": {
+          "local": "Shurugwi",
+          "en": "Shurugwi",
+          "slug": "shurugwi-zw1707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.71",
+      "lon": "29.884"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170719",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "19",
+      "en": "19",
+      "slug": "19-zw170719"
+    },
+    "code": {
+      "id": "ZW170719",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1707",
+      "level": 2,
+      "name": {
+        "local": "Shurugwi",
+        "en": "Shurugwi",
+        "slug": "shurugwi-zw1707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1707",
+        "level": 2,
+        "name": {
+          "local": "Shurugwi",
+          "en": "Shurugwi",
+          "slug": "shurugwi-zw1707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.694",
+      "lon": "30.086"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170702",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw170702"
+    },
+    "code": {
+      "id": "ZW170702",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1707",
+      "level": 2,
+      "name": {
+        "local": "Shurugwi",
+        "en": "Shurugwi",
+        "slug": "shurugwi-zw1707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1707",
+        "level": 2,
+        "name": {
+          "local": "Shurugwi",
+          "en": "Shurugwi",
+          "slug": "shurugwi-zw1707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.668",
+      "lon": "30.373"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170720",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "20",
+      "en": "20",
+      "slug": "20-zw170720"
+    },
+    "code": {
+      "id": "ZW170720",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1707",
+      "level": 2,
+      "name": {
+        "local": "Shurugwi",
+        "en": "Shurugwi",
+        "slug": "shurugwi-zw1707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1707",
+        "level": 2,
+        "name": {
+          "local": "Shurugwi",
+          "en": "Shurugwi",
+          "slug": "shurugwi-zw1707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.884",
+      "lon": "30.026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170721",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "21",
+      "en": "21",
+      "slug": "21-zw170721"
+    },
+    "code": {
+      "id": "ZW170721",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1707",
+      "level": 2,
+      "name": {
+        "local": "Shurugwi",
+        "en": "Shurugwi",
+        "slug": "shurugwi-zw1707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1707",
+        "level": 2,
+        "name": {
+          "local": "Shurugwi",
+          "en": "Shurugwi",
+          "slug": "shurugwi-zw1707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.949",
+      "lon": "29.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170722",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "22",
+      "en": "22",
+      "slug": "22-zw170722"
+    },
+    "code": {
+      "id": "ZW170722",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1707",
+      "level": 2,
+      "name": {
+        "local": "Shurugwi",
+        "en": "Shurugwi",
+        "slug": "shurugwi-zw1707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1707",
+        "level": 2,
+        "name": {
+          "local": "Shurugwi",
+          "en": "Shurugwi",
+          "slug": "shurugwi-zw1707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.881",
+      "lon": "30.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170723",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "23",
+      "en": "23",
+      "slug": "23-zw170723"
+    },
+    "code": {
+      "id": "ZW170723",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1707",
+      "level": 2,
+      "name": {
+        "local": "Shurugwi",
+        "en": "Shurugwi",
+        "slug": "shurugwi-zw1707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1707",
+        "level": 2,
+        "name": {
+          "local": "Shurugwi",
+          "en": "Shurugwi",
+          "slug": "shurugwi-zw1707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.803",
+      "lon": "30.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170724",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "24",
+      "en": "24",
+      "slug": "24-zw170724"
+    },
+    "code": {
+      "id": "ZW170724",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1707",
+      "level": 2,
+      "name": {
+        "local": "Shurugwi",
+        "en": "Shurugwi",
+        "slug": "shurugwi-zw1707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1707",
+        "level": 2,
+        "name": {
+          "local": "Shurugwi",
+          "en": "Shurugwi",
+          "slug": "shurugwi-zw1707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.82",
+      "lon": "30.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170703",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw170703"
+    },
+    "code": {
+      "id": "ZW170703",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1707",
+      "level": 2,
+      "name": {
+        "local": "Shurugwi",
+        "en": "Shurugwi",
+        "slug": "shurugwi-zw1707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1707",
+        "level": 2,
+        "name": {
+          "local": "Shurugwi",
+          "en": "Shurugwi",
+          "slug": "shurugwi-zw1707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.679",
+      "lon": "30.289"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170704",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw170704"
+    },
+    "code": {
+      "id": "ZW170704",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1707",
+      "level": 2,
+      "name": {
+        "local": "Shurugwi",
+        "en": "Shurugwi",
+        "slug": "shurugwi-zw1707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1707",
+        "level": 2,
+        "name": {
+          "local": "Shurugwi",
+          "en": "Shurugwi",
+          "slug": "shurugwi-zw1707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.96",
+      "lon": "30.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170705",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw170705"
+    },
+    "code": {
+      "id": "ZW170705",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1707",
+      "level": 2,
+      "name": {
+        "local": "Shurugwi",
+        "en": "Shurugwi",
+        "slug": "shurugwi-zw1707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1707",
+        "level": 2,
+        "name": {
+          "local": "Shurugwi",
+          "en": "Shurugwi",
+          "slug": "shurugwi-zw1707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.97",
+      "lon": "30.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170706",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw170706"
+    },
+    "code": {
+      "id": "ZW170706",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1707",
+      "level": 2,
+      "name": {
+        "local": "Shurugwi",
+        "en": "Shurugwi",
+        "slug": "shurugwi-zw1707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1707",
+        "level": 2,
+        "name": {
+          "local": "Shurugwi",
+          "en": "Shurugwi",
+          "slug": "shurugwi-zw1707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.918",
+      "lon": "30.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170707",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw170707"
+    },
+    "code": {
+      "id": "ZW170707",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1707",
+      "level": 2,
+      "name": {
+        "local": "Shurugwi",
+        "en": "Shurugwi",
+        "slug": "shurugwi-zw1707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1707",
+        "level": 2,
+        "name": {
+          "local": "Shurugwi",
+          "en": "Shurugwi",
+          "slug": "shurugwi-zw1707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.805",
+      "lon": "30.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170708",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw170708"
+    },
+    "code": {
+      "id": "ZW170708",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1707",
+      "level": 2,
+      "name": {
+        "local": "Shurugwi",
+        "en": "Shurugwi",
+        "slug": "shurugwi-zw1707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1707",
+        "level": 2,
+        "name": {
+          "local": "Shurugwi",
+          "en": "Shurugwi",
+          "slug": "shurugwi-zw1707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.872",
+      "lon": "30.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170709",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw170709"
+    },
+    "code": {
+      "id": "ZW170709",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1707",
+      "level": 2,
+      "name": {
+        "local": "Shurugwi",
+        "en": "Shurugwi",
+        "slug": "shurugwi-zw1707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1707",
+        "level": 2,
+        "name": {
+          "local": "Shurugwi",
+          "en": "Shurugwi",
+          "slug": "shurugwi-zw1707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.889",
+      "lon": "30.114"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

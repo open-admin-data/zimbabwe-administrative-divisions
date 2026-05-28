@@ -1,0 +1,1838 @@
+[
+  {
+    "id": "ZW120401",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw120401"
+    },
+    "code": {
+      "id": "ZW120401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1204",
+      "level": 2,
+      "name": {
+        "local": "Mazowe",
+        "en": "Mazowe",
+        "slug": "mazowe-zw1204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1204",
+        "level": 2,
+        "name": {
+          "local": "Mazowe",
+          "en": "Mazowe",
+          "slug": "mazowe-zw1204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.864",
+      "lon": "31.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120410",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw120410"
+    },
+    "code": {
+      "id": "ZW120410",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1204",
+      "level": 2,
+      "name": {
+        "local": "Mazowe",
+        "en": "Mazowe",
+        "slug": "mazowe-zw1204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1204",
+        "level": 2,
+        "name": {
+          "local": "Mazowe",
+          "en": "Mazowe",
+          "slug": "mazowe-zw1204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.129",
+      "lon": "31.09"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120411",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw120411"
+    },
+    "code": {
+      "id": "ZW120411",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1204",
+      "level": 2,
+      "name": {
+        "local": "Mazowe",
+        "en": "Mazowe",
+        "slug": "mazowe-zw1204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1204",
+        "level": 2,
+        "name": {
+          "local": "Mazowe",
+          "en": "Mazowe",
+          "slug": "mazowe-zw1204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.214",
+      "lon": "30.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120412",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw120412"
+    },
+    "code": {
+      "id": "ZW120412",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1204",
+      "level": 2,
+      "name": {
+        "local": "Mazowe",
+        "en": "Mazowe",
+        "slug": "mazowe-zw1204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1204",
+        "level": 2,
+        "name": {
+          "local": "Mazowe",
+          "en": "Mazowe",
+          "slug": "mazowe-zw1204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.206",
+      "lon": "31.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120413",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw120413"
+    },
+    "code": {
+      "id": "ZW120413",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1204",
+      "level": 2,
+      "name": {
+        "local": "Mazowe",
+        "en": "Mazowe",
+        "slug": "mazowe-zw1204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1204",
+        "level": 2,
+        "name": {
+          "local": "Mazowe",
+          "en": "Mazowe",
+          "slug": "mazowe-zw1204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.193",
+      "lon": "31.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120414",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw120414"
+    },
+    "code": {
+      "id": "ZW120414",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1204",
+      "level": 2,
+      "name": {
+        "local": "Mazowe",
+        "en": "Mazowe",
+        "slug": "mazowe-zw1204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1204",
+        "level": 2,
+        "name": {
+          "local": "Mazowe",
+          "en": "Mazowe",
+          "slug": "mazowe-zw1204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.275",
+      "lon": "31.056"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120415",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw120415"
+    },
+    "code": {
+      "id": "ZW120415",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1204",
+      "level": 2,
+      "name": {
+        "local": "Mazowe",
+        "en": "Mazowe",
+        "slug": "mazowe-zw1204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1204",
+        "level": 2,
+        "name": {
+          "local": "Mazowe",
+          "en": "Mazowe",
+          "slug": "mazowe-zw1204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.373",
+      "lon": "30.945"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120416",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "16",
+      "en": "16",
+      "slug": "16-zw120416"
+    },
+    "code": {
+      "id": "ZW120416",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1204",
+      "level": 2,
+      "name": {
+        "local": "Mazowe",
+        "en": "Mazowe",
+        "slug": "mazowe-zw1204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1204",
+        "level": 2,
+        "name": {
+          "local": "Mazowe",
+          "en": "Mazowe",
+          "slug": "mazowe-zw1204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.369",
+      "lon": "31.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120417",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "17",
+      "en": "17",
+      "slug": "17-zw120417"
+    },
+    "code": {
+      "id": "ZW120417",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1204",
+      "level": 2,
+      "name": {
+        "local": "Mazowe",
+        "en": "Mazowe",
+        "slug": "mazowe-zw1204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1204",
+        "level": 2,
+        "name": {
+          "local": "Mazowe",
+          "en": "Mazowe",
+          "slug": "mazowe-zw1204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.351",
+      "lon": "31.057"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120418",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "18",
+      "en": "18",
+      "slug": "18-zw120418"
+    },
+    "code": {
+      "id": "ZW120418",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1204",
+      "level": 2,
+      "name": {
+        "local": "Mazowe",
+        "en": "Mazowe",
+        "slug": "mazowe-zw1204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1204",
+        "level": 2,
+        "name": {
+          "local": "Mazowe",
+          "en": "Mazowe",
+          "slug": "mazowe-zw1204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.4",
+      "lon": "31.107"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120419",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "19",
+      "en": "19",
+      "slug": "19-zw120419"
+    },
+    "code": {
+      "id": "ZW120419",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1204",
+      "level": 2,
+      "name": {
+        "local": "Mazowe",
+        "en": "Mazowe",
+        "slug": "mazowe-zw1204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1204",
+        "level": 2,
+        "name": {
+          "local": "Mazowe",
+          "en": "Mazowe",
+          "slug": "mazowe-zw1204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.476",
+      "lon": "31.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120402",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw120402"
+    },
+    "code": {
+      "id": "ZW120402",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1204",
+      "level": 2,
+      "name": {
+        "local": "Mazowe",
+        "en": "Mazowe",
+        "slug": "mazowe-zw1204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1204",
+        "level": 2,
+        "name": {
+          "local": "Mazowe",
+          "en": "Mazowe",
+          "slug": "mazowe-zw1204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.835",
+      "lon": "31.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120420",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "20",
+      "en": "20",
+      "slug": "20-zw120420"
+    },
+    "code": {
+      "id": "ZW120420",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1204",
+      "level": 2,
+      "name": {
+        "local": "Mazowe",
+        "en": "Mazowe",
+        "slug": "mazowe-zw1204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1204",
+        "level": 2,
+        "name": {
+          "local": "Mazowe",
+          "en": "Mazowe",
+          "slug": "mazowe-zw1204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.651",
+      "lon": "30.999"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120421",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "21",
+      "en": "21",
+      "slug": "21-zw120421"
+    },
+    "code": {
+      "id": "ZW120421",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1204",
+      "level": 2,
+      "name": {
+        "local": "Mazowe",
+        "en": "Mazowe",
+        "slug": "mazowe-zw1204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1204",
+        "level": 2,
+        "name": {
+          "local": "Mazowe",
+          "en": "Mazowe",
+          "slug": "mazowe-zw1204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.599",
+      "lon": "30.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120422",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "22",
+      "en": "22",
+      "slug": "22-zw120422"
+    },
+    "code": {
+      "id": "ZW120422",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1204",
+      "level": 2,
+      "name": {
+        "local": "Mazowe",
+        "en": "Mazowe",
+        "slug": "mazowe-zw1204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1204",
+        "level": 2,
+        "name": {
+          "local": "Mazowe",
+          "en": "Mazowe",
+          "slug": "mazowe-zw1204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.481",
+      "lon": "30.957"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120423",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "23",
+      "en": "23",
+      "slug": "23-zw120423"
+    },
+    "code": {
+      "id": "ZW120423",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1204",
+      "level": 2,
+      "name": {
+        "local": "Mazowe",
+        "en": "Mazowe",
+        "slug": "mazowe-zw1204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1204",
+        "level": 2,
+        "name": {
+          "local": "Mazowe",
+          "en": "Mazowe",
+          "slug": "mazowe-zw1204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.436",
+      "lon": "30.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120424",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "24",
+      "en": "24",
+      "slug": "24-zw120424"
+    },
+    "code": {
+      "id": "ZW120424",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1204",
+      "level": 2,
+      "name": {
+        "local": "Mazowe",
+        "en": "Mazowe",
+        "slug": "mazowe-zw1204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1204",
+        "level": 2,
+        "name": {
+          "local": "Mazowe",
+          "en": "Mazowe",
+          "slug": "mazowe-zw1204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.263",
+      "lon": "30.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120425",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "25",
+      "en": "25",
+      "slug": "25-zw120425"
+    },
+    "code": {
+      "id": "ZW120425",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1204",
+      "level": 2,
+      "name": {
+        "local": "Mazowe",
+        "en": "Mazowe",
+        "slug": "mazowe-zw1204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1204",
+        "level": 2,
+        "name": {
+          "local": "Mazowe",
+          "en": "Mazowe",
+          "slug": "mazowe-zw1204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.207",
+      "lon": "30.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120426",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "26",
+      "en": "26",
+      "slug": "26-zw120426"
+    },
+    "code": {
+      "id": "ZW120426",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1204",
+      "level": 2,
+      "name": {
+        "local": "Mazowe",
+        "en": "Mazowe",
+        "slug": "mazowe-zw1204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1204",
+        "level": 2,
+        "name": {
+          "local": "Mazowe",
+          "en": "Mazowe",
+          "slug": "mazowe-zw1204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.049",
+      "lon": "30.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120427",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "27",
+      "en": "27",
+      "slug": "27-zw120427"
+    },
+    "code": {
+      "id": "ZW120427",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1204",
+      "level": 2,
+      "name": {
+        "local": "Mazowe",
+        "en": "Mazowe",
+        "slug": "mazowe-zw1204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1204",
+        "level": 2,
+        "name": {
+          "local": "Mazowe",
+          "en": "Mazowe",
+          "slug": "mazowe-zw1204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.988",
+      "lon": "30.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120429",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "29",
+      "en": "29",
+      "slug": "29-zw120429"
+    },
+    "code": {
+      "id": "ZW120429",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1204",
+      "level": 2,
+      "name": {
+        "local": "Mazowe",
+        "en": "Mazowe",
+        "slug": "mazowe-zw1204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1204",
+        "level": 2,
+        "name": {
+          "local": "Mazowe",
+          "en": "Mazowe",
+          "slug": "mazowe-zw1204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.924",
+      "lon": "30.864"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120403",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw120403"
+    },
+    "code": {
+      "id": "ZW120403",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1204",
+      "level": 2,
+      "name": {
+        "local": "Mazowe",
+        "en": "Mazowe",
+        "slug": "mazowe-zw1204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1204",
+        "level": 2,
+        "name": {
+          "local": "Mazowe",
+          "en": "Mazowe",
+          "slug": "mazowe-zw1204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.906",
+      "lon": "31.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120430",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "30",
+      "en": "30",
+      "slug": "30-zw120430"
+    },
+    "code": {
+      "id": "ZW120430",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1204",
+      "level": 2,
+      "name": {
+        "local": "Mazowe",
+        "en": "Mazowe",
+        "slug": "mazowe-zw1204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1204",
+        "level": 2,
+        "name": {
+          "local": "Mazowe",
+          "en": "Mazowe",
+          "slug": "mazowe-zw1204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.156",
+      "lon": "30.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120431",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "31",
+      "en": "31",
+      "slug": "31-zw120431"
+    },
+    "code": {
+      "id": "ZW120431",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1204",
+      "level": 2,
+      "name": {
+        "local": "Mazowe",
+        "en": "Mazowe",
+        "slug": "mazowe-zw1204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1204",
+        "level": 2,
+        "name": {
+          "local": "Mazowe",
+          "en": "Mazowe",
+          "slug": "mazowe-zw1204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.374",
+      "lon": "30.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120432",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "32",
+      "en": "32",
+      "slug": "32-zw120432"
+    },
+    "code": {
+      "id": "ZW120432",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1204",
+      "level": 2,
+      "name": {
+        "local": "Mazowe",
+        "en": "Mazowe",
+        "slug": "mazowe-zw1204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1204",
+        "level": 2,
+        "name": {
+          "local": "Mazowe",
+          "en": "Mazowe",
+          "slug": "mazowe-zw1204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.298",
+      "lon": "30.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120433",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "33",
+      "en": "33",
+      "slug": "33-zw120433"
+    },
+    "code": {
+      "id": "ZW120433",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1204",
+      "level": 2,
+      "name": {
+        "local": "Mazowe",
+        "en": "Mazowe",
+        "slug": "mazowe-zw1204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1204",
+        "level": 2,
+        "name": {
+          "local": "Mazowe",
+          "en": "Mazowe",
+          "slug": "mazowe-zw1204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.365",
+      "lon": "31.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120434",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "34",
+      "en": "34",
+      "slug": "34-zw120434"
+    },
+    "code": {
+      "id": "ZW120434",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1204",
+      "level": 2,
+      "name": {
+        "local": "Mazowe",
+        "en": "Mazowe",
+        "slug": "mazowe-zw1204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1204",
+        "level": 2,
+        "name": {
+          "local": "Mazowe",
+          "en": "Mazowe",
+          "slug": "mazowe-zw1204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.481",
+      "lon": "30.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120435",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "35",
+      "en": "35",
+      "slug": "35-zw120435"
+    },
+    "code": {
+      "id": "ZW120435",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1204",
+      "level": 2,
+      "name": {
+        "local": "Mazowe",
+        "en": "Mazowe",
+        "slug": "mazowe-zw1204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1204",
+        "level": 2,
+        "name": {
+          "local": "Mazowe",
+          "en": "Mazowe",
+          "slug": "mazowe-zw1204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.62",
+      "lon": "30.957"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120404",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw120404"
+    },
+    "code": {
+      "id": "ZW120404",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1204",
+      "level": 2,
+      "name": {
+        "local": "Mazowe",
+        "en": "Mazowe",
+        "slug": "mazowe-zw1204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1204",
+        "level": 2,
+        "name": {
+          "local": "Mazowe",
+          "en": "Mazowe",
+          "slug": "mazowe-zw1204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.949",
+      "lon": "31.101"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120405",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw120405"
+    },
+    "code": {
+      "id": "ZW120405",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1204",
+      "level": 2,
+      "name": {
+        "local": "Mazowe",
+        "en": "Mazowe",
+        "slug": "mazowe-zw1204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1204",
+        "level": 2,
+        "name": {
+          "local": "Mazowe",
+          "en": "Mazowe",
+          "slug": "mazowe-zw1204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.986",
+      "lon": "31.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120406",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw120406"
+    },
+    "code": {
+      "id": "ZW120406",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1204",
+      "level": 2,
+      "name": {
+        "local": "Mazowe",
+        "en": "Mazowe",
+        "slug": "mazowe-zw1204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1204",
+        "level": 2,
+        "name": {
+          "local": "Mazowe",
+          "en": "Mazowe",
+          "slug": "mazowe-zw1204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.015",
+      "lon": "31.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120407",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw120407"
+    },
+    "code": {
+      "id": "ZW120407",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1204",
+      "level": 2,
+      "name": {
+        "local": "Mazowe",
+        "en": "Mazowe",
+        "slug": "mazowe-zw1204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1204",
+        "level": 2,
+        "name": {
+          "local": "Mazowe",
+          "en": "Mazowe",
+          "slug": "mazowe-zw1204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.047",
+      "lon": "31.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120408",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw120408"
+    },
+    "code": {
+      "id": "ZW120408",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1204",
+      "level": 2,
+      "name": {
+        "local": "Mazowe",
+        "en": "Mazowe",
+        "slug": "mazowe-zw1204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1204",
+        "level": 2,
+        "name": {
+          "local": "Mazowe",
+          "en": "Mazowe",
+          "slug": "mazowe-zw1204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.075",
+      "lon": "31.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120409",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw120409"
+    },
+    "code": {
+      "id": "ZW120409",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1204",
+      "level": 2,
+      "name": {
+        "local": "Mazowe",
+        "en": "Mazowe",
+        "slug": "mazowe-zw1204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1204",
+        "level": 2,
+        "name": {
+          "local": "Mazowe",
+          "en": "Mazowe",
+          "slug": "mazowe-zw1204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.141",
+      "lon": "31.013"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

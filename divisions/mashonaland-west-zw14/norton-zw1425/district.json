@@ -1,0 +1,47 @@
+{
+  "id": "ZW1425",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Norton",
+    "en": "Norton",
+    "slug": "norton-zw1425"
+  },
+  "code": {
+    "id": "ZW1425",
+    "iso": null
+  },
+  "parent": {
+    "id": "ZW14",
+    "level": 1,
+    "name": {
+      "local": "Mashonaland West",
+      "en": "Mashonaland West",
+      "slug": "mashonaland-west-zw14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ZW14",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland West",
+        "en": "Mashonaland West",
+        "slug": "mashonaland-west-zw14"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.885",
+    "lon": "30.679"
+  },
+  "metadata": {},
+  "source": {}
+}

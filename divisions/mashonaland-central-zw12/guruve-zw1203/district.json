@@ -1,0 +1,47 @@
+{
+  "id": "ZW1203",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Guruve",
+    "en": "Guruve",
+    "slug": "guruve-zw1203"
+  },
+  "code": {
+    "id": "ZW1203",
+    "iso": null
+  },
+  "parent": {
+    "id": "ZW12",
+    "level": 1,
+    "name": {
+      "local": "Mashonaland Central",
+      "en": "Mashonaland Central",
+      "slug": "mashonaland-central-zw12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ZW12",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland Central",
+        "en": "Mashonaland Central",
+        "slug": "mashonaland-central-zw12"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 24
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.701",
+    "lon": "30.742"
+  },
+  "metadata": {},
+  "source": {}
+}

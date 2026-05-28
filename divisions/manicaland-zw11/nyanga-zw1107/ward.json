@@ -1,0 +1,1676 @@
+[
+  {
+    "id": "ZW110701",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw110701"
+    },
+    "code": {
+      "id": "ZW110701",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1107",
+      "level": 2,
+      "name": {
+        "local": "Nyanga",
+        "en": "Nyanga",
+        "slug": "nyanga-zw1107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1107",
+        "level": 2,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga-zw1107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.367",
+      "lon": "32.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110710",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw110710"
+    },
+    "code": {
+      "id": "ZW110710",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1107",
+      "level": 2,
+      "name": {
+        "local": "Nyanga",
+        "en": "Nyanga",
+        "slug": "nyanga-zw1107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1107",
+        "level": 2,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga-zw1107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.758",
+      "lon": "32.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110711",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw110711"
+    },
+    "code": {
+      "id": "ZW110711",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1107",
+      "level": 2,
+      "name": {
+        "local": "Nyanga",
+        "en": "Nyanga",
+        "slug": "nyanga-zw1107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1107",
+        "level": 2,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga-zw1107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.794",
+      "lon": "32.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110712",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw110712"
+    },
+    "code": {
+      "id": "ZW110712",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1107",
+      "level": 2,
+      "name": {
+        "local": "Nyanga",
+        "en": "Nyanga",
+        "slug": "nyanga-zw1107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1107",
+        "level": 2,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga-zw1107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.86",
+      "lon": "32.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110713",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw110713"
+    },
+    "code": {
+      "id": "ZW110713",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1107",
+      "level": 2,
+      "name": {
+        "local": "Nyanga",
+        "en": "Nyanga",
+        "slug": "nyanga-zw1107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1107",
+        "level": 2,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga-zw1107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.886",
+      "lon": "32.847"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110714",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw110714"
+    },
+    "code": {
+      "id": "ZW110714",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1107",
+      "level": 2,
+      "name": {
+        "local": "Nyanga",
+        "en": "Nyanga",
+        "slug": "nyanga-zw1107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1107",
+        "level": 2,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga-zw1107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.947",
+      "lon": "32.911"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110715",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw110715"
+    },
+    "code": {
+      "id": "ZW110715",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1107",
+      "level": 2,
+      "name": {
+        "local": "Nyanga",
+        "en": "Nyanga",
+        "slug": "nyanga-zw1107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1107",
+        "level": 2,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga-zw1107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.989",
+      "lon": "32.851"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110716",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "16",
+      "en": "16",
+      "slug": "16-zw110716"
+    },
+    "code": {
+      "id": "ZW110716",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1107",
+      "level": 2,
+      "name": {
+        "local": "Nyanga",
+        "en": "Nyanga",
+        "slug": "nyanga-zw1107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1107",
+        "level": 2,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga-zw1107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.162",
+      "lon": "32.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110717",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "17",
+      "en": "17",
+      "slug": "17-zw110717"
+    },
+    "code": {
+      "id": "ZW110717",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1107",
+      "level": 2,
+      "name": {
+        "local": "Nyanga",
+        "en": "Nyanga",
+        "slug": "nyanga-zw1107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1107",
+        "level": 2,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga-zw1107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.969",
+      "lon": "32.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110718",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "18",
+      "en": "18",
+      "slug": "18-zw110718"
+    },
+    "code": {
+      "id": "ZW110718",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1107",
+      "level": 2,
+      "name": {
+        "local": "Nyanga",
+        "en": "Nyanga",
+        "slug": "nyanga-zw1107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1107",
+        "level": 2,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga-zw1107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.047",
+      "lon": "32.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110719",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "19",
+      "en": "19",
+      "slug": "19-zw110719"
+    },
+    "code": {
+      "id": "ZW110719",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1107",
+      "level": 2,
+      "name": {
+        "local": "Nyanga",
+        "en": "Nyanga",
+        "slug": "nyanga-zw1107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1107",
+        "level": 2,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga-zw1107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.12",
+      "lon": "32.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110702",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw110702"
+    },
+    "code": {
+      "id": "ZW110702",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1107",
+      "level": 2,
+      "name": {
+        "local": "Nyanga",
+        "en": "Nyanga",
+        "slug": "nyanga-zw1107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1107",
+        "level": 2,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga-zw1107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.431",
+      "lon": "32.785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110720",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "20",
+      "en": "20",
+      "slug": "20-zw110720"
+    },
+    "code": {
+      "id": "ZW110720",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1107",
+      "level": 2,
+      "name": {
+        "local": "Nyanga",
+        "en": "Nyanga",
+        "slug": "nyanga-zw1107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1107",
+        "level": 2,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga-zw1107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.034",
+      "lon": "32.778"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110721",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "21",
+      "en": "21",
+      "slug": "21-zw110721"
+    },
+    "code": {
+      "id": "ZW110721",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1107",
+      "level": 2,
+      "name": {
+        "local": "Nyanga",
+        "en": "Nyanga",
+        "slug": "nyanga-zw1107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1107",
+        "level": 2,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga-zw1107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.133",
+      "lon": "32.928"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110722",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "22",
+      "en": "22",
+      "slug": "22-zw110722"
+    },
+    "code": {
+      "id": "ZW110722",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1107",
+      "level": 2,
+      "name": {
+        "local": "Nyanga",
+        "en": "Nyanga",
+        "slug": "nyanga-zw1107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1107",
+        "level": 2,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga-zw1107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.196",
+      "lon": "32.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110723",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "23",
+      "en": "23",
+      "slug": "23-zw110723"
+    },
+    "code": {
+      "id": "ZW110723",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1107",
+      "level": 2,
+      "name": {
+        "local": "Nyanga",
+        "en": "Nyanga",
+        "slug": "nyanga-zw1107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1107",
+        "level": 2,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga-zw1107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.219",
+      "lon": "32.564"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110724",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "24",
+      "en": "24",
+      "slug": "24-zw110724"
+    },
+    "code": {
+      "id": "ZW110724",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1107",
+      "level": 2,
+      "name": {
+        "local": "Nyanga",
+        "en": "Nyanga",
+        "slug": "nyanga-zw1107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1107",
+        "level": 2,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga-zw1107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.326",
+      "lon": "32.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110725",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "25",
+      "en": "25",
+      "slug": "25-zw110725"
+    },
+    "code": {
+      "id": "ZW110725",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1107",
+      "level": 2,
+      "name": {
+        "local": "Nyanga",
+        "en": "Nyanga",
+        "slug": "nyanga-zw1107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1107",
+        "level": 2,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga-zw1107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.349",
+      "lon": "32.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110726",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "26",
+      "en": "26",
+      "slug": "26-zw110726"
+    },
+    "code": {
+      "id": "ZW110726",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1107",
+      "level": 2,
+      "name": {
+        "local": "Nyanga",
+        "en": "Nyanga",
+        "slug": "nyanga-zw1107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1107",
+        "level": 2,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga-zw1107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.441",
+      "lon": "32.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110727",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "27",
+      "en": "27",
+      "slug": "27-zw110727"
+    },
+    "code": {
+      "id": "ZW110727",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1107",
+      "level": 2,
+      "name": {
+        "local": "Nyanga",
+        "en": "Nyanga",
+        "slug": "nyanga-zw1107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1107",
+        "level": 2,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga-zw1107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.393",
+      "lon": "32.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110728",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "28",
+      "en": "28",
+      "slug": "28-zw110728"
+    },
+    "code": {
+      "id": "ZW110728",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1107",
+      "level": 2,
+      "name": {
+        "local": "Nyanga",
+        "en": "Nyanga",
+        "slug": "nyanga-zw1107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1107",
+        "level": 2,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga-zw1107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.458",
+      "lon": "32.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110729",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "29",
+      "en": "29",
+      "slug": "29-zw110729"
+    },
+    "code": {
+      "id": "ZW110729",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1107",
+      "level": 2,
+      "name": {
+        "local": "Nyanga",
+        "en": "Nyanga",
+        "slug": "nyanga-zw1107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1107",
+        "level": 2,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga-zw1107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.237",
+      "lon": "32.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110703",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw110703"
+    },
+    "code": {
+      "id": "ZW110703",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1107",
+      "level": 2,
+      "name": {
+        "local": "Nyanga",
+        "en": "Nyanga",
+        "slug": "nyanga-zw1107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1107",
+        "level": 2,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga-zw1107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.498",
+      "lon": "32.889"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110730",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "30",
+      "en": "30",
+      "slug": "30-zw110730"
+    },
+    "code": {
+      "id": "ZW110730",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1107",
+      "level": 2,
+      "name": {
+        "local": "Nyanga",
+        "en": "Nyanga",
+        "slug": "nyanga-zw1107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1107",
+        "level": 2,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga-zw1107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.972",
+      "lon": "32.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110731",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "31",
+      "en": "31",
+      "slug": "31-zw110731"
+    },
+    "code": {
+      "id": "ZW110731",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1107",
+      "level": 2,
+      "name": {
+        "local": "Nyanga",
+        "en": "Nyanga",
+        "slug": "nyanga-zw1107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1107",
+        "level": 2,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga-zw1107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.203",
+      "lon": "32.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110704",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw110704"
+    },
+    "code": {
+      "id": "ZW110704",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1107",
+      "level": 2,
+      "name": {
+        "local": "Nyanga",
+        "en": "Nyanga",
+        "slug": "nyanga-zw1107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1107",
+        "level": 2,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga-zw1107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.575",
+      "lon": "32.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110705",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw110705"
+    },
+    "code": {
+      "id": "ZW110705",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1107",
+      "level": 2,
+      "name": {
+        "local": "Nyanga",
+        "en": "Nyanga",
+        "slug": "nyanga-zw1107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1107",
+        "level": 2,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga-zw1107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.627",
+      "lon": "32.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110706",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw110706"
+    },
+    "code": {
+      "id": "ZW110706",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1107",
+      "level": 2,
+      "name": {
+        "local": "Nyanga",
+        "en": "Nyanga",
+        "slug": "nyanga-zw1107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1107",
+        "level": 2,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga-zw1107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.656",
+      "lon": "32.82"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110707",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw110707"
+    },
+    "code": {
+      "id": "ZW110707",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1107",
+      "level": 2,
+      "name": {
+        "local": "Nyanga",
+        "en": "Nyanga",
+        "slug": "nyanga-zw1107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1107",
+        "level": 2,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga-zw1107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.692",
+      "lon": "32.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110708",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw110708"
+    },
+    "code": {
+      "id": "ZW110708",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1107",
+      "level": 2,
+      "name": {
+        "local": "Nyanga",
+        "en": "Nyanga",
+        "slug": "nyanga-zw1107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1107",
+        "level": 2,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga-zw1107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.82",
+      "lon": "32.649"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110709",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw110709"
+    },
+    "code": {
+      "id": "ZW110709",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1107",
+      "level": 2,
+      "name": {
+        "local": "Nyanga",
+        "en": "Nyanga",
+        "slug": "nyanga-zw1107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1107",
+        "level": 2,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga-zw1107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.767",
+      "lon": "32.808"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "id": "ZW11",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Manicaland",
+    "en": "Manicaland",
+    "slug": "manicaland-zw11"
+  },
+  "code": {
+    "id": "ZW11",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 10,
+    "ward": 260
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.287",
+    "lon": "32.07"
+  },
+  "metadata": {},
+  "source": {}
+}

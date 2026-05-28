@@ -1,0 +1,2000 @@
+[
+  {
+    "id": "ZW170601",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw170601"
+    },
+    "code": {
+      "id": "ZW170601",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1706",
+      "level": 2,
+      "name": {
+        "local": "Mberengwa",
+        "en": "Mberengwa",
+        "slug": "mberengwa-zw1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1706",
+        "level": 2,
+        "name": {
+          "local": "Mberengwa",
+          "en": "Mberengwa",
+          "slug": "mberengwa-zw1706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.578",
+      "lon": "29.725"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170610",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw170610"
+    },
+    "code": {
+      "id": "ZW170610",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1706",
+      "level": 2,
+      "name": {
+        "local": "Mberengwa",
+        "en": "Mberengwa",
+        "slug": "mberengwa-zw1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1706",
+        "level": 2,
+        "name": {
+          "local": "Mberengwa",
+          "en": "Mberengwa",
+          "slug": "mberengwa-zw1706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.722",
+      "lon": "29.988"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170611",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw170611"
+    },
+    "code": {
+      "id": "ZW170611",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1706",
+      "level": 2,
+      "name": {
+        "local": "Mberengwa",
+        "en": "Mberengwa",
+        "slug": "mberengwa-zw1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1706",
+        "level": 2,
+        "name": {
+          "local": "Mberengwa",
+          "en": "Mberengwa",
+          "slug": "mberengwa-zw1706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.755",
+      "lon": "29.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170612",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw170612"
+    },
+    "code": {
+      "id": "ZW170612",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1706",
+      "level": 2,
+      "name": {
+        "local": "Mberengwa",
+        "en": "Mberengwa",
+        "slug": "mberengwa-zw1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1706",
+        "level": 2,
+        "name": {
+          "local": "Mberengwa",
+          "en": "Mberengwa",
+          "slug": "mberengwa-zw1706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.75",
+      "lon": "29.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170613",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw170613"
+    },
+    "code": {
+      "id": "ZW170613",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1706",
+      "level": 2,
+      "name": {
+        "local": "Mberengwa",
+        "en": "Mberengwa",
+        "slug": "mberengwa-zw1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1706",
+        "level": 2,
+        "name": {
+          "local": "Mberengwa",
+          "en": "Mberengwa",
+          "slug": "mberengwa-zw1706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.713",
+      "lon": "29.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170614",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw170614"
+    },
+    "code": {
+      "id": "ZW170614",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1706",
+      "level": 2,
+      "name": {
+        "local": "Mberengwa",
+        "en": "Mberengwa",
+        "slug": "mberengwa-zw1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1706",
+        "level": 2,
+        "name": {
+          "local": "Mberengwa",
+          "en": "Mberengwa",
+          "slug": "mberengwa-zw1706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.832",
+      "lon": "29.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170615",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw170615"
+    },
+    "code": {
+      "id": "ZW170615",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1706",
+      "level": 2,
+      "name": {
+        "local": "Mberengwa",
+        "en": "Mberengwa",
+        "slug": "mberengwa-zw1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1706",
+        "level": 2,
+        "name": {
+          "local": "Mberengwa",
+          "en": "Mberengwa",
+          "slug": "mberengwa-zw1706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.845",
+      "lon": "29.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170616",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "16",
+      "en": "16",
+      "slug": "16-zw170616"
+    },
+    "code": {
+      "id": "ZW170616",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1706",
+      "level": 2,
+      "name": {
+        "local": "Mberengwa",
+        "en": "Mberengwa",
+        "slug": "mberengwa-zw1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1706",
+        "level": 2,
+        "name": {
+          "local": "Mberengwa",
+          "en": "Mberengwa",
+          "slug": "mberengwa-zw1706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.819",
+      "lon": "30.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170617",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "17",
+      "en": "17",
+      "slug": "17-zw170617"
+    },
+    "code": {
+      "id": "ZW170617",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1706",
+      "level": 2,
+      "name": {
+        "local": "Mberengwa",
+        "en": "Mberengwa",
+        "slug": "mberengwa-zw1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1706",
+        "level": 2,
+        "name": {
+          "local": "Mberengwa",
+          "en": "Mberengwa",
+          "slug": "mberengwa-zw1706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.759",
+      "lon": "30.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170618",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "18",
+      "en": "18",
+      "slug": "18-zw170618"
+    },
+    "code": {
+      "id": "ZW170618",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1706",
+      "level": 2,
+      "name": {
+        "local": "Mberengwa",
+        "en": "Mberengwa",
+        "slug": "mberengwa-zw1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1706",
+        "level": 2,
+        "name": {
+          "local": "Mberengwa",
+          "en": "Mberengwa",
+          "slug": "mberengwa-zw1706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.811",
+      "lon": "30.203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170619",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "19",
+      "en": "19",
+      "slug": "19-zw170619"
+    },
+    "code": {
+      "id": "ZW170619",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1706",
+      "level": 2,
+      "name": {
+        "local": "Mberengwa",
+        "en": "Mberengwa",
+        "slug": "mberengwa-zw1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1706",
+        "level": 2,
+        "name": {
+          "local": "Mberengwa",
+          "en": "Mberengwa",
+          "slug": "mberengwa-zw1706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.841",
+      "lon": "30.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170602",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw170602"
+    },
+    "code": {
+      "id": "ZW170602",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1706",
+      "level": 2,
+      "name": {
+        "local": "Mberengwa",
+        "en": "Mberengwa",
+        "slug": "mberengwa-zw1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1706",
+        "level": 2,
+        "name": {
+          "local": "Mberengwa",
+          "en": "Mberengwa",
+          "slug": "mberengwa-zw1706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.534",
+      "lon": "30.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170620",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "20",
+      "en": "20",
+      "slug": "20-zw170620"
+    },
+    "code": {
+      "id": "ZW170620",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1706",
+      "level": 2,
+      "name": {
+        "local": "Mberengwa",
+        "en": "Mberengwa",
+        "slug": "mberengwa-zw1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1706",
+        "level": 2,
+        "name": {
+          "local": "Mberengwa",
+          "en": "Mberengwa",
+          "slug": "mberengwa-zw1706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.8",
+      "lon": "30.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170621",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "21",
+      "en": "21",
+      "slug": "21-zw170621"
+    },
+    "code": {
+      "id": "ZW170621",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1706",
+      "level": 2,
+      "name": {
+        "local": "Mberengwa",
+        "en": "Mberengwa",
+        "slug": "mberengwa-zw1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1706",
+        "level": 2,
+        "name": {
+          "local": "Mberengwa",
+          "en": "Mberengwa",
+          "slug": "mberengwa-zw1706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.886",
+      "lon": "30.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170622",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "22",
+      "en": "22",
+      "slug": "22-zw170622"
+    },
+    "code": {
+      "id": "ZW170622",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1706",
+      "level": 2,
+      "name": {
+        "local": "Mberengwa",
+        "en": "Mberengwa",
+        "slug": "mberengwa-zw1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1706",
+        "level": 2,
+        "name": {
+          "local": "Mberengwa",
+          "en": "Mberengwa",
+          "slug": "mberengwa-zw1706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.977",
+      "lon": "30.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170623",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "23",
+      "en": "23",
+      "slug": "23-zw170623"
+    },
+    "code": {
+      "id": "ZW170623",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1706",
+      "level": 2,
+      "name": {
+        "local": "Mberengwa",
+        "en": "Mberengwa",
+        "slug": "mberengwa-zw1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1706",
+        "level": 2,
+        "name": {
+          "local": "Mberengwa",
+          "en": "Mberengwa",
+          "slug": "mberengwa-zw1706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.898",
+      "lon": "30.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170624",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "24",
+      "en": "24",
+      "slug": "24-zw170624"
+    },
+    "code": {
+      "id": "ZW170624",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1706",
+      "level": 2,
+      "name": {
+        "local": "Mberengwa",
+        "en": "Mberengwa",
+        "slug": "mberengwa-zw1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1706",
+        "level": 2,
+        "name": {
+          "local": "Mberengwa",
+          "en": "Mberengwa",
+          "slug": "mberengwa-zw1706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.981",
+      "lon": "30.245"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170625",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "25",
+      "en": "25",
+      "slug": "25-zw170625"
+    },
+    "code": {
+      "id": "ZW170625",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1706",
+      "level": 2,
+      "name": {
+        "local": "Mberengwa",
+        "en": "Mberengwa",
+        "slug": "mberengwa-zw1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1706",
+        "level": 2,
+        "name": {
+          "local": "Mberengwa",
+          "en": "Mberengwa",
+          "slug": "mberengwa-zw1706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.992",
+      "lon": "30.136"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170626",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "26",
+      "en": "26",
+      "slug": "26-zw170626"
+    },
+    "code": {
+      "id": "ZW170626",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1706",
+      "level": 2,
+      "name": {
+        "local": "Mberengwa",
+        "en": "Mberengwa",
+        "slug": "mberengwa-zw1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1706",
+        "level": 2,
+        "name": {
+          "local": "Mberengwa",
+          "en": "Mberengwa",
+          "slug": "mberengwa-zw1706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.897",
+      "lon": "30.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170627",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "27",
+      "en": "27",
+      "slug": "27-zw170627"
+    },
+    "code": {
+      "id": "ZW170627",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1706",
+      "level": 2,
+      "name": {
+        "local": "Mberengwa",
+        "en": "Mberengwa",
+        "slug": "mberengwa-zw1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1706",
+        "level": 2,
+        "name": {
+          "local": "Mberengwa",
+          "en": "Mberengwa",
+          "slug": "mberengwa-zw1706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.878",
+      "lon": "30.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170628",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "28",
+      "en": "28",
+      "slug": "28-zw170628"
+    },
+    "code": {
+      "id": "ZW170628",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1706",
+      "level": 2,
+      "name": {
+        "local": "Mberengwa",
+        "en": "Mberengwa",
+        "slug": "mberengwa-zw1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1706",
+        "level": 2,
+        "name": {
+          "local": "Mberengwa",
+          "en": "Mberengwa",
+          "slug": "mberengwa-zw1706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.908",
+      "lon": "30.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170629",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "29",
+      "en": "29",
+      "slug": "29-zw170629"
+    },
+    "code": {
+      "id": "ZW170629",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1706",
+      "level": 2,
+      "name": {
+        "local": "Mberengwa",
+        "en": "Mberengwa",
+        "slug": "mberengwa-zw1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1706",
+        "level": 2,
+        "name": {
+          "local": "Mberengwa",
+          "en": "Mberengwa",
+          "slug": "mberengwa-zw1706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.967",
+      "lon": "29.798"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170603",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw170603"
+    },
+    "code": {
+      "id": "ZW170603",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1706",
+      "level": 2,
+      "name": {
+        "local": "Mberengwa",
+        "en": "Mberengwa",
+        "slug": "mberengwa-zw1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1706",
+        "level": 2,
+        "name": {
+          "local": "Mberengwa",
+          "en": "Mberengwa",
+          "slug": "mberengwa-zw1706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.579",
+      "lon": "30.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170630",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "30",
+      "en": "30",
+      "slug": "30-zw170630"
+    },
+    "code": {
+      "id": "ZW170630",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1706",
+      "level": 2,
+      "name": {
+        "local": "Mberengwa",
+        "en": "Mberengwa",
+        "slug": "mberengwa-zw1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1706",
+        "level": 2,
+        "name": {
+          "local": "Mberengwa",
+          "en": "Mberengwa",
+          "slug": "mberengwa-zw1706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.887",
+      "lon": "29.778"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170631",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "31",
+      "en": "31",
+      "slug": "31-zw170631"
+    },
+    "code": {
+      "id": "ZW170631",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1706",
+      "level": 2,
+      "name": {
+        "local": "Mberengwa",
+        "en": "Mberengwa",
+        "slug": "mberengwa-zw1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1706",
+        "level": 2,
+        "name": {
+          "local": "Mberengwa",
+          "en": "Mberengwa",
+          "slug": "mberengwa-zw1706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.936",
+      "lon": "29.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170632",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "32",
+      "en": "32",
+      "slug": "32-zw170632"
+    },
+    "code": {
+      "id": "ZW170632",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1706",
+      "level": 2,
+      "name": {
+        "local": "Mberengwa",
+        "en": "Mberengwa",
+        "slug": "mberengwa-zw1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1706",
+        "level": 2,
+        "name": {
+          "local": "Mberengwa",
+          "en": "Mberengwa",
+          "slug": "mberengwa-zw1706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.94",
+      "lon": "29.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170633",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "33",
+      "en": "33",
+      "slug": "33-zw170633"
+    },
+    "code": {
+      "id": "ZW170633",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1706",
+      "level": 2,
+      "name": {
+        "local": "Mberengwa",
+        "en": "Mberengwa",
+        "slug": "mberengwa-zw1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1706",
+        "level": 2,
+        "name": {
+          "local": "Mberengwa",
+          "en": "Mberengwa",
+          "slug": "mberengwa-zw1706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.883",
+      "lon": "29.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170634",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "34",
+      "en": "34",
+      "slug": "34-zw170634"
+    },
+    "code": {
+      "id": "ZW170634",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1706",
+      "level": 2,
+      "name": {
+        "local": "Mberengwa",
+        "en": "Mberengwa",
+        "slug": "mberengwa-zw1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1706",
+        "level": 2,
+        "name": {
+          "local": "Mberengwa",
+          "en": "Mberengwa",
+          "slug": "mberengwa-zw1706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.805",
+      "lon": "29.702"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170635",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "35",
+      "en": "35",
+      "slug": "35-zw170635"
+    },
+    "code": {
+      "id": "ZW170635",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1706",
+      "level": 2,
+      "name": {
+        "local": "Mberengwa",
+        "en": "Mberengwa",
+        "slug": "mberengwa-zw1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1706",
+        "level": 2,
+        "name": {
+          "local": "Mberengwa",
+          "en": "Mberengwa",
+          "slug": "mberengwa-zw1706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.595",
+      "lon": "29.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170636",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "36",
+      "en": "36",
+      "slug": "36-zw170636"
+    },
+    "code": {
+      "id": "ZW170636",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1706",
+      "level": 2,
+      "name": {
+        "local": "Mberengwa",
+        "en": "Mberengwa",
+        "slug": "mberengwa-zw1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1706",
+        "level": 2,
+        "name": {
+          "local": "Mberengwa",
+          "en": "Mberengwa",
+          "slug": "mberengwa-zw1706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.417",
+      "lon": "29.811"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170637",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "37",
+      "en": "37",
+      "slug": "37-zw170637"
+    },
+    "code": {
+      "id": "ZW170637",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1706",
+      "level": 2,
+      "name": {
+        "local": "Mberengwa",
+        "en": "Mberengwa",
+        "slug": "mberengwa-zw1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1706",
+        "level": 2,
+        "name": {
+          "local": "Mberengwa",
+          "en": "Mberengwa",
+          "slug": "mberengwa-zw1706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.683",
+      "lon": "29.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170604",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw170604"
+    },
+    "code": {
+      "id": "ZW170604",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1706",
+      "level": 2,
+      "name": {
+        "local": "Mberengwa",
+        "en": "Mberengwa",
+        "slug": "mberengwa-zw1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1706",
+        "level": 2,
+        "name": {
+          "local": "Mberengwa",
+          "en": "Mberengwa",
+          "slug": "mberengwa-zw1706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.622",
+      "lon": "30.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170605",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw170605"
+    },
+    "code": {
+      "id": "ZW170605",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1706",
+      "level": 2,
+      "name": {
+        "local": "Mberengwa",
+        "en": "Mberengwa",
+        "slug": "mberengwa-zw1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1706",
+        "level": 2,
+        "name": {
+          "local": "Mberengwa",
+          "en": "Mberengwa",
+          "slug": "mberengwa-zw1706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.694",
+      "lon": "30.443"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170606",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw170606"
+    },
+    "code": {
+      "id": "ZW170606",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1706",
+      "level": 2,
+      "name": {
+        "local": "Mberengwa",
+        "en": "Mberengwa",
+        "slug": "mberengwa-zw1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1706",
+        "level": 2,
+        "name": {
+          "local": "Mberengwa",
+          "en": "Mberengwa",
+          "slug": "mberengwa-zw1706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.697",
+      "lon": "30.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170607",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw170607"
+    },
+    "code": {
+      "id": "ZW170607",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1706",
+      "level": 2,
+      "name": {
+        "local": "Mberengwa",
+        "en": "Mberengwa",
+        "slug": "mberengwa-zw1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1706",
+        "level": 2,
+        "name": {
+          "local": "Mberengwa",
+          "en": "Mberengwa",
+          "slug": "mberengwa-zw1706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.661",
+      "lon": "30.246"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170608",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw170608"
+    },
+    "code": {
+      "id": "ZW170608",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1706",
+      "level": 2,
+      "name": {
+        "local": "Mberengwa",
+        "en": "Mberengwa",
+        "slug": "mberengwa-zw1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1706",
+        "level": 2,
+        "name": {
+          "local": "Mberengwa",
+          "en": "Mberengwa",
+          "slug": "mberengwa-zw1706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.691",
+      "lon": "30.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170609",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw170609"
+    },
+    "code": {
+      "id": "ZW170609",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1706",
+      "level": 2,
+      "name": {
+        "local": "Mberengwa",
+        "en": "Mberengwa",
+        "slug": "mberengwa-zw1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1706",
+        "level": 2,
+        "name": {
+          "local": "Mberengwa",
+          "en": "Mberengwa",
+          "slug": "mberengwa-zw1706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.684",
+      "lon": "30.072"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

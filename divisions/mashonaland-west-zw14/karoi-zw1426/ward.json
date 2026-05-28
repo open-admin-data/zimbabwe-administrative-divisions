@@ -1,0 +1,542 @@
+[
+  {
+    "id": "ZW142601",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw142601"
+    },
+    "code": {
+      "id": "ZW142601",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1426",
+      "level": 2,
+      "name": {
+        "local": "Karoi",
+        "en": "Karoi",
+        "slug": "karoi-zw1426"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1426",
+        "level": 2,
+        "name": {
+          "local": "Karoi",
+          "en": "Karoi",
+          "slug": "karoi-zw1426"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.8",
+      "lon": "29.701"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142610",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw142610"
+    },
+    "code": {
+      "id": "ZW142610",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1426",
+      "level": 2,
+      "name": {
+        "local": "Karoi",
+        "en": "Karoi",
+        "slug": "karoi-zw1426"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1426",
+        "level": 2,
+        "name": {
+          "local": "Karoi",
+          "en": "Karoi",
+          "slug": "karoi-zw1426"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.817",
+      "lon": "29.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142602",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw142602"
+    },
+    "code": {
+      "id": "ZW142602",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1426",
+      "level": 2,
+      "name": {
+        "local": "Karoi",
+        "en": "Karoi",
+        "slug": "karoi-zw1426"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1426",
+        "level": 2,
+        "name": {
+          "local": "Karoi",
+          "en": "Karoi",
+          "slug": "karoi-zw1426"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.805",
+      "lon": "29.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142603",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw142603"
+    },
+    "code": {
+      "id": "ZW142603",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1426",
+      "level": 2,
+      "name": {
+        "local": "Karoi",
+        "en": "Karoi",
+        "slug": "karoi-zw1426"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1426",
+        "level": 2,
+        "name": {
+          "local": "Karoi",
+          "en": "Karoi",
+          "slug": "karoi-zw1426"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.807",
+      "lon": "29.699"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142604",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw142604"
+    },
+    "code": {
+      "id": "ZW142604",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1426",
+      "level": 2,
+      "name": {
+        "local": "Karoi",
+        "en": "Karoi",
+        "slug": "karoi-zw1426"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1426",
+        "level": 2,
+        "name": {
+          "local": "Karoi",
+          "en": "Karoi",
+          "slug": "karoi-zw1426"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.801",
+      "lon": "29.696"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142605",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw142605"
+    },
+    "code": {
+      "id": "ZW142605",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1426",
+      "level": 2,
+      "name": {
+        "local": "Karoi",
+        "en": "Karoi",
+        "slug": "karoi-zw1426"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1426",
+        "level": 2,
+        "name": {
+          "local": "Karoi",
+          "en": "Karoi",
+          "slug": "karoi-zw1426"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.804",
+      "lon": "29.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142606",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw142606"
+    },
+    "code": {
+      "id": "ZW142606",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1426",
+      "level": 2,
+      "name": {
+        "local": "Karoi",
+        "en": "Karoi",
+        "slug": "karoi-zw1426"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1426",
+        "level": 2,
+        "name": {
+          "local": "Karoi",
+          "en": "Karoi",
+          "slug": "karoi-zw1426"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.81",
+      "lon": "29.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142607",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw142607"
+    },
+    "code": {
+      "id": "ZW142607",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1426",
+      "level": 2,
+      "name": {
+        "local": "Karoi",
+        "en": "Karoi",
+        "slug": "karoi-zw1426"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1426",
+        "level": 2,
+        "name": {
+          "local": "Karoi",
+          "en": "Karoi",
+          "slug": "karoi-zw1426"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.814",
+      "lon": "29.682"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142608",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw142608"
+    },
+    "code": {
+      "id": "ZW142608",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1426",
+      "level": 2,
+      "name": {
+        "local": "Karoi",
+        "en": "Karoi",
+        "slug": "karoi-zw1426"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1426",
+        "level": 2,
+        "name": {
+          "local": "Karoi",
+          "en": "Karoi",
+          "slug": "karoi-zw1426"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.829",
+      "lon": "29.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142609",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw142609"
+    },
+    "code": {
+      "id": "ZW142609",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1426",
+      "level": 2,
+      "name": {
+        "local": "Karoi",
+        "en": "Karoi",
+        "slug": "karoi-zw1426"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1426",
+        "level": 2,
+        "name": {
+          "local": "Karoi",
+          "en": "Karoi",
+          "slug": "karoi-zw1426"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.827",
+      "lon": "29.71"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

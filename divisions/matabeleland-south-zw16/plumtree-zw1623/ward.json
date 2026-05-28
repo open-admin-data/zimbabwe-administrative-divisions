@@ -1,0 +1,326 @@
+[
+  {
+    "id": "ZW162301",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw162301"
+    },
+    "code": {
+      "id": "ZW162301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1623",
+      "level": 2,
+      "name": {
+        "local": "Plumtree",
+        "en": "Plumtree",
+        "slug": "plumtree-zw1623"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1623",
+        "level": 2,
+        "name": {
+          "local": "Plumtree",
+          "en": "Plumtree",
+          "slug": "plumtree-zw1623"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.551",
+      "lon": "27.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW162302",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw162302"
+    },
+    "code": {
+      "id": "ZW162302",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1623",
+      "level": 2,
+      "name": {
+        "local": "Plumtree",
+        "en": "Plumtree",
+        "slug": "plumtree-zw1623"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1623",
+        "level": 2,
+        "name": {
+          "local": "Plumtree",
+          "en": "Plumtree",
+          "slug": "plumtree-zw1623"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.535",
+      "lon": "27.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW162303",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw162303"
+    },
+    "code": {
+      "id": "ZW162303",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1623",
+      "level": 2,
+      "name": {
+        "local": "Plumtree",
+        "en": "Plumtree",
+        "slug": "plumtree-zw1623"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1623",
+        "level": 2,
+        "name": {
+          "local": "Plumtree",
+          "en": "Plumtree",
+          "slug": "plumtree-zw1623"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.512",
+      "lon": "27.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW162304",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw162304"
+    },
+    "code": {
+      "id": "ZW162304",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1623",
+      "level": 2,
+      "name": {
+        "local": "Plumtree",
+        "en": "Plumtree",
+        "slug": "plumtree-zw1623"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1623",
+        "level": 2,
+        "name": {
+          "local": "Plumtree",
+          "en": "Plumtree",
+          "slug": "plumtree-zw1623"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.502",
+      "lon": "27.806"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW162305",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw162305"
+    },
+    "code": {
+      "id": "ZW162305",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1623",
+      "level": 2,
+      "name": {
+        "local": "Plumtree",
+        "en": "Plumtree",
+        "slug": "plumtree-zw1623"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1623",
+        "level": 2,
+        "name": {
+          "local": "Plumtree",
+          "en": "Plumtree",
+          "slug": "plumtree-zw1623"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.496",
+      "lon": "27.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW162306",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw162306"
+    },
+    "code": {
+      "id": "ZW162306",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1623",
+      "level": 2,
+      "name": {
+        "local": "Plumtree",
+        "en": "Plumtree",
+        "slug": "plumtree-zw1623"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1623",
+        "level": 2,
+        "name": {
+          "local": "Plumtree",
+          "en": "Plumtree",
+          "slug": "plumtree-zw1623"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.474",
+      "lon": "27.831"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

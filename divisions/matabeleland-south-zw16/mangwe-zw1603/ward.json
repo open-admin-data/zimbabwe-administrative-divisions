@@ -1,0 +1,920 @@
+[
+  {
+    "id": "ZW160301",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw160301"
+    },
+    "code": {
+      "id": "ZW160301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1603",
+      "level": 2,
+      "name": {
+        "local": "Mangwe",
+        "en": "Mangwe",
+        "slug": "mangwe-zw1603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1603",
+        "level": 2,
+        "name": {
+          "local": "Mangwe",
+          "en": "Mangwe",
+          "slug": "mangwe-zw1603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.7",
+      "lon": "27.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160310",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw160310"
+    },
+    "code": {
+      "id": "ZW160310",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1603",
+      "level": 2,
+      "name": {
+        "local": "Mangwe",
+        "en": "Mangwe",
+        "slug": "mangwe-zw1603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1603",
+        "level": 2,
+        "name": {
+          "local": "Mangwe",
+          "en": "Mangwe",
+          "slug": "mangwe-zw1603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.35",
+      "lon": "28.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160311",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw160311"
+    },
+    "code": {
+      "id": "ZW160311",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1603",
+      "level": 2,
+      "name": {
+        "local": "Mangwe",
+        "en": "Mangwe",
+        "slug": "mangwe-zw1603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1603",
+        "level": 2,
+        "name": {
+          "local": "Mangwe",
+          "en": "Mangwe",
+          "slug": "mangwe-zw1603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.809",
+      "lon": "28.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160312",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw160312"
+    },
+    "code": {
+      "id": "ZW160312",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1603",
+      "level": 2,
+      "name": {
+        "local": "Mangwe",
+        "en": "Mangwe",
+        "slug": "mangwe-zw1603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1603",
+        "level": 2,
+        "name": {
+          "local": "Mangwe",
+          "en": "Mangwe",
+          "slug": "mangwe-zw1603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.596",
+      "lon": "27.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160313",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw160313"
+    },
+    "code": {
+      "id": "ZW160313",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1603",
+      "level": 2,
+      "name": {
+        "local": "Mangwe",
+        "en": "Mangwe",
+        "slug": "mangwe-zw1603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1603",
+        "level": 2,
+        "name": {
+          "local": "Mangwe",
+          "en": "Mangwe",
+          "slug": "mangwe-zw1603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.704",
+      "lon": "27.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160314",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw160314"
+    },
+    "code": {
+      "id": "ZW160314",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1603",
+      "level": 2,
+      "name": {
+        "local": "Mangwe",
+        "en": "Mangwe",
+        "slug": "mangwe-zw1603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1603",
+        "level": 2,
+        "name": {
+          "local": "Mangwe",
+          "en": "Mangwe",
+          "slug": "mangwe-zw1603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.888",
+      "lon": "27.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160315",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw160315"
+    },
+    "code": {
+      "id": "ZW160315",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1603",
+      "level": 2,
+      "name": {
+        "local": "Mangwe",
+        "en": "Mangwe",
+        "slug": "mangwe-zw1603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1603",
+        "level": 2,
+        "name": {
+          "local": "Mangwe",
+          "en": "Mangwe",
+          "slug": "mangwe-zw1603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.197",
+      "lon": "27.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160316",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "16",
+      "en": "16",
+      "slug": "16-zw160316"
+    },
+    "code": {
+      "id": "ZW160316",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1603",
+      "level": 2,
+      "name": {
+        "local": "Mangwe",
+        "en": "Mangwe",
+        "slug": "mangwe-zw1603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1603",
+        "level": 2,
+        "name": {
+          "local": "Mangwe",
+          "en": "Mangwe",
+          "slug": "mangwe-zw1603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.314",
+      "lon": "28.074"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160317",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "17",
+      "en": "17",
+      "slug": "17-zw160317"
+    },
+    "code": {
+      "id": "ZW160317",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1603",
+      "level": 2,
+      "name": {
+        "local": "Mangwe",
+        "en": "Mangwe",
+        "slug": "mangwe-zw1603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1603",
+        "level": 2,
+        "name": {
+          "local": "Mangwe",
+          "en": "Mangwe",
+          "slug": "mangwe-zw1603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.505",
+      "lon": "28.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160302",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw160302"
+    },
+    "code": {
+      "id": "ZW160302",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1603",
+      "level": 2,
+      "name": {
+        "local": "Mangwe",
+        "en": "Mangwe",
+        "slug": "mangwe-zw1603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1603",
+        "level": 2,
+        "name": {
+          "local": "Mangwe",
+          "en": "Mangwe",
+          "slug": "mangwe-zw1603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.628",
+      "lon": "27.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160303",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw160303"
+    },
+    "code": {
+      "id": "ZW160303",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1603",
+      "level": 2,
+      "name": {
+        "local": "Mangwe",
+        "en": "Mangwe",
+        "slug": "mangwe-zw1603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1603",
+        "level": 2,
+        "name": {
+          "local": "Mangwe",
+          "en": "Mangwe",
+          "slug": "mangwe-zw1603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.762",
+      "lon": "27.77"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160304",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw160304"
+    },
+    "code": {
+      "id": "ZW160304",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1603",
+      "level": 2,
+      "name": {
+        "local": "Mangwe",
+        "en": "Mangwe",
+        "slug": "mangwe-zw1603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1603",
+        "level": 2,
+        "name": {
+          "local": "Mangwe",
+          "en": "Mangwe",
+          "slug": "mangwe-zw1603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.989",
+      "lon": "27.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160305",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw160305"
+    },
+    "code": {
+      "id": "ZW160305",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1603",
+      "level": 2,
+      "name": {
+        "local": "Mangwe",
+        "en": "Mangwe",
+        "slug": "mangwe-zw1603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1603",
+        "level": 2,
+        "name": {
+          "local": "Mangwe",
+          "en": "Mangwe",
+          "slug": "mangwe-zw1603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.115",
+      "lon": "27.872"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160306",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw160306"
+    },
+    "code": {
+      "id": "ZW160306",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1603",
+      "level": 2,
+      "name": {
+        "local": "Mangwe",
+        "en": "Mangwe",
+        "slug": "mangwe-zw1603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1603",
+        "level": 2,
+        "name": {
+          "local": "Mangwe",
+          "en": "Mangwe",
+          "slug": "mangwe-zw1603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.105",
+      "lon": "28.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160307",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw160307"
+    },
+    "code": {
+      "id": "ZW160307",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1603",
+      "level": 2,
+      "name": {
+        "local": "Mangwe",
+        "en": "Mangwe",
+        "slug": "mangwe-zw1603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1603",
+        "level": 2,
+        "name": {
+          "local": "Mangwe",
+          "en": "Mangwe",
+          "slug": "mangwe-zw1603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.231",
+      "lon": "28.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160308",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw160308"
+    },
+    "code": {
+      "id": "ZW160308",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1603",
+      "level": 2,
+      "name": {
+        "local": "Mangwe",
+        "en": "Mangwe",
+        "slug": "mangwe-zw1603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1603",
+        "level": 2,
+        "name": {
+          "local": "Mangwe",
+          "en": "Mangwe",
+          "slug": "mangwe-zw1603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.46",
+      "lon": "28.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160309",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw160309"
+    },
+    "code": {
+      "id": "ZW160309",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1603",
+      "level": 2,
+      "name": {
+        "local": "Mangwe",
+        "en": "Mangwe",
+        "slug": "mangwe-zw1603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1603",
+        "level": 2,
+        "name": {
+          "local": "Mangwe",
+          "en": "Mangwe",
+          "slug": "mangwe-zw1603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.536",
+      "lon": "28.329"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "ZW1704",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Gweru",
+    "en": "Gweru",
+    "slug": "gweru-zw1704"
+  },
+  "code": {
+    "id": "ZW1704",
+    "iso": null
+  },
+  "parent": {
+    "id": "ZW17",
+    "level": 1,
+    "name": {
+      "local": "Midlands",
+      "en": "Midlands",
+      "slug": "midlands-zw17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ZW17",
+      "level": 1,
+      "name": {
+        "local": "Midlands",
+        "en": "Midlands",
+        "slug": "midlands-zw17"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.531",
+    "lon": "29.519"
+  },
+  "metadata": {},
+  "source": {}
+}

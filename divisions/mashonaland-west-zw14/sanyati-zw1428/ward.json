@@ -1,0 +1,974 @@
+[
+  {
+    "id": "ZW142801",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw142801"
+    },
+    "code": {
+      "id": "ZW142801",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1428",
+      "level": 2,
+      "name": {
+        "local": "Sanyati",
+        "en": "Sanyati",
+        "slug": "sanyati-zw1428"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1428",
+        "level": 2,
+        "name": {
+          "local": "Sanyati",
+          "en": "Sanyati",
+          "slug": "sanyati-zw1428"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.298",
+      "lon": "29.781"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142810",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw142810"
+    },
+    "code": {
+      "id": "ZW142810",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1428",
+      "level": 2,
+      "name": {
+        "local": "Sanyati",
+        "en": "Sanyati",
+        "slug": "sanyati-zw1428"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1428",
+        "level": 2,
+        "name": {
+          "local": "Sanyati",
+          "en": "Sanyati",
+          "slug": "sanyati-zw1428"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.94",
+      "lon": "29.373"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142811",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw142811"
+    },
+    "code": {
+      "id": "ZW142811",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1428",
+      "level": 2,
+      "name": {
+        "local": "Sanyati",
+        "en": "Sanyati",
+        "slug": "sanyati-zw1428"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1428",
+        "level": 2,
+        "name": {
+          "local": "Sanyati",
+          "en": "Sanyati",
+          "slug": "sanyati-zw1428"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.905",
+      "lon": "29.303"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142812",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw142812"
+    },
+    "code": {
+      "id": "ZW142812",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1428",
+      "level": 2,
+      "name": {
+        "local": "Sanyati",
+        "en": "Sanyati",
+        "slug": "sanyati-zw1428"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1428",
+        "level": 2,
+        "name": {
+          "local": "Sanyati",
+          "en": "Sanyati",
+          "slug": "sanyati-zw1428"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.956",
+      "lon": "29.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142813",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw142813"
+    },
+    "code": {
+      "id": "ZW142813",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1428",
+      "level": 2,
+      "name": {
+        "local": "Sanyati",
+        "en": "Sanyati",
+        "slug": "sanyati-zw1428"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1428",
+        "level": 2,
+        "name": {
+          "local": "Sanyati",
+          "en": "Sanyati",
+          "slug": "sanyati-zw1428"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.827",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142814",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw142814"
+    },
+    "code": {
+      "id": "ZW142814",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1428",
+      "level": 2,
+      "name": {
+        "local": "Sanyati",
+        "en": "Sanyati",
+        "slug": "sanyati-zw1428"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1428",
+        "level": 2,
+        "name": {
+          "local": "Sanyati",
+          "en": "Sanyati",
+          "slug": "sanyati-zw1428"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.856",
+      "lon": "29.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142815",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw142815"
+    },
+    "code": {
+      "id": "ZW142815",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1428",
+      "level": 2,
+      "name": {
+        "local": "Sanyati",
+        "en": "Sanyati",
+        "slug": "sanyati-zw1428"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1428",
+        "level": 2,
+        "name": {
+          "local": "Sanyati",
+          "en": "Sanyati",
+          "slug": "sanyati-zw1428"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.805",
+      "lon": "29.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142816",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "16",
+      "en": "16",
+      "slug": "16-zw142816"
+    },
+    "code": {
+      "id": "ZW142816",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1428",
+      "level": 2,
+      "name": {
+        "local": "Sanyati",
+        "en": "Sanyati",
+        "slug": "sanyati-zw1428"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1428",
+        "level": 2,
+        "name": {
+          "local": "Sanyati",
+          "en": "Sanyati",
+          "slug": "sanyati-zw1428"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.665",
+      "lon": "29.472"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142817",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "17",
+      "en": "17",
+      "slug": "17-zw142817"
+    },
+    "code": {
+      "id": "ZW142817",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1428",
+      "level": 2,
+      "name": {
+        "local": "Sanyati",
+        "en": "Sanyati",
+        "slug": "sanyati-zw1428"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1428",
+        "level": 2,
+        "name": {
+          "local": "Sanyati",
+          "en": "Sanyati",
+          "slug": "sanyati-zw1428"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.669",
+      "lon": "29.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142818",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "18",
+      "en": "18",
+      "slug": "18-zw142818"
+    },
+    "code": {
+      "id": "ZW142818",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1428",
+      "level": 2,
+      "name": {
+        "local": "Sanyati",
+        "en": "Sanyati",
+        "slug": "sanyati-zw1428"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1428",
+        "level": 2,
+        "name": {
+          "local": "Sanyati",
+          "en": "Sanyati",
+          "slug": "sanyati-zw1428"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.982",
+      "lon": "29.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142802",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw142802"
+    },
+    "code": {
+      "id": "ZW142802",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1428",
+      "level": 2,
+      "name": {
+        "local": "Sanyati",
+        "en": "Sanyati",
+        "slug": "sanyati-zw1428"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1428",
+        "level": 2,
+        "name": {
+          "local": "Sanyati",
+          "en": "Sanyati",
+          "slug": "sanyati-zw1428"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.166",
+      "lon": "29.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142803",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw142803"
+    },
+    "code": {
+      "id": "ZW142803",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1428",
+      "level": 2,
+      "name": {
+        "local": "Sanyati",
+        "en": "Sanyati",
+        "slug": "sanyati-zw1428"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1428",
+        "level": 2,
+        "name": {
+          "local": "Sanyati",
+          "en": "Sanyati",
+          "slug": "sanyati-zw1428"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.095",
+      "lon": "29.815"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142804",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw142804"
+    },
+    "code": {
+      "id": "ZW142804",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1428",
+      "level": 2,
+      "name": {
+        "local": "Sanyati",
+        "en": "Sanyati",
+        "slug": "sanyati-zw1428"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1428",
+        "level": 2,
+        "name": {
+          "local": "Sanyati",
+          "en": "Sanyati",
+          "slug": "sanyati-zw1428"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.153",
+      "lon": "29.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142805",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw142805"
+    },
+    "code": {
+      "id": "ZW142805",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1428",
+      "level": 2,
+      "name": {
+        "local": "Sanyati",
+        "en": "Sanyati",
+        "slug": "sanyati-zw1428"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1428",
+        "level": 2,
+        "name": {
+          "local": "Sanyati",
+          "en": "Sanyati",
+          "slug": "sanyati-zw1428"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.199",
+      "lon": "29.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142806",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw142806"
+    },
+    "code": {
+      "id": "ZW142806",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1428",
+      "level": 2,
+      "name": {
+        "local": "Sanyati",
+        "en": "Sanyati",
+        "slug": "sanyati-zw1428"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1428",
+        "level": 2,
+        "name": {
+          "local": "Sanyati",
+          "en": "Sanyati",
+          "slug": "sanyati-zw1428"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.066",
+      "lon": "29.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142807",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw142807"
+    },
+    "code": {
+      "id": "ZW142807",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1428",
+      "level": 2,
+      "name": {
+        "local": "Sanyati",
+        "en": "Sanyati",
+        "slug": "sanyati-zw1428"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1428",
+        "level": 2,
+        "name": {
+          "local": "Sanyati",
+          "en": "Sanyati",
+          "slug": "sanyati-zw1428"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.914",
+      "lon": "29.709"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142808",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw142808"
+    },
+    "code": {
+      "id": "ZW142808",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1428",
+      "level": 2,
+      "name": {
+        "local": "Sanyati",
+        "en": "Sanyati",
+        "slug": "sanyati-zw1428"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1428",
+        "level": 2,
+        "name": {
+          "local": "Sanyati",
+          "en": "Sanyati",
+          "slug": "sanyati-zw1428"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.947",
+      "lon": "29.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142809",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw142809"
+    },
+    "code": {
+      "id": "ZW142809",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1428",
+      "level": 2,
+      "name": {
+        "local": "Sanyati",
+        "en": "Sanyati",
+        "slug": "sanyati-zw1428"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1428",
+        "level": 2,
+        "name": {
+          "local": "Sanyati",
+          "en": "Sanyati",
+          "slug": "sanyati-zw1428"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.951",
+      "lon": "29.424"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

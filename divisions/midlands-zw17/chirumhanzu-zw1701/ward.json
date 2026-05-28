@@ -1,0 +1,1352 @@
+[
+  {
+    "id": "ZW170101",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw170101"
+    },
+    "code": {
+      "id": "ZW170101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1701",
+      "level": 2,
+      "name": {
+        "local": "Chirumhanzu",
+        "en": "Chirumhanzu",
+        "slug": "chirumhanzu-zw1701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1701",
+        "level": 2,
+        "name": {
+          "local": "Chirumhanzu",
+          "en": "Chirumhanzu",
+          "slug": "chirumhanzu-zw1701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.489",
+      "lon": "30.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170110",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw170110"
+    },
+    "code": {
+      "id": "ZW170110",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1701",
+      "level": 2,
+      "name": {
+        "local": "Chirumhanzu",
+        "en": "Chirumhanzu",
+        "slug": "chirumhanzu-zw1701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1701",
+        "level": 2,
+        "name": {
+          "local": "Chirumhanzu",
+          "en": "Chirumhanzu",
+          "slug": "chirumhanzu-zw1701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.776",
+      "lon": "30.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170111",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw170111"
+    },
+    "code": {
+      "id": "ZW170111",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1701",
+      "level": 2,
+      "name": {
+        "local": "Chirumhanzu",
+        "en": "Chirumhanzu",
+        "slug": "chirumhanzu-zw1701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1701",
+        "level": 2,
+        "name": {
+          "local": "Chirumhanzu",
+          "en": "Chirumhanzu",
+          "slug": "chirumhanzu-zw1701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.406",
+      "lon": "30.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170112",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw170112"
+    },
+    "code": {
+      "id": "ZW170112",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1701",
+      "level": 2,
+      "name": {
+        "local": "Chirumhanzu",
+        "en": "Chirumhanzu",
+        "slug": "chirumhanzu-zw1701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1701",
+        "level": 2,
+        "name": {
+          "local": "Chirumhanzu",
+          "en": "Chirumhanzu",
+          "slug": "chirumhanzu-zw1701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.242",
+      "lon": "30.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170113",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw170113"
+    },
+    "code": {
+      "id": "ZW170113",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1701",
+      "level": 2,
+      "name": {
+        "local": "Chirumhanzu",
+        "en": "Chirumhanzu",
+        "slug": "chirumhanzu-zw1701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1701",
+        "level": 2,
+        "name": {
+          "local": "Chirumhanzu",
+          "en": "Chirumhanzu",
+          "slug": "chirumhanzu-zw1701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.277",
+      "lon": "30.529"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170114",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw170114"
+    },
+    "code": {
+      "id": "ZW170114",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1701",
+      "level": 2,
+      "name": {
+        "local": "Chirumhanzu",
+        "en": "Chirumhanzu",
+        "slug": "chirumhanzu-zw1701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1701",
+        "level": 2,
+        "name": {
+          "local": "Chirumhanzu",
+          "en": "Chirumhanzu",
+          "slug": "chirumhanzu-zw1701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.266",
+      "lon": "30.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170115",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw170115"
+    },
+    "code": {
+      "id": "ZW170115",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1701",
+      "level": 2,
+      "name": {
+        "local": "Chirumhanzu",
+        "en": "Chirumhanzu",
+        "slug": "chirumhanzu-zw1701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1701",
+        "level": 2,
+        "name": {
+          "local": "Chirumhanzu",
+          "en": "Chirumhanzu",
+          "slug": "chirumhanzu-zw1701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.01",
+      "lon": "30.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170116",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "16",
+      "en": "16",
+      "slug": "16-zw170116"
+    },
+    "code": {
+      "id": "ZW170116",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1701",
+      "level": 2,
+      "name": {
+        "local": "Chirumhanzu",
+        "en": "Chirumhanzu",
+        "slug": "chirumhanzu-zw1701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1701",
+        "level": 2,
+        "name": {
+          "local": "Chirumhanzu",
+          "en": "Chirumhanzu",
+          "slug": "chirumhanzu-zw1701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.184",
+      "lon": "30.229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170117",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "17",
+      "en": "17",
+      "slug": "17-zw170117"
+    },
+    "code": {
+      "id": "ZW170117",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1701",
+      "level": 2,
+      "name": {
+        "local": "Chirumhanzu",
+        "en": "Chirumhanzu",
+        "slug": "chirumhanzu-zw1701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1701",
+        "level": 2,
+        "name": {
+          "local": "Chirumhanzu",
+          "en": "Chirumhanzu",
+          "slug": "chirumhanzu-zw1701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.327",
+      "lon": "30.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170118",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "18",
+      "en": "18",
+      "slug": "18-zw170118"
+    },
+    "code": {
+      "id": "ZW170118",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1701",
+      "level": 2,
+      "name": {
+        "local": "Chirumhanzu",
+        "en": "Chirumhanzu",
+        "slug": "chirumhanzu-zw1701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1701",
+        "level": 2,
+        "name": {
+          "local": "Chirumhanzu",
+          "en": "Chirumhanzu",
+          "slug": "chirumhanzu-zw1701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.443",
+      "lon": "30.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170119",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "19",
+      "en": "19",
+      "slug": "19-zw170119"
+    },
+    "code": {
+      "id": "ZW170119",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1701",
+      "level": 2,
+      "name": {
+        "local": "Chirumhanzu",
+        "en": "Chirumhanzu",
+        "slug": "chirumhanzu-zw1701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1701",
+        "level": 2,
+        "name": {
+          "local": "Chirumhanzu",
+          "en": "Chirumhanzu",
+          "slug": "chirumhanzu-zw1701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.959",
+      "lon": "30.458"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170102",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw170102"
+    },
+    "code": {
+      "id": "ZW170102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1701",
+      "level": 2,
+      "name": {
+        "local": "Chirumhanzu",
+        "en": "Chirumhanzu",
+        "slug": "chirumhanzu-zw1701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1701",
+        "level": 2,
+        "name": {
+          "local": "Chirumhanzu",
+          "en": "Chirumhanzu",
+          "slug": "chirumhanzu-zw1701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.524",
+      "lon": "30.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170120",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "20",
+      "en": "20",
+      "slug": "20-zw170120"
+    },
+    "code": {
+      "id": "ZW170120",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1701",
+      "level": 2,
+      "name": {
+        "local": "Chirumhanzu",
+        "en": "Chirumhanzu",
+        "slug": "chirumhanzu-zw1701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1701",
+        "level": 2,
+        "name": {
+          "local": "Chirumhanzu",
+          "en": "Chirumhanzu",
+          "slug": "chirumhanzu-zw1701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.31",
+      "lon": "30.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170121",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "21",
+      "en": "21",
+      "slug": "21-zw170121"
+    },
+    "code": {
+      "id": "ZW170121",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1701",
+      "level": 2,
+      "name": {
+        "local": "Chirumhanzu",
+        "en": "Chirumhanzu",
+        "slug": "chirumhanzu-zw1701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1701",
+        "level": 2,
+        "name": {
+          "local": "Chirumhanzu",
+          "en": "Chirumhanzu",
+          "slug": "chirumhanzu-zw1701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.592",
+      "lon": "30.666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170122",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "22",
+      "en": "22",
+      "slug": "22-zw170122"
+    },
+    "code": {
+      "id": "ZW170122",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1701",
+      "level": 2,
+      "name": {
+        "local": "Chirumhanzu",
+        "en": "Chirumhanzu",
+        "slug": "chirumhanzu-zw1701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1701",
+        "level": 2,
+        "name": {
+          "local": "Chirumhanzu",
+          "en": "Chirumhanzu",
+          "slug": "chirumhanzu-zw1701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.312",
+      "lon": "30.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170123",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "23",
+      "en": "23",
+      "slug": "23-zw170123"
+    },
+    "code": {
+      "id": "ZW170123",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1701",
+      "level": 2,
+      "name": {
+        "local": "Chirumhanzu",
+        "en": "Chirumhanzu",
+        "slug": "chirumhanzu-zw1701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1701",
+        "level": 2,
+        "name": {
+          "local": "Chirumhanzu",
+          "en": "Chirumhanzu",
+          "slug": "chirumhanzu-zw1701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.726",
+      "lon": "30.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170124",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "24",
+      "en": "24",
+      "slug": "24-zw170124"
+    },
+    "code": {
+      "id": "ZW170124",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1701",
+      "level": 2,
+      "name": {
+        "local": "Chirumhanzu",
+        "en": "Chirumhanzu",
+        "slug": "chirumhanzu-zw1701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1701",
+        "level": 2,
+        "name": {
+          "local": "Chirumhanzu",
+          "en": "Chirumhanzu",
+          "slug": "chirumhanzu-zw1701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.265",
+      "lon": "30.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170125",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "25",
+      "en": "25",
+      "slug": "25-zw170125"
+    },
+    "code": {
+      "id": "ZW170125",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1701",
+      "level": 2,
+      "name": {
+        "local": "Chirumhanzu",
+        "en": "Chirumhanzu",
+        "slug": "chirumhanzu-zw1701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1701",
+        "level": 2,
+        "name": {
+          "local": "Chirumhanzu",
+          "en": "Chirumhanzu",
+          "slug": "chirumhanzu-zw1701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.687",
+      "lon": "30.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170103",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw170103"
+    },
+    "code": {
+      "id": "ZW170103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1701",
+      "level": 2,
+      "name": {
+        "local": "Chirumhanzu",
+        "en": "Chirumhanzu",
+        "slug": "chirumhanzu-zw1701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1701",
+        "level": 2,
+        "name": {
+          "local": "Chirumhanzu",
+          "en": "Chirumhanzu",
+          "slug": "chirumhanzu-zw1701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.739",
+      "lon": "30.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170104",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw170104"
+    },
+    "code": {
+      "id": "ZW170104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1701",
+      "level": 2,
+      "name": {
+        "local": "Chirumhanzu",
+        "en": "Chirumhanzu",
+        "slug": "chirumhanzu-zw1701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1701",
+        "level": 2,
+        "name": {
+          "local": "Chirumhanzu",
+          "en": "Chirumhanzu",
+          "slug": "chirumhanzu-zw1701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.82",
+      "lon": "30.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170105",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw170105"
+    },
+    "code": {
+      "id": "ZW170105",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1701",
+      "level": 2,
+      "name": {
+        "local": "Chirumhanzu",
+        "en": "Chirumhanzu",
+        "slug": "chirumhanzu-zw1701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1701",
+        "level": 2,
+        "name": {
+          "local": "Chirumhanzu",
+          "en": "Chirumhanzu",
+          "slug": "chirumhanzu-zw1701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.563",
+      "lon": "30.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170106",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw170106"
+    },
+    "code": {
+      "id": "ZW170106",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1701",
+      "level": 2,
+      "name": {
+        "local": "Chirumhanzu",
+        "en": "Chirumhanzu",
+        "slug": "chirumhanzu-zw1701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1701",
+        "level": 2,
+        "name": {
+          "local": "Chirumhanzu",
+          "en": "Chirumhanzu",
+          "slug": "chirumhanzu-zw1701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.57",
+      "lon": "30.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170107",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw170107"
+    },
+    "code": {
+      "id": "ZW170107",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1701",
+      "level": 2,
+      "name": {
+        "local": "Chirumhanzu",
+        "en": "Chirumhanzu",
+        "slug": "chirumhanzu-zw1701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1701",
+        "level": 2,
+        "name": {
+          "local": "Chirumhanzu",
+          "en": "Chirumhanzu",
+          "slug": "chirumhanzu-zw1701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.82",
+      "lon": "30.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170108",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw170108"
+    },
+    "code": {
+      "id": "ZW170108",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1701",
+      "level": 2,
+      "name": {
+        "local": "Chirumhanzu",
+        "en": "Chirumhanzu",
+        "slug": "chirumhanzu-zw1701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1701",
+        "level": 2,
+        "name": {
+          "local": "Chirumhanzu",
+          "en": "Chirumhanzu",
+          "slug": "chirumhanzu-zw1701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.73",
+      "lon": "30.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170109",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw170109"
+    },
+    "code": {
+      "id": "ZW170109",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1701",
+      "level": 2,
+      "name": {
+        "local": "Chirumhanzu",
+        "en": "Chirumhanzu",
+        "slug": "chirumhanzu-zw1701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1701",
+        "level": 2,
+        "name": {
+          "local": "Chirumhanzu",
+          "en": "Chirumhanzu",
+          "slug": "chirumhanzu-zw1701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.664",
+      "lon": "30.482"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

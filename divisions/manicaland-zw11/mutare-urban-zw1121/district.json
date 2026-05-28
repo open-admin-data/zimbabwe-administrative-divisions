@@ -1,0 +1,47 @@
+{
+  "id": "ZW1121",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mutare Urban",
+    "en": "Mutare Urban",
+    "slug": "mutare-urban-zw1121"
+  },
+  "code": {
+    "id": "ZW1121",
+    "iso": null
+  },
+  "parent": {
+    "id": "ZW11",
+    "level": 1,
+    "name": {
+      "local": "Manicaland",
+      "en": "Manicaland",
+      "slug": "manicaland-zw11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ZW11",
+      "level": 1,
+      "name": {
+        "local": "Manicaland",
+        "en": "Manicaland",
+        "slug": "manicaland-zw11"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.996",
+    "lon": "32.613"
+  },
+  "metadata": {},
+  "source": {}
+}

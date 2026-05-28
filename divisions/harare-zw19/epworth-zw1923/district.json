@@ -1,0 +1,47 @@
+{
+  "id": "ZW1923",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Epworth",
+    "en": "Epworth",
+    "slug": "epworth-zw1923"
+  },
+  "code": {
+    "id": "ZW1923",
+    "iso": null
+  },
+  "parent": {
+    "id": "ZW19",
+    "level": 1,
+    "name": {
+      "local": "Harare",
+      "en": "Harare",
+      "slug": "harare-zw19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ZW19",
+      "level": 1,
+      "name": {
+        "local": "Harare",
+        "en": "Harare",
+        "slug": "harare-zw19"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.898",
+    "lon": "31.167"
+  },
+  "metadata": {},
+  "source": {}
+}

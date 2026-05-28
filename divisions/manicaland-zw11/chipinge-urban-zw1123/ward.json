@@ -1,0 +1,434 @@
+[
+  {
+    "id": "ZW112301",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw112301"
+    },
+    "code": {
+      "id": "ZW112301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1123",
+      "level": 2,
+      "name": {
+        "local": "Chipinge Urban",
+        "en": "Chipinge Urban",
+        "slug": "chipinge-urban-zw1123"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1123",
+        "level": 2,
+        "name": {
+          "local": "Chipinge Urban",
+          "en": "Chipinge Urban",
+          "slug": "chipinge-urban-zw1123"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.178",
+      "lon": "32.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW112302",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw112302"
+    },
+    "code": {
+      "id": "ZW112302",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1123",
+      "level": 2,
+      "name": {
+        "local": "Chipinge Urban",
+        "en": "Chipinge Urban",
+        "slug": "chipinge-urban-zw1123"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1123",
+        "level": 2,
+        "name": {
+          "local": "Chipinge Urban",
+          "en": "Chipinge Urban",
+          "slug": "chipinge-urban-zw1123"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.183",
+      "lon": "32.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW112303",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw112303"
+    },
+    "code": {
+      "id": "ZW112303",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1123",
+      "level": 2,
+      "name": {
+        "local": "Chipinge Urban",
+        "en": "Chipinge Urban",
+        "slug": "chipinge-urban-zw1123"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1123",
+        "level": 2,
+        "name": {
+          "local": "Chipinge Urban",
+          "en": "Chipinge Urban",
+          "slug": "chipinge-urban-zw1123"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.182",
+      "lon": "32.636"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW112304",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw112304"
+    },
+    "code": {
+      "id": "ZW112304",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1123",
+      "level": 2,
+      "name": {
+        "local": "Chipinge Urban",
+        "en": "Chipinge Urban",
+        "slug": "chipinge-urban-zw1123"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1123",
+        "level": 2,
+        "name": {
+          "local": "Chipinge Urban",
+          "en": "Chipinge Urban",
+          "slug": "chipinge-urban-zw1123"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.185",
+      "lon": "32.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW112305",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw112305"
+    },
+    "code": {
+      "id": "ZW112305",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1123",
+      "level": 2,
+      "name": {
+        "local": "Chipinge Urban",
+        "en": "Chipinge Urban",
+        "slug": "chipinge-urban-zw1123"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1123",
+        "level": 2,
+        "name": {
+          "local": "Chipinge Urban",
+          "en": "Chipinge Urban",
+          "slug": "chipinge-urban-zw1123"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.19",
+      "lon": "32.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW112306",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw112306"
+    },
+    "code": {
+      "id": "ZW112306",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1123",
+      "level": 2,
+      "name": {
+        "local": "Chipinge Urban",
+        "en": "Chipinge Urban",
+        "slug": "chipinge-urban-zw1123"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1123",
+        "level": 2,
+        "name": {
+          "local": "Chipinge Urban",
+          "en": "Chipinge Urban",
+          "slug": "chipinge-urban-zw1123"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.197",
+      "lon": "32.643"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW112307",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw112307"
+    },
+    "code": {
+      "id": "ZW112307",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1123",
+      "level": 2,
+      "name": {
+        "local": "Chipinge Urban",
+        "en": "Chipinge Urban",
+        "slug": "chipinge-urban-zw1123"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1123",
+        "level": 2,
+        "name": {
+          "local": "Chipinge Urban",
+          "en": "Chipinge Urban",
+          "slug": "chipinge-urban-zw1123"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.216",
+      "lon": "32.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW112308",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw112308"
+    },
+    "code": {
+      "id": "ZW112308",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1123",
+      "level": 2,
+      "name": {
+        "local": "Chipinge Urban",
+        "en": "Chipinge Urban",
+        "slug": "chipinge-urban-zw1123"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1123",
+        "level": 2,
+        "name": {
+          "local": "Chipinge Urban",
+          "en": "Chipinge Urban",
+          "slug": "chipinge-urban-zw1123"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.195",
+      "lon": "32.616"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

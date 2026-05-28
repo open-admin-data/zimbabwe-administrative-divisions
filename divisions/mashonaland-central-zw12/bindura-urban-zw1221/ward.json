@@ -1,0 +1,650 @@
+[
+  {
+    "id": "ZW122101",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw122101"
+    },
+    "code": {
+      "id": "ZW122101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1221",
+      "level": 2,
+      "name": {
+        "local": "Bindura Urban",
+        "en": "Bindura Urban",
+        "slug": "bindura-urban-zw1221"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1221",
+        "level": 2,
+        "name": {
+          "local": "Bindura Urban",
+          "en": "Bindura Urban",
+          "slug": "bindura-urban-zw1221"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.291",
+      "lon": "31.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW122110",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw122110"
+    },
+    "code": {
+      "id": "ZW122110",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1221",
+      "level": 2,
+      "name": {
+        "local": "Bindura Urban",
+        "en": "Bindura Urban",
+        "slug": "bindura-urban-zw1221"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1221",
+        "level": 2,
+        "name": {
+          "local": "Bindura Urban",
+          "en": "Bindura Urban",
+          "slug": "bindura-urban-zw1221"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.321",
+      "lon": "31.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW122111",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw122111"
+    },
+    "code": {
+      "id": "ZW122111",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1221",
+      "level": 2,
+      "name": {
+        "local": "Bindura Urban",
+        "en": "Bindura Urban",
+        "slug": "bindura-urban-zw1221"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1221",
+        "level": 2,
+        "name": {
+          "local": "Bindura Urban",
+          "en": "Bindura Urban",
+          "slug": "bindura-urban-zw1221"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.312",
+      "lon": "31.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW122112",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw122112"
+    },
+    "code": {
+      "id": "ZW122112",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1221",
+      "level": 2,
+      "name": {
+        "local": "Bindura Urban",
+        "en": "Bindura Urban",
+        "slug": "bindura-urban-zw1221"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1221",
+        "level": 2,
+        "name": {
+          "local": "Bindura Urban",
+          "en": "Bindura Urban",
+          "slug": "bindura-urban-zw1221"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.332",
+      "lon": "31.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW122102",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw122102"
+    },
+    "code": {
+      "id": "ZW122102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1221",
+      "level": 2,
+      "name": {
+        "local": "Bindura Urban",
+        "en": "Bindura Urban",
+        "slug": "bindura-urban-zw1221"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1221",
+        "level": 2,
+        "name": {
+          "local": "Bindura Urban",
+          "en": "Bindura Urban",
+          "slug": "bindura-urban-zw1221"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.287",
+      "lon": "31.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW122103",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw122103"
+    },
+    "code": {
+      "id": "ZW122103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1221",
+      "level": 2,
+      "name": {
+        "local": "Bindura Urban",
+        "en": "Bindura Urban",
+        "slug": "bindura-urban-zw1221"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1221",
+        "level": 2,
+        "name": {
+          "local": "Bindura Urban",
+          "en": "Bindura Urban",
+          "slug": "bindura-urban-zw1221"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.312",
+      "lon": "31.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW122104",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw122104"
+    },
+    "code": {
+      "id": "ZW122104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1221",
+      "level": 2,
+      "name": {
+        "local": "Bindura Urban",
+        "en": "Bindura Urban",
+        "slug": "bindura-urban-zw1221"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1221",
+        "level": 2,
+        "name": {
+          "local": "Bindura Urban",
+          "en": "Bindura Urban",
+          "slug": "bindura-urban-zw1221"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.311",
+      "lon": "31.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW122105",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw122105"
+    },
+    "code": {
+      "id": "ZW122105",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1221",
+      "level": 2,
+      "name": {
+        "local": "Bindura Urban",
+        "en": "Bindura Urban",
+        "slug": "bindura-urban-zw1221"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1221",
+        "level": 2,
+        "name": {
+          "local": "Bindura Urban",
+          "en": "Bindura Urban",
+          "slug": "bindura-urban-zw1221"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.32",
+      "lon": "31.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW122106",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw122106"
+    },
+    "code": {
+      "id": "ZW122106",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1221",
+      "level": 2,
+      "name": {
+        "local": "Bindura Urban",
+        "en": "Bindura Urban",
+        "slug": "bindura-urban-zw1221"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1221",
+        "level": 2,
+        "name": {
+          "local": "Bindura Urban",
+          "en": "Bindura Urban",
+          "slug": "bindura-urban-zw1221"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.318",
+      "lon": "31.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW122107",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw122107"
+    },
+    "code": {
+      "id": "ZW122107",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1221",
+      "level": 2,
+      "name": {
+        "local": "Bindura Urban",
+        "en": "Bindura Urban",
+        "slug": "bindura-urban-zw1221"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1221",
+        "level": 2,
+        "name": {
+          "local": "Bindura Urban",
+          "en": "Bindura Urban",
+          "slug": "bindura-urban-zw1221"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.321",
+      "lon": "31.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW122108",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw122108"
+    },
+    "code": {
+      "id": "ZW122108",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1221",
+      "level": 2,
+      "name": {
+        "local": "Bindura Urban",
+        "en": "Bindura Urban",
+        "slug": "bindura-urban-zw1221"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1221",
+        "level": 2,
+        "name": {
+          "local": "Bindura Urban",
+          "en": "Bindura Urban",
+          "slug": "bindura-urban-zw1221"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.315",
+      "lon": "31.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW122109",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw122109"
+    },
+    "code": {
+      "id": "ZW122109",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1221",
+      "level": 2,
+      "name": {
+        "local": "Bindura Urban",
+        "en": "Bindura Urban",
+        "slug": "bindura-urban-zw1221"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1221",
+        "level": 2,
+        "name": {
+          "local": "Bindura Urban",
+          "en": "Bindura Urban",
+          "slug": "bindura-urban-zw1221"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.329",
+      "lon": "31.356"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

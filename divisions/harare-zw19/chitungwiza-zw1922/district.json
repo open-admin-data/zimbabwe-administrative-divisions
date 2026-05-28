@@ -1,0 +1,47 @@
+{
+  "id": "ZW1922",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Chitungwiza",
+    "en": "Chitungwiza",
+    "slug": "chitungwiza-zw1922"
+  },
+  "code": {
+    "id": "ZW1922",
+    "iso": null
+  },
+  "parent": {
+    "id": "ZW19",
+    "level": 1,
+    "name": {
+      "local": "Harare",
+      "en": "Harare",
+      "slug": "harare-zw19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ZW19",
+      "level": 1,
+      "name": {
+        "local": "Harare",
+        "en": "Harare",
+        "slug": "harare-zw19"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 25
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.015",
+    "lon": "31.07"
+  },
+  "metadata": {},
+  "source": {}
+}

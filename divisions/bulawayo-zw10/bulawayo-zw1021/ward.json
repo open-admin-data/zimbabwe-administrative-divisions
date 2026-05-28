@@ -1,0 +1,1568 @@
+[
+  {
+    "id": "ZW102101",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw102101"
+    },
+    "code": {
+      "id": "ZW102101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1021",
+      "level": 2,
+      "name": {
+        "local": "Bulawayo",
+        "en": "Bulawayo",
+        "slug": "bulawayo-zw1021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW10",
+        "level": 1,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw10"
+        }
+      },
+      {
+        "id": "ZW1021",
+        "level": 2,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw1021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.152",
+      "lon": "28.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW102110",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw102110"
+    },
+    "code": {
+      "id": "ZW102110",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1021",
+      "level": 2,
+      "name": {
+        "local": "Bulawayo",
+        "en": "Bulawayo",
+        "slug": "bulawayo-zw1021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW10",
+        "level": 1,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw10"
+        }
+      },
+      {
+        "id": "ZW1021",
+        "level": 2,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw1021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.123",
+      "lon": "28.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW102111",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw102111"
+    },
+    "code": {
+      "id": "ZW102111",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1021",
+      "level": 2,
+      "name": {
+        "local": "Bulawayo",
+        "en": "Bulawayo",
+        "slug": "bulawayo-zw1021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW10",
+        "level": 1,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw10"
+        }
+      },
+      {
+        "id": "ZW1021",
+        "level": 2,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw1021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.113",
+      "lon": "28.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW102112",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw102112"
+    },
+    "code": {
+      "id": "ZW102112",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1021",
+      "level": 2,
+      "name": {
+        "local": "Bulawayo",
+        "en": "Bulawayo",
+        "slug": "bulawayo-zw1021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW10",
+        "level": 1,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw10"
+        }
+      },
+      {
+        "id": "ZW1021",
+        "level": 2,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw1021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.135",
+      "lon": "28.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW102113",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw102113"
+    },
+    "code": {
+      "id": "ZW102113",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1021",
+      "level": 2,
+      "name": {
+        "local": "Bulawayo",
+        "en": "Bulawayo",
+        "slug": "bulawayo-zw1021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW10",
+        "level": 1,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw10"
+        }
+      },
+      {
+        "id": "ZW1021",
+        "level": 2,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw1021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.149",
+      "lon": "28.524"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW102114",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw102114"
+    },
+    "code": {
+      "id": "ZW102114",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1021",
+      "level": 2,
+      "name": {
+        "local": "Bulawayo",
+        "en": "Bulawayo",
+        "slug": "bulawayo-zw1021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW10",
+        "level": 1,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw10"
+        }
+      },
+      {
+        "id": "ZW1021",
+        "level": 2,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw1021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.132",
+      "lon": "28.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW102115",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw102115"
+    },
+    "code": {
+      "id": "ZW102115",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1021",
+      "level": 2,
+      "name": {
+        "local": "Bulawayo",
+        "en": "Bulawayo",
+        "slug": "bulawayo-zw1021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW10",
+        "level": 1,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw10"
+        }
+      },
+      {
+        "id": "ZW1021",
+        "level": 2,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw1021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.109",
+      "lon": "28.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW102116",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "16",
+      "en": "16",
+      "slug": "16-zw102116"
+    },
+    "code": {
+      "id": "ZW102116",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1021",
+      "level": 2,
+      "name": {
+        "local": "Bulawayo",
+        "en": "Bulawayo",
+        "slug": "bulawayo-zw1021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW10",
+        "level": 1,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw10"
+        }
+      },
+      {
+        "id": "ZW1021",
+        "level": 2,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw1021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.105",
+      "lon": "28.493"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW102117",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "17",
+      "en": "17",
+      "slug": "17-zw102117"
+    },
+    "code": {
+      "id": "ZW102117",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1021",
+      "level": 2,
+      "name": {
+        "local": "Bulawayo",
+        "en": "Bulawayo",
+        "slug": "bulawayo-zw1021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW10",
+        "level": 1,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw10"
+        }
+      },
+      {
+        "id": "ZW1021",
+        "level": 2,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw1021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.098",
+      "lon": "28.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW102118",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "18",
+      "en": "18",
+      "slug": "18-zw102118"
+    },
+    "code": {
+      "id": "ZW102118",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1021",
+      "level": 2,
+      "name": {
+        "local": "Bulawayo",
+        "en": "Bulawayo",
+        "slug": "bulawayo-zw1021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW10",
+        "level": 1,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw10"
+        }
+      },
+      {
+        "id": "ZW1021",
+        "level": 2,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw1021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.137",
+      "lon": "28.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW102119",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "19",
+      "en": "19",
+      "slug": "19-zw102119"
+    },
+    "code": {
+      "id": "ZW102119",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1021",
+      "level": 2,
+      "name": {
+        "local": "Bulawayo",
+        "en": "Bulawayo",
+        "slug": "bulawayo-zw1021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW10",
+        "level": 1,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw10"
+        }
+      },
+      {
+        "id": "ZW1021",
+        "level": 2,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw1021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.146",
+      "lon": "28.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW102102",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw102102"
+    },
+    "code": {
+      "id": "ZW102102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1021",
+      "level": 2,
+      "name": {
+        "local": "Bulawayo",
+        "en": "Bulawayo",
+        "slug": "bulawayo-zw1021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW10",
+        "level": 1,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw10"
+        }
+      },
+      {
+        "id": "ZW1021",
+        "level": 2,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw1021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.052",
+      "lon": "28.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW102120",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "20",
+      "en": "20",
+      "slug": "20-zw102120"
+    },
+    "code": {
+      "id": "ZW102120",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1021",
+      "level": 2,
+      "name": {
+        "local": "Bulawayo",
+        "en": "Bulawayo",
+        "slug": "bulawayo-zw1021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW10",
+        "level": 1,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw10"
+        }
+      },
+      {
+        "id": "ZW1021",
+        "level": 2,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw1021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.175",
+      "lon": "28.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW102121",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "21",
+      "en": "21",
+      "slug": "21-zw102121"
+    },
+    "code": {
+      "id": "ZW102121",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1021",
+      "level": 2,
+      "name": {
+        "local": "Bulawayo",
+        "en": "Bulawayo",
+        "slug": "bulawayo-zw1021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW10",
+        "level": 1,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw10"
+        }
+      },
+      {
+        "id": "ZW1021",
+        "level": 2,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw1021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.175",
+      "lon": "28.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW102122",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "22",
+      "en": "22",
+      "slug": "22-zw102122"
+    },
+    "code": {
+      "id": "ZW102122",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1021",
+      "level": 2,
+      "name": {
+        "local": "Bulawayo",
+        "en": "Bulawayo",
+        "slug": "bulawayo-zw1021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW10",
+        "level": 1,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw10"
+        }
+      },
+      {
+        "id": "ZW1021",
+        "level": 2,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw1021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.182",
+      "lon": "28.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW102123",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "23",
+      "en": "23",
+      "slug": "23-zw102123"
+    },
+    "code": {
+      "id": "ZW102123",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1021",
+      "level": 2,
+      "name": {
+        "local": "Bulawayo",
+        "en": "Bulawayo",
+        "slug": "bulawayo-zw1021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW10",
+        "level": 1,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw10"
+        }
+      },
+      {
+        "id": "ZW1021",
+        "level": 2,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw1021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.19",
+      "lon": "28.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW102124",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "24",
+      "en": "24",
+      "slug": "24-zw102124"
+    },
+    "code": {
+      "id": "ZW102124",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1021",
+      "level": 2,
+      "name": {
+        "local": "Bulawayo",
+        "en": "Bulawayo",
+        "slug": "bulawayo-zw1021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW10",
+        "level": 1,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw10"
+        }
+      },
+      {
+        "id": "ZW1021",
+        "level": 2,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw1021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.192",
+      "lon": "28.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW102125",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "25",
+      "en": "25",
+      "slug": "25-zw102125"
+    },
+    "code": {
+      "id": "ZW102125",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1021",
+      "level": 2,
+      "name": {
+        "local": "Bulawayo",
+        "en": "Bulawayo",
+        "slug": "bulawayo-zw1021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW10",
+        "level": 1,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw10"
+        }
+      },
+      {
+        "id": "ZW1021",
+        "level": 2,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw1021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.204",
+      "lon": "28.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW102126",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "26",
+      "en": "26",
+      "slug": "26-zw102126"
+    },
+    "code": {
+      "id": "ZW102126",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1021",
+      "level": 2,
+      "name": {
+        "local": "Bulawayo",
+        "en": "Bulawayo",
+        "slug": "bulawayo-zw1021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW10",
+        "level": 1,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw10"
+        }
+      },
+      {
+        "id": "ZW1021",
+        "level": 2,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw1021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.218",
+      "lon": "28.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW102127",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "27",
+      "en": "27",
+      "slug": "27-zw102127"
+    },
+    "code": {
+      "id": "ZW102127",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1021",
+      "level": 2,
+      "name": {
+        "local": "Bulawayo",
+        "en": "Bulawayo",
+        "slug": "bulawayo-zw1021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW10",
+        "level": 1,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw10"
+        }
+      },
+      {
+        "id": "ZW1021",
+        "level": 2,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw1021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.158",
+      "lon": "28.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW102128",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "28",
+      "en": "28",
+      "slug": "28-zw102128"
+    },
+    "code": {
+      "id": "ZW102128",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1021",
+      "level": 2,
+      "name": {
+        "local": "Bulawayo",
+        "en": "Bulawayo",
+        "slug": "bulawayo-zw1021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW10",
+        "level": 1,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw10"
+        }
+      },
+      {
+        "id": "ZW1021",
+        "level": 2,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw1021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.079",
+      "lon": "28.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW102129",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "29",
+      "en": "29",
+      "slug": "29-zw102129"
+    },
+    "code": {
+      "id": "ZW102129",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1021",
+      "level": 2,
+      "name": {
+        "local": "Bulawayo",
+        "en": "Bulawayo",
+        "slug": "bulawayo-zw1021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW10",
+        "level": 1,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw10"
+        }
+      },
+      {
+        "id": "ZW1021",
+        "level": 2,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw1021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.126",
+      "lon": "28.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW102103",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw102103"
+    },
+    "code": {
+      "id": "ZW102103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1021",
+      "level": 2,
+      "name": {
+        "local": "Bulawayo",
+        "en": "Bulawayo",
+        "slug": "bulawayo-zw1021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW10",
+        "level": 1,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw10"
+        }
+      },
+      {
+        "id": "ZW1021",
+        "level": 2,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw1021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.122",
+      "lon": "28.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW102104",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw102104"
+    },
+    "code": {
+      "id": "ZW102104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1021",
+      "level": 2,
+      "name": {
+        "local": "Bulawayo",
+        "en": "Bulawayo",
+        "slug": "bulawayo-zw1021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW10",
+        "level": 1,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw10"
+        }
+      },
+      {
+        "id": "ZW1021",
+        "level": 2,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw1021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.195",
+      "lon": "28.649"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW102105",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw102105"
+    },
+    "code": {
+      "id": "ZW102105",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1021",
+      "level": 2,
+      "name": {
+        "local": "Bulawayo",
+        "en": "Bulawayo",
+        "slug": "bulawayo-zw1021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW10",
+        "level": 1,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw10"
+        }
+      },
+      {
+        "id": "ZW1021",
+        "level": 2,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw1021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.19",
+      "lon": "28.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW102106",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw102106"
+    },
+    "code": {
+      "id": "ZW102106",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1021",
+      "level": 2,
+      "name": {
+        "local": "Bulawayo",
+        "en": "Bulawayo",
+        "slug": "bulawayo-zw1021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW10",
+        "level": 1,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw10"
+        }
+      },
+      {
+        "id": "ZW1021",
+        "level": 2,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw1021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.211",
+      "lon": "28.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW102107",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw102107"
+    },
+    "code": {
+      "id": "ZW102107",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1021",
+      "level": 2,
+      "name": {
+        "local": "Bulawayo",
+        "en": "Bulawayo",
+        "slug": "bulawayo-zw1021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW10",
+        "level": 1,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw10"
+        }
+      },
+      {
+        "id": "ZW1021",
+        "level": 2,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw1021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.157",
+      "lon": "28.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW102108",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw102108"
+    },
+    "code": {
+      "id": "ZW102108",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1021",
+      "level": 2,
+      "name": {
+        "local": "Bulawayo",
+        "en": "Bulawayo",
+        "slug": "bulawayo-zw1021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW10",
+        "level": 1,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw10"
+        }
+      },
+      {
+        "id": "ZW1021",
+        "level": 2,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw1021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.135",
+      "lon": "28.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW102109",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw102109"
+    },
+    "code": {
+      "id": "ZW102109",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1021",
+      "level": 2,
+      "name": {
+        "local": "Bulawayo",
+        "en": "Bulawayo",
+        "slug": "bulawayo-zw1021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW10",
+        "level": 1,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw10"
+        }
+      },
+      {
+        "id": "ZW1021",
+        "level": 2,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw1021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.145",
+      "lon": "28.544"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,1406 @@
+[
+  {
+    "id": "ZW140201",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw140201"
+    },
+    "code": {
+      "id": "ZW140201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1402",
+      "level": 2,
+      "name": {
+        "local": "Hurungwe",
+        "en": "Hurungwe",
+        "slug": "hurungwe-zw1402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1402",
+        "level": 2,
+        "name": {
+          "local": "Hurungwe",
+          "en": "Hurungwe",
+          "slug": "hurungwe-zw1402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.571",
+      "lon": "29.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140210",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw140210"
+    },
+    "code": {
+      "id": "ZW140210",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1402",
+      "level": 2,
+      "name": {
+        "local": "Hurungwe",
+        "en": "Hurungwe",
+        "slug": "hurungwe-zw1402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1402",
+        "level": 2,
+        "name": {
+          "local": "Hurungwe",
+          "en": "Hurungwe",
+          "slug": "hurungwe-zw1402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.849",
+      "lon": "29.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140211",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw140211"
+    },
+    "code": {
+      "id": "ZW140211",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1402",
+      "level": 2,
+      "name": {
+        "local": "Hurungwe",
+        "en": "Hurungwe",
+        "slug": "hurungwe-zw1402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1402",
+        "level": 2,
+        "name": {
+          "local": "Hurungwe",
+          "en": "Hurungwe",
+          "slug": "hurungwe-zw1402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.937",
+      "lon": "29.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140212",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw140212"
+    },
+    "code": {
+      "id": "ZW140212",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1402",
+      "level": 2,
+      "name": {
+        "local": "Hurungwe",
+        "en": "Hurungwe",
+        "slug": "hurungwe-zw1402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1402",
+        "level": 2,
+        "name": {
+          "local": "Hurungwe",
+          "en": "Hurungwe",
+          "slug": "hurungwe-zw1402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.077",
+      "lon": "29.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140213",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw140213"
+    },
+    "code": {
+      "id": "ZW140213",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1402",
+      "level": 2,
+      "name": {
+        "local": "Hurungwe",
+        "en": "Hurungwe",
+        "slug": "hurungwe-zw1402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1402",
+        "level": 2,
+        "name": {
+          "local": "Hurungwe",
+          "en": "Hurungwe",
+          "slug": "hurungwe-zw1402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.165",
+      "lon": "29.297"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140214",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw140214"
+    },
+    "code": {
+      "id": "ZW140214",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1402",
+      "level": 2,
+      "name": {
+        "local": "Hurungwe",
+        "en": "Hurungwe",
+        "slug": "hurungwe-zw1402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1402",
+        "level": 2,
+        "name": {
+          "local": "Hurungwe",
+          "en": "Hurungwe",
+          "slug": "hurungwe-zw1402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.26",
+      "lon": "29.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140215",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw140215"
+    },
+    "code": {
+      "id": "ZW140215",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1402",
+      "level": 2,
+      "name": {
+        "local": "Hurungwe",
+        "en": "Hurungwe",
+        "slug": "hurungwe-zw1402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1402",
+        "level": 2,
+        "name": {
+          "local": "Hurungwe",
+          "en": "Hurungwe",
+          "slug": "hurungwe-zw1402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.161",
+      "lon": "29.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140216",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "16",
+      "en": "16",
+      "slug": "16-zw140216"
+    },
+    "code": {
+      "id": "ZW140216",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1402",
+      "level": 2,
+      "name": {
+        "local": "Hurungwe",
+        "en": "Hurungwe",
+        "slug": "hurungwe-zw1402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1402",
+        "level": 2,
+        "name": {
+          "local": "Hurungwe",
+          "en": "Hurungwe",
+          "slug": "hurungwe-zw1402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.759",
+      "lon": "29.196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140217",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "17",
+      "en": "17",
+      "slug": "17-zw140217"
+    },
+    "code": {
+      "id": "ZW140217",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1402",
+      "level": 2,
+      "name": {
+        "local": "Hurungwe",
+        "en": "Hurungwe",
+        "slug": "hurungwe-zw1402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1402",
+        "level": 2,
+        "name": {
+          "local": "Hurungwe",
+          "en": "Hurungwe",
+          "slug": "hurungwe-zw1402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.892",
+      "lon": "29.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140218",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "18",
+      "en": "18",
+      "slug": "18-zw140218"
+    },
+    "code": {
+      "id": "ZW140218",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1402",
+      "level": 2,
+      "name": {
+        "local": "Hurungwe",
+        "en": "Hurungwe",
+        "slug": "hurungwe-zw1402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1402",
+        "level": 2,
+        "name": {
+          "local": "Hurungwe",
+          "en": "Hurungwe",
+          "slug": "hurungwe-zw1402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.755",
+      "lon": "29.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140219",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "19",
+      "en": "19",
+      "slug": "19-zw140219"
+    },
+    "code": {
+      "id": "ZW140219",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1402",
+      "level": 2,
+      "name": {
+        "local": "Hurungwe",
+        "en": "Hurungwe",
+        "slug": "hurungwe-zw1402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1402",
+        "level": 2,
+        "name": {
+          "local": "Hurungwe",
+          "en": "Hurungwe",
+          "slug": "hurungwe-zw1402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.238",
+      "lon": "29.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140202",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw140202"
+    },
+    "code": {
+      "id": "ZW140202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1402",
+      "level": 2,
+      "name": {
+        "local": "Hurungwe",
+        "en": "Hurungwe",
+        "slug": "hurungwe-zw1402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1402",
+        "level": 2,
+        "name": {
+          "local": "Hurungwe",
+          "en": "Hurungwe",
+          "slug": "hurungwe-zw1402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.103",
+      "lon": "29.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140220",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "20",
+      "en": "20",
+      "slug": "20-zw140220"
+    },
+    "code": {
+      "id": "ZW140220",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1402",
+      "level": 2,
+      "name": {
+        "local": "Hurungwe",
+        "en": "Hurungwe",
+        "slug": "hurungwe-zw1402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1402",
+        "level": 2,
+        "name": {
+          "local": "Hurungwe",
+          "en": "Hurungwe",
+          "slug": "hurungwe-zw1402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.991",
+      "lon": "29.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140221",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "21",
+      "en": "21",
+      "slug": "21-zw140221"
+    },
+    "code": {
+      "id": "ZW140221",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1402",
+      "level": 2,
+      "name": {
+        "local": "Hurungwe",
+        "en": "Hurungwe",
+        "slug": "hurungwe-zw1402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1402",
+        "level": 2,
+        "name": {
+          "local": "Hurungwe",
+          "en": "Hurungwe",
+          "slug": "hurungwe-zw1402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.923",
+      "lon": "29.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140222",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "22",
+      "en": "22",
+      "slug": "22-zw140222"
+    },
+    "code": {
+      "id": "ZW140222",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1402",
+      "level": 2,
+      "name": {
+        "local": "Hurungwe",
+        "en": "Hurungwe",
+        "slug": "hurungwe-zw1402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1402",
+        "level": 2,
+        "name": {
+          "local": "Hurungwe",
+          "en": "Hurungwe",
+          "slug": "hurungwe-zw1402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.717",
+      "lon": "29.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140223",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "23",
+      "en": "23",
+      "slug": "23-zw140223"
+    },
+    "code": {
+      "id": "ZW140223",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1402",
+      "level": 2,
+      "name": {
+        "local": "Hurungwe",
+        "en": "Hurungwe",
+        "slug": "hurungwe-zw1402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1402",
+        "level": 2,
+        "name": {
+          "local": "Hurungwe",
+          "en": "Hurungwe",
+          "slug": "hurungwe-zw1402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.749",
+      "lon": "29.395"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140224",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "24",
+      "en": "24",
+      "slug": "24-zw140224"
+    },
+    "code": {
+      "id": "ZW140224",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1402",
+      "level": 2,
+      "name": {
+        "local": "Hurungwe",
+        "en": "Hurungwe",
+        "slug": "hurungwe-zw1402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1402",
+        "level": 2,
+        "name": {
+          "local": "Hurungwe",
+          "en": "Hurungwe",
+          "slug": "hurungwe-zw1402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.066",
+      "lon": "28.962"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140225",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "25",
+      "en": "25",
+      "slug": "25-zw140225"
+    },
+    "code": {
+      "id": "ZW140225",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1402",
+      "level": 2,
+      "name": {
+        "local": "Hurungwe",
+        "en": "Hurungwe",
+        "slug": "hurungwe-zw1402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1402",
+        "level": 2,
+        "name": {
+          "local": "Hurungwe",
+          "en": "Hurungwe",
+          "slug": "hurungwe-zw1402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.999",
+      "lon": "29.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140226",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "26",
+      "en": "26",
+      "slug": "26-zw140226"
+    },
+    "code": {
+      "id": "ZW140226",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1402",
+      "level": 2,
+      "name": {
+        "local": "Hurungwe",
+        "en": "Hurungwe",
+        "slug": "hurungwe-zw1402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1402",
+        "level": 2,
+        "name": {
+          "local": "Hurungwe",
+          "en": "Hurungwe",
+          "slug": "hurungwe-zw1402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.7",
+      "lon": "29.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140203",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw140203"
+    },
+    "code": {
+      "id": "ZW140203",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1402",
+      "level": 2,
+      "name": {
+        "local": "Hurungwe",
+        "en": "Hurungwe",
+        "slug": "hurungwe-zw1402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1402",
+        "level": 2,
+        "name": {
+          "local": "Hurungwe",
+          "en": "Hurungwe",
+          "slug": "hurungwe-zw1402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.82",
+      "lon": "29.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140204",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw140204"
+    },
+    "code": {
+      "id": "ZW140204",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1402",
+      "level": 2,
+      "name": {
+        "local": "Hurungwe",
+        "en": "Hurungwe",
+        "slug": "hurungwe-zw1402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1402",
+        "level": 2,
+        "name": {
+          "local": "Hurungwe",
+          "en": "Hurungwe",
+          "slug": "hurungwe-zw1402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.545",
+      "lon": "29.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140205",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw140205"
+    },
+    "code": {
+      "id": "ZW140205",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1402",
+      "level": 2,
+      "name": {
+        "local": "Hurungwe",
+        "en": "Hurungwe",
+        "slug": "hurungwe-zw1402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1402",
+        "level": 2,
+        "name": {
+          "local": "Hurungwe",
+          "en": "Hurungwe",
+          "slug": "hurungwe-zw1402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.813",
+      "lon": "29.728"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140206",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw140206"
+    },
+    "code": {
+      "id": "ZW140206",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1402",
+      "level": 2,
+      "name": {
+        "local": "Hurungwe",
+        "en": "Hurungwe",
+        "slug": "hurungwe-zw1402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1402",
+        "level": 2,
+        "name": {
+          "local": "Hurungwe",
+          "en": "Hurungwe",
+          "slug": "hurungwe-zw1402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.998",
+      "lon": "29.944"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140207",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw140207"
+    },
+    "code": {
+      "id": "ZW140207",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1402",
+      "level": 2,
+      "name": {
+        "local": "Hurungwe",
+        "en": "Hurungwe",
+        "slug": "hurungwe-zw1402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1402",
+        "level": 2,
+        "name": {
+          "local": "Hurungwe",
+          "en": "Hurungwe",
+          "slug": "hurungwe-zw1402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.156",
+      "lon": "29.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140208",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw140208"
+    },
+    "code": {
+      "id": "ZW140208",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1402",
+      "level": 2,
+      "name": {
+        "local": "Hurungwe",
+        "en": "Hurungwe",
+        "slug": "hurungwe-zw1402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1402",
+        "level": 2,
+        "name": {
+          "local": "Hurungwe",
+          "en": "Hurungwe",
+          "slug": "hurungwe-zw1402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.412",
+      "lon": "29.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140209",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw140209"
+    },
+    "code": {
+      "id": "ZW140209",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1402",
+      "level": 2,
+      "name": {
+        "local": "Hurungwe",
+        "en": "Hurungwe",
+        "slug": "hurungwe-zw1402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1402",
+        "level": 2,
+        "name": {
+          "local": "Hurungwe",
+          "en": "Hurungwe",
+          "slug": "hurungwe-zw1402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.515",
+      "lon": "29.853"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

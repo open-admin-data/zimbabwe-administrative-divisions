@@ -1,0 +1,425 @@
+[
+  {
+    "id": "ZW1801",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bikita",
+      "en": "Bikita",
+      "slug": "bikita-zw1801"
+    },
+    "code": {
+      "id": "ZW1801",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW18",
+      "level": 1,
+      "name": {
+        "local": "Masvingo",
+        "en": "Masvingo",
+        "slug": "masvingo-zw18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 32
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.202",
+      "lon": "31.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1802",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Chiredzi",
+      "en": "Chiredzi",
+      "slug": "chiredzi-zw1802"
+    },
+    "code": {
+      "id": "ZW1802",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW18",
+      "level": 1,
+      "name": {
+        "local": "Masvingo",
+        "en": "Masvingo",
+        "slug": "masvingo-zw18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 32
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.419",
+      "lon": "31.834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1822",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Chiredzi Urban",
+      "en": "Chiredzi Urban",
+      "slug": "chiredzi-urban-zw1822"
+    },
+    "code": {
+      "id": "ZW1822",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW18",
+      "level": 1,
+      "name": {
+        "local": "Masvingo",
+        "en": "Masvingo",
+        "slug": "masvingo-zw18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.034",
+      "lon": "31.662"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1803",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Chivi",
+      "en": "Chivi",
+      "slug": "chivi-zw1803"
+    },
+    "code": {
+      "id": "ZW1803",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW18",
+      "level": 1,
+      "name": {
+        "local": "Masvingo",
+        "en": "Masvingo",
+        "slug": "masvingo-zw18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 32
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.5",
+      "lon": "30.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1804",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gutu",
+      "en": "Gutu",
+      "slug": "gutu-zw1804"
+    },
+    "code": {
+      "id": "ZW1804",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW18",
+      "level": 1,
+      "name": {
+        "local": "Masvingo",
+        "en": "Masvingo",
+        "slug": "masvingo-zw18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 42
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.591",
+      "lon": "31.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1805",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Masvingo",
+      "en": "Masvingo",
+      "slug": "masvingo-zw1805"
+    },
+    "code": {
+      "id": "ZW1805",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW18",
+      "level": 1,
+      "name": {
+        "local": "Masvingo",
+        "en": "Masvingo",
+        "slug": "masvingo-zw18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 35
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.31",
+      "lon": "30.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1821",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Masvingo Urban",
+      "en": "Masvingo Urban",
+      "slug": "masvingo-urban-zw1821"
+    },
+    "code": {
+      "id": "ZW1821",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW18",
+      "level": 1,
+      "name": {
+        "local": "Masvingo",
+        "en": "Masvingo",
+        "slug": "masvingo-zw18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.082",
+      "lon": "30.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1806",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mwenezi",
+      "en": "Mwenezi",
+      "slug": "mwenezi-zw1806"
+    },
+    "code": {
+      "id": "ZW1806",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW18",
+      "level": 1,
+      "name": {
+        "local": "Masvingo",
+        "en": "Masvingo",
+        "slug": "masvingo-zw18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.398",
+      "lon": "30.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1807",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zaka",
+      "en": "Zaka",
+      "slug": "zaka-zw1807"
+    },
+    "code": {
+      "id": "ZW1807",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW18",
+      "level": 1,
+      "name": {
+        "local": "Masvingo",
+        "en": "Masvingo",
+        "slug": "masvingo-zw18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 34
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.378",
+      "lon": "31.449"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,1190 @@
+[
+  {
+    "id": "ZW150601",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw150601"
+    },
+    "code": {
+      "id": "ZW150601",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1506",
+      "level": 2,
+      "name": {
+        "local": "Tsholotsho",
+        "en": "Tsholotsho",
+        "slug": "tsholotsho-zw1506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1506",
+        "level": 2,
+        "name": {
+          "local": "Tsholotsho",
+          "en": "Tsholotsho",
+          "slug": "tsholotsho-zw1506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.451",
+      "lon": "27.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150610",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw150610"
+    },
+    "code": {
+      "id": "ZW150610",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1506",
+      "level": 2,
+      "name": {
+        "local": "Tsholotsho",
+        "en": "Tsholotsho",
+        "slug": "tsholotsho-zw1506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1506",
+        "level": 2,
+        "name": {
+          "local": "Tsholotsho",
+          "en": "Tsholotsho",
+          "slug": "tsholotsho-zw1506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.805",
+      "lon": "27.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150611",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw150611"
+    },
+    "code": {
+      "id": "ZW150611",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1506",
+      "level": 2,
+      "name": {
+        "local": "Tsholotsho",
+        "en": "Tsholotsho",
+        "slug": "tsholotsho-zw1506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1506",
+        "level": 2,
+        "name": {
+          "local": "Tsholotsho",
+          "en": "Tsholotsho",
+          "slug": "tsholotsho-zw1506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.836",
+      "lon": "27.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150612",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw150612"
+    },
+    "code": {
+      "id": "ZW150612",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1506",
+      "level": 2,
+      "name": {
+        "local": "Tsholotsho",
+        "en": "Tsholotsho",
+        "slug": "tsholotsho-zw1506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1506",
+        "level": 2,
+        "name": {
+          "local": "Tsholotsho",
+          "en": "Tsholotsho",
+          "slug": "tsholotsho-zw1506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.739",
+      "lon": "27.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150613",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw150613"
+    },
+    "code": {
+      "id": "ZW150613",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1506",
+      "level": 2,
+      "name": {
+        "local": "Tsholotsho",
+        "en": "Tsholotsho",
+        "slug": "tsholotsho-zw1506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1506",
+        "level": 2,
+        "name": {
+          "local": "Tsholotsho",
+          "en": "Tsholotsho",
+          "slug": "tsholotsho-zw1506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.81",
+      "lon": "27.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150614",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw150614"
+    },
+    "code": {
+      "id": "ZW150614",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1506",
+      "level": 2,
+      "name": {
+        "local": "Tsholotsho",
+        "en": "Tsholotsho",
+        "slug": "tsholotsho-zw1506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1506",
+        "level": 2,
+        "name": {
+          "local": "Tsholotsho",
+          "en": "Tsholotsho",
+          "slug": "tsholotsho-zw1506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.881",
+      "lon": "27.626"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150615",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw150615"
+    },
+    "code": {
+      "id": "ZW150615",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1506",
+      "level": 2,
+      "name": {
+        "local": "Tsholotsho",
+        "en": "Tsholotsho",
+        "slug": "tsholotsho-zw1506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1506",
+        "level": 2,
+        "name": {
+          "local": "Tsholotsho",
+          "en": "Tsholotsho",
+          "slug": "tsholotsho-zw1506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.921",
+      "lon": "27.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150616",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "16",
+      "en": "16",
+      "slug": "16-zw150616"
+    },
+    "code": {
+      "id": "ZW150616",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1506",
+      "level": 2,
+      "name": {
+        "local": "Tsholotsho",
+        "en": "Tsholotsho",
+        "slug": "tsholotsho-zw1506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1506",
+        "level": 2,
+        "name": {
+          "local": "Tsholotsho",
+          "en": "Tsholotsho",
+          "slug": "tsholotsho-zw1506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.008",
+      "lon": "27.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150617",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "17",
+      "en": "17",
+      "slug": "17-zw150617"
+    },
+    "code": {
+      "id": "ZW150617",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1506",
+      "level": 2,
+      "name": {
+        "local": "Tsholotsho",
+        "en": "Tsholotsho",
+        "slug": "tsholotsho-zw1506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1506",
+        "level": 2,
+        "name": {
+          "local": "Tsholotsho",
+          "en": "Tsholotsho",
+          "slug": "tsholotsho-zw1506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.999",
+      "lon": "27.854"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150618",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "18",
+      "en": "18",
+      "slug": "18-zw150618"
+    },
+    "code": {
+      "id": "ZW150618",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1506",
+      "level": 2,
+      "name": {
+        "local": "Tsholotsho",
+        "en": "Tsholotsho",
+        "slug": "tsholotsho-zw1506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1506",
+        "level": 2,
+        "name": {
+          "local": "Tsholotsho",
+          "en": "Tsholotsho",
+          "slug": "tsholotsho-zw1506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.057",
+      "lon": "27.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150619",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "19",
+      "en": "19",
+      "slug": "19-zw150619"
+    },
+    "code": {
+      "id": "ZW150619",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1506",
+      "level": 2,
+      "name": {
+        "local": "Tsholotsho",
+        "en": "Tsholotsho",
+        "slug": "tsholotsho-zw1506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1506",
+        "level": 2,
+        "name": {
+          "local": "Tsholotsho",
+          "en": "Tsholotsho",
+          "slug": "tsholotsho-zw1506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.097",
+      "lon": "27.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150602",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw150602"
+    },
+    "code": {
+      "id": "ZW150602",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1506",
+      "level": 2,
+      "name": {
+        "local": "Tsholotsho",
+        "en": "Tsholotsho",
+        "slug": "tsholotsho-zw1506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1506",
+        "level": 2,
+        "name": {
+          "local": "Tsholotsho",
+          "en": "Tsholotsho",
+          "slug": "tsholotsho-zw1506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.461",
+      "lon": "27.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150620",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "20",
+      "en": "20",
+      "slug": "20-zw150620"
+    },
+    "code": {
+      "id": "ZW150620",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1506",
+      "level": 2,
+      "name": {
+        "local": "Tsholotsho",
+        "en": "Tsholotsho",
+        "slug": "tsholotsho-zw1506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1506",
+        "level": 2,
+        "name": {
+          "local": "Tsholotsho",
+          "en": "Tsholotsho",
+          "slug": "tsholotsho-zw1506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.981",
+      "lon": "27.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150621",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "21",
+      "en": "21",
+      "slug": "21-zw150621"
+    },
+    "code": {
+      "id": "ZW150621",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1506",
+      "level": 2,
+      "name": {
+        "local": "Tsholotsho",
+        "en": "Tsholotsho",
+        "slug": "tsholotsho-zw1506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1506",
+        "level": 2,
+        "name": {
+          "local": "Tsholotsho",
+          "en": "Tsholotsho",
+          "slug": "tsholotsho-zw1506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.59",
+      "lon": "27.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150622",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "22",
+      "en": "22",
+      "slug": "22-zw150622"
+    },
+    "code": {
+      "id": "ZW150622",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1506",
+      "level": 2,
+      "name": {
+        "local": "Tsholotsho",
+        "en": "Tsholotsho",
+        "slug": "tsholotsho-zw1506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1506",
+        "level": 2,
+        "name": {
+          "local": "Tsholotsho",
+          "en": "Tsholotsho",
+          "slug": "tsholotsho-zw1506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.676",
+      "lon": "27.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150603",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw150603"
+    },
+    "code": {
+      "id": "ZW150603",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1506",
+      "level": 2,
+      "name": {
+        "local": "Tsholotsho",
+        "en": "Tsholotsho",
+        "slug": "tsholotsho-zw1506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1506",
+        "level": 2,
+        "name": {
+          "local": "Tsholotsho",
+          "en": "Tsholotsho",
+          "slug": "tsholotsho-zw1506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.234",
+      "lon": "27.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150604",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw150604"
+    },
+    "code": {
+      "id": "ZW150604",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1506",
+      "level": 2,
+      "name": {
+        "local": "Tsholotsho",
+        "en": "Tsholotsho",
+        "slug": "tsholotsho-zw1506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1506",
+        "level": 2,
+        "name": {
+          "local": "Tsholotsho",
+          "en": "Tsholotsho",
+          "slug": "tsholotsho-zw1506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.183",
+      "lon": "27.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150605",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw150605"
+    },
+    "code": {
+      "id": "ZW150605",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1506",
+      "level": 2,
+      "name": {
+        "local": "Tsholotsho",
+        "en": "Tsholotsho",
+        "slug": "tsholotsho-zw1506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1506",
+        "level": 2,
+        "name": {
+          "local": "Tsholotsho",
+          "en": "Tsholotsho",
+          "slug": "tsholotsho-zw1506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.281",
+      "lon": "27.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150606",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw150606"
+    },
+    "code": {
+      "id": "ZW150606",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1506",
+      "level": 2,
+      "name": {
+        "local": "Tsholotsho",
+        "en": "Tsholotsho",
+        "slug": "tsholotsho-zw1506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1506",
+        "level": 2,
+        "name": {
+          "local": "Tsholotsho",
+          "en": "Tsholotsho",
+          "slug": "tsholotsho-zw1506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.451",
+      "lon": "27.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150607",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw150607"
+    },
+    "code": {
+      "id": "ZW150607",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1506",
+      "level": 2,
+      "name": {
+        "local": "Tsholotsho",
+        "en": "Tsholotsho",
+        "slug": "tsholotsho-zw1506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1506",
+        "level": 2,
+        "name": {
+          "local": "Tsholotsho",
+          "en": "Tsholotsho",
+          "slug": "tsholotsho-zw1506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.693",
+      "lon": "26.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150608",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw150608"
+    },
+    "code": {
+      "id": "ZW150608",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1506",
+      "level": 2,
+      "name": {
+        "local": "Tsholotsho",
+        "en": "Tsholotsho",
+        "slug": "tsholotsho-zw1506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1506",
+        "level": 2,
+        "name": {
+          "local": "Tsholotsho",
+          "en": "Tsholotsho",
+          "slug": "tsholotsho-zw1506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.682",
+      "lon": "27.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150609",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw150609"
+    },
+    "code": {
+      "id": "ZW150609",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1506",
+      "level": 2,
+      "name": {
+        "local": "Tsholotsho",
+        "en": "Tsholotsho",
+        "slug": "tsholotsho-zw1506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1506",
+        "level": 2,
+        "name": {
+          "local": "Tsholotsho",
+          "en": "Tsholotsho",
+          "slug": "tsholotsho-zw1506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.534",
+      "lon": "27.579"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

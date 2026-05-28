@@ -1,0 +1,47 @@
+{
+  "id": "ZW1501",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Binga",
+    "en": "Binga",
+    "slug": "binga-zw1501"
+  },
+  "code": {
+    "id": "ZW1501",
+    "iso": null
+  },
+  "parent": {
+    "id": "ZW15",
+    "level": 1,
+    "name": {
+      "local": "Matabeleland North",
+      "en": "Matabeleland North",
+      "slug": "matabeleland-north-zw15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ZW15",
+      "level": 1,
+      "name": {
+        "local": "Matabeleland North",
+        "en": "Matabeleland North",
+        "slug": "matabeleland-north-zw15"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 25
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.692",
+    "lon": "27.71"
+  },
+  "metadata": {},
+  "source": {}
+}

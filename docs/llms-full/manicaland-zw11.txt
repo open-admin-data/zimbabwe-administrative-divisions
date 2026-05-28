@@ -1,0 +1,1099 @@
+# Manicaland — Zimbabwe Administrative Divisions
+
+> 10 districts, 260 wards
+> Code: ZW11
+> Coordinates: -19.287, 32.07
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Districts
+
+### Buhera
+
+Code: ZW1101, Coordinates: -19.506, 31.937
+Wards: 33
+
+#### 1
+
+Code: ZW110101, Coordinates: -19.141, 31.414
+
+#### 10
+
+Code: ZW110110, Coordinates: -19.153, 31.726
+
+#### 11
+
+Code: ZW110111, Coordinates: -19.19, 31.84
+
+#### 12
+
+Code: ZW110112, Coordinates: -19.198, 31.952
+
+#### 13
+
+Code: ZW110113, Coordinates: -19.22, 31.724
+
+#### 14
+
+Code: ZW110114, Coordinates: -19.333, 31.639
+
+#### 15
+
+Code: ZW110115, Coordinates: -19.314, 31.758
+
+#### 16
+
+Code: ZW110116, Coordinates: -19.419, 31.639
+
+#### 17
+
+Code: ZW110117, Coordinates: -19.385, 31.796
+
+#### 18
+
+Code: ZW110118, Coordinates: -19.318, 31.915
+
+#### 19
+
+Code: ZW110119, Coordinates: -19.505, 31.72
+
+#### 2
+
+Code: ZW110102, Coordinates: -19.213, 31.338
+
+#### 20
+
+Code: ZW110120, Coordinates: -19.361, 32.007
+
+#### 21
+
+Code: ZW110121, Coordinates: -19.567, 31.825
+
+#### 22
+
+Code: ZW110122, Coordinates: -19.516, 31.941
+
+#### 23
+
+Code: ZW110123, Coordinates: -19.457, 32.063
+
+#### 24
+
+Code: ZW110124, Coordinates: -19.63, 31.923
+
+#### 25
+
+Code: ZW110125, Coordinates: -19.588, 32.097
+
+#### 26
+
+Code: ZW110126, Coordinates: -19.772, 31.991
+
+#### 27
+
+Code: ZW110127, Coordinates: -19.736, 32.086
+
+#### 28
+
+Code: ZW110128, Coordinates: -19.665, 32.154
+
+#### 29
+
+Code: ZW110129, Coordinates: -19.828, 32.168
+
+#### 3
+
+Code: ZW110103, Coordinates: -19.229, 31.417
+
+#### 30
+
+Code: ZW110130, Coordinates: -19.84, 32.325
+
+#### 31
+
+Code: ZW110131, Coordinates: -19.147, 31.589
+
+#### 32
+
+Code: ZW110132, Coordinates: -19.44, 31.83
+
+#### 33
+
+Code: ZW110133, Coordinates: -19.934, 32.292
+
+#### 4
+
+Code: ZW110104, Coordinates: -19.304, 31.363
+
+#### 5
+
+Code: ZW110105, Coordinates: -19.264, 31.495
+
+#### 6
+
+Code: ZW110106, Coordinates: -19.325, 31.532
+
+#### 7
+
+Code: ZW110107, Coordinates: -19.23, 31.624
+
+#### 8
+
+Code: ZW110108, Coordinates: -19.087, 31.648
+
+#### 9
+
+Code: ZW110109, Coordinates: -19.066, 31.738
+
+### Chimanimani
+
+Code: ZW1102, Coordinates: -19.741, 32.698
+Wards: 23
+
+#### 1
+
+Code: ZW110201, Coordinates: -19.541, 32.806
+
+#### 10
+
+Code: ZW110210, Coordinates: -19.684, 32.948
+
+#### 11
+
+Code: ZW110211, Coordinates: -19.743, 32.893
+
+#### 12
+
+Code: ZW110212, Coordinates: -19.881, 32.951
+
+#### 13
+
+Code: ZW110213, Coordinates: -19.915, 32.846
+
+#### 14
+
+Code: ZW110214, Coordinates: -19.867, 32.791
+
+#### 15
+
+Code: ZW110215, Coordinates: -19.812, 32.862
+
+#### 16
+
+Code: ZW110216, Coordinates: -19.973, 32.701
+
+#### 17
+
+Code: ZW110217, Coordinates: -19.834, 32.714
+
+#### 18
+
+Code: ZW110218, Coordinates: -19.825, 32.628
+
+#### 19
+
+Code: ZW110219, Coordinates: -19.867, 32.566
+
+#### 2
+
+Code: ZW110202, Coordinates: -19.521, 32.579
+
+#### 20
+
+Code: ZW110220, Coordinates: -19.882, 32.439
+
+#### 21
+
+Code: ZW110221, Coordinates: -20.037, 32.868
+
+#### 22
+
+Code: ZW110222, Coordinates: -20.025, 32.961
+
+#### 23
+
+Code: ZW110223, Coordinates: -20.077, 32.893
+
+#### 3
+
+Code: ZW110203, Coordinates: -19.584, 32.549
+
+#### 4
+
+Code: ZW110204, Coordinates: -19.553, 32.66
+
+#### 5
+
+Code: ZW110205, Coordinates: -19.684, 32.48
+
+#### 6
+
+Code: ZW110206, Coordinates: -19.687, 32.553
+
+#### 7
+
+Code: ZW110207, Coordinates: -19.661, 32.68
+
+#### 8
+
+Code: ZW110208, Coordinates: -19.777, 32.465
+
+#### 9
+
+Code: ZW110209, Coordinates: -19.777, 32.597
+
+### Chipinge
+
+Code: ZW1103, Coordinates: -20.62, 32.381
+Wards: 30
+
+#### 1
+
+Code: ZW110301, Coordinates: -19.973, 32.436
+
+#### 10
+
+Code: ZW110310, Coordinates: -20.228, 32.734
+
+#### 11
+
+Code: ZW110311, Coordinates: -20.249, 32.617
+
+#### 12
+
+Code: ZW110312, Coordinates: -20.296, 32.563
+
+#### 13
+
+Code: ZW110313, Coordinates: -20.317, 32.69
+
+#### 14
+
+Code: ZW110314, Coordinates: -20.33, 32.796
+
+#### 15
+
+Code: ZW110315, Coordinates: -20.549, 32.592
+
+#### 16
+
+Code: ZW110316, Coordinates: -20.416, 32.401
+
+#### 17
+
+Code: ZW110317, Coordinates: -20.433, 32.506
+
+#### 18
+
+Code: ZW110318, Coordinates: -20.447, 32.604
+
+#### 19
+
+Code: ZW110319, Coordinates: -20.447, 32.699
+
+#### 2
+
+Code: ZW110302, Coordinates: -20.006, 32.599
+
+#### 20
+
+Code: ZW110320, Coordinates: -20.505, 32.336
+
+#### 21
+
+Code: ZW110321, Coordinates: -20.521, 32.419
+
+#### 22
+
+Code: ZW110322, Coordinates: -20.634, 32.317
+
+#### 23
+
+Code: ZW110323, Coordinates: -20.665, 32.437
+
+#### 24
+
+Code: ZW110324, Coordinates: -20.726, 32.297
+
+#### 25
+
+Code: ZW110325, Coordinates: -20.794, 32.416
+
+#### 26
+
+Code: ZW110326, Coordinates: -20.83, 32.27
+
+#### 27
+
+Code: ZW110327, Coordinates: -20.951, 32.227
+
+#### 28
+
+Code: ZW110328, Coordinates: -20.947, 32.401
+
+#### 29
+
+Code: ZW110329, Coordinates: -21.058, 32.309
+
+#### 3
+
+Code: ZW110303, Coordinates: -20.062, 32.364
+
+#### 30
+
+Code: ZW110330, Coordinates: -21.215, 32.359
+
+#### 4
+
+Code: ZW110304, Coordinates: -20.052, 32.462
+
+#### 5
+
+Code: ZW110305, Coordinates: -20.252, 32.405
+
+#### 6
+
+Code: ZW110306, Coordinates: -20.142, 32.617
+
+#### 7
+
+Code: ZW110307, Coordinates: -20.129, 32.725
+
+#### 8
+
+Code: ZW110308, Coordinates: -20.188, 32.814
+
+#### 9
+
+Code: ZW110309, Coordinates: -20.106, 32.827
+
+### Chipinge Urban
+
+Code: ZW1123, Coordinates: -20.196, 32.627
+Wards: 8
+
+#### 1
+
+Code: ZW112301, Coordinates: -20.178, 32.625
+
+#### 2
+
+Code: ZW112302, Coordinates: -20.183, 32.631
+
+#### 3
+
+Code: ZW112303, Coordinates: -20.182, 32.636
+
+#### 4
+
+Code: ZW112304, Coordinates: -20.185, 32.639
+
+#### 5
+
+Code: ZW112305, Coordinates: -20.19, 32.639
+
+#### 6
+
+Code: ZW112306, Coordinates: -20.197, 32.643
+
+#### 7
+
+Code: ZW112307, Coordinates: -20.216, 32.638
+
+#### 8
+
+Code: ZW112308, Coordinates: -20.195, 32.616
+
+### Makoni
+
+Code: ZW1104, Coordinates: -18.385, 32.144
+Wards: 39
+
+#### 1
+
+Code: ZW110401, Coordinates: -17.689, 32.493
+
+#### 10
+
+Code: ZW110410, Coordinates: -18.296, 32.36
+
+#### 11
+
+Code: ZW110411, Coordinates: -18.485, 32.167
+
+#### 12
+
+Code: ZW110412, Coordinates: -18.529, 31.987
+
+#### 13
+
+Code: ZW110413, Coordinates: -18.498, 31.81
+
+#### 14
+
+Code: ZW110414, Coordinates: -18.583, 31.812
+
+#### 15
+
+Code: ZW110415, Coordinates: -18.635, 31.968
+
+#### 16
+
+Code: ZW110416, Coordinates: -18.632, 32.062
+
+#### 17
+
+Code: ZW110417, Coordinates: -18.744, 32.229
+
+#### 18
+
+Code: ZW110418, Coordinates: -18.656, 32.321
+
+#### 19
+
+Code: ZW110419, Coordinates: -18.544, 32.272
+
+#### 2
+
+Code: ZW110402, Coordinates: -17.79, 32.377
+
+#### 20
+
+Code: ZW110420, Coordinates: -18.469, 32.324
+
+#### 21
+
+Code: ZW110421, Coordinates: -18.536, 32.41
+
+#### 22
+
+Code: ZW110422, Coordinates: -18.607, 32.384
+
+#### 23
+
+Code: ZW110423, Coordinates: -18.684, 32.427
+
+#### 24
+
+Code: ZW110424, Coordinates: -18.705, 31.865
+
+#### 25
+
+Code: ZW110425, Coordinates: -18.774, 31.949
+
+#### 26
+
+Code: ZW110426, Coordinates: -18.732, 32.062
+
+#### 27
+
+Code: ZW110427, Coordinates: -18.827, 32.077
+
+#### 28
+
+Code: ZW110428, Coordinates: -18.866, 32.005
+
+#### 29
+
+Code: ZW110429, Coordinates: -18.908, 32.05
+
+#### 3
+
+Code: ZW110403, Coordinates: -17.909, 32.434
+
+#### 30
+
+Code: ZW110430, Coordinates: -18.92, 32.14
+
+#### 31
+
+Code: ZW110431, Coordinates: -19.048, 32.044
+
+#### 32
+
+Code: ZW110432, Coordinates: -18.293, 32.056
+
+#### 33
+
+Code: ZW110433, Coordinates: -18.714, 32.176
+
+#### 34
+
+Code: ZW110434, Coordinates: -18.21, 31.958
+
+#### 35
+
+Code: ZW110435, Coordinates: -17.923, 32.232
+
+#### 36
+
+Code: ZW110436, Coordinates: -17.857, 32.536
+
+#### 37
+
+Code: ZW110437, Coordinates: -18.335, 31.91
+
+#### 38
+
+Code: ZW110438, Coordinates: -18.443, 32.121
+
+#### 39
+
+Code: ZW110439, Coordinates: -18.586, 31.876
+
+#### 4
+
+Code: ZW110404, Coordinates: -17.924, 32.349
+
+#### 5
+
+Code: ZW110405, Coordinates: -18.008, 32.131
+
+#### 6
+
+Code: ZW110406, Coordinates: -18.212, 32.047
+
+#### 7
+
+Code: ZW110407, Coordinates: -18.146, 32.164
+
+#### 8
+
+Code: ZW110408, Coordinates: -18.201, 32.257
+
+#### 9
+
+Code: ZW110409, Coordinates: -18.069, 32.434
+
+### Mutare
+
+Code: ZW1105, Coordinates: -19.249, 32.439
+Wards: 36
+
+#### 1
+
+Code: ZW110501, Coordinates: -18.815, 32.345
+
+#### 10
+
+Code: ZW110510, Coordinates: -19.236, 32.29
+
+#### 11
+
+Code: ZW110511, Coordinates: -19.187, 32.374
+
+#### 12
+
+Code: ZW110512, Coordinates: -19.191, 32.466
+
+#### 13
+
+Code: ZW110513, Coordinates: -19.158, 32.532
+
+#### 14
+
+Code: ZW110514, Coordinates: -19.173, 32.608
+
+#### 15
+
+Code: ZW110515, Coordinates: -19.152, 32.672
+
+#### 16
+
+Code: ZW110516, Coordinates: -19.352, 32.155
+
+#### 17
+
+Code: ZW110517, Coordinates: -19.303, 32.302
+
+#### 18
+
+Code: ZW110518, Coordinates: -19.261, 32.405
+
+#### 19
+
+Code: ZW110519, Coordinates: -19.319, 32.393
+
+#### 2
+
+Code: ZW110502, Coordinates: -19.138, 32.156
+
+#### 20
+
+Code: ZW110520, Coordinates: -19.262, 32.543
+
+#### 21
+
+Code: ZW110521, Coordinates: -19.277, 32.625
+
+#### 22
+
+Code: ZW110522, Coordinates: -19.344, 32.659
+
+#### 23
+
+Code: ZW110523, Coordinates: -19.39, 32.268
+
+#### 24
+
+Code: ZW110524, Coordinates: -19.452, 32.26
+
+#### 25
+
+Code: ZW110525, Coordinates: -19.393, 32.423
+
+#### 26
+
+Code: ZW110526, Coordinates: -19.35, 32.51
+
+#### 27
+
+Code: ZW110527, Coordinates: -19.395, 32.544
+
+#### 28
+
+Code: ZW110528, Coordinates: -19.47, 32.438
+
+#### 29
+
+Code: ZW110529, Coordinates: -19.56, 32.428
+
+#### 3
+
+Code: ZW110503, Coordinates: -18.993, 32.423
+
+#### 30
+
+Code: ZW110530, Coordinates: -19.628, 32.323
+
+#### 31
+
+Code: ZW110531, Coordinates: -18.956, 32.388
+
+#### 32
+
+Code: ZW110532, Coordinates: -19.107, 32.62
+
+#### 33
+
+Code: ZW110533, Coordinates: -19.086, 32.778
+
+#### 34
+
+Code: ZW110534, Coordinates: -18.985, 32.218
+
+#### 35
+
+Code: ZW110535, Coordinates: -19.088, 32.532
+
+#### 36
+
+Code: ZW110536, Coordinates: -19.294, 32.527
+
+#### 4
+
+Code: ZW110504, Coordinates: -19.149, 32.295
+
+#### 5
+
+Code: ZW110505, Coordinates: -19.051, 32.507
+
+#### 6
+
+Code: ZW110506, Coordinates: -19.122, 32.646
+
+#### 7
+
+Code: ZW110507, Coordinates: -19.24, 32.805
+
+#### 8
+
+Code: ZW110508, Coordinates: -19.231, 32.109
+
+#### 9
+
+Code: ZW110509, Coordinates: -19.227, 32.193
+
+### Mutare Urban
+
+Code: ZW1121, Coordinates: -18.996, 32.613
+Wards: 19
+
+#### 1
+
+Code: ZW112101, Coordinates: -18.988, 32.652
+
+#### 10
+
+Code: ZW112110, Coordinates: -18.989, 32.662
+
+#### 11
+
+Code: ZW112111, Coordinates: -18.982, 32.689
+
+#### 12
+
+Code: ZW112112, Coordinates: -18.957, 32.657
+
+#### 13
+
+Code: ZW112113, Coordinates: -18.978, 32.564
+
+#### 14
+
+Code: ZW112114, Coordinates: -18.971, 32.642
+
+#### 15
+
+Code: ZW112115, Coordinates: -19.032, 32.578
+
+#### 16
+
+Code: ZW112116, Coordinates: -18.975, 32.623
+
+#### 17
+
+Code: ZW112117, Coordinates: -18.983, 32.613
+
+#### 18
+
+Code: ZW112118, Coordinates: -19.018, 32.617
+
+#### 19
+
+Code: ZW112119, Coordinates: -19.025, 32.656
+
+#### 2
+
+Code: ZW112102, Coordinates: -18.99, 32.648
+
+#### 3
+
+Code: ZW112103, Coordinates: -18.997, 32.632
+
+#### 4
+
+Code: ZW112104, Coordinates: -18.992, 32.639
+
+#### 5
+
+Code: ZW112105, Coordinates: -18.987, 32.638
+
+#### 6
+
+Code: ZW112106, Coordinates: -19.003, 32.591
+
+#### 7
+
+Code: ZW112107, Coordinates: -19.013, 32.561
+
+#### 8
+
+Code: ZW112108, Coordinates: -19.006, 32.599
+
+#### 9
+
+Code: ZW112109, Coordinates: -19.01, 32.61
+
+### Mutasa
+
+Code: ZW1106, Coordinates: -18.58, 32.677
+Wards: 31
+
+#### 1
+
+Code: ZW110601, Coordinates: -18.352, 32.987
+
+#### 10
+
+Code: ZW110610, Coordinates: -18.62, 32.757
+
+#### 11
+
+Code: ZW110611, Coordinates: -18.583, 32.66
+
+#### 12
+
+Code: ZW110612, Coordinates: -18.493, 32.56
+
+#### 13
+
+Code: ZW110613, Coordinates: -18.461, 32.482
+
+#### 14
+
+Code: ZW110614, Coordinates: -18.59, 32.492
+
+#### 15
+
+Code: ZW110615, Coordinates: -18.596, 32.576
+
+#### 16
+
+Code: ZW110616, Coordinates: -18.705, 32.513
+
+#### 17
+
+Code: ZW110617, Coordinates: -18.695, 32.586
+
+#### 18
+
+Code: ZW110618, Coordinates: -18.745, 32.747
+
+#### 19
+
+Code: ZW110619, Coordinates: -18.656, 32.698
+
+#### 2
+
+Code: ZW110602, Coordinates: -18.3, 32.97
+
+#### 20
+
+Code: ZW110620, Coordinates: -18.744, 32.653
+
+#### 21
+
+Code: ZW110621, Coordinates: -18.876, 32.664
+
+#### 22
+
+Code: ZW110622, Coordinates: -18.908, 32.677
+
+#### 23
+
+Code: ZW110623, Coordinates: -18.866, 32.578
+
+#### 24
+
+Code: ZW110624, Coordinates: -18.782, 32.588
+
+#### 25
+
+Code: ZW110625, Coordinates: -18.864, 32.485
+
+#### 26
+
+Code: ZW110626, Coordinates: -18.812, 32.682
+
+#### 27
+
+Code: ZW110627, Coordinates: -18.695, 32.861
+
+#### 28
+
+Code: ZW110628, Coordinates: -18.268, 33.003
+
+#### 29
+
+Code: ZW110629, Coordinates: -18.349, 33.04
+
+#### 3
+
+Code: ZW110603, Coordinates: -18.4, 32.891
+
+#### 30
+
+Code: ZW110630, Coordinates: -18.415, 32.95
+
+#### 31
+
+Code: ZW110631, Coordinates: -18.484, 32.851
+
+#### 4
+
+Code: ZW110604, Coordinates: -18.438, 32.995
+
+#### 5
+
+Code: ZW110605, Coordinates: -18.455, 32.883
+
+#### 6
+
+Code: ZW110606, Coordinates: -18.491, 32.823
+
+#### 7
+
+Code: ZW110607, Coordinates: -18.547, 32.761
+
+#### 8
+
+Code: ZW110608, Coordinates: -18.592, 32.821
+
+#### 9
+
+Code: ZW110609, Coordinates: -18.586, 32.88
+
+### Nyanga
+
+Code: ZW1107, Coordinates: -17.911, 32.777
+Wards: 31
+
+#### 1
+
+Code: ZW110701, Coordinates: -17.367, 32.933
+
+#### 10
+
+Code: ZW110710, Coordinates: -17.758, 32.939
+
+#### 11
+
+Code: ZW110711, Coordinates: -17.794, 32.98
+
+#### 12
+
+Code: ZW110712, Coordinates: -17.86, 32.933
+
+#### 13
+
+Code: ZW110713, Coordinates: -17.886, 32.847
+
+#### 14
+
+Code: ZW110714, Coordinates: -17.947, 32.911
+
+#### 15
+
+Code: ZW110715, Coordinates: -17.989, 32.851
+
+#### 16
+
+Code: ZW110716, Coordinates: -18.162, 32.502
+
+#### 17
+
+Code: ZW110717, Coordinates: -17.969, 32.644
+
+#### 18
+
+Code: ZW110718, Coordinates: -18.047, 32.61
+
+#### 19
+
+Code: ZW110719, Coordinates: -18.12, 32.747
+
+#### 2
+
+Code: ZW110702, Coordinates: -17.431, 32.785
+
+#### 20
+
+Code: ZW110720, Coordinates: -18.034, 32.778
+
+#### 21
+
+Code: ZW110721, Coordinates: -18.133, 32.928
+
+#### 22
+
+Code: ZW110722, Coordinates: -18.196, 32.712
+
+#### 23
+
+Code: ZW110723, Coordinates: -18.219, 32.564
+
+#### 24
+
+Code: ZW110724, Coordinates: -18.326, 32.589
+
+#### 25
+
+Code: ZW110725, Coordinates: -18.349, 32.833
+
+#### 26
+
+Code: ZW110726, Coordinates: -18.441, 32.737
+
+#### 27
+
+Code: ZW110727, Coordinates: -18.393, 32.51
+
+#### 28
+
+Code: ZW110728, Coordinates: -18.458, 32.631
+
+#### 29
+
+Code: ZW110729, Coordinates: -18.237, 32.737
+
+#### 3
+
+Code: ZW110703, Coordinates: -17.498, 32.889
+
+#### 30
+
+Code: ZW110730, Coordinates: -17.972, 32.72
+
+#### 31
+
+Code: ZW110731, Coordinates: -18.203, 32.75
+
+#### 4
+
+Code: ZW110704, Coordinates: -17.575, 32.727
+
+#### 5
+
+Code: ZW110705, Coordinates: -17.627, 32.974
+
+#### 6
+
+Code: ZW110706, Coordinates: -17.656, 32.82
+
+#### 7
+
+Code: ZW110707, Coordinates: -17.692, 32.637
+
+#### 8
+
+Code: ZW110708, Coordinates: -17.82, 32.649
+
+#### 9
+
+Code: ZW110709, Coordinates: -17.767, 32.808
+
+### Rusape
+
+Code: ZW1122, Coordinates: -18.534, 32.13
+Wards: 10
+
+#### 1
+
+Code: ZW112201, Coordinates: -18.547, 32.125
+
+#### 10
+
+Code: ZW112210, Coordinates: -18.523, 32.129
+
+#### 2
+
+Code: ZW112202, Coordinates: -18.539, 32.118
+
+#### 3
+
+Code: ZW112203, Coordinates: -18.541, 32.115
+
+#### 4
+
+Code: ZW112204, Coordinates: -18.543, 32.114
+
+#### 5
+
+Code: ZW112205, Coordinates: -18.552, 32.112
+
+#### 6
+
+Code: ZW112206, Coordinates: -18.552, 32.12
+
+#### 7
+
+Code: ZW112207, Coordinates: -18.538, 32.127
+
+#### 8
+
+Code: ZW112208, Coordinates: -18.54, 32.136
+
+#### 9
+
+Code: ZW112209, Coordinates: -18.545, 32.146
+

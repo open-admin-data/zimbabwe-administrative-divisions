@@ -1,0 +1,1892 @@
+[
+  {
+    "id": "ZW180501",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw180501"
+    },
+    "code": {
+      "id": "ZW180501",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1805",
+      "level": 2,
+      "name": {
+        "local": "Masvingo",
+        "en": "Masvingo",
+        "slug": "masvingo-zw1805"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1805",
+        "level": 2,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw1805"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.823",
+      "lon": "30.928"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180510",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw180510"
+    },
+    "code": {
+      "id": "ZW180510",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1805",
+      "level": 2,
+      "name": {
+        "local": "Masvingo",
+        "en": "Masvingo",
+        "slug": "masvingo-zw1805"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1805",
+        "level": 2,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw1805"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.272",
+      "lon": "30.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180511",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw180511"
+    },
+    "code": {
+      "id": "ZW180511",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1805",
+      "level": 2,
+      "name": {
+        "local": "Masvingo",
+        "en": "Masvingo",
+        "slug": "masvingo-zw1805"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1805",
+        "level": 2,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw1805"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.316",
+      "lon": "30.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180512",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw180512"
+    },
+    "code": {
+      "id": "ZW180512",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1805",
+      "level": 2,
+      "name": {
+        "local": "Masvingo",
+        "en": "Masvingo",
+        "slug": "masvingo-zw1805"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1805",
+        "level": 2,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw1805"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.279",
+      "lon": "30.875"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180513",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw180513"
+    },
+    "code": {
+      "id": "ZW180513",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1805",
+      "level": 2,
+      "name": {
+        "local": "Masvingo",
+        "en": "Masvingo",
+        "slug": "masvingo-zw1805"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1805",
+        "level": 2,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw1805"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.32",
+      "lon": "30.952"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180514",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw180514"
+    },
+    "code": {
+      "id": "ZW180514",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1805",
+      "level": 2,
+      "name": {
+        "local": "Masvingo",
+        "en": "Masvingo",
+        "slug": "masvingo-zw1805"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1805",
+        "level": 2,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw1805"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.231",
+      "lon": "31.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180515",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw180515"
+    },
+    "code": {
+      "id": "ZW180515",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1805",
+      "level": 2,
+      "name": {
+        "local": "Masvingo",
+        "en": "Masvingo",
+        "slug": "masvingo-zw1805"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1805",
+        "level": 2,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw1805"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.34",
+      "lon": "31.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180516",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "16",
+      "en": "16",
+      "slug": "16-zw180516"
+    },
+    "code": {
+      "id": "ZW180516",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1805",
+      "level": 2,
+      "name": {
+        "local": "Masvingo",
+        "en": "Masvingo",
+        "slug": "masvingo-zw1805"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1805",
+        "level": 2,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw1805"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.416",
+      "lon": "31.13"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180517",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "17",
+      "en": "17",
+      "slug": "17-zw180517"
+    },
+    "code": {
+      "id": "ZW180517",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1805",
+      "level": 2,
+      "name": {
+        "local": "Masvingo",
+        "en": "Masvingo",
+        "slug": "masvingo-zw1805"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1805",
+        "level": 2,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw1805"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.398",
+      "lon": "30.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180518",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "18",
+      "en": "18",
+      "slug": "18-zw180518"
+    },
+    "code": {
+      "id": "ZW180518",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1805",
+      "level": 2,
+      "name": {
+        "local": "Masvingo",
+        "en": "Masvingo",
+        "slug": "masvingo-zw1805"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1805",
+        "level": 2,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw1805"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.422",
+      "lon": "30.995"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180519",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "19",
+      "en": "19",
+      "slug": "19-zw180519"
+    },
+    "code": {
+      "id": "ZW180519",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1805",
+      "level": 2,
+      "name": {
+        "local": "Masvingo",
+        "en": "Masvingo",
+        "slug": "masvingo-zw1805"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1805",
+        "level": 2,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw1805"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.379",
+      "lon": "30.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180502",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw180502"
+    },
+    "code": {
+      "id": "ZW180502",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1805",
+      "level": 2,
+      "name": {
+        "local": "Masvingo",
+        "en": "Masvingo",
+        "slug": "masvingo-zw1805"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1805",
+        "level": 2,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw1805"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.817",
+      "lon": "30.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180520",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "20",
+      "en": "20",
+      "slug": "20-zw180520"
+    },
+    "code": {
+      "id": "ZW180520",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1805",
+      "level": 2,
+      "name": {
+        "local": "Masvingo",
+        "en": "Masvingo",
+        "slug": "masvingo-zw1805"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1805",
+        "level": 2,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw1805"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.404",
+      "lon": "30.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180521",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "21",
+      "en": "21",
+      "slug": "21-zw180521"
+    },
+    "code": {
+      "id": "ZW180521",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1805",
+      "level": 2,
+      "name": {
+        "local": "Masvingo",
+        "en": "Masvingo",
+        "slug": "masvingo-zw1805"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1805",
+        "level": 2,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw1805"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.468",
+      "lon": "30.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180522",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "22",
+      "en": "22",
+      "slug": "22-zw180522"
+    },
+    "code": {
+      "id": "ZW180522",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1805",
+      "level": 2,
+      "name": {
+        "local": "Masvingo",
+        "en": "Masvingo",
+        "slug": "masvingo-zw1805"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1805",
+        "level": 2,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw1805"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.604",
+      "lon": "30.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180523",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "23",
+      "en": "23",
+      "slug": "23-zw180523"
+    },
+    "code": {
+      "id": "ZW180523",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1805",
+      "level": 2,
+      "name": {
+        "local": "Masvingo",
+        "en": "Masvingo",
+        "slug": "masvingo-zw1805"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1805",
+        "level": 2,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw1805"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.555",
+      "lon": "31.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180524",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "24",
+      "en": "24",
+      "slug": "24-zw180524"
+    },
+    "code": {
+      "id": "ZW180524",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1805",
+      "level": 2,
+      "name": {
+        "local": "Masvingo",
+        "en": "Masvingo",
+        "slug": "masvingo-zw1805"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1805",
+        "level": 2,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw1805"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.609",
+      "lon": "31.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180525",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "25",
+      "en": "25",
+      "slug": "25-zw180525"
+    },
+    "code": {
+      "id": "ZW180525",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1805",
+      "level": 2,
+      "name": {
+        "local": "Masvingo",
+        "en": "Masvingo",
+        "slug": "masvingo-zw1805"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1805",
+        "level": 2,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw1805"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.636",
+      "lon": "31.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180526",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "26",
+      "en": "26",
+      "slug": "26-zw180526"
+    },
+    "code": {
+      "id": "ZW180526",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1805",
+      "level": 2,
+      "name": {
+        "local": "Masvingo",
+        "en": "Masvingo",
+        "slug": "masvingo-zw1805"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1805",
+        "level": 2,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw1805"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.675",
+      "lon": "31.056"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180527",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "27",
+      "en": "27",
+      "slug": "27-zw180527"
+    },
+    "code": {
+      "id": "ZW180527",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1805",
+      "level": 2,
+      "name": {
+        "local": "Masvingo",
+        "en": "Masvingo",
+        "slug": "masvingo-zw1805"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1805",
+        "level": 2,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw1805"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.714",
+      "lon": "31.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180528",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "28",
+      "en": "28",
+      "slug": "28-zw180528"
+    },
+    "code": {
+      "id": "ZW180528",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1805",
+      "level": 2,
+      "name": {
+        "local": "Masvingo",
+        "en": "Masvingo",
+        "slug": "masvingo-zw1805"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1805",
+        "level": 2,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw1805"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.737",
+      "lon": "31.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180529",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "29",
+      "en": "29",
+      "slug": "29-zw180529"
+    },
+    "code": {
+      "id": "ZW180529",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1805",
+      "level": 2,
+      "name": {
+        "local": "Masvingo",
+        "en": "Masvingo",
+        "slug": "masvingo-zw1805"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1805",
+        "level": 2,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw1805"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.826",
+      "lon": "31.225"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180503",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw180503"
+    },
+    "code": {
+      "id": "ZW180503",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1805",
+      "level": 2,
+      "name": {
+        "local": "Masvingo",
+        "en": "Masvingo",
+        "slug": "masvingo-zw1805"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1805",
+        "level": 2,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw1805"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.824",
+      "lon": "30.812"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180530",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "30",
+      "en": "30",
+      "slug": "30-zw180530"
+    },
+    "code": {
+      "id": "ZW180530",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1805",
+      "level": 2,
+      "name": {
+        "local": "Masvingo",
+        "en": "Masvingo",
+        "slug": "masvingo-zw1805"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1805",
+        "level": 2,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw1805"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.795",
+      "lon": "31.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180531",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "31",
+      "en": "31",
+      "slug": "31-zw180531"
+    },
+    "code": {
+      "id": "ZW180531",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1805",
+      "level": 2,
+      "name": {
+        "local": "Masvingo",
+        "en": "Masvingo",
+        "slug": "masvingo-zw1805"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1805",
+        "level": 2,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw1805"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.541",
+      "lon": "31.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180532",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "32",
+      "en": "32",
+      "slug": "32-zw180532"
+    },
+    "code": {
+      "id": "ZW180532",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1805",
+      "level": 2,
+      "name": {
+        "local": "Masvingo",
+        "en": "Masvingo",
+        "slug": "masvingo-zw1805"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1805",
+        "level": 2,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw1805"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.108",
+      "lon": "31.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180533",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "33",
+      "en": "33",
+      "slug": "33-zw180533"
+    },
+    "code": {
+      "id": "ZW180533",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1805",
+      "level": 2,
+      "name": {
+        "local": "Masvingo",
+        "en": "Masvingo",
+        "slug": "masvingo-zw1805"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1805",
+        "level": 2,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw1805"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.028",
+      "lon": "30.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180534",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "34",
+      "en": "34",
+      "slug": "34-zw180534"
+    },
+    "code": {
+      "id": "ZW180534",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1805",
+      "level": 2,
+      "name": {
+        "local": "Masvingo",
+        "en": "Masvingo",
+        "slug": "masvingo-zw1805"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1805",
+        "level": 2,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw1805"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.591",
+      "lon": "30.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180535",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "35",
+      "en": "35",
+      "slug": "35-zw180535"
+    },
+    "code": {
+      "id": "ZW180535",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1805",
+      "level": 2,
+      "name": {
+        "local": "Masvingo",
+        "en": "Masvingo",
+        "slug": "masvingo-zw1805"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1805",
+        "level": 2,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw1805"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.631",
+      "lon": "31.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180504",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw180504"
+    },
+    "code": {
+      "id": "ZW180504",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1805",
+      "level": 2,
+      "name": {
+        "local": "Masvingo",
+        "en": "Masvingo",
+        "slug": "masvingo-zw1805"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1805",
+        "level": 2,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw1805"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.911",
+      "lon": "30.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180505",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw180505"
+    },
+    "code": {
+      "id": "ZW180505",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1805",
+      "level": 2,
+      "name": {
+        "local": "Masvingo",
+        "en": "Masvingo",
+        "slug": "masvingo-zw1805"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1805",
+        "level": 2,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw1805"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.028",
+      "lon": "30.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180506",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw180506"
+    },
+    "code": {
+      "id": "ZW180506",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1805",
+      "level": 2,
+      "name": {
+        "local": "Masvingo",
+        "en": "Masvingo",
+        "slug": "masvingo-zw1805"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1805",
+        "level": 2,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw1805"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.987",
+      "lon": "30.798"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180507",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw180507"
+    },
+    "code": {
+      "id": "ZW180507",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1805",
+      "level": 2,
+      "name": {
+        "local": "Masvingo",
+        "en": "Masvingo",
+        "slug": "masvingo-zw1805"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1805",
+        "level": 2,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw1805"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.174",
+      "lon": "30.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180508",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw180508"
+    },
+    "code": {
+      "id": "ZW180508",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1805",
+      "level": 2,
+      "name": {
+        "local": "Masvingo",
+        "en": "Masvingo",
+        "slug": "masvingo-zw1805"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1805",
+        "level": 2,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw1805"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.042",
+      "lon": "31.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180509",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw180509"
+    },
+    "code": {
+      "id": "ZW180509",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1805",
+      "level": 2,
+      "name": {
+        "local": "Masvingo",
+        "en": "Masvingo",
+        "slug": "masvingo-zw1805"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1805",
+        "level": 2,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw1805"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.199",
+      "lon": "30.572"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

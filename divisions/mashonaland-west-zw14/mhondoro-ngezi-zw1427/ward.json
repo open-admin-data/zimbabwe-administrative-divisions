@@ -1,0 +1,866 @@
+[
+  {
+    "id": "ZW142701",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw142701"
+    },
+    "code": {
+      "id": "ZW142701",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1427",
+      "level": 2,
+      "name": {
+        "local": "Mhondoro-Ngezi",
+        "en": "Mhondoro-Ngezi",
+        "slug": "mhondoro-ngezi-zw1427"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1427",
+        "level": 2,
+        "name": {
+          "local": "Mhondoro-Ngezi",
+          "en": "Mhondoro-Ngezi",
+          "slug": "mhondoro-ngezi-zw1427"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.556",
+      "lon": "30.696"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142710",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw142710"
+    },
+    "code": {
+      "id": "ZW142710",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1427",
+      "level": 2,
+      "name": {
+        "local": "Mhondoro-Ngezi",
+        "en": "Mhondoro-Ngezi",
+        "slug": "mhondoro-ngezi-zw1427"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1427",
+        "level": 2,
+        "name": {
+          "local": "Mhondoro-Ngezi",
+          "en": "Mhondoro-Ngezi",
+          "slug": "mhondoro-ngezi-zw1427"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.52",
+      "lon": "30.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142711",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw142711"
+    },
+    "code": {
+      "id": "ZW142711",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1427",
+      "level": 2,
+      "name": {
+        "local": "Mhondoro-Ngezi",
+        "en": "Mhondoro-Ngezi",
+        "slug": "mhondoro-ngezi-zw1427"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1427",
+        "level": 2,
+        "name": {
+          "local": "Mhondoro-Ngezi",
+          "en": "Mhondoro-Ngezi",
+          "slug": "mhondoro-ngezi-zw1427"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.667",
+      "lon": "30.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142712",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw142712"
+    },
+    "code": {
+      "id": "ZW142712",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1427",
+      "level": 2,
+      "name": {
+        "local": "Mhondoro-Ngezi",
+        "en": "Mhondoro-Ngezi",
+        "slug": "mhondoro-ngezi-zw1427"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1427",
+        "level": 2,
+        "name": {
+          "local": "Mhondoro-Ngezi",
+          "en": "Mhondoro-Ngezi",
+          "slug": "mhondoro-ngezi-zw1427"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.546",
+      "lon": "30.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142713",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw142713"
+    },
+    "code": {
+      "id": "ZW142713",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1427",
+      "level": 2,
+      "name": {
+        "local": "Mhondoro-Ngezi",
+        "en": "Mhondoro-Ngezi",
+        "slug": "mhondoro-ngezi-zw1427"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1427",
+        "level": 2,
+        "name": {
+          "local": "Mhondoro-Ngezi",
+          "en": "Mhondoro-Ngezi",
+          "slug": "mhondoro-ngezi-zw1427"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.579",
+      "lon": "29.87"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142714",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw142714"
+    },
+    "code": {
+      "id": "ZW142714",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1427",
+      "level": 2,
+      "name": {
+        "local": "Mhondoro-Ngezi",
+        "en": "Mhondoro-Ngezi",
+        "slug": "mhondoro-ngezi-zw1427"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1427",
+        "level": 2,
+        "name": {
+          "local": "Mhondoro-Ngezi",
+          "en": "Mhondoro-Ngezi",
+          "slug": "mhondoro-ngezi-zw1427"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.358",
+      "lon": "30.098"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142715",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw142715"
+    },
+    "code": {
+      "id": "ZW142715",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1427",
+      "level": 2,
+      "name": {
+        "local": "Mhondoro-Ngezi",
+        "en": "Mhondoro-Ngezi",
+        "slug": "mhondoro-ngezi-zw1427"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1427",
+        "level": 2,
+        "name": {
+          "local": "Mhondoro-Ngezi",
+          "en": "Mhondoro-Ngezi",
+          "slug": "mhondoro-ngezi-zw1427"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.537",
+      "lon": "29.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142716",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "16",
+      "en": "16",
+      "slug": "16-zw142716"
+    },
+    "code": {
+      "id": "ZW142716",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1427",
+      "level": 2,
+      "name": {
+        "local": "Mhondoro-Ngezi",
+        "en": "Mhondoro-Ngezi",
+        "slug": "mhondoro-ngezi-zw1427"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1427",
+        "level": 2,
+        "name": {
+          "local": "Mhondoro-Ngezi",
+          "en": "Mhondoro-Ngezi",
+          "slug": "mhondoro-ngezi-zw1427"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.437",
+      "lon": "29.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142702",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw142702"
+    },
+    "code": {
+      "id": "ZW142702",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1427",
+      "level": 2,
+      "name": {
+        "local": "Mhondoro-Ngezi",
+        "en": "Mhondoro-Ngezi",
+        "slug": "mhondoro-ngezi-zw1427"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1427",
+        "level": 2,
+        "name": {
+          "local": "Mhondoro-Ngezi",
+          "en": "Mhondoro-Ngezi",
+          "slug": "mhondoro-ngezi-zw1427"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.569",
+      "lon": "30.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142703",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw142703"
+    },
+    "code": {
+      "id": "ZW142703",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1427",
+      "level": 2,
+      "name": {
+        "local": "Mhondoro-Ngezi",
+        "en": "Mhondoro-Ngezi",
+        "slug": "mhondoro-ngezi-zw1427"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1427",
+        "level": 2,
+        "name": {
+          "local": "Mhondoro-Ngezi",
+          "en": "Mhondoro-Ngezi",
+          "slug": "mhondoro-ngezi-zw1427"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.621",
+      "lon": "30.666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142704",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw142704"
+    },
+    "code": {
+      "id": "ZW142704",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1427",
+      "level": 2,
+      "name": {
+        "local": "Mhondoro-Ngezi",
+        "en": "Mhondoro-Ngezi",
+        "slug": "mhondoro-ngezi-zw1427"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1427",
+        "level": 2,
+        "name": {
+          "local": "Mhondoro-Ngezi",
+          "en": "Mhondoro-Ngezi",
+          "slug": "mhondoro-ngezi-zw1427"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.566",
+      "lon": "30.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142705",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw142705"
+    },
+    "code": {
+      "id": "ZW142705",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1427",
+      "level": 2,
+      "name": {
+        "local": "Mhondoro-Ngezi",
+        "en": "Mhondoro-Ngezi",
+        "slug": "mhondoro-ngezi-zw1427"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1427",
+        "level": 2,
+        "name": {
+          "local": "Mhondoro-Ngezi",
+          "en": "Mhondoro-Ngezi",
+          "slug": "mhondoro-ngezi-zw1427"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.639",
+      "lon": "30.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142706",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw142706"
+    },
+    "code": {
+      "id": "ZW142706",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1427",
+      "level": 2,
+      "name": {
+        "local": "Mhondoro-Ngezi",
+        "en": "Mhondoro-Ngezi",
+        "slug": "mhondoro-ngezi-zw1427"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1427",
+        "level": 2,
+        "name": {
+          "local": "Mhondoro-Ngezi",
+          "en": "Mhondoro-Ngezi",
+          "slug": "mhondoro-ngezi-zw1427"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.715",
+      "lon": "30.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142707",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw142707"
+    },
+    "code": {
+      "id": "ZW142707",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1427",
+      "level": 2,
+      "name": {
+        "local": "Mhondoro-Ngezi",
+        "en": "Mhondoro-Ngezi",
+        "slug": "mhondoro-ngezi-zw1427"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1427",
+        "level": 2,
+        "name": {
+          "local": "Mhondoro-Ngezi",
+          "en": "Mhondoro-Ngezi",
+          "slug": "mhondoro-ngezi-zw1427"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.703",
+      "lon": "30.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142708",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw142708"
+    },
+    "code": {
+      "id": "ZW142708",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1427",
+      "level": 2,
+      "name": {
+        "local": "Mhondoro-Ngezi",
+        "en": "Mhondoro-Ngezi",
+        "slug": "mhondoro-ngezi-zw1427"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1427",
+        "level": 2,
+        "name": {
+          "local": "Mhondoro-Ngezi",
+          "en": "Mhondoro-Ngezi",
+          "slug": "mhondoro-ngezi-zw1427"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.679",
+      "lon": "30.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142709",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw142709"
+    },
+    "code": {
+      "id": "ZW142709",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1427",
+      "level": 2,
+      "name": {
+        "local": "Mhondoro-Ngezi",
+        "en": "Mhondoro-Ngezi",
+        "slug": "mhondoro-ngezi-zw1427"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1427",
+        "level": 2,
+        "name": {
+          "local": "Mhondoro-Ngezi",
+          "en": "Mhondoro-Ngezi",
+          "slug": "mhondoro-ngezi-zw1427"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.791",
+      "lon": "30.497"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

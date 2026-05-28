@@ -1,0 +1,47 @@
+{
+  "id": "ZW1122",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Rusape",
+    "en": "Rusape",
+    "slug": "rusape-zw1122"
+  },
+  "code": {
+    "id": "ZW1122",
+    "iso": null
+  },
+  "parent": {
+    "id": "ZW11",
+    "level": 1,
+    "name": {
+      "local": "Manicaland",
+      "en": "Manicaland",
+      "slug": "manicaland-zw11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ZW11",
+      "level": 1,
+      "name": {
+        "local": "Manicaland",
+        "en": "Manicaland",
+        "slug": "manicaland-zw11"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.534",
+    "lon": "32.13"
+  },
+  "metadata": {},
+  "source": {}
+}

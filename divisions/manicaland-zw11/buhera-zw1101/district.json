@@ -1,0 +1,47 @@
+{
+  "id": "ZW1101",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Buhera",
+    "en": "Buhera",
+    "slug": "buhera-zw1101"
+  },
+  "code": {
+    "id": "ZW1101",
+    "iso": null
+  },
+  "parent": {
+    "id": "ZW11",
+    "level": 1,
+    "name": {
+      "local": "Manicaland",
+      "en": "Manicaland",
+      "slug": "manicaland-zw11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ZW11",
+      "level": 1,
+      "name": {
+        "local": "Manicaland",
+        "en": "Manicaland",
+        "slug": "manicaland-zw11"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 33
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.506",
+    "lon": "31.937"
+  },
+  "metadata": {},
+  "source": {}
+}

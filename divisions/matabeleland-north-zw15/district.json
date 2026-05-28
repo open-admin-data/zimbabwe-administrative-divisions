@@ -1,0 +1,425 @@
+[
+  {
+    "id": "ZW1501",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Binga",
+      "en": "Binga",
+      "slug": "binga-zw1501"
+    },
+    "code": {
+      "id": "ZW1501",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW15",
+      "level": 1,
+      "name": {
+        "local": "Matabeleland North",
+        "en": "Matabeleland North",
+        "slug": "matabeleland-north-zw15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 25
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.692",
+      "lon": "27.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1502",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bubi",
+      "en": "Bubi",
+      "slug": "bubi-zw1502"
+    },
+    "code": {
+      "id": "ZW1502",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW15",
+      "level": 1,
+      "name": {
+        "local": "Matabeleland North",
+        "en": "Matabeleland North",
+        "slug": "matabeleland-north-zw15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.567",
+      "lon": "28.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1503",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hwange",
+      "en": "Hwange",
+      "slug": "hwange-zw1503"
+    },
+    "code": {
+      "id": "ZW1503",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW15",
+      "level": 1,
+      "name": {
+        "local": "Matabeleland North",
+        "en": "Matabeleland North",
+        "slug": "matabeleland-north-zw15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.84",
+      "lon": "26.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1521",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hwange Urban",
+      "en": "Hwange Urban",
+      "slug": "hwange-urban-zw1521"
+    },
+    "code": {
+      "id": "ZW1521",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW15",
+      "level": 1,
+      "name": {
+        "local": "Matabeleland North",
+        "en": "Matabeleland North",
+        "slug": "matabeleland-north-zw15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.335",
+      "lon": "26.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1504",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lupane",
+      "en": "Lupane",
+      "slug": "lupane-zw1504"
+    },
+    "code": {
+      "id": "ZW1504",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW15",
+      "level": 1,
+      "name": {
+        "local": "Matabeleland North",
+        "en": "Matabeleland North",
+        "slug": "matabeleland-north-zw15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 28
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.882",
+      "lon": "27.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1505",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nkayi",
+      "en": "Nkayi",
+      "slug": "nkayi-zw1505"
+    },
+    "code": {
+      "id": "ZW1505",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW15",
+      "level": 1,
+      "name": {
+        "local": "Matabeleland North",
+        "en": "Matabeleland North",
+        "slug": "matabeleland-north-zw15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 30
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.923",
+      "lon": "28.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1506",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tsholotsho",
+      "en": "Tsholotsho",
+      "slug": "tsholotsho-zw1506"
+    },
+    "code": {
+      "id": "ZW1506",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW15",
+      "level": 1,
+      "name": {
+        "local": "Matabeleland North",
+        "en": "Matabeleland North",
+        "slug": "matabeleland-north-zw15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.64",
+      "lon": "27.289"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1507",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Umguza",
+      "en": "Umguza",
+      "slug": "umguza-zw1507"
+    },
+    "code": {
+      "id": "ZW1507",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW15",
+      "level": 1,
+      "name": {
+        "local": "Matabeleland North",
+        "en": "Matabeleland North",
+        "slug": "matabeleland-north-zw15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.86",
+      "lon": "28.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1522",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Victoria Falls",
+      "en": "Victoria Falls",
+      "slug": "victoria-falls-zw1522"
+    },
+    "code": {
+      "id": "ZW1522",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW15",
+      "level": 1,
+      "name": {
+        "local": "Matabeleland North",
+        "en": "Matabeleland North",
+        "slug": "matabeleland-north-zw15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.931",
+      "lon": "25.831"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

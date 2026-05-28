@@ -1,0 +1,812 @@
+[
+  {
+    "id": "ZW142101",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw142101"
+    },
+    "code": {
+      "id": "ZW142101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1421",
+      "level": 2,
+      "name": {
+        "local": "Chinhoyi",
+        "en": "Chinhoyi",
+        "slug": "chinhoyi-zw1421"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1421",
+        "level": 2,
+        "name": {
+          "local": "Chinhoyi",
+          "en": "Chinhoyi",
+          "slug": "chinhoyi-zw1421"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.371",
+      "lon": "30.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142110",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw142110"
+    },
+    "code": {
+      "id": "ZW142110",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1421",
+      "level": 2,
+      "name": {
+        "local": "Chinhoyi",
+        "en": "Chinhoyi",
+        "slug": "chinhoyi-zw1421"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1421",
+        "level": 2,
+        "name": {
+          "local": "Chinhoyi",
+          "en": "Chinhoyi",
+          "slug": "chinhoyi-zw1421"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.362",
+      "lon": "30.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142111",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw142111"
+    },
+    "code": {
+      "id": "ZW142111",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1421",
+      "level": 2,
+      "name": {
+        "local": "Chinhoyi",
+        "en": "Chinhoyi",
+        "slug": "chinhoyi-zw1421"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1421",
+        "level": 2,
+        "name": {
+          "local": "Chinhoyi",
+          "en": "Chinhoyi",
+          "slug": "chinhoyi-zw1421"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.333",
+      "lon": "30.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142112",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw142112"
+    },
+    "code": {
+      "id": "ZW142112",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1421",
+      "level": 2,
+      "name": {
+        "local": "Chinhoyi",
+        "en": "Chinhoyi",
+        "slug": "chinhoyi-zw1421"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1421",
+        "level": 2,
+        "name": {
+          "local": "Chinhoyi",
+          "en": "Chinhoyi",
+          "slug": "chinhoyi-zw1421"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.384",
+      "lon": "30.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142113",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw142113"
+    },
+    "code": {
+      "id": "ZW142113",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1421",
+      "level": 2,
+      "name": {
+        "local": "Chinhoyi",
+        "en": "Chinhoyi",
+        "slug": "chinhoyi-zw1421"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1421",
+        "level": 2,
+        "name": {
+          "local": "Chinhoyi",
+          "en": "Chinhoyi",
+          "slug": "chinhoyi-zw1421"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.407",
+      "lon": "30.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142114",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw142114"
+    },
+    "code": {
+      "id": "ZW142114",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1421",
+      "level": 2,
+      "name": {
+        "local": "Chinhoyi",
+        "en": "Chinhoyi",
+        "slug": "chinhoyi-zw1421"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1421",
+        "level": 2,
+        "name": {
+          "local": "Chinhoyi",
+          "en": "Chinhoyi",
+          "slug": "chinhoyi-zw1421"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.37",
+      "lon": "30.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142115",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw142115"
+    },
+    "code": {
+      "id": "ZW142115",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1421",
+      "level": 2,
+      "name": {
+        "local": "Chinhoyi",
+        "en": "Chinhoyi",
+        "slug": "chinhoyi-zw1421"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1421",
+        "level": 2,
+        "name": {
+          "local": "Chinhoyi",
+          "en": "Chinhoyi",
+          "slug": "chinhoyi-zw1421"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.32",
+      "lon": "30.04"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142102",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw142102"
+    },
+    "code": {
+      "id": "ZW142102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1421",
+      "level": 2,
+      "name": {
+        "local": "Chinhoyi",
+        "en": "Chinhoyi",
+        "slug": "chinhoyi-zw1421"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1421",
+        "level": 2,
+        "name": {
+          "local": "Chinhoyi",
+          "en": "Chinhoyi",
+          "slug": "chinhoyi-zw1421"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.373",
+      "lon": "30.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142103",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw142103"
+    },
+    "code": {
+      "id": "ZW142103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1421",
+      "level": 2,
+      "name": {
+        "local": "Chinhoyi",
+        "en": "Chinhoyi",
+        "slug": "chinhoyi-zw1421"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1421",
+        "level": 2,
+        "name": {
+          "local": "Chinhoyi",
+          "en": "Chinhoyi",
+          "slug": "chinhoyi-zw1421"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.361",
+      "lon": "30.214"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142104",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw142104"
+    },
+    "code": {
+      "id": "ZW142104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1421",
+      "level": 2,
+      "name": {
+        "local": "Chinhoyi",
+        "en": "Chinhoyi",
+        "slug": "chinhoyi-zw1421"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1421",
+        "level": 2,
+        "name": {
+          "local": "Chinhoyi",
+          "en": "Chinhoyi",
+          "slug": "chinhoyi-zw1421"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.379",
+      "lon": "30.202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142105",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw142105"
+    },
+    "code": {
+      "id": "ZW142105",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1421",
+      "level": 2,
+      "name": {
+        "local": "Chinhoyi",
+        "en": "Chinhoyi",
+        "slug": "chinhoyi-zw1421"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1421",
+        "level": 2,
+        "name": {
+          "local": "Chinhoyi",
+          "en": "Chinhoyi",
+          "slug": "chinhoyi-zw1421"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.399",
+      "lon": "30.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142106",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw142106"
+    },
+    "code": {
+      "id": "ZW142106",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1421",
+      "level": 2,
+      "name": {
+        "local": "Chinhoyi",
+        "en": "Chinhoyi",
+        "slug": "chinhoyi-zw1421"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1421",
+        "level": 2,
+        "name": {
+          "local": "Chinhoyi",
+          "en": "Chinhoyi",
+          "slug": "chinhoyi-zw1421"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.389",
+      "lon": "30.191"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142107",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw142107"
+    },
+    "code": {
+      "id": "ZW142107",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1421",
+      "level": 2,
+      "name": {
+        "local": "Chinhoyi",
+        "en": "Chinhoyi",
+        "slug": "chinhoyi-zw1421"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1421",
+        "level": 2,
+        "name": {
+          "local": "Chinhoyi",
+          "en": "Chinhoyi",
+          "slug": "chinhoyi-zw1421"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.39",
+      "lon": "30.198"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142108",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw142108"
+    },
+    "code": {
+      "id": "ZW142108",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1421",
+      "level": 2,
+      "name": {
+        "local": "Chinhoyi",
+        "en": "Chinhoyi",
+        "slug": "chinhoyi-zw1421"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1421",
+        "level": 2,
+        "name": {
+          "local": "Chinhoyi",
+          "en": "Chinhoyi",
+          "slug": "chinhoyi-zw1421"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.362",
+      "lon": "30.204"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW142109",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw142109"
+    },
+    "code": {
+      "id": "ZW142109",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1421",
+      "level": 2,
+      "name": {
+        "local": "Chinhoyi",
+        "en": "Chinhoyi",
+        "slug": "chinhoyi-zw1421"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1421",
+        "level": 2,
+        "name": {
+          "local": "Chinhoyi",
+          "en": "Chinhoyi",
+          "slug": "chinhoyi-zw1421"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.387",
+      "lon": "30.156"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

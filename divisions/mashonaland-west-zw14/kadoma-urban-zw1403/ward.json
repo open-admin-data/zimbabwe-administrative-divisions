@@ -1,0 +1,920 @@
+[
+  {
+    "id": "ZW140301",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw140301"
+    },
+    "code": {
+      "id": "ZW140301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1403",
+      "level": 2,
+      "name": {
+        "local": "Kadoma Urban",
+        "en": "Kadoma Urban",
+        "slug": "kadoma-urban-zw1403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1403",
+        "level": 2,
+        "name": {
+          "local": "Kadoma Urban",
+          "en": "Kadoma Urban",
+          "slug": "kadoma-urban-zw1403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.366",
+      "lon": "29.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140310",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw140310"
+    },
+    "code": {
+      "id": "ZW140310",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1403",
+      "level": 2,
+      "name": {
+        "local": "Kadoma Urban",
+        "en": "Kadoma Urban",
+        "slug": "kadoma-urban-zw1403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1403",
+        "level": 2,
+        "name": {
+          "local": "Kadoma Urban",
+          "en": "Kadoma Urban",
+          "slug": "kadoma-urban-zw1403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.306",
+      "lon": "29.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140311",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw140311"
+    },
+    "code": {
+      "id": "ZW140311",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1403",
+      "level": 2,
+      "name": {
+        "local": "Kadoma Urban",
+        "en": "Kadoma Urban",
+        "slug": "kadoma-urban-zw1403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1403",
+        "level": 2,
+        "name": {
+          "local": "Kadoma Urban",
+          "en": "Kadoma Urban",
+          "slug": "kadoma-urban-zw1403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.355",
+      "lon": "29.922"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140312",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw140312"
+    },
+    "code": {
+      "id": "ZW140312",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1403",
+      "level": 2,
+      "name": {
+        "local": "Kadoma Urban",
+        "en": "Kadoma Urban",
+        "slug": "kadoma-urban-zw1403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1403",
+        "level": 2,
+        "name": {
+          "local": "Kadoma Urban",
+          "en": "Kadoma Urban",
+          "slug": "kadoma-urban-zw1403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.358",
+      "lon": "29.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140313",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw140313"
+    },
+    "code": {
+      "id": "ZW140313",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1403",
+      "level": 2,
+      "name": {
+        "local": "Kadoma Urban",
+        "en": "Kadoma Urban",
+        "slug": "kadoma-urban-zw1403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1403",
+        "level": 2,
+        "name": {
+          "local": "Kadoma Urban",
+          "en": "Kadoma Urban",
+          "slug": "kadoma-urban-zw1403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.323",
+      "lon": "29.871"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140314",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw140314"
+    },
+    "code": {
+      "id": "ZW140314",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1403",
+      "level": 2,
+      "name": {
+        "local": "Kadoma Urban",
+        "en": "Kadoma Urban",
+        "slug": "kadoma-urban-zw1403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1403",
+        "level": 2,
+        "name": {
+          "local": "Kadoma Urban",
+          "en": "Kadoma Urban",
+          "slug": "kadoma-urban-zw1403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.391",
+      "lon": "29.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140315",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw140315"
+    },
+    "code": {
+      "id": "ZW140315",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1403",
+      "level": 2,
+      "name": {
+        "local": "Kadoma Urban",
+        "en": "Kadoma Urban",
+        "slug": "kadoma-urban-zw1403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1403",
+        "level": 2,
+        "name": {
+          "local": "Kadoma Urban",
+          "en": "Kadoma Urban",
+          "slug": "kadoma-urban-zw1403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.304",
+      "lon": "29.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140316",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "16",
+      "en": "16",
+      "slug": "16-zw140316"
+    },
+    "code": {
+      "id": "ZW140316",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1403",
+      "level": 2,
+      "name": {
+        "local": "Kadoma Urban",
+        "en": "Kadoma Urban",
+        "slug": "kadoma-urban-zw1403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1403",
+        "level": 2,
+        "name": {
+          "local": "Kadoma Urban",
+          "en": "Kadoma Urban",
+          "slug": "kadoma-urban-zw1403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.302",
+      "lon": "30"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140317",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "17",
+      "en": "17",
+      "slug": "17-zw140317"
+    },
+    "code": {
+      "id": "ZW140317",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1403",
+      "level": 2,
+      "name": {
+        "local": "Kadoma Urban",
+        "en": "Kadoma Urban",
+        "slug": "kadoma-urban-zw1403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1403",
+        "level": 2,
+        "name": {
+          "local": "Kadoma Urban",
+          "en": "Kadoma Urban",
+          "slug": "kadoma-urban-zw1403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.344",
+      "lon": "29.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140302",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw140302"
+    },
+    "code": {
+      "id": "ZW140302",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1403",
+      "level": 2,
+      "name": {
+        "local": "Kadoma Urban",
+        "en": "Kadoma Urban",
+        "slug": "kadoma-urban-zw1403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1403",
+        "level": 2,
+        "name": {
+          "local": "Kadoma Urban",
+          "en": "Kadoma Urban",
+          "slug": "kadoma-urban-zw1403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.344",
+      "lon": "29.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140303",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw140303"
+    },
+    "code": {
+      "id": "ZW140303",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1403",
+      "level": 2,
+      "name": {
+        "local": "Kadoma Urban",
+        "en": "Kadoma Urban",
+        "slug": "kadoma-urban-zw1403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1403",
+        "level": 2,
+        "name": {
+          "local": "Kadoma Urban",
+          "en": "Kadoma Urban",
+          "slug": "kadoma-urban-zw1403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.353",
+      "lon": "29.865"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140304",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw140304"
+    },
+    "code": {
+      "id": "ZW140304",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1403",
+      "level": 2,
+      "name": {
+        "local": "Kadoma Urban",
+        "en": "Kadoma Urban",
+        "slug": "kadoma-urban-zw1403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1403",
+        "level": 2,
+        "name": {
+          "local": "Kadoma Urban",
+          "en": "Kadoma Urban",
+          "slug": "kadoma-urban-zw1403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.348",
+      "lon": "29.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140305",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw140305"
+    },
+    "code": {
+      "id": "ZW140305",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1403",
+      "level": 2,
+      "name": {
+        "local": "Kadoma Urban",
+        "en": "Kadoma Urban",
+        "slug": "kadoma-urban-zw1403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1403",
+        "level": 2,
+        "name": {
+          "local": "Kadoma Urban",
+          "en": "Kadoma Urban",
+          "slug": "kadoma-urban-zw1403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.34",
+      "lon": "29.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140306",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw140306"
+    },
+    "code": {
+      "id": "ZW140306",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1403",
+      "level": 2,
+      "name": {
+        "local": "Kadoma Urban",
+        "en": "Kadoma Urban",
+        "slug": "kadoma-urban-zw1403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1403",
+        "level": 2,
+        "name": {
+          "local": "Kadoma Urban",
+          "en": "Kadoma Urban",
+          "slug": "kadoma-urban-zw1403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.341",
+      "lon": "29.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140307",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw140307"
+    },
+    "code": {
+      "id": "ZW140307",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1403",
+      "level": 2,
+      "name": {
+        "local": "Kadoma Urban",
+        "en": "Kadoma Urban",
+        "slug": "kadoma-urban-zw1403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1403",
+        "level": 2,
+        "name": {
+          "local": "Kadoma Urban",
+          "en": "Kadoma Urban",
+          "slug": "kadoma-urban-zw1403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.351",
+      "lon": "29.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140308",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw140308"
+    },
+    "code": {
+      "id": "ZW140308",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1403",
+      "level": 2,
+      "name": {
+        "local": "Kadoma Urban",
+        "en": "Kadoma Urban",
+        "slug": "kadoma-urban-zw1403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1403",
+        "level": 2,
+        "name": {
+          "local": "Kadoma Urban",
+          "en": "Kadoma Urban",
+          "slug": "kadoma-urban-zw1403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.34",
+      "lon": "29.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140309",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw140309"
+    },
+    "code": {
+      "id": "ZW140309",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1403",
+      "level": 2,
+      "name": {
+        "local": "Kadoma Urban",
+        "en": "Kadoma Urban",
+        "slug": "kadoma-urban-zw1403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1403",
+        "level": 2,
+        "name": {
+          "local": "Kadoma Urban",
+          "en": "Kadoma Urban",
+          "slug": "kadoma-urban-zw1403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.375",
+      "lon": "29.919"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

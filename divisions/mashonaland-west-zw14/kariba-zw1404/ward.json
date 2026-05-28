@@ -1,0 +1,650 @@
+[
+  {
+    "id": "ZW140401",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw140401"
+    },
+    "code": {
+      "id": "ZW140401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1404",
+      "level": 2,
+      "name": {
+        "local": "Kariba",
+        "en": "Kariba",
+        "slug": "kariba-zw1404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1404",
+        "level": 2,
+        "name": {
+          "local": "Kariba",
+          "en": "Kariba",
+          "slug": "kariba-zw1404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.833",
+      "lon": "28.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140410",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw140410"
+    },
+    "code": {
+      "id": "ZW140410",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1404",
+      "level": 2,
+      "name": {
+        "local": "Kariba",
+        "en": "Kariba",
+        "slug": "kariba-zw1404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1404",
+        "level": 2,
+        "name": {
+          "local": "Kariba",
+          "en": "Kariba",
+          "slug": "kariba-zw1404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.104",
+      "lon": "28.855"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140411",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw140411"
+    },
+    "code": {
+      "id": "ZW140411",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1404",
+      "level": 2,
+      "name": {
+        "local": "Kariba",
+        "en": "Kariba",
+        "slug": "kariba-zw1404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1404",
+        "level": 2,
+        "name": {
+          "local": "Kariba",
+          "en": "Kariba",
+          "slug": "kariba-zw1404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.911",
+      "lon": "28.911"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140412",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw140412"
+    },
+    "code": {
+      "id": "ZW140412",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1404",
+      "level": 2,
+      "name": {
+        "local": "Kariba",
+        "en": "Kariba",
+        "slug": "kariba-zw1404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1404",
+        "level": 2,
+        "name": {
+          "local": "Kariba",
+          "en": "Kariba",
+          "slug": "kariba-zw1404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.669",
+      "lon": "29.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140402",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw140402"
+    },
+    "code": {
+      "id": "ZW140402",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1404",
+      "level": 2,
+      "name": {
+        "local": "Kariba",
+        "en": "Kariba",
+        "slug": "kariba-zw1404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1404",
+        "level": 2,
+        "name": {
+          "local": "Kariba",
+          "en": "Kariba",
+          "slug": "kariba-zw1404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.821",
+      "lon": "28.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140403",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw140403"
+    },
+    "code": {
+      "id": "ZW140403",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1404",
+      "level": 2,
+      "name": {
+        "local": "Kariba",
+        "en": "Kariba",
+        "slug": "kariba-zw1404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1404",
+        "level": 2,
+        "name": {
+          "local": "Kariba",
+          "en": "Kariba",
+          "slug": "kariba-zw1404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.95",
+      "lon": "28.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140404",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw140404"
+    },
+    "code": {
+      "id": "ZW140404",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1404",
+      "level": 2,
+      "name": {
+        "local": "Kariba",
+        "en": "Kariba",
+        "slug": "kariba-zw1404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1404",
+        "level": 2,
+        "name": {
+          "local": "Kariba",
+          "en": "Kariba",
+          "slug": "kariba-zw1404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.992",
+      "lon": "28.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140405",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw140405"
+    },
+    "code": {
+      "id": "ZW140405",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1404",
+      "level": 2,
+      "name": {
+        "local": "Kariba",
+        "en": "Kariba",
+        "slug": "kariba-zw1404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1404",
+        "level": 2,
+        "name": {
+          "local": "Kariba",
+          "en": "Kariba",
+          "slug": "kariba-zw1404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.132",
+      "lon": "28.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140406",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw140406"
+    },
+    "code": {
+      "id": "ZW140406",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1404",
+      "level": 2,
+      "name": {
+        "local": "Kariba",
+        "en": "Kariba",
+        "slug": "kariba-zw1404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1404",
+        "level": 2,
+        "name": {
+          "local": "Kariba",
+          "en": "Kariba",
+          "slug": "kariba-zw1404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.265",
+      "lon": "28.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140407",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw140407"
+    },
+    "code": {
+      "id": "ZW140407",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1404",
+      "level": 2,
+      "name": {
+        "local": "Kariba",
+        "en": "Kariba",
+        "slug": "kariba-zw1404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1404",
+        "level": 2,
+        "name": {
+          "local": "Kariba",
+          "en": "Kariba",
+          "slug": "kariba-zw1404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.155",
+      "lon": "28.414"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140408",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw140408"
+    },
+    "code": {
+      "id": "ZW140408",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1404",
+      "level": 2,
+      "name": {
+        "local": "Kariba",
+        "en": "Kariba",
+        "slug": "kariba-zw1404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1404",
+        "level": 2,
+        "name": {
+          "local": "Kariba",
+          "en": "Kariba",
+          "slug": "kariba-zw1404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.284",
+      "lon": "28.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140409",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw140409"
+    },
+    "code": {
+      "id": "ZW140409",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1404",
+      "level": 2,
+      "name": {
+        "local": "Kariba",
+        "en": "Kariba",
+        "slug": "kariba-zw1404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1404",
+        "level": 2,
+        "name": {
+          "local": "Kariba",
+          "en": "Kariba",
+          "slug": "kariba-zw1404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.882",
+      "lon": "28.62"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

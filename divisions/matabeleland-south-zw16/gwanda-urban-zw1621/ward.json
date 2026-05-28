@@ -1,0 +1,542 @@
+[
+  {
+    "id": "ZW162101",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw162101"
+    },
+    "code": {
+      "id": "ZW162101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1621",
+      "level": 2,
+      "name": {
+        "local": "Gwanda Urban",
+        "en": "Gwanda Urban",
+        "slug": "gwanda-urban-zw1621"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1621",
+        "level": 2,
+        "name": {
+          "local": "Gwanda Urban",
+          "en": "Gwanda Urban",
+          "slug": "gwanda-urban-zw1621"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.947",
+      "lon": "29.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW162110",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw162110"
+    },
+    "code": {
+      "id": "ZW162110",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1621",
+      "level": 2,
+      "name": {
+        "local": "Gwanda Urban",
+        "en": "Gwanda Urban",
+        "slug": "gwanda-urban-zw1621"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1621",
+        "level": 2,
+        "name": {
+          "local": "Gwanda Urban",
+          "en": "Gwanda Urban",
+          "slug": "gwanda-urban-zw1621"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.927",
+      "lon": "28.964"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW162102",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw162102"
+    },
+    "code": {
+      "id": "ZW162102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1621",
+      "level": 2,
+      "name": {
+        "local": "Gwanda Urban",
+        "en": "Gwanda Urban",
+        "slug": "gwanda-urban-zw1621"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1621",
+        "level": 2,
+        "name": {
+          "local": "Gwanda Urban",
+          "en": "Gwanda Urban",
+          "slug": "gwanda-urban-zw1621"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.933",
+      "lon": "29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW162103",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw162103"
+    },
+    "code": {
+      "id": "ZW162103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1621",
+      "level": 2,
+      "name": {
+        "local": "Gwanda Urban",
+        "en": "Gwanda Urban",
+        "slug": "gwanda-urban-zw1621"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1621",
+        "level": 2,
+        "name": {
+          "local": "Gwanda Urban",
+          "en": "Gwanda Urban",
+          "slug": "gwanda-urban-zw1621"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.925",
+      "lon": "29.01"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW162104",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw162104"
+    },
+    "code": {
+      "id": "ZW162104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1621",
+      "level": 2,
+      "name": {
+        "local": "Gwanda Urban",
+        "en": "Gwanda Urban",
+        "slug": "gwanda-urban-zw1621"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1621",
+        "level": 2,
+        "name": {
+          "local": "Gwanda Urban",
+          "en": "Gwanda Urban",
+          "slug": "gwanda-urban-zw1621"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.938",
+      "lon": "29.013"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW162105",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw162105"
+    },
+    "code": {
+      "id": "ZW162105",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1621",
+      "level": 2,
+      "name": {
+        "local": "Gwanda Urban",
+        "en": "Gwanda Urban",
+        "slug": "gwanda-urban-zw1621"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1621",
+        "level": 2,
+        "name": {
+          "local": "Gwanda Urban",
+          "en": "Gwanda Urban",
+          "slug": "gwanda-urban-zw1621"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.927",
+      "lon": "29.026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW162106",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw162106"
+    },
+    "code": {
+      "id": "ZW162106",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1621",
+      "level": 2,
+      "name": {
+        "local": "Gwanda Urban",
+        "en": "Gwanda Urban",
+        "slug": "gwanda-urban-zw1621"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1621",
+        "level": 2,
+        "name": {
+          "local": "Gwanda Urban",
+          "en": "Gwanda Urban",
+          "slug": "gwanda-urban-zw1621"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.931",
+      "lon": "29.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW162107",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw162107"
+    },
+    "code": {
+      "id": "ZW162107",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1621",
+      "level": 2,
+      "name": {
+        "local": "Gwanda Urban",
+        "en": "Gwanda Urban",
+        "slug": "gwanda-urban-zw1621"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1621",
+        "level": 2,
+        "name": {
+          "local": "Gwanda Urban",
+          "en": "Gwanda Urban",
+          "slug": "gwanda-urban-zw1621"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.941",
+      "lon": "29.021"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW162108",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw162108"
+    },
+    "code": {
+      "id": "ZW162108",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1621",
+      "level": 2,
+      "name": {
+        "local": "Gwanda Urban",
+        "en": "Gwanda Urban",
+        "slug": "gwanda-urban-zw1621"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1621",
+        "level": 2,
+        "name": {
+          "local": "Gwanda Urban",
+          "en": "Gwanda Urban",
+          "slug": "gwanda-urban-zw1621"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.947",
+      "lon": "29.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW162109",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw162109"
+    },
+    "code": {
+      "id": "ZW162109",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1621",
+      "level": 2,
+      "name": {
+        "local": "Gwanda Urban",
+        "en": "Gwanda Urban",
+        "slug": "gwanda-urban-zw1621"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1621",
+        "level": 2,
+        "name": {
+          "local": "Gwanda Urban",
+          "en": "Gwanda Urban",
+          "slug": "gwanda-urban-zw1621"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.942",
+      "lon": "29.029"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

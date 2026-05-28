@@ -1,0 +1,47 @@
+{
+  "id": "ZW1705",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kwekwe",
+    "en": "Kwekwe",
+    "slug": "kwekwe-zw1705"
+  },
+  "code": {
+    "id": "ZW1705",
+    "iso": null
+  },
+  "parent": {
+    "id": "ZW17",
+    "level": 1,
+    "name": {
+      "local": "Midlands",
+      "en": "Midlands",
+      "slug": "midlands-zw17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ZW17",
+      "level": 1,
+      "name": {
+        "local": "Midlands",
+        "en": "Midlands",
+        "slug": "midlands-zw17"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 33
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.821",
+    "lon": "29.608"
+  },
+  "metadata": {},
+  "source": {}
+}

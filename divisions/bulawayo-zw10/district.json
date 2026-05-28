@@ -1,0 +1,49 @@
+[
+  {
+    "id": "ZW1021",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bulawayo",
+      "en": "Bulawayo",
+      "slug": "bulawayo-zw1021"
+    },
+    "code": {
+      "id": "ZW1021",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW10",
+      "level": 1,
+      "name": {
+        "local": "Bulawayo",
+        "en": "Bulawayo",
+        "slug": "bulawayo-zw10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW10",
+        "level": 1,
+        "name": {
+          "local": "Bulawayo",
+          "en": "Bulawayo",
+          "slug": "bulawayo-zw10"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 29
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.106",
+      "lon": "28.535"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

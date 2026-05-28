@@ -1,0 +1,1838 @@
+[
+  {
+    "id": "ZW180701",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw180701"
+    },
+    "code": {
+      "id": "ZW180701",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1807",
+      "level": 2,
+      "name": {
+        "local": "Zaka",
+        "en": "Zaka",
+        "slug": "zaka-zw1807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1807",
+        "level": 2,
+        "name": {
+          "local": "Zaka",
+          "en": "Zaka",
+          "slug": "zaka-zw1807"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.084",
+      "lon": "31.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180710",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw180710"
+    },
+    "code": {
+      "id": "ZW180710",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1807",
+      "level": 2,
+      "name": {
+        "local": "Zaka",
+        "en": "Zaka",
+        "slug": "zaka-zw1807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1807",
+        "level": 2,
+        "name": {
+          "local": "Zaka",
+          "en": "Zaka",
+          "slug": "zaka-zw1807"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.225",
+      "lon": "31.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180711",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw180711"
+    },
+    "code": {
+      "id": "ZW180711",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1807",
+      "level": 2,
+      "name": {
+        "local": "Zaka",
+        "en": "Zaka",
+        "slug": "zaka-zw1807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1807",
+        "level": 2,
+        "name": {
+          "local": "Zaka",
+          "en": "Zaka",
+          "slug": "zaka-zw1807"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.316",
+      "lon": "31.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180712",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw180712"
+    },
+    "code": {
+      "id": "ZW180712",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1807",
+      "level": 2,
+      "name": {
+        "local": "Zaka",
+        "en": "Zaka",
+        "slug": "zaka-zw1807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1807",
+        "level": 2,
+        "name": {
+          "local": "Zaka",
+          "en": "Zaka",
+          "slug": "zaka-zw1807"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.306",
+      "lon": "31.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180713",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw180713"
+    },
+    "code": {
+      "id": "ZW180713",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1807",
+      "level": 2,
+      "name": {
+        "local": "Zaka",
+        "en": "Zaka",
+        "slug": "zaka-zw1807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1807",
+        "level": 2,
+        "name": {
+          "local": "Zaka",
+          "en": "Zaka",
+          "slug": "zaka-zw1807"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.344",
+      "lon": "31.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180714",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw180714"
+    },
+    "code": {
+      "id": "ZW180714",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1807",
+      "level": 2,
+      "name": {
+        "local": "Zaka",
+        "en": "Zaka",
+        "slug": "zaka-zw1807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1807",
+        "level": 2,
+        "name": {
+          "local": "Zaka",
+          "en": "Zaka",
+          "slug": "zaka-zw1807"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.334",
+      "lon": "31.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180715",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw180715"
+    },
+    "code": {
+      "id": "ZW180715",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1807",
+      "level": 2,
+      "name": {
+        "local": "Zaka",
+        "en": "Zaka",
+        "slug": "zaka-zw1807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1807",
+        "level": 2,
+        "name": {
+          "local": "Zaka",
+          "en": "Zaka",
+          "slug": "zaka-zw1807"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.364",
+      "lon": "31.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180716",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "16",
+      "en": "16",
+      "slug": "16-zw180716"
+    },
+    "code": {
+      "id": "ZW180716",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1807",
+      "level": 2,
+      "name": {
+        "local": "Zaka",
+        "en": "Zaka",
+        "slug": "zaka-zw1807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1807",
+        "level": 2,
+        "name": {
+          "local": "Zaka",
+          "en": "Zaka",
+          "slug": "zaka-zw1807"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.359",
+      "lon": "31.216"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180717",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "17",
+      "en": "17",
+      "slug": "17-zw180717"
+    },
+    "code": {
+      "id": "ZW180717",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1807",
+      "level": 2,
+      "name": {
+        "local": "Zaka",
+        "en": "Zaka",
+        "slug": "zaka-zw1807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1807",
+        "level": 2,
+        "name": {
+          "local": "Zaka",
+          "en": "Zaka",
+          "slug": "zaka-zw1807"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.45",
+      "lon": "31.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180718",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "18",
+      "en": "18",
+      "slug": "18-zw180718"
+    },
+    "code": {
+      "id": "ZW180718",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1807",
+      "level": 2,
+      "name": {
+        "local": "Zaka",
+        "en": "Zaka",
+        "slug": "zaka-zw1807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1807",
+        "level": 2,
+        "name": {
+          "local": "Zaka",
+          "en": "Zaka",
+          "slug": "zaka-zw1807"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.413",
+      "lon": "31.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180719",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "19",
+      "en": "19",
+      "slug": "19-zw180719"
+    },
+    "code": {
+      "id": "ZW180719",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1807",
+      "level": 2,
+      "name": {
+        "local": "Zaka",
+        "en": "Zaka",
+        "slug": "zaka-zw1807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1807",
+        "level": 2,
+        "name": {
+          "local": "Zaka",
+          "en": "Zaka",
+          "slug": "zaka-zw1807"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.391",
+      "lon": "31.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180702",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw180702"
+    },
+    "code": {
+      "id": "ZW180702",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1807",
+      "level": 2,
+      "name": {
+        "local": "Zaka",
+        "en": "Zaka",
+        "slug": "zaka-zw1807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1807",
+        "level": 2,
+        "name": {
+          "local": "Zaka",
+          "en": "Zaka",
+          "slug": "zaka-zw1807"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.085",
+      "lon": "31.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180720",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "20",
+      "en": "20",
+      "slug": "20-zw180720"
+    },
+    "code": {
+      "id": "ZW180720",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1807",
+      "level": 2,
+      "name": {
+        "local": "Zaka",
+        "en": "Zaka",
+        "slug": "zaka-zw1807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1807",
+        "level": 2,
+        "name": {
+          "local": "Zaka",
+          "en": "Zaka",
+          "slug": "zaka-zw1807"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.447",
+      "lon": "31.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180721",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "21",
+      "en": "21",
+      "slug": "21-zw180721"
+    },
+    "code": {
+      "id": "ZW180721",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1807",
+      "level": 2,
+      "name": {
+        "local": "Zaka",
+        "en": "Zaka",
+        "slug": "zaka-zw1807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1807",
+        "level": 2,
+        "name": {
+          "local": "Zaka",
+          "en": "Zaka",
+          "slug": "zaka-zw1807"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.454",
+      "lon": "31.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180722",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "22",
+      "en": "22",
+      "slug": "22-zw180722"
+    },
+    "code": {
+      "id": "ZW180722",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1807",
+      "level": 2,
+      "name": {
+        "local": "Zaka",
+        "en": "Zaka",
+        "slug": "zaka-zw1807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1807",
+        "level": 2,
+        "name": {
+          "local": "Zaka",
+          "en": "Zaka",
+          "slug": "zaka-zw1807"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.437",
+      "lon": "31.24"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180723",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "23",
+      "en": "23",
+      "slug": "23-zw180723"
+    },
+    "code": {
+      "id": "ZW180723",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1807",
+      "level": 2,
+      "name": {
+        "local": "Zaka",
+        "en": "Zaka",
+        "slug": "zaka-zw1807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1807",
+        "level": 2,
+        "name": {
+          "local": "Zaka",
+          "en": "Zaka",
+          "slug": "zaka-zw1807"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.526",
+      "lon": "31.295"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180724",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "24",
+      "en": "24",
+      "slug": "24-zw180724"
+    },
+    "code": {
+      "id": "ZW180724",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1807",
+      "level": 2,
+      "name": {
+        "local": "Zaka",
+        "en": "Zaka",
+        "slug": "zaka-zw1807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1807",
+        "level": 2,
+        "name": {
+          "local": "Zaka",
+          "en": "Zaka",
+          "slug": "zaka-zw1807"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.51",
+      "lon": "31.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180725",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "25",
+      "en": "25",
+      "slug": "25-zw180725"
+    },
+    "code": {
+      "id": "ZW180725",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1807",
+      "level": 2,
+      "name": {
+        "local": "Zaka",
+        "en": "Zaka",
+        "slug": "zaka-zw1807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1807",
+        "level": 2,
+        "name": {
+          "local": "Zaka",
+          "en": "Zaka",
+          "slug": "zaka-zw1807"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.548",
+      "lon": "31.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180726",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "26",
+      "en": "26",
+      "slug": "26-zw180726"
+    },
+    "code": {
+      "id": "ZW180726",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1807",
+      "level": 2,
+      "name": {
+        "local": "Zaka",
+        "en": "Zaka",
+        "slug": "zaka-zw1807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1807",
+        "level": 2,
+        "name": {
+          "local": "Zaka",
+          "en": "Zaka",
+          "slug": "zaka-zw1807"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.601",
+      "lon": "31.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180727",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "27",
+      "en": "27",
+      "slug": "27-zw180727"
+    },
+    "code": {
+      "id": "ZW180727",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1807",
+      "level": 2,
+      "name": {
+        "local": "Zaka",
+        "en": "Zaka",
+        "slug": "zaka-zw1807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1807",
+        "level": 2,
+        "name": {
+          "local": "Zaka",
+          "en": "Zaka",
+          "slug": "zaka-zw1807"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.659",
+      "lon": "31.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180728",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "28",
+      "en": "28",
+      "slug": "28-zw180728"
+    },
+    "code": {
+      "id": "ZW180728",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1807",
+      "level": 2,
+      "name": {
+        "local": "Zaka",
+        "en": "Zaka",
+        "slug": "zaka-zw1807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1807",
+        "level": 2,
+        "name": {
+          "local": "Zaka",
+          "en": "Zaka",
+          "slug": "zaka-zw1807"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.587",
+      "lon": "31.387"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180729",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "29",
+      "en": "29",
+      "slug": "29-zw180729"
+    },
+    "code": {
+      "id": "ZW180729",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1807",
+      "level": 2,
+      "name": {
+        "local": "Zaka",
+        "en": "Zaka",
+        "slug": "zaka-zw1807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1807",
+        "level": 2,
+        "name": {
+          "local": "Zaka",
+          "en": "Zaka",
+          "slug": "zaka-zw1807"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.67",
+      "lon": "31.297"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180703",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw180703"
+    },
+    "code": {
+      "id": "ZW180703",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1807",
+      "level": 2,
+      "name": {
+        "local": "Zaka",
+        "en": "Zaka",
+        "slug": "zaka-zw1807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1807",
+        "level": 2,
+        "name": {
+          "local": "Zaka",
+          "en": "Zaka",
+          "slug": "zaka-zw1807"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.162",
+      "lon": "31.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180730",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "30",
+      "en": "30",
+      "slug": "30-zw180730"
+    },
+    "code": {
+      "id": "ZW180730",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1807",
+      "level": 2,
+      "name": {
+        "local": "Zaka",
+        "en": "Zaka",
+        "slug": "zaka-zw1807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1807",
+        "level": 2,
+        "name": {
+          "local": "Zaka",
+          "en": "Zaka",
+          "slug": "zaka-zw1807"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.624",
+      "lon": "31.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180731",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "31",
+      "en": "31",
+      "slug": "31-zw180731"
+    },
+    "code": {
+      "id": "ZW180731",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1807",
+      "level": 2,
+      "name": {
+        "local": "Zaka",
+        "en": "Zaka",
+        "slug": "zaka-zw1807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1807",
+        "level": 2,
+        "name": {
+          "local": "Zaka",
+          "en": "Zaka",
+          "slug": "zaka-zw1807"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.568",
+      "lon": "31.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180732",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "32",
+      "en": "32",
+      "slug": "32-zw180732"
+    },
+    "code": {
+      "id": "ZW180732",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1807",
+      "level": 2,
+      "name": {
+        "local": "Zaka",
+        "en": "Zaka",
+        "slug": "zaka-zw1807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1807",
+        "level": 2,
+        "name": {
+          "local": "Zaka",
+          "en": "Zaka",
+          "slug": "zaka-zw1807"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.634",
+      "lon": "31.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180733",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "33",
+      "en": "33",
+      "slug": "33-zw180733"
+    },
+    "code": {
+      "id": "ZW180733",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1807",
+      "level": 2,
+      "name": {
+        "local": "Zaka",
+        "en": "Zaka",
+        "slug": "zaka-zw1807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1807",
+        "level": 2,
+        "name": {
+          "local": "Zaka",
+          "en": "Zaka",
+          "slug": "zaka-zw1807"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.387",
+      "lon": "31.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180734",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "34",
+      "en": "34",
+      "slug": "34-zw180734"
+    },
+    "code": {
+      "id": "ZW180734",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1807",
+      "level": 2,
+      "name": {
+        "local": "Zaka",
+        "en": "Zaka",
+        "slug": "zaka-zw1807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1807",
+        "level": 2,
+        "name": {
+          "local": "Zaka",
+          "en": "Zaka",
+          "slug": "zaka-zw1807"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.314",
+      "lon": "31.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180704",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw180704"
+    },
+    "code": {
+      "id": "ZW180704",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1807",
+      "level": 2,
+      "name": {
+        "local": "Zaka",
+        "en": "Zaka",
+        "slug": "zaka-zw1807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1807",
+        "level": 2,
+        "name": {
+          "local": "Zaka",
+          "en": "Zaka",
+          "slug": "zaka-zw1807"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.19",
+      "lon": "31.436"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180705",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw180705"
+    },
+    "code": {
+      "id": "ZW180705",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1807",
+      "level": 2,
+      "name": {
+        "local": "Zaka",
+        "en": "Zaka",
+        "slug": "zaka-zw1807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1807",
+        "level": 2,
+        "name": {
+          "local": "Zaka",
+          "en": "Zaka",
+          "slug": "zaka-zw1807"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.147",
+      "lon": "31.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180706",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw180706"
+    },
+    "code": {
+      "id": "ZW180706",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1807",
+      "level": 2,
+      "name": {
+        "local": "Zaka",
+        "en": "Zaka",
+        "slug": "zaka-zw1807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1807",
+        "level": 2,
+        "name": {
+          "local": "Zaka",
+          "en": "Zaka",
+          "slug": "zaka-zw1807"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.224",
+      "lon": "31.243"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180707",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw180707"
+    },
+    "code": {
+      "id": "ZW180707",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1807",
+      "level": 2,
+      "name": {
+        "local": "Zaka",
+        "en": "Zaka",
+        "slug": "zaka-zw1807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1807",
+        "level": 2,
+        "name": {
+          "local": "Zaka",
+          "en": "Zaka",
+          "slug": "zaka-zw1807"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.23",
+      "lon": "31.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180708",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw180708"
+    },
+    "code": {
+      "id": "ZW180708",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1807",
+      "level": 2,
+      "name": {
+        "local": "Zaka",
+        "en": "Zaka",
+        "slug": "zaka-zw1807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1807",
+        "level": 2,
+        "name": {
+          "local": "Zaka",
+          "en": "Zaka",
+          "slug": "zaka-zw1807"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.292",
+      "lon": "31.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180709",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw180709"
+    },
+    "code": {
+      "id": "ZW180709",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1807",
+      "level": 2,
+      "name": {
+        "local": "Zaka",
+        "en": "Zaka",
+        "slug": "zaka-zw1807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1807",
+        "level": 2,
+        "name": {
+          "local": "Zaka",
+          "en": "Zaka",
+          "slug": "zaka-zw1807"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.262",
+      "lon": "31.485"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

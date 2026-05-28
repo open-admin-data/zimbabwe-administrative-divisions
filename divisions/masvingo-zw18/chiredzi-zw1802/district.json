@@ -1,0 +1,47 @@
+{
+  "id": "ZW1802",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Chiredzi",
+    "en": "Chiredzi",
+    "slug": "chiredzi-zw1802"
+  },
+  "code": {
+    "id": "ZW1802",
+    "iso": null
+  },
+  "parent": {
+    "id": "ZW18",
+    "level": 1,
+    "name": {
+      "local": "Masvingo",
+      "en": "Masvingo",
+      "slug": "masvingo-zw18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ZW18",
+      "level": 1,
+      "name": {
+        "local": "Masvingo",
+        "en": "Masvingo",
+        "slug": "masvingo-zw18"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 32
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.419",
+    "lon": "31.834"
+  },
+  "metadata": {},
+  "source": {}
+}

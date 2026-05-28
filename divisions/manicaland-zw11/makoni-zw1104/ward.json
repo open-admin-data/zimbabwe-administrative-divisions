@@ -1,0 +1,2108 @@
+[
+  {
+    "id": "ZW110401",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw110401"
+    },
+    "code": {
+      "id": "ZW110401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1104",
+      "level": 2,
+      "name": {
+        "local": "Makoni",
+        "en": "Makoni",
+        "slug": "makoni-zw1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1104",
+        "level": 2,
+        "name": {
+          "local": "Makoni",
+          "en": "Makoni",
+          "slug": "makoni-zw1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.689",
+      "lon": "32.493"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110410",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw110410"
+    },
+    "code": {
+      "id": "ZW110410",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1104",
+      "level": 2,
+      "name": {
+        "local": "Makoni",
+        "en": "Makoni",
+        "slug": "makoni-zw1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1104",
+        "level": 2,
+        "name": {
+          "local": "Makoni",
+          "en": "Makoni",
+          "slug": "makoni-zw1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.296",
+      "lon": "32.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110411",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw110411"
+    },
+    "code": {
+      "id": "ZW110411",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1104",
+      "level": 2,
+      "name": {
+        "local": "Makoni",
+        "en": "Makoni",
+        "slug": "makoni-zw1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1104",
+        "level": 2,
+        "name": {
+          "local": "Makoni",
+          "en": "Makoni",
+          "slug": "makoni-zw1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.485",
+      "lon": "32.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110412",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw110412"
+    },
+    "code": {
+      "id": "ZW110412",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1104",
+      "level": 2,
+      "name": {
+        "local": "Makoni",
+        "en": "Makoni",
+        "slug": "makoni-zw1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1104",
+        "level": 2,
+        "name": {
+          "local": "Makoni",
+          "en": "Makoni",
+          "slug": "makoni-zw1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.529",
+      "lon": "31.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110413",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw110413"
+    },
+    "code": {
+      "id": "ZW110413",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1104",
+      "level": 2,
+      "name": {
+        "local": "Makoni",
+        "en": "Makoni",
+        "slug": "makoni-zw1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1104",
+        "level": 2,
+        "name": {
+          "local": "Makoni",
+          "en": "Makoni",
+          "slug": "makoni-zw1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.498",
+      "lon": "31.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110414",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw110414"
+    },
+    "code": {
+      "id": "ZW110414",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1104",
+      "level": 2,
+      "name": {
+        "local": "Makoni",
+        "en": "Makoni",
+        "slug": "makoni-zw1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1104",
+        "level": 2,
+        "name": {
+          "local": "Makoni",
+          "en": "Makoni",
+          "slug": "makoni-zw1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.583",
+      "lon": "31.812"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110415",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw110415"
+    },
+    "code": {
+      "id": "ZW110415",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1104",
+      "level": 2,
+      "name": {
+        "local": "Makoni",
+        "en": "Makoni",
+        "slug": "makoni-zw1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1104",
+        "level": 2,
+        "name": {
+          "local": "Makoni",
+          "en": "Makoni",
+          "slug": "makoni-zw1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.635",
+      "lon": "31.968"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110416",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "16",
+      "en": "16",
+      "slug": "16-zw110416"
+    },
+    "code": {
+      "id": "ZW110416",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1104",
+      "level": 2,
+      "name": {
+        "local": "Makoni",
+        "en": "Makoni",
+        "slug": "makoni-zw1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1104",
+        "level": 2,
+        "name": {
+          "local": "Makoni",
+          "en": "Makoni",
+          "slug": "makoni-zw1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.632",
+      "lon": "32.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110417",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "17",
+      "en": "17",
+      "slug": "17-zw110417"
+    },
+    "code": {
+      "id": "ZW110417",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1104",
+      "level": 2,
+      "name": {
+        "local": "Makoni",
+        "en": "Makoni",
+        "slug": "makoni-zw1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1104",
+        "level": 2,
+        "name": {
+          "local": "Makoni",
+          "en": "Makoni",
+          "slug": "makoni-zw1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.744",
+      "lon": "32.229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110418",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "18",
+      "en": "18",
+      "slug": "18-zw110418"
+    },
+    "code": {
+      "id": "ZW110418",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1104",
+      "level": 2,
+      "name": {
+        "local": "Makoni",
+        "en": "Makoni",
+        "slug": "makoni-zw1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1104",
+        "level": 2,
+        "name": {
+          "local": "Makoni",
+          "en": "Makoni",
+          "slug": "makoni-zw1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.656",
+      "lon": "32.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110419",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "19",
+      "en": "19",
+      "slug": "19-zw110419"
+    },
+    "code": {
+      "id": "ZW110419",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1104",
+      "level": 2,
+      "name": {
+        "local": "Makoni",
+        "en": "Makoni",
+        "slug": "makoni-zw1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1104",
+        "level": 2,
+        "name": {
+          "local": "Makoni",
+          "en": "Makoni",
+          "slug": "makoni-zw1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.544",
+      "lon": "32.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110402",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw110402"
+    },
+    "code": {
+      "id": "ZW110402",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1104",
+      "level": 2,
+      "name": {
+        "local": "Makoni",
+        "en": "Makoni",
+        "slug": "makoni-zw1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1104",
+        "level": 2,
+        "name": {
+          "local": "Makoni",
+          "en": "Makoni",
+          "slug": "makoni-zw1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.79",
+      "lon": "32.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110420",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "20",
+      "en": "20",
+      "slug": "20-zw110420"
+    },
+    "code": {
+      "id": "ZW110420",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1104",
+      "level": 2,
+      "name": {
+        "local": "Makoni",
+        "en": "Makoni",
+        "slug": "makoni-zw1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1104",
+        "level": 2,
+        "name": {
+          "local": "Makoni",
+          "en": "Makoni",
+          "slug": "makoni-zw1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.469",
+      "lon": "32.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110421",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "21",
+      "en": "21",
+      "slug": "21-zw110421"
+    },
+    "code": {
+      "id": "ZW110421",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1104",
+      "level": 2,
+      "name": {
+        "local": "Makoni",
+        "en": "Makoni",
+        "slug": "makoni-zw1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1104",
+        "level": 2,
+        "name": {
+          "local": "Makoni",
+          "en": "Makoni",
+          "slug": "makoni-zw1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.536",
+      "lon": "32.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110422",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "22",
+      "en": "22",
+      "slug": "22-zw110422"
+    },
+    "code": {
+      "id": "ZW110422",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1104",
+      "level": 2,
+      "name": {
+        "local": "Makoni",
+        "en": "Makoni",
+        "slug": "makoni-zw1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1104",
+        "level": 2,
+        "name": {
+          "local": "Makoni",
+          "en": "Makoni",
+          "slug": "makoni-zw1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.607",
+      "lon": "32.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110423",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "23",
+      "en": "23",
+      "slug": "23-zw110423"
+    },
+    "code": {
+      "id": "ZW110423",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1104",
+      "level": 2,
+      "name": {
+        "local": "Makoni",
+        "en": "Makoni",
+        "slug": "makoni-zw1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1104",
+        "level": 2,
+        "name": {
+          "local": "Makoni",
+          "en": "Makoni",
+          "slug": "makoni-zw1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.684",
+      "lon": "32.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110424",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "24",
+      "en": "24",
+      "slug": "24-zw110424"
+    },
+    "code": {
+      "id": "ZW110424",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1104",
+      "level": 2,
+      "name": {
+        "local": "Makoni",
+        "en": "Makoni",
+        "slug": "makoni-zw1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1104",
+        "level": 2,
+        "name": {
+          "local": "Makoni",
+          "en": "Makoni",
+          "slug": "makoni-zw1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.705",
+      "lon": "31.865"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110425",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "25",
+      "en": "25",
+      "slug": "25-zw110425"
+    },
+    "code": {
+      "id": "ZW110425",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1104",
+      "level": 2,
+      "name": {
+        "local": "Makoni",
+        "en": "Makoni",
+        "slug": "makoni-zw1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1104",
+        "level": 2,
+        "name": {
+          "local": "Makoni",
+          "en": "Makoni",
+          "slug": "makoni-zw1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.774",
+      "lon": "31.949"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110426",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "26",
+      "en": "26",
+      "slug": "26-zw110426"
+    },
+    "code": {
+      "id": "ZW110426",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1104",
+      "level": 2,
+      "name": {
+        "local": "Makoni",
+        "en": "Makoni",
+        "slug": "makoni-zw1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1104",
+        "level": 2,
+        "name": {
+          "local": "Makoni",
+          "en": "Makoni",
+          "slug": "makoni-zw1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.732",
+      "lon": "32.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110427",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "27",
+      "en": "27",
+      "slug": "27-zw110427"
+    },
+    "code": {
+      "id": "ZW110427",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1104",
+      "level": 2,
+      "name": {
+        "local": "Makoni",
+        "en": "Makoni",
+        "slug": "makoni-zw1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1104",
+        "level": 2,
+        "name": {
+          "local": "Makoni",
+          "en": "Makoni",
+          "slug": "makoni-zw1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.827",
+      "lon": "32.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110428",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "28",
+      "en": "28",
+      "slug": "28-zw110428"
+    },
+    "code": {
+      "id": "ZW110428",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1104",
+      "level": 2,
+      "name": {
+        "local": "Makoni",
+        "en": "Makoni",
+        "slug": "makoni-zw1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1104",
+        "level": 2,
+        "name": {
+          "local": "Makoni",
+          "en": "Makoni",
+          "slug": "makoni-zw1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.866",
+      "lon": "32.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110429",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "29",
+      "en": "29",
+      "slug": "29-zw110429"
+    },
+    "code": {
+      "id": "ZW110429",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1104",
+      "level": 2,
+      "name": {
+        "local": "Makoni",
+        "en": "Makoni",
+        "slug": "makoni-zw1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1104",
+        "level": 2,
+        "name": {
+          "local": "Makoni",
+          "en": "Makoni",
+          "slug": "makoni-zw1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.908",
+      "lon": "32.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110403",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw110403"
+    },
+    "code": {
+      "id": "ZW110403",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1104",
+      "level": 2,
+      "name": {
+        "local": "Makoni",
+        "en": "Makoni",
+        "slug": "makoni-zw1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1104",
+        "level": 2,
+        "name": {
+          "local": "Makoni",
+          "en": "Makoni",
+          "slug": "makoni-zw1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.909",
+      "lon": "32.434"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110430",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "30",
+      "en": "30",
+      "slug": "30-zw110430"
+    },
+    "code": {
+      "id": "ZW110430",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1104",
+      "level": 2,
+      "name": {
+        "local": "Makoni",
+        "en": "Makoni",
+        "slug": "makoni-zw1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1104",
+        "level": 2,
+        "name": {
+          "local": "Makoni",
+          "en": "Makoni",
+          "slug": "makoni-zw1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.92",
+      "lon": "32.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110431",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "31",
+      "en": "31",
+      "slug": "31-zw110431"
+    },
+    "code": {
+      "id": "ZW110431",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1104",
+      "level": 2,
+      "name": {
+        "local": "Makoni",
+        "en": "Makoni",
+        "slug": "makoni-zw1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1104",
+        "level": 2,
+        "name": {
+          "local": "Makoni",
+          "en": "Makoni",
+          "slug": "makoni-zw1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.048",
+      "lon": "32.044"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110432",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "32",
+      "en": "32",
+      "slug": "32-zw110432"
+    },
+    "code": {
+      "id": "ZW110432",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1104",
+      "level": 2,
+      "name": {
+        "local": "Makoni",
+        "en": "Makoni",
+        "slug": "makoni-zw1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1104",
+        "level": 2,
+        "name": {
+          "local": "Makoni",
+          "en": "Makoni",
+          "slug": "makoni-zw1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.293",
+      "lon": "32.056"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110433",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "33",
+      "en": "33",
+      "slug": "33-zw110433"
+    },
+    "code": {
+      "id": "ZW110433",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1104",
+      "level": 2,
+      "name": {
+        "local": "Makoni",
+        "en": "Makoni",
+        "slug": "makoni-zw1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1104",
+        "level": 2,
+        "name": {
+          "local": "Makoni",
+          "en": "Makoni",
+          "slug": "makoni-zw1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.714",
+      "lon": "32.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110434",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "34",
+      "en": "34",
+      "slug": "34-zw110434"
+    },
+    "code": {
+      "id": "ZW110434",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1104",
+      "level": 2,
+      "name": {
+        "local": "Makoni",
+        "en": "Makoni",
+        "slug": "makoni-zw1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1104",
+        "level": 2,
+        "name": {
+          "local": "Makoni",
+          "en": "Makoni",
+          "slug": "makoni-zw1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.21",
+      "lon": "31.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110435",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "35",
+      "en": "35",
+      "slug": "35-zw110435"
+    },
+    "code": {
+      "id": "ZW110435",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1104",
+      "level": 2,
+      "name": {
+        "local": "Makoni",
+        "en": "Makoni",
+        "slug": "makoni-zw1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1104",
+        "level": 2,
+        "name": {
+          "local": "Makoni",
+          "en": "Makoni",
+          "slug": "makoni-zw1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.923",
+      "lon": "32.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110436",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "36",
+      "en": "36",
+      "slug": "36-zw110436"
+    },
+    "code": {
+      "id": "ZW110436",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1104",
+      "level": 2,
+      "name": {
+        "local": "Makoni",
+        "en": "Makoni",
+        "slug": "makoni-zw1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1104",
+        "level": 2,
+        "name": {
+          "local": "Makoni",
+          "en": "Makoni",
+          "slug": "makoni-zw1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.857",
+      "lon": "32.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110437",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "37",
+      "en": "37",
+      "slug": "37-zw110437"
+    },
+    "code": {
+      "id": "ZW110437",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1104",
+      "level": 2,
+      "name": {
+        "local": "Makoni",
+        "en": "Makoni",
+        "slug": "makoni-zw1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1104",
+        "level": 2,
+        "name": {
+          "local": "Makoni",
+          "en": "Makoni",
+          "slug": "makoni-zw1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.335",
+      "lon": "31.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110438",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "38",
+      "en": "38",
+      "slug": "38-zw110438"
+    },
+    "code": {
+      "id": "ZW110438",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1104",
+      "level": 2,
+      "name": {
+        "local": "Makoni",
+        "en": "Makoni",
+        "slug": "makoni-zw1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1104",
+        "level": 2,
+        "name": {
+          "local": "Makoni",
+          "en": "Makoni",
+          "slug": "makoni-zw1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.443",
+      "lon": "32.121"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110439",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "39",
+      "en": "39",
+      "slug": "39-zw110439"
+    },
+    "code": {
+      "id": "ZW110439",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1104",
+      "level": 2,
+      "name": {
+        "local": "Makoni",
+        "en": "Makoni",
+        "slug": "makoni-zw1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1104",
+        "level": 2,
+        "name": {
+          "local": "Makoni",
+          "en": "Makoni",
+          "slug": "makoni-zw1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.586",
+      "lon": "31.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110404",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw110404"
+    },
+    "code": {
+      "id": "ZW110404",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1104",
+      "level": 2,
+      "name": {
+        "local": "Makoni",
+        "en": "Makoni",
+        "slug": "makoni-zw1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1104",
+        "level": 2,
+        "name": {
+          "local": "Makoni",
+          "en": "Makoni",
+          "slug": "makoni-zw1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.924",
+      "lon": "32.349"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110405",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw110405"
+    },
+    "code": {
+      "id": "ZW110405",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1104",
+      "level": 2,
+      "name": {
+        "local": "Makoni",
+        "en": "Makoni",
+        "slug": "makoni-zw1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1104",
+        "level": 2,
+        "name": {
+          "local": "Makoni",
+          "en": "Makoni",
+          "slug": "makoni-zw1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.008",
+      "lon": "32.131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110406",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw110406"
+    },
+    "code": {
+      "id": "ZW110406",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1104",
+      "level": 2,
+      "name": {
+        "local": "Makoni",
+        "en": "Makoni",
+        "slug": "makoni-zw1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1104",
+        "level": 2,
+        "name": {
+          "local": "Makoni",
+          "en": "Makoni",
+          "slug": "makoni-zw1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.212",
+      "lon": "32.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110407",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw110407"
+    },
+    "code": {
+      "id": "ZW110407",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1104",
+      "level": 2,
+      "name": {
+        "local": "Makoni",
+        "en": "Makoni",
+        "slug": "makoni-zw1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1104",
+        "level": 2,
+        "name": {
+          "local": "Makoni",
+          "en": "Makoni",
+          "slug": "makoni-zw1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.146",
+      "lon": "32.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110408",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw110408"
+    },
+    "code": {
+      "id": "ZW110408",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1104",
+      "level": 2,
+      "name": {
+        "local": "Makoni",
+        "en": "Makoni",
+        "slug": "makoni-zw1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1104",
+        "level": 2,
+        "name": {
+          "local": "Makoni",
+          "en": "Makoni",
+          "slug": "makoni-zw1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.201",
+      "lon": "32.257"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110409",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw110409"
+    },
+    "code": {
+      "id": "ZW110409",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1104",
+      "level": 2,
+      "name": {
+        "local": "Makoni",
+        "en": "Makoni",
+        "slug": "makoni-zw1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1104",
+        "level": 2,
+        "name": {
+          "local": "Makoni",
+          "en": "Makoni",
+          "slug": "makoni-zw1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.069",
+      "lon": "32.434"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

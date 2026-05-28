@@ -1,0 +1,1784 @@
+[
+  {
+    "id": "ZW170301",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw170301"
+    },
+    "code": {
+      "id": "ZW170301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1703",
+      "level": 2,
+      "name": {
+        "local": "Gokwe South",
+        "en": "Gokwe South",
+        "slug": "gokwe-south-zw1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1703",
+        "level": 2,
+        "name": {
+          "local": "Gokwe South",
+          "en": "Gokwe South",
+          "slug": "gokwe-south-zw1703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.467",
+      "lon": "28.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170310",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw170310"
+    },
+    "code": {
+      "id": "ZW170310",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1703",
+      "level": 2,
+      "name": {
+        "local": "Gokwe South",
+        "en": "Gokwe South",
+        "slug": "gokwe-south-zw1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1703",
+        "level": 2,
+        "name": {
+          "local": "Gokwe South",
+          "en": "Gokwe South",
+          "slug": "gokwe-south-zw1703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.914",
+      "lon": "28.641"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170311",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw170311"
+    },
+    "code": {
+      "id": "ZW170311",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1703",
+      "level": 2,
+      "name": {
+        "local": "Gokwe South",
+        "en": "Gokwe South",
+        "slug": "gokwe-south-zw1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1703",
+        "level": 2,
+        "name": {
+          "local": "Gokwe South",
+          "en": "Gokwe South",
+          "slug": "gokwe-south-zw1703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.011",
+      "lon": "28.665"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170312",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw170312"
+    },
+    "code": {
+      "id": "ZW170312",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1703",
+      "level": 2,
+      "name": {
+        "local": "Gokwe South",
+        "en": "Gokwe South",
+        "slug": "gokwe-south-zw1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1703",
+        "level": 2,
+        "name": {
+          "local": "Gokwe South",
+          "en": "Gokwe South",
+          "slug": "gokwe-south-zw1703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.039",
+      "lon": "28.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170313",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw170313"
+    },
+    "code": {
+      "id": "ZW170313",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1703",
+      "level": 2,
+      "name": {
+        "local": "Gokwe South",
+        "en": "Gokwe South",
+        "slug": "gokwe-south-zw1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1703",
+        "level": 2,
+        "name": {
+          "local": "Gokwe South",
+          "en": "Gokwe South",
+          "slug": "gokwe-south-zw1703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.136",
+      "lon": "28.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170314",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw170314"
+    },
+    "code": {
+      "id": "ZW170314",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1703",
+      "level": 2,
+      "name": {
+        "local": "Gokwe South",
+        "en": "Gokwe South",
+        "slug": "gokwe-south-zw1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1703",
+        "level": 2,
+        "name": {
+          "local": "Gokwe South",
+          "en": "Gokwe South",
+          "slug": "gokwe-south-zw1703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.379",
+      "lon": "29.174"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170315",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw170315"
+    },
+    "code": {
+      "id": "ZW170315",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1703",
+      "level": 2,
+      "name": {
+        "local": "Gokwe South",
+        "en": "Gokwe South",
+        "slug": "gokwe-south-zw1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1703",
+        "level": 2,
+        "name": {
+          "local": "Gokwe South",
+          "en": "Gokwe South",
+          "slug": "gokwe-south-zw1703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.402",
+      "lon": "28.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170316",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "16",
+      "en": "16",
+      "slug": "16-zw170316"
+    },
+    "code": {
+      "id": "ZW170316",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1703",
+      "level": 2,
+      "name": {
+        "local": "Gokwe South",
+        "en": "Gokwe South",
+        "slug": "gokwe-south-zw1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1703",
+        "level": 2,
+        "name": {
+          "local": "Gokwe South",
+          "en": "Gokwe South",
+          "slug": "gokwe-south-zw1703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.186",
+      "lon": "28.993"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170317",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "17",
+      "en": "17",
+      "slug": "17-zw170317"
+    },
+    "code": {
+      "id": "ZW170317",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1703",
+      "level": 2,
+      "name": {
+        "local": "Gokwe South",
+        "en": "Gokwe South",
+        "slug": "gokwe-south-zw1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1703",
+        "level": 2,
+        "name": {
+          "local": "Gokwe South",
+          "en": "Gokwe South",
+          "slug": "gokwe-south-zw1703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.036",
+      "lon": "28.929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170318",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "18",
+      "en": "18",
+      "slug": "18-zw170318"
+    },
+    "code": {
+      "id": "ZW170318",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1703",
+      "level": 2,
+      "name": {
+        "local": "Gokwe South",
+        "en": "Gokwe South",
+        "slug": "gokwe-south-zw1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1703",
+        "level": 2,
+        "name": {
+          "local": "Gokwe South",
+          "en": "Gokwe South",
+          "slug": "gokwe-south-zw1703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.178",
+      "lon": "28.575"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170319",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "19",
+      "en": "19",
+      "slug": "19-zw170319"
+    },
+    "code": {
+      "id": "ZW170319",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1703",
+      "level": 2,
+      "name": {
+        "local": "Gokwe South",
+        "en": "Gokwe South",
+        "slug": "gokwe-south-zw1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1703",
+        "level": 2,
+        "name": {
+          "local": "Gokwe South",
+          "en": "Gokwe South",
+          "slug": "gokwe-south-zw1703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.314",
+      "lon": "28.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170302",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw170302"
+    },
+    "code": {
+      "id": "ZW170302",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1703",
+      "level": 2,
+      "name": {
+        "local": "Gokwe South",
+        "en": "Gokwe South",
+        "slug": "gokwe-south-zw1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1703",
+        "level": 2,
+        "name": {
+          "local": "Gokwe South",
+          "en": "Gokwe South",
+          "slug": "gokwe-south-zw1703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.535",
+      "lon": "28.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170320",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "20",
+      "en": "20",
+      "slug": "20-zw170320"
+    },
+    "code": {
+      "id": "ZW170320",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1703",
+      "level": 2,
+      "name": {
+        "local": "Gokwe South",
+        "en": "Gokwe South",
+        "slug": "gokwe-south-zw1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1703",
+        "level": 2,
+        "name": {
+          "local": "Gokwe South",
+          "en": "Gokwe South",
+          "slug": "gokwe-south-zw1703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.388",
+      "lon": "28.649"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170321",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "21",
+      "en": "21",
+      "slug": "21-zw170321"
+    },
+    "code": {
+      "id": "ZW170321",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1703",
+      "level": 2,
+      "name": {
+        "local": "Gokwe South",
+        "en": "Gokwe South",
+        "slug": "gokwe-south-zw1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1703",
+        "level": 2,
+        "name": {
+          "local": "Gokwe South",
+          "en": "Gokwe South",
+          "slug": "gokwe-south-zw1703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.333",
+      "lon": "28.306"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170322",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "22",
+      "en": "22",
+      "slug": "22-zw170322"
+    },
+    "code": {
+      "id": "ZW170322",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1703",
+      "level": 2,
+      "name": {
+        "local": "Gokwe South",
+        "en": "Gokwe South",
+        "slug": "gokwe-south-zw1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1703",
+        "level": 2,
+        "name": {
+          "local": "Gokwe South",
+          "en": "Gokwe South",
+          "slug": "gokwe-south-zw1703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.316",
+      "lon": "28.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170323",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "23",
+      "en": "23",
+      "slug": "23-zw170323"
+    },
+    "code": {
+      "id": "ZW170323",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1703",
+      "level": 2,
+      "name": {
+        "local": "Gokwe South",
+        "en": "Gokwe South",
+        "slug": "gokwe-south-zw1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1703",
+        "level": 2,
+        "name": {
+          "local": "Gokwe South",
+          "en": "Gokwe South",
+          "slug": "gokwe-south-zw1703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.06",
+      "lon": "29.082"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170324",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "24",
+      "en": "24",
+      "slug": "24-zw170324"
+    },
+    "code": {
+      "id": "ZW170324",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1703",
+      "level": 2,
+      "name": {
+        "local": "Gokwe South",
+        "en": "Gokwe South",
+        "slug": "gokwe-south-zw1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1703",
+        "level": 2,
+        "name": {
+          "local": "Gokwe South",
+          "en": "Gokwe South",
+          "slug": "gokwe-south-zw1703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.24",
+      "lon": "29.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170325",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "25",
+      "en": "25",
+      "slug": "25-zw170325"
+    },
+    "code": {
+      "id": "ZW170325",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1703",
+      "level": 2,
+      "name": {
+        "local": "Gokwe South",
+        "en": "Gokwe South",
+        "slug": "gokwe-south-zw1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1703",
+        "level": 2,
+        "name": {
+          "local": "Gokwe South",
+          "en": "Gokwe South",
+          "slug": "gokwe-south-zw1703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.424",
+      "lon": "29.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170326",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "26",
+      "en": "26",
+      "slug": "26-zw170326"
+    },
+    "code": {
+      "id": "ZW170326",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1703",
+      "level": 2,
+      "name": {
+        "local": "Gokwe South",
+        "en": "Gokwe South",
+        "slug": "gokwe-south-zw1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1703",
+        "level": 2,
+        "name": {
+          "local": "Gokwe South",
+          "en": "Gokwe South",
+          "slug": "gokwe-south-zw1703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.536",
+      "lon": "28.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170327",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "27",
+      "en": "27",
+      "slug": "27-zw170327"
+    },
+    "code": {
+      "id": "ZW170327",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1703",
+      "level": 2,
+      "name": {
+        "local": "Gokwe South",
+        "en": "Gokwe South",
+        "slug": "gokwe-south-zw1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1703",
+        "level": 2,
+        "name": {
+          "local": "Gokwe South",
+          "en": "Gokwe South",
+          "slug": "gokwe-south-zw1703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.457",
+      "lon": "28.09"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170328",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "28",
+      "en": "28",
+      "slug": "28-zw170328"
+    },
+    "code": {
+      "id": "ZW170328",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1703",
+      "level": 2,
+      "name": {
+        "local": "Gokwe South",
+        "en": "Gokwe South",
+        "slug": "gokwe-south-zw1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1703",
+        "level": 2,
+        "name": {
+          "local": "Gokwe South",
+          "en": "Gokwe South",
+          "slug": "gokwe-south-zw1703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.51",
+      "lon": "29.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170329",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "29",
+      "en": "29",
+      "slug": "29-zw170329"
+    },
+    "code": {
+      "id": "ZW170329",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1703",
+      "level": 2,
+      "name": {
+        "local": "Gokwe South",
+        "en": "Gokwe South",
+        "slug": "gokwe-south-zw1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1703",
+        "level": 2,
+        "name": {
+          "local": "Gokwe South",
+          "en": "Gokwe South",
+          "slug": "gokwe-south-zw1703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.46",
+      "lon": "28.276"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170303",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw170303"
+    },
+    "code": {
+      "id": "ZW170303",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1703",
+      "level": 2,
+      "name": {
+        "local": "Gokwe South",
+        "en": "Gokwe South",
+        "slug": "gokwe-south-zw1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1703",
+        "level": 2,
+        "name": {
+          "local": "Gokwe South",
+          "en": "Gokwe South",
+          "slug": "gokwe-south-zw1703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.273",
+      "lon": "28.049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170330",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "30",
+      "en": "30",
+      "slug": "30-zw170330"
+    },
+    "code": {
+      "id": "ZW170330",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1703",
+      "level": 2,
+      "name": {
+        "local": "Gokwe South",
+        "en": "Gokwe South",
+        "slug": "gokwe-south-zw1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1703",
+        "level": 2,
+        "name": {
+          "local": "Gokwe South",
+          "en": "Gokwe South",
+          "slug": "gokwe-south-zw1703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.54",
+      "lon": "28.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170331",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "31",
+      "en": "31",
+      "slug": "31-zw170331"
+    },
+    "code": {
+      "id": "ZW170331",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1703",
+      "level": 2,
+      "name": {
+        "local": "Gokwe South",
+        "en": "Gokwe South",
+        "slug": "gokwe-south-zw1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1703",
+        "level": 2,
+        "name": {
+          "local": "Gokwe South",
+          "en": "Gokwe South",
+          "slug": "gokwe-south-zw1703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.127",
+      "lon": "28.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170332",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "32",
+      "en": "32",
+      "slug": "32-zw170332"
+    },
+    "code": {
+      "id": "ZW170332",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1703",
+      "level": 2,
+      "name": {
+        "local": "Gokwe South",
+        "en": "Gokwe South",
+        "slug": "gokwe-south-zw1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1703",
+        "level": 2,
+        "name": {
+          "local": "Gokwe South",
+          "en": "Gokwe South",
+          "slug": "gokwe-south-zw1703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.266",
+      "lon": "28.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170333",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "33",
+      "en": "33",
+      "slug": "33-zw170333"
+    },
+    "code": {
+      "id": "ZW170333",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1703",
+      "level": 2,
+      "name": {
+        "local": "Gokwe South",
+        "en": "Gokwe South",
+        "slug": "gokwe-south-zw1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1703",
+        "level": 2,
+        "name": {
+          "local": "Gokwe South",
+          "en": "Gokwe South",
+          "slug": "gokwe-south-zw1703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.097",
+      "lon": "29.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170304",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw170304"
+    },
+    "code": {
+      "id": "ZW170304",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1703",
+      "level": 2,
+      "name": {
+        "local": "Gokwe South",
+        "en": "Gokwe South",
+        "slug": "gokwe-south-zw1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1703",
+        "level": 2,
+        "name": {
+          "local": "Gokwe South",
+          "en": "Gokwe South",
+          "slug": "gokwe-south-zw1703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.196",
+      "lon": "28.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170305",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw170305"
+    },
+    "code": {
+      "id": "ZW170305",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1703",
+      "level": 2,
+      "name": {
+        "local": "Gokwe South",
+        "en": "Gokwe South",
+        "slug": "gokwe-south-zw1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1703",
+        "level": 2,
+        "name": {
+          "local": "Gokwe South",
+          "en": "Gokwe South",
+          "slug": "gokwe-south-zw1703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.352",
+      "lon": "28.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170306",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw170306"
+    },
+    "code": {
+      "id": "ZW170306",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1703",
+      "level": 2,
+      "name": {
+        "local": "Gokwe South",
+        "en": "Gokwe South",
+        "slug": "gokwe-south-zw1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1703",
+        "level": 2,
+        "name": {
+          "local": "Gokwe South",
+          "en": "Gokwe South",
+          "slug": "gokwe-south-zw1703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.111",
+      "lon": "28.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170307",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw170307"
+    },
+    "code": {
+      "id": "ZW170307",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1703",
+      "level": 2,
+      "name": {
+        "local": "Gokwe South",
+        "en": "Gokwe South",
+        "slug": "gokwe-south-zw1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1703",
+        "level": 2,
+        "name": {
+          "local": "Gokwe South",
+          "en": "Gokwe South",
+          "slug": "gokwe-south-zw1703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.961",
+      "lon": "28.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170308",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw170308"
+    },
+    "code": {
+      "id": "ZW170308",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1703",
+      "level": 2,
+      "name": {
+        "local": "Gokwe South",
+        "en": "Gokwe South",
+        "slug": "gokwe-south-zw1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1703",
+        "level": 2,
+        "name": {
+          "local": "Gokwe South",
+          "en": "Gokwe South",
+          "slug": "gokwe-south-zw1703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.932",
+      "lon": "28.297"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW170309",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw170309"
+    },
+    "code": {
+      "id": "ZW170309",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1703",
+      "level": 2,
+      "name": {
+        "local": "Gokwe South",
+        "en": "Gokwe South",
+        "slug": "gokwe-south-zw1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1703",
+        "level": 2,
+        "name": {
+          "local": "Gokwe South",
+          "en": "Gokwe South",
+          "slug": "gokwe-south-zw1703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.778",
+      "lon": "28.627"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

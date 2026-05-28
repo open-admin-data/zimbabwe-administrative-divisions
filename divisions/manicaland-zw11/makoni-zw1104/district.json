@@ -1,0 +1,47 @@
+{
+  "id": "ZW1104",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Makoni",
+    "en": "Makoni",
+    "slug": "makoni-zw1104"
+  },
+  "code": {
+    "id": "ZW1104",
+    "iso": null
+  },
+  "parent": {
+    "id": "ZW11",
+    "level": 1,
+    "name": {
+      "local": "Manicaland",
+      "en": "Manicaland",
+      "slug": "manicaland-zw11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ZW11",
+      "level": 1,
+      "name": {
+        "local": "Manicaland",
+        "en": "Manicaland",
+        "slug": "manicaland-zw11"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 39
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.385",
+    "lon": "32.144"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "ZW1401",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Chegutu",
+    "en": "Chegutu",
+    "slug": "chegutu-zw1401"
+  },
+  "code": {
+    "id": "ZW1401",
+    "iso": null
+  },
+  "parent": {
+    "id": "ZW14",
+    "level": 1,
+    "name": {
+      "local": "Mashonaland West",
+      "en": "Mashonaland West",
+      "slug": "mashonaland-west-zw14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ZW14",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland West",
+        "en": "Mashonaland West",
+        "slug": "mashonaland-west-zw14"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 29
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.189",
+    "lon": "30.378"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "ZW1209",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mvurwi",
+    "en": "Mvurwi",
+    "slug": "mvurwi-zw1209"
+  },
+  "code": {
+    "id": "ZW1209",
+    "iso": null
+  },
+  "parent": {
+    "id": "ZW12",
+    "level": 1,
+    "name": {
+      "local": "Mashonaland Central",
+      "en": "Mashonaland Central",
+      "slug": "mashonaland-central-zw12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ZW12",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland Central",
+        "en": "Mashonaland Central",
+        "slug": "mashonaland-central-zw12"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.024",
+    "lon": "30.852"
+  },
+  "metadata": {},
+  "source": {}
+}

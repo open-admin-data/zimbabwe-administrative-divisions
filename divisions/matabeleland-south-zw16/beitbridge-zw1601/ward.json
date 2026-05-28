@@ -1,0 +1,866 @@
+[
+  {
+    "id": "ZW160101",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw160101"
+    },
+    "code": {
+      "id": "ZW160101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1601",
+      "level": 2,
+      "name": {
+        "local": "Beitbridge",
+        "en": "Beitbridge",
+        "slug": "beitbridge-zw1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1601",
+        "level": 2,
+        "name": {
+          "local": "Beitbridge",
+          "en": "Beitbridge",
+          "slug": "beitbridge-zw1601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.215",
+      "lon": "30.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160110",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw160110"
+    },
+    "code": {
+      "id": "ZW160110",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1601",
+      "level": 2,
+      "name": {
+        "local": "Beitbridge",
+        "en": "Beitbridge",
+        "slug": "beitbridge-zw1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1601",
+        "level": 2,
+        "name": {
+          "local": "Beitbridge",
+          "en": "Beitbridge",
+          "slug": "beitbridge-zw1601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.702",
+      "lon": "29.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160111",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw160111"
+    },
+    "code": {
+      "id": "ZW160111",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1601",
+      "level": 2,
+      "name": {
+        "local": "Beitbridge",
+        "en": "Beitbridge",
+        "slug": "beitbridge-zw1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1601",
+        "level": 2,
+        "name": {
+          "local": "Beitbridge",
+          "en": "Beitbridge",
+          "slug": "beitbridge-zw1601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.644",
+      "lon": "29.604"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160112",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw160112"
+    },
+    "code": {
+      "id": "ZW160112",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1601",
+      "level": 2,
+      "name": {
+        "local": "Beitbridge",
+        "en": "Beitbridge",
+        "slug": "beitbridge-zw1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1601",
+        "level": 2,
+        "name": {
+          "local": "Beitbridge",
+          "en": "Beitbridge",
+          "slug": "beitbridge-zw1601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.523",
+      "lon": "29.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160113",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw160113"
+    },
+    "code": {
+      "id": "ZW160113",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1601",
+      "level": 2,
+      "name": {
+        "local": "Beitbridge",
+        "en": "Beitbridge",
+        "slug": "beitbridge-zw1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1601",
+        "level": 2,
+        "name": {
+          "local": "Beitbridge",
+          "en": "Beitbridge",
+          "slug": "beitbridge-zw1601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.905",
+      "lon": "30.426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160114",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw160114"
+    },
+    "code": {
+      "id": "ZW160114",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1601",
+      "level": 2,
+      "name": {
+        "local": "Beitbridge",
+        "en": "Beitbridge",
+        "slug": "beitbridge-zw1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1601",
+        "level": 2,
+        "name": {
+          "local": "Beitbridge",
+          "en": "Beitbridge",
+          "slug": "beitbridge-zw1601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.07",
+      "lon": "29.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160115",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw160115"
+    },
+    "code": {
+      "id": "ZW160115",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1601",
+      "level": 2,
+      "name": {
+        "local": "Beitbridge",
+        "en": "Beitbridge",
+        "slug": "beitbridge-zw1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1601",
+        "level": 2,
+        "name": {
+          "local": "Beitbridge",
+          "en": "Beitbridge",
+          "slug": "beitbridge-zw1601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.148",
+      "lon": "30.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160116",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "16",
+      "en": "16",
+      "slug": "16-zw160116"
+    },
+    "code": {
+      "id": "ZW160116",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1601",
+      "level": 2,
+      "name": {
+        "local": "Beitbridge",
+        "en": "Beitbridge",
+        "slug": "beitbridge-zw1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1601",
+        "level": 2,
+        "name": {
+          "local": "Beitbridge",
+          "en": "Beitbridge",
+          "slug": "beitbridge-zw1601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.649",
+      "lon": "30.071"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160102",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw160102"
+    },
+    "code": {
+      "id": "ZW160102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1601",
+      "level": 2,
+      "name": {
+        "local": "Beitbridge",
+        "en": "Beitbridge",
+        "slug": "beitbridge-zw1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1601",
+        "level": 2,
+        "name": {
+          "local": "Beitbridge",
+          "en": "Beitbridge",
+          "slug": "beitbridge-zw1601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.233",
+      "lon": "30.455"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160103",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw160103"
+    },
+    "code": {
+      "id": "ZW160103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1601",
+      "level": 2,
+      "name": {
+        "local": "Beitbridge",
+        "en": "Beitbridge",
+        "slug": "beitbridge-zw1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1601",
+        "level": 2,
+        "name": {
+          "local": "Beitbridge",
+          "en": "Beitbridge",
+          "slug": "beitbridge-zw1601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.022",
+      "lon": "30.48"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160104",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw160104"
+    },
+    "code": {
+      "id": "ZW160104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1601",
+      "level": 2,
+      "name": {
+        "local": "Beitbridge",
+        "en": "Beitbridge",
+        "slug": "beitbridge-zw1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1601",
+        "level": 2,
+        "name": {
+          "local": "Beitbridge",
+          "en": "Beitbridge",
+          "slug": "beitbridge-zw1601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.882",
+      "lon": "30.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160105",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw160105"
+    },
+    "code": {
+      "id": "ZW160105",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1601",
+      "level": 2,
+      "name": {
+        "local": "Beitbridge",
+        "en": "Beitbridge",
+        "slug": "beitbridge-zw1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1601",
+        "level": 2,
+        "name": {
+          "local": "Beitbridge",
+          "en": "Beitbridge",
+          "slug": "beitbridge-zw1601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.059",
+      "lon": "30.121"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160106",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw160106"
+    },
+    "code": {
+      "id": "ZW160106",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1601",
+      "level": 2,
+      "name": {
+        "local": "Beitbridge",
+        "en": "Beitbridge",
+        "slug": "beitbridge-zw1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1601",
+        "level": 2,
+        "name": {
+          "local": "Beitbridge",
+          "en": "Beitbridge",
+          "slug": "beitbridge-zw1601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.045",
+      "lon": "29.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160107",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw160107"
+    },
+    "code": {
+      "id": "ZW160107",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1601",
+      "level": 2,
+      "name": {
+        "local": "Beitbridge",
+        "en": "Beitbridge",
+        "slug": "beitbridge-zw1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1601",
+        "level": 2,
+        "name": {
+          "local": "Beitbridge",
+          "en": "Beitbridge",
+          "slug": "beitbridge-zw1601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.928",
+      "lon": "29.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160108",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw160108"
+    },
+    "code": {
+      "id": "ZW160108",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1601",
+      "level": 2,
+      "name": {
+        "local": "Beitbridge",
+        "en": "Beitbridge",
+        "slug": "beitbridge-zw1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1601",
+        "level": 2,
+        "name": {
+          "local": "Beitbridge",
+          "en": "Beitbridge",
+          "slug": "beitbridge-zw1601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.041",
+      "lon": "29.335"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160109",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw160109"
+    },
+    "code": {
+      "id": "ZW160109",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1601",
+      "level": 2,
+      "name": {
+        "local": "Beitbridge",
+        "en": "Beitbridge",
+        "slug": "beitbridge-zw1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1601",
+        "level": 2,
+        "name": {
+          "local": "Beitbridge",
+          "en": "Beitbridge",
+          "slug": "beitbridge-zw1601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.924",
+      "lon": "29.223"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

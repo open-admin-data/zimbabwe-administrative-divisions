@@ -1,0 +1,47 @@
+{
+  "id": "ZW1804",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Gutu",
+    "en": "Gutu",
+    "slug": "gutu-zw1804"
+  },
+  "code": {
+    "id": "ZW1804",
+    "iso": null
+  },
+  "parent": {
+    "id": "ZW18",
+    "level": 1,
+    "name": {
+      "local": "Masvingo",
+      "en": "Masvingo",
+      "slug": "masvingo-zw18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ZW18",
+      "level": 1,
+      "name": {
+        "local": "Masvingo",
+        "en": "Masvingo",
+        "slug": "masvingo-zw18"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 42
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.591",
+    "lon": "31.233"
+  },
+  "metadata": {},
+  "source": {}
+}

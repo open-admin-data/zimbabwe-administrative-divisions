@@ -1,0 +1,11 @@
+id,name.local,name.en,name.slug,code.id,children_count.ward,geo.lat,geo.lon
+ZW1201,Bindura,Bindura,bindura-zw1201,ZW1201,21,-17.238,31.317
+ZW1221,Bindura Urban,Bindura Urban,bindura-urban-zw1221,ZW1221,12,-17.307,31.333
+ZW1202,Centenary/ Muzarabani,Centenary/ Muzarabani,centenary-muzarabani-zw1202,ZW1202,29,-16.418,31.14
+ZW1203,Guruve,Guruve,guruve-zw1203,ZW1203,24,-16.701,30.742
+ZW1204,Mazowe,Mazowe,mazowe-zw1204,ZW1204,34,-17.259,30.901
+ZW1208,Mbire,Mbire,mbire-zw1208,ZW1208,17,-16.018,30.508
+ZW1205,Mount Darwin,Mount Darwin,mount-darwin-zw1205,ZW1205,40,-16.539,31.639
+ZW1209,Mvurwi,Mvurwi,mvurwi-zw1209,ZW1209,1,-17.024,30.852
+ZW1206,Rushinga,Rushinga,rushinga-zw1206,ZW1206,25,-16.618,32.336
+ZW1207,Shamva,Shamva,shamva-zw1207,ZW1207,29,-17.164,31.624

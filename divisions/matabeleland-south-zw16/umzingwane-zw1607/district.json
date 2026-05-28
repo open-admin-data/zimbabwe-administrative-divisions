@@ -1,0 +1,47 @@
+{
+  "id": "ZW1607",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Umzingwane",
+    "en": "Umzingwane",
+    "slug": "umzingwane-zw1607"
+  },
+  "code": {
+    "id": "ZW1607",
+    "iso": null
+  },
+  "parent": {
+    "id": "ZW16",
+    "level": 1,
+    "name": {
+      "local": "Matabeleland South",
+      "en": "Matabeleland South",
+      "slug": "matabeleland-south-zw16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ZW16",
+      "level": 1,
+      "name": {
+        "local": "Matabeleland South",
+        "en": "Matabeleland South",
+        "slug": "matabeleland-south-zw16"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.329",
+    "lon": "28.954"
+  },
+  "metadata": {},
+  "source": {}
+}

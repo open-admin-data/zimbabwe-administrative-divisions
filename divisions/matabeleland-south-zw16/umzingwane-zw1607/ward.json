@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "ZW160701",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw160701"
+    },
+    "code": {
+      "id": "ZW160701",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1607",
+      "level": 2,
+      "name": {
+        "local": "Umzingwane",
+        "en": "Umzingwane",
+        "slug": "umzingwane-zw1607"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1607",
+        "level": 2,
+        "name": {
+          "local": "Umzingwane",
+          "en": "Umzingwane",
+          "slug": "umzingwane-zw1607"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.155",
+      "lon": "28.805"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160710",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw160710"
+    },
+    "code": {
+      "id": "ZW160710",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1607",
+      "level": 2,
+      "name": {
+        "local": "Umzingwane",
+        "en": "Umzingwane",
+        "slug": "umzingwane-zw1607"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1607",
+        "level": 2,
+        "name": {
+          "local": "Umzingwane",
+          "en": "Umzingwane",
+          "slug": "umzingwane-zw1607"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.567",
+      "lon": "28.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160711",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw160711"
+    },
+    "code": {
+      "id": "ZW160711",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1607",
+      "level": 2,
+      "name": {
+        "local": "Umzingwane",
+        "en": "Umzingwane",
+        "slug": "umzingwane-zw1607"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1607",
+        "level": 2,
+        "name": {
+          "local": "Umzingwane",
+          "en": "Umzingwane",
+          "slug": "umzingwane-zw1607"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.589",
+      "lon": "28.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160712",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw160712"
+    },
+    "code": {
+      "id": "ZW160712",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1607",
+      "level": 2,
+      "name": {
+        "local": "Umzingwane",
+        "en": "Umzingwane",
+        "slug": "umzingwane-zw1607"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1607",
+        "level": 2,
+        "name": {
+          "local": "Umzingwane",
+          "en": "Umzingwane",
+          "slug": "umzingwane-zw1607"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.611",
+      "lon": "28.903"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160713",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw160713"
+    },
+    "code": {
+      "id": "ZW160713",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1607",
+      "level": 2,
+      "name": {
+        "local": "Umzingwane",
+        "en": "Umzingwane",
+        "slug": "umzingwane-zw1607"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1607",
+        "level": 2,
+        "name": {
+          "local": "Umzingwane",
+          "en": "Umzingwane",
+          "slug": "umzingwane-zw1607"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.526",
+      "lon": "29.072"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160714",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw160714"
+    },
+    "code": {
+      "id": "ZW160714",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1607",
+      "level": 2,
+      "name": {
+        "local": "Umzingwane",
+        "en": "Umzingwane",
+        "slug": "umzingwane-zw1607"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1607",
+        "level": 2,
+        "name": {
+          "local": "Umzingwane",
+          "en": "Umzingwane",
+          "slug": "umzingwane-zw1607"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.278",
+      "lon": "29.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160715",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw160715"
+    },
+    "code": {
+      "id": "ZW160715",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1607",
+      "level": 2,
+      "name": {
+        "local": "Umzingwane",
+        "en": "Umzingwane",
+        "slug": "umzingwane-zw1607"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1607",
+        "level": 2,
+        "name": {
+          "local": "Umzingwane",
+          "en": "Umzingwane",
+          "slug": "umzingwane-zw1607"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.29",
+      "lon": "29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160716",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "16",
+      "en": "16",
+      "slug": "16-zw160716"
+    },
+    "code": {
+      "id": "ZW160716",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1607",
+      "level": 2,
+      "name": {
+        "local": "Umzingwane",
+        "en": "Umzingwane",
+        "slug": "umzingwane-zw1607"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1607",
+        "level": 2,
+        "name": {
+          "local": "Umzingwane",
+          "en": "Umzingwane",
+          "slug": "umzingwane-zw1607"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.294",
+      "lon": "28.945"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160717",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "17",
+      "en": "17",
+      "slug": "17-zw160717"
+    },
+    "code": {
+      "id": "ZW160717",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1607",
+      "level": 2,
+      "name": {
+        "local": "Umzingwane",
+        "en": "Umzingwane",
+        "slug": "umzingwane-zw1607"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1607",
+        "level": 2,
+        "name": {
+          "local": "Umzingwane",
+          "en": "Umzingwane",
+          "slug": "umzingwane-zw1607"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.278",
+      "lon": "28.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160718",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "18",
+      "en": "18",
+      "slug": "18-zw160718"
+    },
+    "code": {
+      "id": "ZW160718",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1607",
+      "level": 2,
+      "name": {
+        "local": "Umzingwane",
+        "en": "Umzingwane",
+        "slug": "umzingwane-zw1607"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1607",
+        "level": 2,
+        "name": {
+          "local": "Umzingwane",
+          "en": "Umzingwane",
+          "slug": "umzingwane-zw1607"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.267",
+      "lon": "28.784"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160719",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "19",
+      "en": "19",
+      "slug": "19-zw160719"
+    },
+    "code": {
+      "id": "ZW160719",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1607",
+      "level": 2,
+      "name": {
+        "local": "Umzingwane",
+        "en": "Umzingwane",
+        "slug": "umzingwane-zw1607"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1607",
+        "level": 2,
+        "name": {
+          "local": "Umzingwane",
+          "en": "Umzingwane",
+          "slug": "umzingwane-zw1607"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.104",
+      "lon": "28.948"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160702",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw160702"
+    },
+    "code": {
+      "id": "ZW160702",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1607",
+      "level": 2,
+      "name": {
+        "local": "Umzingwane",
+        "en": "Umzingwane",
+        "slug": "umzingwane-zw1607"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1607",
+        "level": 2,
+        "name": {
+          "local": "Umzingwane",
+          "en": "Umzingwane",
+          "slug": "umzingwane-zw1607"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.207",
+      "lon": "28.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160720",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "20",
+      "en": "20",
+      "slug": "20-zw160720"
+    },
+    "code": {
+      "id": "ZW160720",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1607",
+      "level": 2,
+      "name": {
+        "local": "Umzingwane",
+        "en": "Umzingwane",
+        "slug": "umzingwane-zw1607"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1607",
+        "level": 2,
+        "name": {
+          "local": "Umzingwane",
+          "en": "Umzingwane",
+          "slug": "umzingwane-zw1607"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.376",
+      "lon": "29.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160703",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw160703"
+    },
+    "code": {
+      "id": "ZW160703",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1607",
+      "level": 2,
+      "name": {
+        "local": "Umzingwane",
+        "en": "Umzingwane",
+        "slug": "umzingwane-zw1607"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1607",
+        "level": 2,
+        "name": {
+          "local": "Umzingwane",
+          "en": "Umzingwane",
+          "slug": "umzingwane-zw1607"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.356",
+      "lon": "28.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160704",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw160704"
+    },
+    "code": {
+      "id": "ZW160704",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1607",
+      "level": 2,
+      "name": {
+        "local": "Umzingwane",
+        "en": "Umzingwane",
+        "slug": "umzingwane-zw1607"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1607",
+        "level": 2,
+        "name": {
+          "local": "Umzingwane",
+          "en": "Umzingwane",
+          "slug": "umzingwane-zw1607"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.394",
+      "lon": "28.834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160705",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw160705"
+    },
+    "code": {
+      "id": "ZW160705",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1607",
+      "level": 2,
+      "name": {
+        "local": "Umzingwane",
+        "en": "Umzingwane",
+        "slug": "umzingwane-zw1607"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1607",
+        "level": 2,
+        "name": {
+          "local": "Umzingwane",
+          "en": "Umzingwane",
+          "slug": "umzingwane-zw1607"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.422",
+      "lon": "28.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160706",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw160706"
+    },
+    "code": {
+      "id": "ZW160706",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1607",
+      "level": 2,
+      "name": {
+        "local": "Umzingwane",
+        "en": "Umzingwane",
+        "slug": "umzingwane-zw1607"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1607",
+        "level": 2,
+        "name": {
+          "local": "Umzingwane",
+          "en": "Umzingwane",
+          "slug": "umzingwane-zw1607"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.52",
+      "lon": "28.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160707",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw160707"
+    },
+    "code": {
+      "id": "ZW160707",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1607",
+      "level": 2,
+      "name": {
+        "local": "Umzingwane",
+        "en": "Umzingwane",
+        "slug": "umzingwane-zw1607"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1607",
+        "level": 2,
+        "name": {
+          "local": "Umzingwane",
+          "en": "Umzingwane",
+          "slug": "umzingwane-zw1607"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.584",
+      "lon": "28.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160708",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw160708"
+    },
+    "code": {
+      "id": "ZW160708",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1607",
+      "level": 2,
+      "name": {
+        "local": "Umzingwane",
+        "en": "Umzingwane",
+        "slug": "umzingwane-zw1607"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1607",
+        "level": 2,
+        "name": {
+          "local": "Umzingwane",
+          "en": "Umzingwane",
+          "slug": "umzingwane-zw1607"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.509",
+      "lon": "28.868"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160709",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw160709"
+    },
+    "code": {
+      "id": "ZW160709",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1607",
+      "level": 2,
+      "name": {
+        "local": "Umzingwane",
+        "en": "Umzingwane",
+        "slug": "umzingwane-zw1607"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1607",
+        "level": 2,
+        "name": {
+          "local": "Umzingwane",
+          "en": "Umzingwane",
+          "slug": "umzingwane-zw1607"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.498",
+      "lon": "28.782"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

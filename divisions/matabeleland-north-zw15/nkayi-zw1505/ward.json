@@ -1,0 +1,1622 @@
+[
+  {
+    "id": "ZW150501",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw150501"
+    },
+    "code": {
+      "id": "ZW150501",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1505",
+      "level": 2,
+      "name": {
+        "local": "Nkayi",
+        "en": "Nkayi",
+        "slug": "nkayi-zw1505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1505",
+        "level": 2,
+        "name": {
+          "local": "Nkayi",
+          "en": "Nkayi",
+          "slug": "nkayi-zw1505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.642",
+      "lon": "29.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150510",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw150510"
+    },
+    "code": {
+      "id": "ZW150510",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1505",
+      "level": 2,
+      "name": {
+        "local": "Nkayi",
+        "en": "Nkayi",
+        "slug": "nkayi-zw1505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1505",
+        "level": 2,
+        "name": {
+          "local": "Nkayi",
+          "en": "Nkayi",
+          "slug": "nkayi-zw1505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.665",
+      "lon": "28.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150511",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw150511"
+    },
+    "code": {
+      "id": "ZW150511",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1505",
+      "level": 2,
+      "name": {
+        "local": "Nkayi",
+        "en": "Nkayi",
+        "slug": "nkayi-zw1505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1505",
+        "level": 2,
+        "name": {
+          "local": "Nkayi",
+          "en": "Nkayi",
+          "slug": "nkayi-zw1505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.737",
+      "lon": "28.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150512",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw150512"
+    },
+    "code": {
+      "id": "ZW150512",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1505",
+      "level": 2,
+      "name": {
+        "local": "Nkayi",
+        "en": "Nkayi",
+        "slug": "nkayi-zw1505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1505",
+        "level": 2,
+        "name": {
+          "local": "Nkayi",
+          "en": "Nkayi",
+          "slug": "nkayi-zw1505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.749",
+      "lon": "28.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150513",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw150513"
+    },
+    "code": {
+      "id": "ZW150513",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1505",
+      "level": 2,
+      "name": {
+        "local": "Nkayi",
+        "en": "Nkayi",
+        "slug": "nkayi-zw1505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1505",
+        "level": 2,
+        "name": {
+          "local": "Nkayi",
+          "en": "Nkayi",
+          "slug": "nkayi-zw1505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.881",
+      "lon": "28.389"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150514",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw150514"
+    },
+    "code": {
+      "id": "ZW150514",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1505",
+      "level": 2,
+      "name": {
+        "local": "Nkayi",
+        "en": "Nkayi",
+        "slug": "nkayi-zw1505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1505",
+        "level": 2,
+        "name": {
+          "local": "Nkayi",
+          "en": "Nkayi",
+          "slug": "nkayi-zw1505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.882",
+      "lon": "28.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150515",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw150515"
+    },
+    "code": {
+      "id": "ZW150515",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1505",
+      "level": 2,
+      "name": {
+        "local": "Nkayi",
+        "en": "Nkayi",
+        "slug": "nkayi-zw1505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1505",
+        "level": 2,
+        "name": {
+          "local": "Nkayi",
+          "en": "Nkayi",
+          "slug": "nkayi-zw1505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.811",
+      "lon": "28.549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150516",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "16",
+      "en": "16",
+      "slug": "16-zw150516"
+    },
+    "code": {
+      "id": "ZW150516",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1505",
+      "level": 2,
+      "name": {
+        "local": "Nkayi",
+        "en": "Nkayi",
+        "slug": "nkayi-zw1505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1505",
+        "level": 2,
+        "name": {
+          "local": "Nkayi",
+          "en": "Nkayi",
+          "slug": "nkayi-zw1505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.822",
+      "lon": "28.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150517",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "17",
+      "en": "17",
+      "slug": "17-zw150517"
+    },
+    "code": {
+      "id": "ZW150517",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1505",
+      "level": 2,
+      "name": {
+        "local": "Nkayi",
+        "en": "Nkayi",
+        "slug": "nkayi-zw1505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1505",
+        "level": 2,
+        "name": {
+          "local": "Nkayi",
+          "en": "Nkayi",
+          "slug": "nkayi-zw1505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.968",
+      "lon": "28.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150518",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "18",
+      "en": "18",
+      "slug": "18-zw150518"
+    },
+    "code": {
+      "id": "ZW150518",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1505",
+      "level": 2,
+      "name": {
+        "local": "Nkayi",
+        "en": "Nkayi",
+        "slug": "nkayi-zw1505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1505",
+        "level": 2,
+        "name": {
+          "local": "Nkayi",
+          "en": "Nkayi",
+          "slug": "nkayi-zw1505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.916",
+      "lon": "28.879"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150519",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "19",
+      "en": "19",
+      "slug": "19-zw150519"
+    },
+    "code": {
+      "id": "ZW150519",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1505",
+      "level": 2,
+      "name": {
+        "local": "Nkayi",
+        "en": "Nkayi",
+        "slug": "nkayi-zw1505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1505",
+        "level": 2,
+        "name": {
+          "local": "Nkayi",
+          "en": "Nkayi",
+          "slug": "nkayi-zw1505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.966",
+      "lon": "28.805"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150502",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw150502"
+    },
+    "code": {
+      "id": "ZW150502",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1505",
+      "level": 2,
+      "name": {
+        "local": "Nkayi",
+        "en": "Nkayi",
+        "slug": "nkayi-zw1505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1505",
+        "level": 2,
+        "name": {
+          "local": "Nkayi",
+          "en": "Nkayi",
+          "slug": "nkayi-zw1505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.648",
+      "lon": "28.871"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150520",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "20",
+      "en": "20",
+      "slug": "20-zw150520"
+    },
+    "code": {
+      "id": "ZW150520",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1505",
+      "level": 2,
+      "name": {
+        "local": "Nkayi",
+        "en": "Nkayi",
+        "slug": "nkayi-zw1505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1505",
+        "level": 2,
+        "name": {
+          "local": "Nkayi",
+          "en": "Nkayi",
+          "slug": "nkayi-zw1505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.066",
+      "lon": "28.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150521",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "21",
+      "en": "21",
+      "slug": "21-zw150521"
+    },
+    "code": {
+      "id": "ZW150521",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1505",
+      "level": 2,
+      "name": {
+        "local": "Nkayi",
+        "en": "Nkayi",
+        "slug": "nkayi-zw1505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1505",
+        "level": 2,
+        "name": {
+          "local": "Nkayi",
+          "en": "Nkayi",
+          "slug": "nkayi-zw1505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.189",
+      "lon": "28.949"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150522",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "22",
+      "en": "22",
+      "slug": "22-zw150522"
+    },
+    "code": {
+      "id": "ZW150522",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1505",
+      "level": 2,
+      "name": {
+        "local": "Nkayi",
+        "en": "Nkayi",
+        "slug": "nkayi-zw1505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1505",
+        "level": 2,
+        "name": {
+          "local": "Nkayi",
+          "en": "Nkayi",
+          "slug": "nkayi-zw1505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.122",
+      "lon": "28.813"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150523",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "23",
+      "en": "23",
+      "slug": "23-zw150523"
+    },
+    "code": {
+      "id": "ZW150523",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1505",
+      "level": 2,
+      "name": {
+        "local": "Nkayi",
+        "en": "Nkayi",
+        "slug": "nkayi-zw1505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1505",
+        "level": 2,
+        "name": {
+          "local": "Nkayi",
+          "en": "Nkayi",
+          "slug": "nkayi-zw1505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.122",
+      "lon": "28.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150524",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "24",
+      "en": "24",
+      "slug": "24-zw150524"
+    },
+    "code": {
+      "id": "ZW150524",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1505",
+      "level": 2,
+      "name": {
+        "local": "Nkayi",
+        "en": "Nkayi",
+        "slug": "nkayi-zw1505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1505",
+        "level": 2,
+        "name": {
+          "local": "Nkayi",
+          "en": "Nkayi",
+          "slug": "nkayi-zw1505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.074",
+      "lon": "28.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150525",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "25",
+      "en": "25",
+      "slug": "25-zw150525"
+    },
+    "code": {
+      "id": "ZW150525",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1505",
+      "level": 2,
+      "name": {
+        "local": "Nkayi",
+        "en": "Nkayi",
+        "slug": "nkayi-zw1505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1505",
+        "level": 2,
+        "name": {
+          "local": "Nkayi",
+          "en": "Nkayi",
+          "slug": "nkayi-zw1505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.011",
+      "lon": "28.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150526",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "26",
+      "en": "26",
+      "slug": "26-zw150526"
+    },
+    "code": {
+      "id": "ZW150526",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1505",
+      "level": 2,
+      "name": {
+        "local": "Nkayi",
+        "en": "Nkayi",
+        "slug": "nkayi-zw1505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1505",
+        "level": 2,
+        "name": {
+          "local": "Nkayi",
+          "en": "Nkayi",
+          "slug": "nkayi-zw1505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.709",
+      "lon": "28.551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150527",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "27",
+      "en": "27",
+      "slug": "27-zw150527"
+    },
+    "code": {
+      "id": "ZW150527",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1505",
+      "level": 2,
+      "name": {
+        "local": "Nkayi",
+        "en": "Nkayi",
+        "slug": "nkayi-zw1505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1505",
+        "level": 2,
+        "name": {
+          "local": "Nkayi",
+          "en": "Nkayi",
+          "slug": "nkayi-zw1505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.932",
+      "lon": "28.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150528",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "28",
+      "en": "28",
+      "slug": "28-zw150528"
+    },
+    "code": {
+      "id": "ZW150528",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1505",
+      "level": 2,
+      "name": {
+        "local": "Nkayi",
+        "en": "Nkayi",
+        "slug": "nkayi-zw1505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1505",
+        "level": 2,
+        "name": {
+          "local": "Nkayi",
+          "en": "Nkayi",
+          "slug": "nkayi-zw1505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.86",
+      "lon": "28.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150529",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "29",
+      "en": "29",
+      "slug": "29-zw150529"
+    },
+    "code": {
+      "id": "ZW150529",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1505",
+      "level": 2,
+      "name": {
+        "local": "Nkayi",
+        "en": "Nkayi",
+        "slug": "nkayi-zw1505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1505",
+        "level": 2,
+        "name": {
+          "local": "Nkayi",
+          "en": "Nkayi",
+          "slug": "nkayi-zw1505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.015",
+      "lon": "28.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150503",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw150503"
+    },
+    "code": {
+      "id": "ZW150503",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1505",
+      "level": 2,
+      "name": {
+        "local": "Nkayi",
+        "en": "Nkayi",
+        "slug": "nkayi-zw1505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1505",
+        "level": 2,
+        "name": {
+          "local": "Nkayi",
+          "en": "Nkayi",
+          "slug": "nkayi-zw1505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.648",
+      "lon": "28.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150530",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "30",
+      "en": "30",
+      "slug": "30-zw150530"
+    },
+    "code": {
+      "id": "ZW150530",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1505",
+      "level": 2,
+      "name": {
+        "local": "Nkayi",
+        "en": "Nkayi",
+        "slug": "nkayi-zw1505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1505",
+        "level": 2,
+        "name": {
+          "local": "Nkayi",
+          "en": "Nkayi",
+          "slug": "nkayi-zw1505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.234",
+      "lon": "28.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150504",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw150504"
+    },
+    "code": {
+      "id": "ZW150504",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1505",
+      "level": 2,
+      "name": {
+        "local": "Nkayi",
+        "en": "Nkayi",
+        "slug": "nkayi-zw1505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1505",
+        "level": 2,
+        "name": {
+          "local": "Nkayi",
+          "en": "Nkayi",
+          "slug": "nkayi-zw1505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.665",
+      "lon": "28.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150505",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw150505"
+    },
+    "code": {
+      "id": "ZW150505",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1505",
+      "level": 2,
+      "name": {
+        "local": "Nkayi",
+        "en": "Nkayi",
+        "slug": "nkayi-zw1505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1505",
+        "level": 2,
+        "name": {
+          "local": "Nkayi",
+          "en": "Nkayi",
+          "slug": "nkayi-zw1505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.797",
+      "lon": "28.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150506",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw150506"
+    },
+    "code": {
+      "id": "ZW150506",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1505",
+      "level": 2,
+      "name": {
+        "local": "Nkayi",
+        "en": "Nkayi",
+        "slug": "nkayi-zw1505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1505",
+        "level": 2,
+        "name": {
+          "local": "Nkayi",
+          "en": "Nkayi",
+          "slug": "nkayi-zw1505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.603",
+      "lon": "28.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150507",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw150507"
+    },
+    "code": {
+      "id": "ZW150507",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1505",
+      "level": 2,
+      "name": {
+        "local": "Nkayi",
+        "en": "Nkayi",
+        "slug": "nkayi-zw1505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1505",
+        "level": 2,
+        "name": {
+          "local": "Nkayi",
+          "en": "Nkayi",
+          "slug": "nkayi-zw1505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.679",
+      "lon": "28.643"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150508",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw150508"
+    },
+    "code": {
+      "id": "ZW150508",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1505",
+      "level": 2,
+      "name": {
+        "local": "Nkayi",
+        "en": "Nkayi",
+        "slug": "nkayi-zw1505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1505",
+        "level": 2,
+        "name": {
+          "local": "Nkayi",
+          "en": "Nkayi",
+          "slug": "nkayi-zw1505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.612",
+      "lon": "28.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150509",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw150509"
+    },
+    "code": {
+      "id": "ZW150509",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1505",
+      "level": 2,
+      "name": {
+        "local": "Nkayi",
+        "en": "Nkayi",
+        "slug": "nkayi-zw1505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1505",
+        "level": 2,
+        "name": {
+          "local": "Nkayi",
+          "en": "Nkayi",
+          "slug": "nkayi-zw1505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.604",
+      "lon": "28.514"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "ZW1421",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Chinhoyi",
+    "en": "Chinhoyi",
+    "slug": "chinhoyi-zw1421"
+  },
+  "code": {
+    "id": "ZW1421",
+    "iso": null
+  },
+  "parent": {
+    "id": "ZW14",
+    "level": 1,
+    "name": {
+      "local": "Mashonaland West",
+      "en": "Mashonaland West",
+      "slug": "mashonaland-west-zw14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ZW14",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland West",
+        "en": "Mashonaland West",
+        "slug": "mashonaland-west-zw14"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.351",
+    "lon": "30.186"
+  },
+  "metadata": {},
+  "source": {}
+}

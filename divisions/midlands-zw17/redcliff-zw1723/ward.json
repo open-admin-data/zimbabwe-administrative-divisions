@@ -1,0 +1,488 @@
+[
+  {
+    "id": "ZW172301",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw172301"
+    },
+    "code": {
+      "id": "ZW172301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1723",
+      "level": 2,
+      "name": {
+        "local": "Redcliff",
+        "en": "Redcliff",
+        "slug": "redcliff-zw1723"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1723",
+        "level": 2,
+        "name": {
+          "local": "Redcliff",
+          "en": "Redcliff",
+          "slug": "redcliff-zw1723"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.014",
+      "lon": "29.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW172302",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw172302"
+    },
+    "code": {
+      "id": "ZW172302",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1723",
+      "level": 2,
+      "name": {
+        "local": "Redcliff",
+        "en": "Redcliff",
+        "slug": "redcliff-zw1723"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1723",
+        "level": 2,
+        "name": {
+          "local": "Redcliff",
+          "en": "Redcliff",
+          "slug": "redcliff-zw1723"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.007",
+      "lon": "29.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW172303",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw172303"
+    },
+    "code": {
+      "id": "ZW172303",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1723",
+      "level": 2,
+      "name": {
+        "local": "Redcliff",
+        "en": "Redcliff",
+        "slug": "redcliff-zw1723"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1723",
+        "level": 2,
+        "name": {
+          "local": "Redcliff",
+          "en": "Redcliff",
+          "slug": "redcliff-zw1723"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.01",
+      "lon": "29.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW172304",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw172304"
+    },
+    "code": {
+      "id": "ZW172304",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1723",
+      "level": 2,
+      "name": {
+        "local": "Redcliff",
+        "en": "Redcliff",
+        "slug": "redcliff-zw1723"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1723",
+        "level": 2,
+        "name": {
+          "local": "Redcliff",
+          "en": "Redcliff",
+          "slug": "redcliff-zw1723"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.011",
+      "lon": "29.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW172305",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw172305"
+    },
+    "code": {
+      "id": "ZW172305",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1723",
+      "level": 2,
+      "name": {
+        "local": "Redcliff",
+        "en": "Redcliff",
+        "slug": "redcliff-zw1723"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1723",
+        "level": 2,
+        "name": {
+          "local": "Redcliff",
+          "en": "Redcliff",
+          "slug": "redcliff-zw1723"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.007",
+      "lon": "29.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW172306",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw172306"
+    },
+    "code": {
+      "id": "ZW172306",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1723",
+      "level": 2,
+      "name": {
+        "local": "Redcliff",
+        "en": "Redcliff",
+        "slug": "redcliff-zw1723"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1723",
+        "level": 2,
+        "name": {
+          "local": "Redcliff",
+          "en": "Redcliff",
+          "slug": "redcliff-zw1723"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.006",
+      "lon": "29.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW172307",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw172307"
+    },
+    "code": {
+      "id": "ZW172307",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1723",
+      "level": 2,
+      "name": {
+        "local": "Redcliff",
+        "en": "Redcliff",
+        "slug": "redcliff-zw1723"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1723",
+        "level": 2,
+        "name": {
+          "local": "Redcliff",
+          "en": "Redcliff",
+          "slug": "redcliff-zw1723"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.042",
+      "lon": "29.813"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW172308",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw172308"
+    },
+    "code": {
+      "id": "ZW172308",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1723",
+      "level": 2,
+      "name": {
+        "local": "Redcliff",
+        "en": "Redcliff",
+        "slug": "redcliff-zw1723"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1723",
+        "level": 2,
+        "name": {
+          "local": "Redcliff",
+          "en": "Redcliff",
+          "slug": "redcliff-zw1723"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.042",
+      "lon": "29.743"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW172309",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw172309"
+    },
+    "code": {
+      "id": "ZW172309",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1723",
+      "level": 2,
+      "name": {
+        "local": "Redcliff",
+        "en": "Redcliff",
+        "slug": "redcliff-zw1723"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1723",
+        "level": 2,
+        "name": {
+          "local": "Redcliff",
+          "en": "Redcliff",
+          "slug": "redcliff-zw1723"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.984",
+      "lon": "29.758"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

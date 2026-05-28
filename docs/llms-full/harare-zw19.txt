@@ -1,0 +1,341 @@
+# Harare — Zimbabwe Administrative Divisions
+
+> 4 districts, 78 wards
+> Code: ZW19
+> Coordinates: -17.855, 31.052
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Districts
+
+### Chitungwiza
+
+Code: ZW1922, Coordinates: -18.015, 31.07
+Wards: 25
+
+#### 1
+
+Code: ZW192201, Coordinates: -17.986, 31.054
+
+#### 10
+
+Code: ZW192210, Coordinates: -17.996, 31.062
+
+#### 11
+
+Code: ZW192211, Coordinates: -18.01, 31.055
+
+#### 12
+
+Code: ZW192212, Coordinates: -18.023, 31.046
+
+#### 13
+
+Code: ZW192213, Coordinates: -18.016, 31.065
+
+#### 14
+
+Code: ZW192214, Coordinates: -18.005, 31.068
+
+#### 15
+
+Code: ZW192215, Coordinates: -18.011, 31.079
+
+#### 16
+
+Code: ZW192216, Coordinates: -18.022, 31.073
+
+#### 17
+
+Code: ZW192217, Coordinates: -18.027, 31.078
+
+#### 18
+
+Code: ZW192218, Coordinates: -18.04, 31.066
+
+#### 19
+
+Code: ZW192219, Coordinates: -18.02, 31.095
+
+#### 2
+
+Code: ZW192202, Coordinates: -17.992, 31.049
+
+#### 20
+
+Code: ZW192220, Coordinates: -18.007, 31.087
+
+#### 21
+
+Code: ZW192221, Coordinates: -18.01, 31.096
+
+#### 22
+
+Code: ZW192222, Coordinates: -18.027, 31.114
+
+#### 23
+
+Code: ZW192223, Coordinates: -18.027, 31.099
+
+#### 24
+
+Code: ZW192224, Coordinates: -18.032, 31.085
+
+#### 25
+
+Code: ZW192225, Coordinates: -18.017, 31.11
+
+#### 3
+
+Code: ZW192203, Coordinates: -17.989, 31.041
+
+#### 4
+
+Code: ZW192204, Coordinates: -17.994, 31.031
+
+#### 5
+
+Code: ZW192205, Coordinates: -17.998, 31.033
+
+#### 6
+
+Code: ZW192206, Coordinates: -18.007, 31.027
+
+#### 7
+
+Code: ZW192207, Coordinates: -17.999, 31.052
+
+#### 8
+
+Code: ZW192208, Coordinates: -17.993, 31.055
+
+#### 9
+
+Code: ZW192209, Coordinates: -18.004, 31.057
+
+### Epworth
+
+Code: ZW1923, Coordinates: -17.898, 31.167
+Wards: 7
+
+#### 1
+
+Code: ZW192301, Coordinates: -17.877, 31.134
+
+#### 2
+
+Code: ZW192302, Coordinates: -17.896, 31.14
+
+#### 3
+
+Code: ZW192303, Coordinates: -17.916, 31.146
+
+#### 4
+
+Code: ZW192304, Coordinates: -17.909, 31.164
+
+#### 5
+
+Code: ZW192305, Coordinates: -17.898, 31.153
+
+#### 6
+
+Code: ZW192306, Coordinates: -17.885, 31.179
+
+#### 7
+
+Code: ZW192307, Coordinates: -17.882, 31.15
+
+### Harare
+
+Code: ZW1921, Coordinates: -17.799, 31.047
+Wards: 45
+
+#### 10
+
+Code: ZW192110, Coordinates: -17.862, 31.052
+
+#### 11
+
+Code: ZW192111, Coordinates: -17.858, 31.027
+
+#### 12
+
+Code: ZW192112, Coordinates: -17.868, 31.032
+
+#### 13
+
+Code: ZW192113, Coordinates: -17.864, 30.989
+
+#### 14
+
+Code: ZW192114, Coordinates: -17.855, 30.964
+
+#### 15
+
+Code: ZW192115, Coordinates: -17.83, 30.97
+
+#### 16
+
+Code: ZW192116, Coordinates: -17.791, 30.98
+
+#### 17
+
+Code: ZW192117, Coordinates: -17.756, 31.06
+
+#### 18
+
+Code: ZW192118, Coordinates: -17.73, 31.148
+
+#### 19
+
+Code: ZW192119, Coordinates: -17.83, 31.192
+
+#### 2
+
+Code: ZW192102, Coordinates: -17.841, 31.075
+
+#### 20
+
+Code: ZW192120, Coordinates: -17.842, 31.209
+
+#### 21
+
+Code: ZW192121, Coordinates: -17.858, 31.174
+
+#### 22
+
+Code: ZW192122, Coordinates: -17.874, 31.091
+
+#### 23
+
+Code: ZW192123, Coordinates: -17.902, 31.025
+
+#### 24
+
+Code: ZW192124, Coordinates: -17.889, 31
+
+#### 25
+
+Code: ZW192125, Coordinates: -17.884, 30.99
+
+#### 26
+
+Code: ZW192126, Coordinates: -17.887, 30.971
+
+#### 27
+
+Code: ZW192127, Coordinates: -17.91, 30.981
+
+#### 28
+
+Code: ZW192128, Coordinates: -17.916, 30.961
+
+#### 29
+
+Code: ZW192129, Coordinates: -17.9, 30.971
+
+#### 3
+
+Code: ZW192103, Coordinates: -17.86, 31.041
+
+#### 30
+
+Code: ZW192130, Coordinates: -17.896, 30.954
+
+#### 31
+
+Code: ZW192131, Coordinates: -17.913, 30.95
+
+#### 32
+
+Code: ZW192132, Coordinates: -17.906, 30.939
+
+#### 33
+
+Code: ZW192133, Coordinates: -17.89, 30.938
+
+#### 34
+
+Code: ZW192134, Coordinates: -17.859, 30.909
+
+#### 35
+
+Code: ZW192135, Coordinates: -17.869, 30.94
+
+#### 36
+
+Code: ZW192136, Coordinates: -17.859, 30.936
+
+#### 37
+
+Code: ZW192137, Coordinates: -17.84, 30.921
+
+#### 38
+
+Code: ZW192138, Coordinates: -17.828, 30.916
+
+#### 39
+
+Code: ZW192139, Coordinates: -17.809, 30.925
+
+#### 4
+
+Code: ZW192104, Coordinates: -17.846, 31.042
+
+#### 40
+
+Code: ZW192140, Coordinates: -17.798, 30.916
+
+#### 41
+
+Code: ZW192141, Coordinates: -17.749, 30.989
+
+#### 42
+
+Code: ZW192142, Coordinates: -17.698, 31.095
+
+#### 43
+
+Code: ZW192143, Coordinates: -17.883, 30.918
+
+#### 44
+
+Code: ZW192144, Coordinates: -17.833, 30.899
+
+#### 45
+
+Code: ZW192145, Coordinates: -17.805, 30.941
+
+#### 46
+
+Code: ZW192146, Coordinates: -17.826, 31.205
+
+#### 5
+
+Code: ZW192105, Coordinates: -17.822, 31.02
+
+#### 6
+
+Code: ZW192106, Coordinates: -17.826, 31.05
+
+#### 7
+
+Code: ZW192107, Coordinates: -17.794, 31.047
+
+#### 8
+
+Code: ZW192108, Coordinates: -17.794, 31.101
+
+#### 9
+
+Code: ZW192109, Coordinates: -17.807, 31.154
+
+### Harare Rural
+
+Code: ZW1924, Coordinates: -17.946, 31.015
+Wards: 1
+
+#### 1
+
+Code: ZW192401, Coordinates: -17.946, 31.015
+

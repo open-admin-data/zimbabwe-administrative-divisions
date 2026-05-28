@@ -1,0 +1,1028 @@
+[
+  {
+    "id": "ZW140501",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw140501"
+    },
+    "code": {
+      "id": "ZW140501",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1405",
+      "level": 2,
+      "name": {
+        "local": "Makonde",
+        "en": "Makonde",
+        "slug": "makonde-zw1405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1405",
+        "level": 2,
+        "name": {
+          "local": "Makonde",
+          "en": "Makonde",
+          "slug": "makonde-zw1405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.52",
+      "lon": "30.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140510",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw140510"
+    },
+    "code": {
+      "id": "ZW140510",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1405",
+      "level": 2,
+      "name": {
+        "local": "Makonde",
+        "en": "Makonde",
+        "slug": "makonde-zw1405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1405",
+        "level": 2,
+        "name": {
+          "local": "Makonde",
+          "en": "Makonde",
+          "slug": "makonde-zw1405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.569",
+      "lon": "30.152"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140511",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw140511"
+    },
+    "code": {
+      "id": "ZW140511",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1405",
+      "level": 2,
+      "name": {
+        "local": "Makonde",
+        "en": "Makonde",
+        "slug": "makonde-zw1405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1405",
+        "level": 2,
+        "name": {
+          "local": "Makonde",
+          "en": "Makonde",
+          "slug": "makonde-zw1405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.8",
+      "lon": "30.136"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140512",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw140512"
+    },
+    "code": {
+      "id": "ZW140512",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1405",
+      "level": 2,
+      "name": {
+        "local": "Makonde",
+        "en": "Makonde",
+        "slug": "makonde-zw1405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1405",
+        "level": 2,
+        "name": {
+          "local": "Makonde",
+          "en": "Makonde",
+          "slug": "makonde-zw1405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.596",
+      "lon": "30.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140513",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw140513"
+    },
+    "code": {
+      "id": "ZW140513",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1405",
+      "level": 2,
+      "name": {
+        "local": "Makonde",
+        "en": "Makonde",
+        "slug": "makonde-zw1405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1405",
+        "level": 2,
+        "name": {
+          "local": "Makonde",
+          "en": "Makonde",
+          "slug": "makonde-zw1405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.214",
+      "lon": "30.084"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140514",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw140514"
+    },
+    "code": {
+      "id": "ZW140514",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1405",
+      "level": 2,
+      "name": {
+        "local": "Makonde",
+        "en": "Makonde",
+        "slug": "makonde-zw1405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1405",
+        "level": 2,
+        "name": {
+          "local": "Makonde",
+          "en": "Makonde",
+          "slug": "makonde-zw1405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.751",
+      "lon": "29.868"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140515",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw140515"
+    },
+    "code": {
+      "id": "ZW140515",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1405",
+      "level": 2,
+      "name": {
+        "local": "Makonde",
+        "en": "Makonde",
+        "slug": "makonde-zw1405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1405",
+        "level": 2,
+        "name": {
+          "local": "Makonde",
+          "en": "Makonde",
+          "slug": "makonde-zw1405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.701",
+      "lon": "29.781"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140516",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "16",
+      "en": "16",
+      "slug": "16-zw140516"
+    },
+    "code": {
+      "id": "ZW140516",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1405",
+      "level": 2,
+      "name": {
+        "local": "Makonde",
+        "en": "Makonde",
+        "slug": "makonde-zw1405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1405",
+        "level": 2,
+        "name": {
+          "local": "Makonde",
+          "en": "Makonde",
+          "slug": "makonde-zw1405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.637",
+      "lon": "29.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140517",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "17",
+      "en": "17",
+      "slug": "17-zw140517"
+    },
+    "code": {
+      "id": "ZW140517",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1405",
+      "level": 2,
+      "name": {
+        "local": "Makonde",
+        "en": "Makonde",
+        "slug": "makonde-zw1405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1405",
+        "level": 2,
+        "name": {
+          "local": "Makonde",
+          "en": "Makonde",
+          "slug": "makonde-zw1405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.473",
+      "lon": "29.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140518",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "18",
+      "en": "18",
+      "slug": "18-zw140518"
+    },
+    "code": {
+      "id": "ZW140518",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1405",
+      "level": 2,
+      "name": {
+        "local": "Makonde",
+        "en": "Makonde",
+        "slug": "makonde-zw1405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1405",
+        "level": 2,
+        "name": {
+          "local": "Makonde",
+          "en": "Makonde",
+          "slug": "makonde-zw1405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.479",
+      "lon": "29.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140519",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "19",
+      "en": "19",
+      "slug": "19-zw140519"
+    },
+    "code": {
+      "id": "ZW140519",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1405",
+      "level": 2,
+      "name": {
+        "local": "Makonde",
+        "en": "Makonde",
+        "slug": "makonde-zw1405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1405",
+        "level": 2,
+        "name": {
+          "local": "Makonde",
+          "en": "Makonde",
+          "slug": "makonde-zw1405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.523",
+      "lon": "29.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140502",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw140502"
+    },
+    "code": {
+      "id": "ZW140502",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1405",
+      "level": 2,
+      "name": {
+        "local": "Makonde",
+        "en": "Makonde",
+        "slug": "makonde-zw1405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1405",
+        "level": 2,
+        "name": {
+          "local": "Makonde",
+          "en": "Makonde",
+          "slug": "makonde-zw1405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.631",
+      "lon": "30.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140503",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw140503"
+    },
+    "code": {
+      "id": "ZW140503",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1405",
+      "level": 2,
+      "name": {
+        "local": "Makonde",
+        "en": "Makonde",
+        "slug": "makonde-zw1405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1405",
+        "level": 2,
+        "name": {
+          "local": "Makonde",
+          "en": "Makonde",
+          "slug": "makonde-zw1405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.973",
+      "lon": "30.057"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140504",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw140504"
+    },
+    "code": {
+      "id": "ZW140504",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1405",
+      "level": 2,
+      "name": {
+        "local": "Makonde",
+        "en": "Makonde",
+        "slug": "makonde-zw1405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1405",
+        "level": 2,
+        "name": {
+          "local": "Makonde",
+          "en": "Makonde",
+          "slug": "makonde-zw1405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.018",
+      "lon": "30.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140505",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw140505"
+    },
+    "code": {
+      "id": "ZW140505",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1405",
+      "level": 2,
+      "name": {
+        "local": "Makonde",
+        "en": "Makonde",
+        "slug": "makonde-zw1405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1405",
+        "level": 2,
+        "name": {
+          "local": "Makonde",
+          "en": "Makonde",
+          "slug": "makonde-zw1405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.094",
+      "lon": "30.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140506",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw140506"
+    },
+    "code": {
+      "id": "ZW140506",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1405",
+      "level": 2,
+      "name": {
+        "local": "Makonde",
+        "en": "Makonde",
+        "slug": "makonde-zw1405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1405",
+        "level": 2,
+        "name": {
+          "local": "Makonde",
+          "en": "Makonde",
+          "slug": "makonde-zw1405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.194",
+      "lon": "30.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140507",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw140507"
+    },
+    "code": {
+      "id": "ZW140507",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1405",
+      "level": 2,
+      "name": {
+        "local": "Makonde",
+        "en": "Makonde",
+        "slug": "makonde-zw1405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1405",
+        "level": 2,
+        "name": {
+          "local": "Makonde",
+          "en": "Makonde",
+          "slug": "makonde-zw1405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.267",
+      "lon": "30.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140508",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw140508"
+    },
+    "code": {
+      "id": "ZW140508",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1405",
+      "level": 2,
+      "name": {
+        "local": "Makonde",
+        "en": "Makonde",
+        "slug": "makonde-zw1405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1405",
+        "level": 2,
+        "name": {
+          "local": "Makonde",
+          "en": "Makonde",
+          "slug": "makonde-zw1405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.35",
+      "lon": "29.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140509",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw140509"
+    },
+    "code": {
+      "id": "ZW140509",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1405",
+      "level": 2,
+      "name": {
+        "local": "Makonde",
+        "en": "Makonde",
+        "slug": "makonde-zw1405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1405",
+        "level": 2,
+        "name": {
+          "local": "Makonde",
+          "en": "Makonde",
+          "slug": "makonde-zw1405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.421",
+      "lon": "30.092"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,1190 @@
+[
+  {
+    "id": "ZW160201",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw160201"
+    },
+    "code": {
+      "id": "ZW160201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1602",
+      "level": 2,
+      "name": {
+        "local": "Bulilima",
+        "en": "Bulilima",
+        "slug": "bulilima-zw1602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1602",
+        "level": 2,
+        "name": {
+          "local": "Bulilima",
+          "en": "Bulilima",
+          "slug": "bulilima-zw1602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.365",
+      "lon": "27.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160210",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw160210"
+    },
+    "code": {
+      "id": "ZW160210",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1602",
+      "level": 2,
+      "name": {
+        "local": "Bulilima",
+        "en": "Bulilima",
+        "slug": "bulilima-zw1602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1602",
+        "level": 2,
+        "name": {
+          "local": "Bulilima",
+          "en": "Bulilima",
+          "slug": "bulilima-zw1602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.968",
+      "lon": "27.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160211",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw160211"
+    },
+    "code": {
+      "id": "ZW160211",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1602",
+      "level": 2,
+      "name": {
+        "local": "Bulilima",
+        "en": "Bulilima",
+        "slug": "bulilima-zw1602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1602",
+        "level": 2,
+        "name": {
+          "local": "Bulilima",
+          "en": "Bulilima",
+          "slug": "bulilima-zw1602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.1",
+      "lon": "27.409"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160212",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw160212"
+    },
+    "code": {
+      "id": "ZW160212",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1602",
+      "level": 2,
+      "name": {
+        "local": "Bulilima",
+        "en": "Bulilima",
+        "slug": "bulilima-zw1602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1602",
+        "level": 2,
+        "name": {
+          "local": "Bulilima",
+          "en": "Bulilima",
+          "slug": "bulilima-zw1602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.163",
+      "lon": "27.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160213",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw160213"
+    },
+    "code": {
+      "id": "ZW160213",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1602",
+      "level": 2,
+      "name": {
+        "local": "Bulilima",
+        "en": "Bulilima",
+        "slug": "bulilima-zw1602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1602",
+        "level": 2,
+        "name": {
+          "local": "Bulilima",
+          "en": "Bulilima",
+          "slug": "bulilima-zw1602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.892",
+      "lon": "27.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160214",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw160214"
+    },
+    "code": {
+      "id": "ZW160214",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1602",
+      "level": 2,
+      "name": {
+        "local": "Bulilima",
+        "en": "Bulilima",
+        "slug": "bulilima-zw1602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1602",
+        "level": 2,
+        "name": {
+          "local": "Bulilima",
+          "en": "Bulilima",
+          "slug": "bulilima-zw1602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.338",
+      "lon": "27.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160215",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw160215"
+    },
+    "code": {
+      "id": "ZW160215",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1602",
+      "level": 2,
+      "name": {
+        "local": "Bulilima",
+        "en": "Bulilima",
+        "slug": "bulilima-zw1602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1602",
+        "level": 2,
+        "name": {
+          "local": "Bulilima",
+          "en": "Bulilima",
+          "slug": "bulilima-zw1602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.284",
+      "lon": "27.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160216",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "16",
+      "en": "16",
+      "slug": "16-zw160216"
+    },
+    "code": {
+      "id": "ZW160216",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1602",
+      "level": 2,
+      "name": {
+        "local": "Bulilima",
+        "en": "Bulilima",
+        "slug": "bulilima-zw1602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1602",
+        "level": 2,
+        "name": {
+          "local": "Bulilima",
+          "en": "Bulilima",
+          "slug": "bulilima-zw1602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.425",
+      "lon": "27.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160217",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "17",
+      "en": "17",
+      "slug": "17-zw160217"
+    },
+    "code": {
+      "id": "ZW160217",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1602",
+      "level": 2,
+      "name": {
+        "local": "Bulilima",
+        "en": "Bulilima",
+        "slug": "bulilima-zw1602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1602",
+        "level": 2,
+        "name": {
+          "local": "Bulilima",
+          "en": "Bulilima",
+          "slug": "bulilima-zw1602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.142",
+      "lon": "28.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160218",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "18",
+      "en": "18",
+      "slug": "18-zw160218"
+    },
+    "code": {
+      "id": "ZW160218",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1602",
+      "level": 2,
+      "name": {
+        "local": "Bulilima",
+        "en": "Bulilima",
+        "slug": "bulilima-zw1602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1602",
+        "level": 2,
+        "name": {
+          "local": "Bulilima",
+          "en": "Bulilima",
+          "slug": "bulilima-zw1602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.139",
+      "lon": "27.962"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160219",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "19",
+      "en": "19",
+      "slug": "19-zw160219"
+    },
+    "code": {
+      "id": "ZW160219",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1602",
+      "level": 2,
+      "name": {
+        "local": "Bulilima",
+        "en": "Bulilima",
+        "slug": "bulilima-zw1602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1602",
+        "level": 2,
+        "name": {
+          "local": "Bulilima",
+          "en": "Bulilima",
+          "slug": "bulilima-zw1602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.308",
+      "lon": "28.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160202",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw160202"
+    },
+    "code": {
+      "id": "ZW160202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1602",
+      "level": 2,
+      "name": {
+        "local": "Bulilima",
+        "en": "Bulilima",
+        "slug": "bulilima-zw1602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1602",
+        "level": 2,
+        "name": {
+          "local": "Bulilima",
+          "en": "Bulilima",
+          "slug": "bulilima-zw1602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.33",
+      "lon": "27.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160220",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "20",
+      "en": "20",
+      "slug": "20-zw160220"
+    },
+    "code": {
+      "id": "ZW160220",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1602",
+      "level": 2,
+      "name": {
+        "local": "Bulilima",
+        "en": "Bulilima",
+        "slug": "bulilima-zw1602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1602",
+        "level": 2,
+        "name": {
+          "local": "Bulilima",
+          "en": "Bulilima",
+          "slug": "bulilima-zw1602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.385",
+      "lon": "27.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160221",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "21",
+      "en": "21",
+      "slug": "21-zw160221"
+    },
+    "code": {
+      "id": "ZW160221",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1602",
+      "level": 2,
+      "name": {
+        "local": "Bulilima",
+        "en": "Bulilima",
+        "slug": "bulilima-zw1602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1602",
+        "level": 2,
+        "name": {
+          "local": "Bulilima",
+          "en": "Bulilima",
+          "slug": "bulilima-zw1602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.398",
+      "lon": "27.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160222",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "22",
+      "en": "22",
+      "slug": "22-zw160222"
+    },
+    "code": {
+      "id": "ZW160222",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1602",
+      "level": 2,
+      "name": {
+        "local": "Bulilima",
+        "en": "Bulilima",
+        "slug": "bulilima-zw1602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1602",
+        "level": 2,
+        "name": {
+          "local": "Bulilima",
+          "en": "Bulilima",
+          "slug": "bulilima-zw1602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.997",
+      "lon": "27.438"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160203",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw160203"
+    },
+    "code": {
+      "id": "ZW160203",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1602",
+      "level": 2,
+      "name": {
+        "local": "Bulilima",
+        "en": "Bulilima",
+        "slug": "bulilima-zw1602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1602",
+        "level": 2,
+        "name": {
+          "local": "Bulilima",
+          "en": "Bulilima",
+          "slug": "bulilima-zw1602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.24",
+      "lon": "27.87"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160204",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw160204"
+    },
+    "code": {
+      "id": "ZW160204",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1602",
+      "level": 2,
+      "name": {
+        "local": "Bulilima",
+        "en": "Bulilima",
+        "slug": "bulilima-zw1602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1602",
+        "level": 2,
+        "name": {
+          "local": "Bulilima",
+          "en": "Bulilima",
+          "slug": "bulilima-zw1602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.268",
+      "lon": "27.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160205",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw160205"
+    },
+    "code": {
+      "id": "ZW160205",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1602",
+      "level": 2,
+      "name": {
+        "local": "Bulilima",
+        "en": "Bulilima",
+        "slug": "bulilima-zw1602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1602",
+        "level": 2,
+        "name": {
+          "local": "Bulilima",
+          "en": "Bulilima",
+          "slug": "bulilima-zw1602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.16",
+      "lon": "27.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160206",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw160206"
+    },
+    "code": {
+      "id": "ZW160206",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1602",
+      "level": 2,
+      "name": {
+        "local": "Bulilima",
+        "en": "Bulilima",
+        "slug": "bulilima-zw1602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1602",
+        "level": 2,
+        "name": {
+          "local": "Bulilima",
+          "en": "Bulilima",
+          "slug": "bulilima-zw1602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.012",
+      "lon": "27.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160207",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw160207"
+    },
+    "code": {
+      "id": "ZW160207",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1602",
+      "level": 2,
+      "name": {
+        "local": "Bulilima",
+        "en": "Bulilima",
+        "slug": "bulilima-zw1602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1602",
+        "level": 2,
+        "name": {
+          "local": "Bulilima",
+          "en": "Bulilima",
+          "slug": "bulilima-zw1602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.12",
+      "lon": "27.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160208",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw160208"
+    },
+    "code": {
+      "id": "ZW160208",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1602",
+      "level": 2,
+      "name": {
+        "local": "Bulilima",
+        "en": "Bulilima",
+        "slug": "bulilima-zw1602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1602",
+        "level": 2,
+        "name": {
+          "local": "Bulilima",
+          "en": "Bulilima",
+          "slug": "bulilima-zw1602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.888",
+      "lon": "27.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160209",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw160209"
+    },
+    "code": {
+      "id": "ZW160209",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1602",
+      "level": 2,
+      "name": {
+        "local": "Bulilima",
+        "en": "Bulilima",
+        "slug": "bulilima-zw1602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1602",
+        "level": 2,
+        "name": {
+          "local": "Bulilima",
+          "en": "Bulilima",
+          "slug": "bulilima-zw1602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.875",
+      "lon": "27.174"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

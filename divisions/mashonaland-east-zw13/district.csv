@@ -1,0 +1,12 @@
+id,name.local,name.en,name.slug,code.id,children_count.ward,geo.lat,geo.lon
+ZW1301,Chikomba,Chikomba,chikomba-zw1301,ZW1301,30,-18.851,31.103
+ZW1302,Goromonzi,Goromonzi,goromonzi-zw1302,ZW1302,25,-17.8,31.369
+ZW1303,Hwedza,Hwedza,hwedza-zw1303,ZW1303,15,-18.765,31.685
+ZW1304,Marondera,Marondera,marondera-zw1304,ZW1304,23,-18.25,31.29
+ZW1321,Marondera Urban,Marondera Urban,marondera-urban-zw1321,ZW1321,12,-18.213,31.532
+ZW1305,Mudzi,Mudzi,mudzi-zw1305,ZW1305,18,-17.049,32.551
+ZW1306,Murehwa,Murehwa,murehwa-zw1306,ZW1306,30,-17.8,31.836
+ZW1307,Mutoko,Mutoko,mutoko-zw1307,ZW1307,29,-17.423,32.359
+ZW1326,Ruwa,Ruwa,ruwa-zw1326,ZW1326,9,-17.887,31.233
+ZW1308,Seke,Seke,seke-zw1308,ZW1308,21,-18.302,30.865
+ZW1309,Uzumba Maramba Pfungwe,Uzumba Maramba Pfungwe,uzumba-maramba-pfungwe-zw1309,ZW1309,17,-17.097,31.965

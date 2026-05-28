@@ -1,0 +1,47 @@
+{
+  "id": "ZW1803",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Chivi",
+    "en": "Chivi",
+    "slug": "chivi-zw1803"
+  },
+  "code": {
+    "id": "ZW1803",
+    "iso": null
+  },
+  "parent": {
+    "id": "ZW18",
+    "level": 1,
+    "name": {
+      "local": "Masvingo",
+      "en": "Masvingo",
+      "slug": "masvingo-zw18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ZW18",
+      "level": 1,
+      "name": {
+        "local": "Masvingo",
+        "en": "Masvingo",
+        "slug": "masvingo-zw18"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 32
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.5",
+    "lon": "30.568"
+  },
+  "metadata": {},
+  "source": {}
+}

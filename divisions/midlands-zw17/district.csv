@@ -1,0 +1,15 @@
+id,name.local,name.en,name.slug,code.id,children_count.ward,geo.lat,geo.lon
+ZW1701,Chirumhanzu,Chirumhanzu,chirumhanzu-zw1701,ZW1701,25,-19.353,30.428
+ZW1702,Gokwe North,Gokwe North,gokwe-north-zw1702,ZW1702,36,-17.557,28.775
+ZW1703,Gokwe South,Gokwe South,gokwe-south-zw1703,ZW1703,33,-18.131,28.661
+ZW1729,Gokwe South Urban,Gokwe South Urban,gokwe-south-urban-zw1729,ZW1729,6,-18.22,28.944
+ZW1704,Gweru,Gweru,gweru-zw1704,ZW1704,19,-19.531,29.519
+ZW1721,Gweru Urban,Gweru Urban,gweru-urban-zw1721,ZW1721,18,-19.456,29.808
+ZW1705,Kwekwe,Kwekwe,kwekwe-zw1705,ZW1705,33,-18.821,29.608
+ZW1722,Kwekwe Urban,Kwekwe Urban,kwekwe-urban-zw1722,ZW1722,14,-18.913,29.808
+ZW1706,Mberengwa,Mberengwa,mberengwa-zw1706,ZW1706,37,-20.688,30.093
+ZW1723,Redcliff,Redcliff,redcliff-zw1723,ZW1723,9,-19.012,29.76
+ZW1707,Shurugwi,Shurugwi,shurugwi-zw1707,ZW1707,24,-19.744,30.252
+ZW1728,Shurugwi Town,Shurugwi Town,shurugwi-town-zw1728,ZW1728,13,-19.693,29.993
+ZW1708,Zvishavane,Zvishavane,zvishavane-zw1708,ZW1708,19,-20.28,29.906
+ZW1725,Zvishavane Urban,Zvishavane Urban,zvishavane-urban-zw1725,ZW1725,10,-20.326,30.065

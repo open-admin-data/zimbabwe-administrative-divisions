@@ -1,0 +1,47 @@
+{
+  "id": "ZW1302",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Goromonzi",
+    "en": "Goromonzi",
+    "slug": "goromonzi-zw1302"
+  },
+  "code": {
+    "id": "ZW1302",
+    "iso": null
+  },
+  "parent": {
+    "id": "ZW13",
+    "level": 1,
+    "name": {
+      "local": "Mashonaland East",
+      "en": "Mashonaland East",
+      "slug": "mashonaland-east-zw13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ZW13",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland East",
+        "en": "Mashonaland East",
+        "slug": "mashonaland-east-zw13"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 25
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.8",
+    "lon": "31.369"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "ZW1821",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Masvingo Urban",
+    "en": "Masvingo Urban",
+    "slug": "masvingo-urban-zw1821"
+  },
+  "code": {
+    "id": "ZW1821",
+    "iso": null
+  },
+  "parent": {
+    "id": "ZW18",
+    "level": 1,
+    "name": {
+      "local": "Masvingo",
+      "en": "Masvingo",
+      "slug": "masvingo-zw18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ZW18",
+      "level": 1,
+      "name": {
+        "local": "Masvingo",
+        "en": "Masvingo",
+        "slug": "masvingo-zw18"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.082",
+    "lon": "30.83"
+  },
+  "metadata": {},
+  "source": {}
+}

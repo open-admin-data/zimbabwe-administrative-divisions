@@ -1,0 +1,1730 @@
+[
+  {
+    "id": "ZW180201",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw180201"
+    },
+    "code": {
+      "id": "ZW180201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1802",
+      "level": 2,
+      "name": {
+        "local": "Chiredzi",
+        "en": "Chiredzi",
+        "slug": "chiredzi-zw1802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1802",
+        "level": 2,
+        "name": {
+          "local": "Chiredzi",
+          "en": "Chiredzi",
+          "slug": "chiredzi-zw1802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.76",
+      "lon": "32.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180210",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw180210"
+    },
+    "code": {
+      "id": "ZW180210",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1802",
+      "level": 2,
+      "name": {
+        "local": "Chiredzi",
+        "en": "Chiredzi",
+        "slug": "chiredzi-zw1802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1802",
+        "level": 2,
+        "name": {
+          "local": "Chiredzi",
+          "en": "Chiredzi",
+          "slug": "chiredzi-zw1802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.432",
+      "lon": "31.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180211",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw180211"
+    },
+    "code": {
+      "id": "ZW180211",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1802",
+      "level": 2,
+      "name": {
+        "local": "Chiredzi",
+        "en": "Chiredzi",
+        "slug": "chiredzi-zw1802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1802",
+        "level": 2,
+        "name": {
+          "local": "Chiredzi",
+          "en": "Chiredzi",
+          "slug": "chiredzi-zw1802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.608",
+      "lon": "31.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180212",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw180212"
+    },
+    "code": {
+      "id": "ZW180212",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1802",
+      "level": 2,
+      "name": {
+        "local": "Chiredzi",
+        "en": "Chiredzi",
+        "slug": "chiredzi-zw1802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1802",
+        "level": 2,
+        "name": {
+          "local": "Chiredzi",
+          "en": "Chiredzi",
+          "slug": "chiredzi-zw1802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.655",
+      "lon": "31.422"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180213",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw180213"
+    },
+    "code": {
+      "id": "ZW180213",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1802",
+      "level": 2,
+      "name": {
+        "local": "Chiredzi",
+        "en": "Chiredzi",
+        "slug": "chiredzi-zw1802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1802",
+        "level": 2,
+        "name": {
+          "local": "Chiredzi",
+          "en": "Chiredzi",
+          "slug": "chiredzi-zw1802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.93",
+      "lon": "31.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180214",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw180214"
+    },
+    "code": {
+      "id": "ZW180214",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1802",
+      "level": 2,
+      "name": {
+        "local": "Chiredzi",
+        "en": "Chiredzi",
+        "slug": "chiredzi-zw1802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1802",
+        "level": 2,
+        "name": {
+          "local": "Chiredzi",
+          "en": "Chiredzi",
+          "slug": "chiredzi-zw1802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.221",
+      "lon": "31.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180215",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw180215"
+    },
+    "code": {
+      "id": "ZW180215",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1802",
+      "level": 2,
+      "name": {
+        "local": "Chiredzi",
+        "en": "Chiredzi",
+        "slug": "chiredzi-zw1802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1802",
+        "level": 2,
+        "name": {
+          "local": "Chiredzi",
+          "en": "Chiredzi",
+          "slug": "chiredzi-zw1802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.186",
+      "lon": "31.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180216",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "16",
+      "en": "16",
+      "slug": "16-zw180216"
+    },
+    "code": {
+      "id": "ZW180216",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1802",
+      "level": 2,
+      "name": {
+        "local": "Chiredzi",
+        "en": "Chiredzi",
+        "slug": "chiredzi-zw1802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1802",
+        "level": 2,
+        "name": {
+          "local": "Chiredzi",
+          "en": "Chiredzi",
+          "slug": "chiredzi-zw1802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.992",
+      "lon": "31.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180217",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "17",
+      "en": "17",
+      "slug": "17-zw180217"
+    },
+    "code": {
+      "id": "ZW180217",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1802",
+      "level": 2,
+      "name": {
+        "local": "Chiredzi",
+        "en": "Chiredzi",
+        "slug": "chiredzi-zw1802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1802",
+        "level": 2,
+        "name": {
+          "local": "Chiredzi",
+          "en": "Chiredzi",
+          "slug": "chiredzi-zw1802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.797",
+      "lon": "31.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180218",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "18",
+      "en": "18",
+      "slug": "18-zw180218"
+    },
+    "code": {
+      "id": "ZW180218",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1802",
+      "level": 2,
+      "name": {
+        "local": "Chiredzi",
+        "en": "Chiredzi",
+        "slug": "chiredzi-zw1802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1802",
+        "level": 2,
+        "name": {
+          "local": "Chiredzi",
+          "en": "Chiredzi",
+          "slug": "chiredzi-zw1802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.066",
+      "lon": "31.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180219",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "19",
+      "en": "19",
+      "slug": "19-zw180219"
+    },
+    "code": {
+      "id": "ZW180219",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1802",
+      "level": 2,
+      "name": {
+        "local": "Chiredzi",
+        "en": "Chiredzi",
+        "slug": "chiredzi-zw1802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1802",
+        "level": 2,
+        "name": {
+          "local": "Chiredzi",
+          "en": "Chiredzi",
+          "slug": "chiredzi-zw1802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.064",
+      "lon": "31.699"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180202",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw180202"
+    },
+    "code": {
+      "id": "ZW180202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1802",
+      "level": 2,
+      "name": {
+        "local": "Chiredzi",
+        "en": "Chiredzi",
+        "slug": "chiredzi-zw1802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1802",
+        "level": 2,
+        "name": {
+          "local": "Chiredzi",
+          "en": "Chiredzi",
+          "slug": "chiredzi-zw1802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.873",
+      "lon": "32.107"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180220",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "20",
+      "en": "20",
+      "slug": "20-zw180220"
+    },
+    "code": {
+      "id": "ZW180220",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1802",
+      "level": 2,
+      "name": {
+        "local": "Chiredzi",
+        "en": "Chiredzi",
+        "slug": "chiredzi-zw1802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1802",
+        "level": 2,
+        "name": {
+          "local": "Chiredzi",
+          "en": "Chiredzi",
+          "slug": "chiredzi-zw1802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.814",
+      "lon": "31.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180221",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "21",
+      "en": "21",
+      "slug": "21-zw180221"
+    },
+    "code": {
+      "id": "ZW180221",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1802",
+      "level": 2,
+      "name": {
+        "local": "Chiredzi",
+        "en": "Chiredzi",
+        "slug": "chiredzi-zw1802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1802",
+        "level": 2,
+        "name": {
+          "local": "Chiredzi",
+          "en": "Chiredzi",
+          "slug": "chiredzi-zw1802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.813",
+      "lon": "31.87"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180222",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "22",
+      "en": "22",
+      "slug": "22-zw180222"
+    },
+    "code": {
+      "id": "ZW180222",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1802",
+      "level": 2,
+      "name": {
+        "local": "Chiredzi",
+        "en": "Chiredzi",
+        "slug": "chiredzi-zw1802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1802",
+        "level": 2,
+        "name": {
+          "local": "Chiredzi",
+          "en": "Chiredzi",
+          "slug": "chiredzi-zw1802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.559",
+      "lon": "31.872"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180223",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "23",
+      "en": "23",
+      "slug": "23-zw180223"
+    },
+    "code": {
+      "id": "ZW180223",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1802",
+      "level": 2,
+      "name": {
+        "local": "Chiredzi",
+        "en": "Chiredzi",
+        "slug": "chiredzi-zw1802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1802",
+        "level": 2,
+        "name": {
+          "local": "Chiredzi",
+          "en": "Chiredzi",
+          "slug": "chiredzi-zw1802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.68",
+      "lon": "31.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180224",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "24",
+      "en": "24",
+      "slug": "24-zw180224"
+    },
+    "code": {
+      "id": "ZW180224",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1802",
+      "level": 2,
+      "name": {
+        "local": "Chiredzi",
+        "en": "Chiredzi",
+        "slug": "chiredzi-zw1802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1802",
+        "level": 2,
+        "name": {
+          "local": "Chiredzi",
+          "en": "Chiredzi",
+          "slug": "chiredzi-zw1802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.648",
+      "lon": "32.031"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180225",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "25",
+      "en": "25",
+      "slug": "25-zw180225"
+    },
+    "code": {
+      "id": "ZW180225",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1802",
+      "level": 2,
+      "name": {
+        "local": "Chiredzi",
+        "en": "Chiredzi",
+        "slug": "chiredzi-zw1802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1802",
+        "level": 2,
+        "name": {
+          "local": "Chiredzi",
+          "en": "Chiredzi",
+          "slug": "chiredzi-zw1802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.944",
+      "lon": "32.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180226",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "26",
+      "en": "26",
+      "slug": "26-zw180226"
+    },
+    "code": {
+      "id": "ZW180226",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1802",
+      "level": 2,
+      "name": {
+        "local": "Chiredzi",
+        "en": "Chiredzi",
+        "slug": "chiredzi-zw1802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1802",
+        "level": 2,
+        "name": {
+          "local": "Chiredzi",
+          "en": "Chiredzi",
+          "slug": "chiredzi-zw1802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.774",
+      "lon": "31.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180227",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "27",
+      "en": "27",
+      "slug": "27-zw180227"
+    },
+    "code": {
+      "id": "ZW180227",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1802",
+      "level": 2,
+      "name": {
+        "local": "Chiredzi",
+        "en": "Chiredzi",
+        "slug": "chiredzi-zw1802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1802",
+        "level": 2,
+        "name": {
+          "local": "Chiredzi",
+          "en": "Chiredzi",
+          "slug": "chiredzi-zw1802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.108",
+      "lon": "31.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180228",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "28",
+      "en": "28",
+      "slug": "28-zw180228"
+    },
+    "code": {
+      "id": "ZW180228",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1802",
+      "level": 2,
+      "name": {
+        "local": "Chiredzi",
+        "en": "Chiredzi",
+        "slug": "chiredzi-zw1802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1802",
+        "level": 2,
+        "name": {
+          "local": "Chiredzi",
+          "en": "Chiredzi",
+          "slug": "chiredzi-zw1802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.947",
+      "lon": "31.425"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180229",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "29",
+      "en": "29",
+      "slug": "29-zw180229"
+    },
+    "code": {
+      "id": "ZW180229",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1802",
+      "level": 2,
+      "name": {
+        "local": "Chiredzi",
+        "en": "Chiredzi",
+        "slug": "chiredzi-zw1802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1802",
+        "level": 2,
+        "name": {
+          "local": "Chiredzi",
+          "en": "Chiredzi",
+          "slug": "chiredzi-zw1802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.976",
+      "lon": "31.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180203",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw180203"
+    },
+    "code": {
+      "id": "ZW180203",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1802",
+      "level": 2,
+      "name": {
+        "local": "Chiredzi",
+        "en": "Chiredzi",
+        "slug": "chiredzi-zw1802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1802",
+        "level": 2,
+        "name": {
+          "local": "Chiredzi",
+          "en": "Chiredzi",
+          "slug": "chiredzi-zw1802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.982",
+      "lon": "32.109"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180230",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "30",
+      "en": "30",
+      "slug": "30-zw180230"
+    },
+    "code": {
+      "id": "ZW180230",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1802",
+      "level": 2,
+      "name": {
+        "local": "Chiredzi",
+        "en": "Chiredzi",
+        "slug": "chiredzi-zw1802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1802",
+        "level": 2,
+        "name": {
+          "local": "Chiredzi",
+          "en": "Chiredzi",
+          "slug": "chiredzi-zw1802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.109",
+      "lon": "31.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180231",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "31",
+      "en": "31",
+      "slug": "31-zw180231"
+    },
+    "code": {
+      "id": "ZW180231",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1802",
+      "level": 2,
+      "name": {
+        "local": "Chiredzi",
+        "en": "Chiredzi",
+        "slug": "chiredzi-zw1802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1802",
+        "level": 2,
+        "name": {
+          "local": "Chiredzi",
+          "en": "Chiredzi",
+          "slug": "chiredzi-zw1802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.146",
+      "lon": "31.751"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180232",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "32",
+      "en": "32",
+      "slug": "32-zw180232"
+    },
+    "code": {
+      "id": "ZW180232",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1802",
+      "level": 2,
+      "name": {
+        "local": "Chiredzi",
+        "en": "Chiredzi",
+        "slug": "chiredzi-zw1802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1802",
+        "level": 2,
+        "name": {
+          "local": "Chiredzi",
+          "en": "Chiredzi",
+          "slug": "chiredzi-zw1802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.036",
+      "lon": "31.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180204",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw180204"
+    },
+    "code": {
+      "id": "ZW180204",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1802",
+      "level": 2,
+      "name": {
+        "local": "Chiredzi",
+        "en": "Chiredzi",
+        "slug": "chiredzi-zw1802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1802",
+        "level": 2,
+        "name": {
+          "local": "Chiredzi",
+          "en": "Chiredzi",
+          "slug": "chiredzi-zw1802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.044",
+      "lon": "32.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180205",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw180205"
+    },
+    "code": {
+      "id": "ZW180205",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1802",
+      "level": 2,
+      "name": {
+        "local": "Chiredzi",
+        "en": "Chiredzi",
+        "slug": "chiredzi-zw1802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1802",
+        "level": 2,
+        "name": {
+          "local": "Chiredzi",
+          "en": "Chiredzi",
+          "slug": "chiredzi-zw1802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.098",
+      "lon": "32.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180206",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw180206"
+    },
+    "code": {
+      "id": "ZW180206",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1802",
+      "level": 2,
+      "name": {
+        "local": "Chiredzi",
+        "en": "Chiredzi",
+        "slug": "chiredzi-zw1802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1802",
+        "level": 2,
+        "name": {
+          "local": "Chiredzi",
+          "en": "Chiredzi",
+          "slug": "chiredzi-zw1802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.283",
+      "lon": "31.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180207",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw180207"
+    },
+    "code": {
+      "id": "ZW180207",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1802",
+      "level": 2,
+      "name": {
+        "local": "Chiredzi",
+        "en": "Chiredzi",
+        "slug": "chiredzi-zw1802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1802",
+        "level": 2,
+        "name": {
+          "local": "Chiredzi",
+          "en": "Chiredzi",
+          "slug": "chiredzi-zw1802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.311",
+      "lon": "31.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180208",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw180208"
+    },
+    "code": {
+      "id": "ZW180208",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1802",
+      "level": 2,
+      "name": {
+        "local": "Chiredzi",
+        "en": "Chiredzi",
+        "slug": "chiredzi-zw1802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1802",
+        "level": 2,
+        "name": {
+          "local": "Chiredzi",
+          "en": "Chiredzi",
+          "slug": "chiredzi-zw1802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.335",
+      "lon": "31.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180209",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw180209"
+    },
+    "code": {
+      "id": "ZW180209",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1802",
+      "level": 2,
+      "name": {
+        "local": "Chiredzi",
+        "en": "Chiredzi",
+        "slug": "chiredzi-zw1802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1802",
+        "level": 2,
+        "name": {
+          "local": "Chiredzi",
+          "en": "Chiredzi",
+          "slug": "chiredzi-zw1802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.468",
+      "lon": "31.669"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

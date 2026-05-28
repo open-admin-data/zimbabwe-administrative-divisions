@@ -1,0 +1,47 @@
+{
+  "id": "ZW1806",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mwenezi",
+    "en": "Mwenezi",
+    "slug": "mwenezi-zw1806"
+  },
+  "code": {
+    "id": "ZW1806",
+    "iso": null
+  },
+  "parent": {
+    "id": "ZW18",
+    "level": 1,
+    "name": {
+      "local": "Masvingo",
+      "en": "Masvingo",
+      "slug": "masvingo-zw18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ZW18",
+      "level": 1,
+      "name": {
+        "local": "Masvingo",
+        "en": "Masvingo",
+        "slug": "masvingo-zw18"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.398",
+    "lon": "30.7"
+  },
+  "metadata": {},
+  "source": {}
+}

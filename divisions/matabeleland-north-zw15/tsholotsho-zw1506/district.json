@@ -1,0 +1,47 @@
+{
+  "id": "ZW1506",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tsholotsho",
+    "en": "Tsholotsho",
+    "slug": "tsholotsho-zw1506"
+  },
+  "code": {
+    "id": "ZW1506",
+    "iso": null
+  },
+  "parent": {
+    "id": "ZW15",
+    "level": 1,
+    "name": {
+      "local": "Matabeleland North",
+      "en": "Matabeleland North",
+      "slug": "matabeleland-north-zw15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ZW15",
+      "level": 1,
+      "name": {
+        "local": "Matabeleland North",
+        "en": "Matabeleland North",
+        "slug": "matabeleland-north-zw15"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 22
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.64",
+    "lon": "27.289"
+  },
+  "metadata": {},
+  "source": {}
+}

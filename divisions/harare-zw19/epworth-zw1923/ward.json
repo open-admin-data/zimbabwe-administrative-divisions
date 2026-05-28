@@ -1,0 +1,380 @@
+[
+  {
+    "id": "ZW192301",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw192301"
+    },
+    "code": {
+      "id": "ZW192301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1923",
+      "level": 2,
+      "name": {
+        "local": "Epworth",
+        "en": "Epworth",
+        "slug": "epworth-zw1923"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1923",
+        "level": 2,
+        "name": {
+          "local": "Epworth",
+          "en": "Epworth",
+          "slug": "epworth-zw1923"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.877",
+      "lon": "31.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192302",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw192302"
+    },
+    "code": {
+      "id": "ZW192302",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1923",
+      "level": 2,
+      "name": {
+        "local": "Epworth",
+        "en": "Epworth",
+        "slug": "epworth-zw1923"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1923",
+        "level": 2,
+        "name": {
+          "local": "Epworth",
+          "en": "Epworth",
+          "slug": "epworth-zw1923"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.896",
+      "lon": "31.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192303",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw192303"
+    },
+    "code": {
+      "id": "ZW192303",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1923",
+      "level": 2,
+      "name": {
+        "local": "Epworth",
+        "en": "Epworth",
+        "slug": "epworth-zw1923"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1923",
+        "level": 2,
+        "name": {
+          "local": "Epworth",
+          "en": "Epworth",
+          "slug": "epworth-zw1923"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.916",
+      "lon": "31.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192304",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw192304"
+    },
+    "code": {
+      "id": "ZW192304",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1923",
+      "level": 2,
+      "name": {
+        "local": "Epworth",
+        "en": "Epworth",
+        "slug": "epworth-zw1923"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1923",
+        "level": 2,
+        "name": {
+          "local": "Epworth",
+          "en": "Epworth",
+          "slug": "epworth-zw1923"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.909",
+      "lon": "31.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192305",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw192305"
+    },
+    "code": {
+      "id": "ZW192305",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1923",
+      "level": 2,
+      "name": {
+        "local": "Epworth",
+        "en": "Epworth",
+        "slug": "epworth-zw1923"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1923",
+        "level": 2,
+        "name": {
+          "local": "Epworth",
+          "en": "Epworth",
+          "slug": "epworth-zw1923"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.898",
+      "lon": "31.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192306",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw192306"
+    },
+    "code": {
+      "id": "ZW192306",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1923",
+      "level": 2,
+      "name": {
+        "local": "Epworth",
+        "en": "Epworth",
+        "slug": "epworth-zw1923"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1923",
+        "level": 2,
+        "name": {
+          "local": "Epworth",
+          "en": "Epworth",
+          "slug": "epworth-zw1923"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.885",
+      "lon": "31.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192307",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw192307"
+    },
+    "code": {
+      "id": "ZW192307",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1923",
+      "level": 2,
+      "name": {
+        "local": "Epworth",
+        "en": "Epworth",
+        "slug": "epworth-zw1923"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1923",
+        "level": 2,
+        "name": {
+          "local": "Epworth",
+          "en": "Epworth",
+          "slug": "epworth-zw1923"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.882",
+      "lon": "31.15"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

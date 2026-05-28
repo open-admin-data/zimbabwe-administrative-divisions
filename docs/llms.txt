@@ -1,0 +1,72 @@
+# Zimbabwe Administrative Divisions
+
+> Open dataset of Zimbabwe's administrative hierarchy:
+> 10 provinces, 91 districts, 1,961 wards.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total provinces: 10
+- Total districts: 91
+- Total wards: 1,961
+- Coordinates: included (all levels)
+- Last updated: 2026-05-28
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All provinces (JSON)](https://raw.githubusercontent.com/open-admin-data/zimbabwe-administrative-divisions/main/data/all-province.json)
+- [All districts (JSON)](https://raw.githubusercontent.com/open-admin-data/zimbabwe-administrative-divisions/main/data/all-district.json)
+- [All wards (JSON)](https://raw.githubusercontent.com/open-admin-data/zimbabwe-administrative-divisions/main/data/all-ward.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/zimbabwe-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/zimbabwe-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/zimbabwe-administrative-divisions/main/data/schema.json)
+
+## Browse by Province
+
+- [Bulawayo](https://github.com/open-admin-data/zimbabwe-administrative-divisions/tree/main/divisions/bulawayo-zw10/) — 1 districts, 29 wards
+- [Harare](https://github.com/open-admin-data/zimbabwe-administrative-divisions/tree/main/divisions/harare-zw19/) — 4 districts, 78 wards
+- [Manicaland](https://github.com/open-admin-data/zimbabwe-administrative-divisions/tree/main/divisions/manicaland-zw11/) — 10 districts, 260 wards
+- [Mashonaland Central](https://github.com/open-admin-data/zimbabwe-administrative-divisions/tree/main/divisions/mashonaland-central-zw12/) — 10 districts, 232 wards
+- [Mashonaland East](https://github.com/open-admin-data/zimbabwe-administrative-divisions/tree/main/divisions/mashonaland-east-zw13/) — 11 districts, 229 wards
+- [Mashonaland West](https://github.com/open-admin-data/zimbabwe-administrative-divisions/tree/main/divisions/mashonaland-west-zw14/) — 13 districts, 231 wards
+- [Masvingo](https://github.com/open-admin-data/zimbabwe-administrative-divisions/tree/main/divisions/masvingo-zw18/) — 9 districts, 243 wards
+- [Matabeleland North](https://github.com/open-admin-data/zimbabwe-administrative-divisions/tree/main/divisions/matabeleland-north-zw15/) — 9 districts, 193 wards
+- [Matabeleland South](https://github.com/open-admin-data/zimbabwe-administrative-divisions/tree/main/divisions/matabeleland-south-zw16/) — 10 districts, 170 wards
+- [Midlands](https://github.com/open-admin-data/zimbabwe-administrative-divisions/tree/main/divisions/midlands-zw17/) — 14 districts, 296 wards
+
+## Per-Province Full Data
+
+- [Bulawayo](https://raw.githubusercontent.com/open-admin-data/zimbabwe-administrative-divisions/main/docs/llms-full/bulawayo-zw10.txt)
+- [Harare](https://raw.githubusercontent.com/open-admin-data/zimbabwe-administrative-divisions/main/docs/llms-full/harare-zw19.txt)
+- [Manicaland](https://raw.githubusercontent.com/open-admin-data/zimbabwe-administrative-divisions/main/docs/llms-full/manicaland-zw11.txt)
+- [Mashonaland Central](https://raw.githubusercontent.com/open-admin-data/zimbabwe-administrative-divisions/main/docs/llms-full/mashonaland-central-zw12.txt)
+- [Mashonaland East](https://raw.githubusercontent.com/open-admin-data/zimbabwe-administrative-divisions/main/docs/llms-full/mashonaland-east-zw13.txt)
+- [Mashonaland West](https://raw.githubusercontent.com/open-admin-data/zimbabwe-administrative-divisions/main/docs/llms-full/mashonaland-west-zw14.txt)
+- [Masvingo](https://raw.githubusercontent.com/open-admin-data/zimbabwe-administrative-divisions/main/docs/llms-full/masvingo-zw18.txt)
+- [Matabeleland North](https://raw.githubusercontent.com/open-admin-data/zimbabwe-administrative-divisions/main/docs/llms-full/matabeleland-north-zw15.txt)
+- [Matabeleland South](https://raw.githubusercontent.com/open-admin-data/zimbabwe-administrative-divisions/main/docs/llms-full/matabeleland-south-zw16.txt)
+- [Midlands](https://raw.githubusercontent.com/open-admin-data/zimbabwe-administrative-divisions/main/docs/llms-full/midlands-zw17.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (province), 2 (district), 3 (ward)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Zimbabwe Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/zimbabwe-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

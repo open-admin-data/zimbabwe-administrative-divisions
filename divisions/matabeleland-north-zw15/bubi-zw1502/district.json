@@ -1,0 +1,47 @@
+{
+  "id": "ZW1502",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bubi",
+    "en": "Bubi",
+    "slug": "bubi-zw1502"
+  },
+  "code": {
+    "id": "ZW1502",
+    "iso": null
+  },
+  "parent": {
+    "id": "ZW15",
+    "level": 1,
+    "name": {
+      "local": "Matabeleland North",
+      "en": "Matabeleland North",
+      "slug": "matabeleland-north-zw15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ZW15",
+      "level": 1,
+      "name": {
+        "local": "Matabeleland North",
+        "en": "Matabeleland North",
+        "slug": "matabeleland-north-zw15"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 23
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.567",
+    "lon": "28.843"
+  },
+  "metadata": {},
+  "source": {}
+}

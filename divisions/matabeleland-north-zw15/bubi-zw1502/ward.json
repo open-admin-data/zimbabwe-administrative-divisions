@@ -1,0 +1,1244 @@
+[
+  {
+    "id": "ZW150201",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw150201"
+    },
+    "code": {
+      "id": "ZW150201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1502",
+      "level": 2,
+      "name": {
+        "local": "Bubi",
+        "en": "Bubi",
+        "slug": "bubi-zw1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1502",
+        "level": 2,
+        "name": {
+          "local": "Bubi",
+          "en": "Bubi",
+          "slug": "bubi-zw1502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.601",
+      "lon": "28.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150210",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw150210"
+    },
+    "code": {
+      "id": "ZW150210",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1502",
+      "level": 2,
+      "name": {
+        "local": "Bubi",
+        "en": "Bubi",
+        "slug": "bubi-zw1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1502",
+        "level": 2,
+        "name": {
+          "local": "Bubi",
+          "en": "Bubi",
+          "slug": "bubi-zw1502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.74",
+      "lon": "28.626"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150211",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw150211"
+    },
+    "code": {
+      "id": "ZW150211",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1502",
+      "level": 2,
+      "name": {
+        "local": "Bubi",
+        "en": "Bubi",
+        "slug": "bubi-zw1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1502",
+        "level": 2,
+        "name": {
+          "local": "Bubi",
+          "en": "Bubi",
+          "slug": "bubi-zw1502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.678",
+      "lon": "28.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150212",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw150212"
+    },
+    "code": {
+      "id": "ZW150212",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1502",
+      "level": 2,
+      "name": {
+        "local": "Bubi",
+        "en": "Bubi",
+        "slug": "bubi-zw1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1502",
+        "level": 2,
+        "name": {
+          "local": "Bubi",
+          "en": "Bubi",
+          "slug": "bubi-zw1502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.585",
+      "lon": "28.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150213",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw150213"
+    },
+    "code": {
+      "id": "ZW150213",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1502",
+      "level": 2,
+      "name": {
+        "local": "Bubi",
+        "en": "Bubi",
+        "slug": "bubi-zw1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1502",
+        "level": 2,
+        "name": {
+          "local": "Bubi",
+          "en": "Bubi",
+          "slug": "bubi-zw1502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.842",
+      "lon": "28.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150214",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw150214"
+    },
+    "code": {
+      "id": "ZW150214",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1502",
+      "level": 2,
+      "name": {
+        "local": "Bubi",
+        "en": "Bubi",
+        "slug": "bubi-zw1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1502",
+        "level": 2,
+        "name": {
+          "local": "Bubi",
+          "en": "Bubi",
+          "slug": "bubi-zw1502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.879",
+      "lon": "28.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150215",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw150215"
+    },
+    "code": {
+      "id": "ZW150215",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1502",
+      "level": 2,
+      "name": {
+        "local": "Bubi",
+        "en": "Bubi",
+        "slug": "bubi-zw1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1502",
+        "level": 2,
+        "name": {
+          "local": "Bubi",
+          "en": "Bubi",
+          "slug": "bubi-zw1502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.66",
+      "lon": "28.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150216",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "16",
+      "en": "16",
+      "slug": "16-zw150216"
+    },
+    "code": {
+      "id": "ZW150216",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1502",
+      "level": 2,
+      "name": {
+        "local": "Bubi",
+        "en": "Bubi",
+        "slug": "bubi-zw1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1502",
+        "level": 2,
+        "name": {
+          "local": "Bubi",
+          "en": "Bubi",
+          "slug": "bubi-zw1502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.419",
+      "lon": "28.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150217",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "17",
+      "en": "17",
+      "slug": "17-zw150217"
+    },
+    "code": {
+      "id": "ZW150217",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1502",
+      "level": 2,
+      "name": {
+        "local": "Bubi",
+        "en": "Bubi",
+        "slug": "bubi-zw1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1502",
+        "level": 2,
+        "name": {
+          "local": "Bubi",
+          "en": "Bubi",
+          "slug": "bubi-zw1502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.39",
+      "lon": "28.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150218",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "18",
+      "en": "18",
+      "slug": "18-zw150218"
+    },
+    "code": {
+      "id": "ZW150218",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1502",
+      "level": 2,
+      "name": {
+        "local": "Bubi",
+        "en": "Bubi",
+        "slug": "bubi-zw1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1502",
+        "level": 2,
+        "name": {
+          "local": "Bubi",
+          "en": "Bubi",
+          "slug": "bubi-zw1502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.269",
+      "lon": "28.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150219",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "19",
+      "en": "19",
+      "slug": "19-zw150219"
+    },
+    "code": {
+      "id": "ZW150219",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1502",
+      "level": 2,
+      "name": {
+        "local": "Bubi",
+        "en": "Bubi",
+        "slug": "bubi-zw1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1502",
+        "level": 2,
+        "name": {
+          "local": "Bubi",
+          "en": "Bubi",
+          "slug": "bubi-zw1502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.355",
+      "lon": "28.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150202",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw150202"
+    },
+    "code": {
+      "id": "ZW150202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1502",
+      "level": 2,
+      "name": {
+        "local": "Bubi",
+        "en": "Bubi",
+        "slug": "bubi-zw1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1502",
+        "level": 2,
+        "name": {
+          "local": "Bubi",
+          "en": "Bubi",
+          "slug": "bubi-zw1502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.283",
+      "lon": "28.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150220",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "20",
+      "en": "20",
+      "slug": "20-zw150220"
+    },
+    "code": {
+      "id": "ZW150220",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1502",
+      "level": 2,
+      "name": {
+        "local": "Bubi",
+        "en": "Bubi",
+        "slug": "bubi-zw1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1502",
+        "level": 2,
+        "name": {
+          "local": "Bubi",
+          "en": "Bubi",
+          "slug": "bubi-zw1502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.312",
+      "lon": "28.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150221",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "21",
+      "en": "21",
+      "slug": "21-zw150221"
+    },
+    "code": {
+      "id": "ZW150221",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1502",
+      "level": 2,
+      "name": {
+        "local": "Bubi",
+        "en": "Bubi",
+        "slug": "bubi-zw1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1502",
+        "level": 2,
+        "name": {
+          "local": "Bubi",
+          "en": "Bubi",
+          "slug": "bubi-zw1502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.429",
+      "lon": "28.82"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150222",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "22",
+      "en": "22",
+      "slug": "22-zw150222"
+    },
+    "code": {
+      "id": "ZW150222",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1502",
+      "level": 2,
+      "name": {
+        "local": "Bubi",
+        "en": "Bubi",
+        "slug": "bubi-zw1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1502",
+        "level": 2,
+        "name": {
+          "local": "Bubi",
+          "en": "Bubi",
+          "slug": "bubi-zw1502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.712",
+      "lon": "28.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150223",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "23",
+      "en": "23",
+      "slug": "23-zw150223"
+    },
+    "code": {
+      "id": "ZW150223",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1502",
+      "level": 2,
+      "name": {
+        "local": "Bubi",
+        "en": "Bubi",
+        "slug": "bubi-zw1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1502",
+        "level": 2,
+        "name": {
+          "local": "Bubi",
+          "en": "Bubi",
+          "slug": "bubi-zw1502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.834",
+      "lon": "28.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150203",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw150203"
+    },
+    "code": {
+      "id": "ZW150203",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1502",
+      "level": 2,
+      "name": {
+        "local": "Bubi",
+        "en": "Bubi",
+        "slug": "bubi-zw1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1502",
+        "level": 2,
+        "name": {
+          "local": "Bubi",
+          "en": "Bubi",
+          "slug": "bubi-zw1502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.294",
+      "lon": "28.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150204",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw150204"
+    },
+    "code": {
+      "id": "ZW150204",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1502",
+      "level": 2,
+      "name": {
+        "local": "Bubi",
+        "en": "Bubi",
+        "slug": "bubi-zw1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1502",
+        "level": 2,
+        "name": {
+          "local": "Bubi",
+          "en": "Bubi",
+          "slug": "bubi-zw1502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.347",
+      "lon": "28.295"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150205",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw150205"
+    },
+    "code": {
+      "id": "ZW150205",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1502",
+      "level": 2,
+      "name": {
+        "local": "Bubi",
+        "en": "Bubi",
+        "slug": "bubi-zw1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1502",
+        "level": 2,
+        "name": {
+          "local": "Bubi",
+          "en": "Bubi",
+          "slug": "bubi-zw1502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.452",
+      "lon": "28.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150206",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw150206"
+    },
+    "code": {
+      "id": "ZW150206",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1502",
+      "level": 2,
+      "name": {
+        "local": "Bubi",
+        "en": "Bubi",
+        "slug": "bubi-zw1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1502",
+        "level": 2,
+        "name": {
+          "local": "Bubi",
+          "en": "Bubi",
+          "slug": "bubi-zw1502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.388",
+      "lon": "28.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150207",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw150207"
+    },
+    "code": {
+      "id": "ZW150207",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1502",
+      "level": 2,
+      "name": {
+        "local": "Bubi",
+        "en": "Bubi",
+        "slug": "bubi-zw1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1502",
+        "level": 2,
+        "name": {
+          "local": "Bubi",
+          "en": "Bubi",
+          "slug": "bubi-zw1502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.322",
+      "lon": "28.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150208",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw150208"
+    },
+    "code": {
+      "id": "ZW150208",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1502",
+      "level": 2,
+      "name": {
+        "local": "Bubi",
+        "en": "Bubi",
+        "slug": "bubi-zw1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1502",
+        "level": 2,
+        "name": {
+          "local": "Bubi",
+          "en": "Bubi",
+          "slug": "bubi-zw1502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.466",
+      "lon": "28.535"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150209",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw150209"
+    },
+    "code": {
+      "id": "ZW150209",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1502",
+      "level": 2,
+      "name": {
+        "local": "Bubi",
+        "en": "Bubi",
+        "slug": "bubi-zw1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1502",
+        "level": 2,
+        "name": {
+          "local": "Bubi",
+          "en": "Bubi",
+          "slug": "bubi-zw1502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.603",
+      "lon": "28.546"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "ZW1427",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mhondoro-Ngezi",
+    "en": "Mhondoro-Ngezi",
+    "slug": "mhondoro-ngezi-zw1427"
+  },
+  "code": {
+    "id": "ZW1427",
+    "iso": null
+  },
+  "parent": {
+    "id": "ZW14",
+    "level": 1,
+    "name": {
+      "local": "Mashonaland West",
+      "en": "Mashonaland West",
+      "slug": "mashonaland-west-zw14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ZW14",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland West",
+        "en": "Mashonaland West",
+        "slug": "mashonaland-west-zw14"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.569",
+    "lon": "30.16"
+  },
+  "metadata": {},
+  "source": {}
+}

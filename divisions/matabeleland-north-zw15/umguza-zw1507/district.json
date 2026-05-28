@@ -1,0 +1,47 @@
+{
+  "id": "ZW1507",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Umguza",
+    "en": "Umguza",
+    "slug": "umguza-zw1507"
+  },
+  "code": {
+    "id": "ZW1507",
+    "iso": null
+  },
+  "parent": {
+    "id": "ZW15",
+    "level": 1,
+    "name": {
+      "local": "Matabeleland North",
+      "en": "Matabeleland North",
+      "slug": "matabeleland-north-zw15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ZW15",
+      "level": 1,
+      "name": {
+        "local": "Matabeleland North",
+        "en": "Matabeleland North",
+        "slug": "matabeleland-north-zw15"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.86",
+    "lon": "28.252"
+  },
+  "metadata": {},
+  "source": {}
+}

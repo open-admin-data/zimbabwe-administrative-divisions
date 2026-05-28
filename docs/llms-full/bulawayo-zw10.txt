@@ -1,0 +1,130 @@
+# Bulawayo — Zimbabwe Administrative Divisions
+
+> 1 districts, 29 wards
+> Code: ZW10
+> Coordinates: -20.106, 28.535
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Districts
+
+### Bulawayo
+
+Code: ZW1021, Coordinates: -20.106, 28.535
+Wards: 29
+
+#### 1
+
+Code: ZW102101, Coordinates: -20.152, 28.585
+
+#### 10
+
+Code: ZW102110, Coordinates: -20.123, 28.544
+
+#### 11
+
+Code: ZW102111, Coordinates: -20.113, 28.527
+
+#### 12
+
+Code: ZW102112, Coordinates: -20.135, 28.531
+
+#### 13
+
+Code: ZW102113, Coordinates: -20.149, 28.524
+
+#### 14
+
+Code: ZW102114, Coordinates: -20.132, 28.516
+
+#### 15
+
+Code: ZW102115, Coordinates: -20.109, 28.512
+
+#### 16
+
+Code: ZW102116, Coordinates: -20.105, 28.493
+
+#### 17
+
+Code: ZW102117, Coordinates: -20.098, 28.447
+
+#### 18
+
+Code: ZW102118, Coordinates: -20.137, 28.503
+
+#### 19
+
+Code: ZW102119, Coordinates: -20.146, 28.483
+
+#### 2
+
+Code: ZW102102, Coordinates: -20.052, 28.602
+
+#### 20
+
+Code: ZW102120, Coordinates: -20.175, 28.502
+
+#### 21
+
+Code: ZW102121, Coordinates: -20.175, 28.537
+
+#### 22
+
+Code: ZW102122, Coordinates: -20.182, 28.515
+
+#### 23
+
+Code: ZW102123, Coordinates: -20.19, 28.508
+
+#### 24
+
+Code: ZW102124, Coordinates: -20.192, 28.528
+
+#### 25
+
+Code: ZW102125, Coordinates: -20.204, 28.532
+
+#### 26
+
+Code: ZW102126, Coordinates: -20.218, 28.516
+
+#### 27
+
+Code: ZW102127, Coordinates: -20.158, 28.487
+
+#### 28
+
+Code: ZW102128, Coordinates: -20.079, 28.503
+
+#### 29
+
+Code: ZW102129, Coordinates: -20.126, 28.498
+
+#### 3
+
+Code: ZW102103, Coordinates: -20.122, 28.637
+
+#### 4
+
+Code: ZW102104, Coordinates: -20.195, 28.649
+
+#### 5
+
+Code: ZW102105, Coordinates: -20.19, 28.586
+
+#### 6
+
+Code: ZW102106, Coordinates: -20.211, 28.555
+
+#### 7
+
+Code: ZW102107, Coordinates: -20.157, 28.56
+
+#### 8
+
+Code: ZW102108, Coordinates: -20.135, 28.571
+
+#### 9
+
+Code: ZW102109, Coordinates: -20.145, 28.544
+

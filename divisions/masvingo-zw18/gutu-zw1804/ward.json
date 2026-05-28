@@ -1,0 +1,2270 @@
+[
+  {
+    "id": "ZW180401",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw180401"
+    },
+    "code": {
+      "id": "ZW180401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1804",
+      "level": 2,
+      "name": {
+        "local": "Gutu",
+        "en": "Gutu",
+        "slug": "gutu-zw1804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1804",
+        "level": 2,
+        "name": {
+          "local": "Gutu",
+          "en": "Gutu",
+          "slug": "gutu-zw1804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.326",
+      "lon": "31.013"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180410",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw180410"
+    },
+    "code": {
+      "id": "ZW180410",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1804",
+      "level": 2,
+      "name": {
+        "local": "Gutu",
+        "en": "Gutu",
+        "slug": "gutu-zw1804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1804",
+        "level": 2,
+        "name": {
+          "local": "Gutu",
+          "en": "Gutu",
+          "slug": "gutu-zw1804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.47",
+      "lon": "31.472"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180411",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw180411"
+    },
+    "code": {
+      "id": "ZW180411",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1804",
+      "level": 2,
+      "name": {
+        "local": "Gutu",
+        "en": "Gutu",
+        "slug": "gutu-zw1804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1804",
+        "level": 2,
+        "name": {
+          "local": "Gutu",
+          "en": "Gutu",
+          "slug": "gutu-zw1804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.594",
+      "lon": "31.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180412",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw180412"
+    },
+    "code": {
+      "id": "ZW180412",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1804",
+      "level": 2,
+      "name": {
+        "local": "Gutu",
+        "en": "Gutu",
+        "slug": "gutu-zw1804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1804",
+        "level": 2,
+        "name": {
+          "local": "Gutu",
+          "en": "Gutu",
+          "slug": "gutu-zw1804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.515",
+      "lon": "31.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180413",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw180413"
+    },
+    "code": {
+      "id": "ZW180413",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1804",
+      "level": 2,
+      "name": {
+        "local": "Gutu",
+        "en": "Gutu",
+        "slug": "gutu-zw1804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1804",
+        "level": 2,
+        "name": {
+          "local": "Gutu",
+          "en": "Gutu",
+          "slug": "gutu-zw1804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.597",
+      "lon": "31.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180414",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw180414"
+    },
+    "code": {
+      "id": "ZW180414",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1804",
+      "level": 2,
+      "name": {
+        "local": "Gutu",
+        "en": "Gutu",
+        "slug": "gutu-zw1804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1804",
+        "level": 2,
+        "name": {
+          "local": "Gutu",
+          "en": "Gutu",
+          "slug": "gutu-zw1804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.625",
+      "lon": "31.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180415",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw180415"
+    },
+    "code": {
+      "id": "ZW180415",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1804",
+      "level": 2,
+      "name": {
+        "local": "Gutu",
+        "en": "Gutu",
+        "slug": "gutu-zw1804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1804",
+        "level": 2,
+        "name": {
+          "local": "Gutu",
+          "en": "Gutu",
+          "slug": "gutu-zw1804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.737",
+      "lon": "31.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180416",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "16",
+      "en": "16",
+      "slug": "16-zw180416"
+    },
+    "code": {
+      "id": "ZW180416",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1804",
+      "level": 2,
+      "name": {
+        "local": "Gutu",
+        "en": "Gutu",
+        "slug": "gutu-zw1804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1804",
+        "level": 2,
+        "name": {
+          "local": "Gutu",
+          "en": "Gutu",
+          "slug": "gutu-zw1804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.777",
+      "lon": "31.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180417",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "17",
+      "en": "17",
+      "slug": "17-zw180417"
+    },
+    "code": {
+      "id": "ZW180417",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1804",
+      "level": 2,
+      "name": {
+        "local": "Gutu",
+        "en": "Gutu",
+        "slug": "gutu-zw1804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1804",
+        "level": 2,
+        "name": {
+          "local": "Gutu",
+          "en": "Gutu",
+          "slug": "gutu-zw1804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.667",
+      "lon": "31.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180418",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "18",
+      "en": "18",
+      "slug": "18-zw180418"
+    },
+    "code": {
+      "id": "ZW180418",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1804",
+      "level": 2,
+      "name": {
+        "local": "Gutu",
+        "en": "Gutu",
+        "slug": "gutu-zw1804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1804",
+        "level": 2,
+        "name": {
+          "local": "Gutu",
+          "en": "Gutu",
+          "slug": "gutu-zw1804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.807",
+      "lon": "31.564"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180419",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "19",
+      "en": "19",
+      "slug": "19-zw180419"
+    },
+    "code": {
+      "id": "ZW180419",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1804",
+      "level": 2,
+      "name": {
+        "local": "Gutu",
+        "en": "Gutu",
+        "slug": "gutu-zw1804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1804",
+        "level": 2,
+        "name": {
+          "local": "Gutu",
+          "en": "Gutu",
+          "slug": "gutu-zw1804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.679",
+      "lon": "31.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180402",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw180402"
+    },
+    "code": {
+      "id": "ZW180402",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1804",
+      "level": 2,
+      "name": {
+        "local": "Gutu",
+        "en": "Gutu",
+        "slug": "gutu-zw1804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1804",
+        "level": 2,
+        "name": {
+          "local": "Gutu",
+          "en": "Gutu",
+          "slug": "gutu-zw1804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.271",
+      "lon": "31.196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180420",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "20",
+      "en": "20",
+      "slug": "20-zw180420"
+    },
+    "code": {
+      "id": "ZW180420",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1804",
+      "level": 2,
+      "name": {
+        "local": "Gutu",
+        "en": "Gutu",
+        "slug": "gutu-zw1804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1804",
+        "level": 2,
+        "name": {
+          "local": "Gutu",
+          "en": "Gutu",
+          "slug": "gutu-zw1804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.764",
+      "lon": "31.288"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180421",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "21",
+      "en": "21",
+      "slug": "21-zw180421"
+    },
+    "code": {
+      "id": "ZW180421",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1804",
+      "level": 2,
+      "name": {
+        "local": "Gutu",
+        "en": "Gutu",
+        "slug": "gutu-zw1804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1804",
+        "level": 2,
+        "name": {
+          "local": "Gutu",
+          "en": "Gutu",
+          "slug": "gutu-zw1804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.643",
+      "lon": "31.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180422",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "22",
+      "en": "22",
+      "slug": "22-zw180422"
+    },
+    "code": {
+      "id": "ZW180422",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1804",
+      "level": 2,
+      "name": {
+        "local": "Gutu",
+        "en": "Gutu",
+        "slug": "gutu-zw1804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1804",
+        "level": 2,
+        "name": {
+          "local": "Gutu",
+          "en": "Gutu",
+          "slug": "gutu-zw1804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.712",
+      "lon": "31.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180423",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "23",
+      "en": "23",
+      "slug": "23-zw180423"
+    },
+    "code": {
+      "id": "ZW180423",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1804",
+      "level": 2,
+      "name": {
+        "local": "Gutu",
+        "en": "Gutu",
+        "slug": "gutu-zw1804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1804",
+        "level": 2,
+        "name": {
+          "local": "Gutu",
+          "en": "Gutu",
+          "slug": "gutu-zw1804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.852",
+      "lon": "31.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180424",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "24",
+      "en": "24",
+      "slug": "24-zw180424"
+    },
+    "code": {
+      "id": "ZW180424",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1804",
+      "level": 2,
+      "name": {
+        "local": "Gutu",
+        "en": "Gutu",
+        "slug": "gutu-zw1804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1804",
+        "level": 2,
+        "name": {
+          "local": "Gutu",
+          "en": "Gutu",
+          "slug": "gutu-zw1804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.852",
+      "lon": "31.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180425",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "25",
+      "en": "25",
+      "slug": "25-zw180425"
+    },
+    "code": {
+      "id": "ZW180425",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1804",
+      "level": 2,
+      "name": {
+        "local": "Gutu",
+        "en": "Gutu",
+        "slug": "gutu-zw1804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1804",
+        "level": 2,
+        "name": {
+          "local": "Gutu",
+          "en": "Gutu",
+          "slug": "gutu-zw1804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.924",
+      "lon": "31.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180426",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "26",
+      "en": "26",
+      "slug": "26-zw180426"
+    },
+    "code": {
+      "id": "ZW180426",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1804",
+      "level": 2,
+      "name": {
+        "local": "Gutu",
+        "en": "Gutu",
+        "slug": "gutu-zw1804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1804",
+        "level": 2,
+        "name": {
+          "local": "Gutu",
+          "en": "Gutu",
+          "slug": "gutu-zw1804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.83",
+      "lon": "31.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180427",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "27",
+      "en": "27",
+      "slug": "27-zw180427"
+    },
+    "code": {
+      "id": "ZW180427",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1804",
+      "level": 2,
+      "name": {
+        "local": "Gutu",
+        "en": "Gutu",
+        "slug": "gutu-zw1804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1804",
+        "level": 2,
+        "name": {
+          "local": "Gutu",
+          "en": "Gutu",
+          "slug": "gutu-zw1804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.96",
+      "lon": "31.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180428",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "28",
+      "en": "28",
+      "slug": "28-zw180428"
+    },
+    "code": {
+      "id": "ZW180428",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1804",
+      "level": 2,
+      "name": {
+        "local": "Gutu",
+        "en": "Gutu",
+        "slug": "gutu-zw1804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1804",
+        "level": 2,
+        "name": {
+          "local": "Gutu",
+          "en": "Gutu",
+          "slug": "gutu-zw1804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.875",
+      "lon": "31.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180429",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "29",
+      "en": "29",
+      "slug": "29-zw180429"
+    },
+    "code": {
+      "id": "ZW180429",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1804",
+      "level": 2,
+      "name": {
+        "local": "Gutu",
+        "en": "Gutu",
+        "slug": "gutu-zw1804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1804",
+        "level": 2,
+        "name": {
+          "local": "Gutu",
+          "en": "Gutu",
+          "slug": "gutu-zw1804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.696",
+      "lon": "31.074"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180403",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw180403"
+    },
+    "code": {
+      "id": "ZW180403",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1804",
+      "level": 2,
+      "name": {
+        "local": "Gutu",
+        "en": "Gutu",
+        "slug": "gutu-zw1804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1804",
+        "level": 2,
+        "name": {
+          "local": "Gutu",
+          "en": "Gutu",
+          "slug": "gutu-zw1804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.425",
+      "lon": "31.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180430",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "30",
+      "en": "30",
+      "slug": "30-zw180430"
+    },
+    "code": {
+      "id": "ZW180430",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1804",
+      "level": 2,
+      "name": {
+        "local": "Gutu",
+        "en": "Gutu",
+        "slug": "gutu-zw1804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1804",
+        "level": 2,
+        "name": {
+          "local": "Gutu",
+          "en": "Gutu",
+          "slug": "gutu-zw1804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.894",
+      "lon": "31.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180431",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "31",
+      "en": "31",
+      "slug": "31-zw180431"
+    },
+    "code": {
+      "id": "ZW180431",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1804",
+      "level": 2,
+      "name": {
+        "local": "Gutu",
+        "en": "Gutu",
+        "slug": "gutu-zw1804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1804",
+        "level": 2,
+        "name": {
+          "local": "Gutu",
+          "en": "Gutu",
+          "slug": "gutu-zw1804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.799",
+      "lon": "31.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180432",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "32",
+      "en": "32",
+      "slug": "32-zw180432"
+    },
+    "code": {
+      "id": "ZW180432",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1804",
+      "level": 2,
+      "name": {
+        "local": "Gutu",
+        "en": "Gutu",
+        "slug": "gutu-zw1804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1804",
+        "level": 2,
+        "name": {
+          "local": "Gutu",
+          "en": "Gutu",
+          "slug": "gutu-zw1804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.628",
+      "lon": "30.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180433",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "33",
+      "en": "33",
+      "slug": "33-zw180433"
+    },
+    "code": {
+      "id": "ZW180433",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1804",
+      "level": 2,
+      "name": {
+        "local": "Gutu",
+        "en": "Gutu",
+        "slug": "gutu-zw1804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1804",
+        "level": 2,
+        "name": {
+          "local": "Gutu",
+          "en": "Gutu",
+          "slug": "gutu-zw1804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.643",
+      "lon": "31.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180434",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "34",
+      "en": "34",
+      "slug": "34-zw180434"
+    },
+    "code": {
+      "id": "ZW180434",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1804",
+      "level": 2,
+      "name": {
+        "local": "Gutu",
+        "en": "Gutu",
+        "slug": "gutu-zw1804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1804",
+        "level": 2,
+        "name": {
+          "local": "Gutu",
+          "en": "Gutu",
+          "slug": "gutu-zw1804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.65",
+      "lon": "31.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180435",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "35",
+      "en": "35",
+      "slug": "35-zw180435"
+    },
+    "code": {
+      "id": "ZW180435",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1804",
+      "level": 2,
+      "name": {
+        "local": "Gutu",
+        "en": "Gutu",
+        "slug": "gutu-zw1804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1804",
+        "level": 2,
+        "name": {
+          "local": "Gutu",
+          "en": "Gutu",
+          "slug": "gutu-zw1804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.651",
+      "lon": "31.295"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180436",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "36",
+      "en": "36",
+      "slug": "36-zw180436"
+    },
+    "code": {
+      "id": "ZW180436",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1804",
+      "level": 2,
+      "name": {
+        "local": "Gutu",
+        "en": "Gutu",
+        "slug": "gutu-zw1804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1804",
+        "level": 2,
+        "name": {
+          "local": "Gutu",
+          "en": "Gutu",
+          "slug": "gutu-zw1804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.74",
+      "lon": "31.643"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180437",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "37",
+      "en": "37",
+      "slug": "37-zw180437"
+    },
+    "code": {
+      "id": "ZW180437",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1804",
+      "level": 2,
+      "name": {
+        "local": "Gutu",
+        "en": "Gutu",
+        "slug": "gutu-zw1804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1804",
+        "level": 2,
+        "name": {
+          "local": "Gutu",
+          "en": "Gutu",
+          "slug": "gutu-zw1804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.683",
+      "lon": "31.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180438",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "38",
+      "en": "38",
+      "slug": "38-zw180438"
+    },
+    "code": {
+      "id": "ZW180438",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1804",
+      "level": 2,
+      "name": {
+        "local": "Gutu",
+        "en": "Gutu",
+        "slug": "gutu-zw1804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1804",
+        "level": 2,
+        "name": {
+          "local": "Gutu",
+          "en": "Gutu",
+          "slug": "gutu-zw1804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.676",
+      "lon": "31.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180439",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "39",
+      "en": "39",
+      "slug": "39-zw180439"
+    },
+    "code": {
+      "id": "ZW180439",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1804",
+      "level": 2,
+      "name": {
+        "local": "Gutu",
+        "en": "Gutu",
+        "slug": "gutu-zw1804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1804",
+        "level": 2,
+        "name": {
+          "local": "Gutu",
+          "en": "Gutu",
+          "slug": "gutu-zw1804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.658",
+      "lon": "31.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180404",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw180404"
+    },
+    "code": {
+      "id": "ZW180404",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1804",
+      "level": 2,
+      "name": {
+        "local": "Gutu",
+        "en": "Gutu",
+        "slug": "gutu-zw1804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1804",
+        "level": 2,
+        "name": {
+          "local": "Gutu",
+          "en": "Gutu",
+          "slug": "gutu-zw1804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.403",
+      "lon": "31.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180440",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "40",
+      "en": "40",
+      "slug": "40-zw180440"
+    },
+    "code": {
+      "id": "ZW180440",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1804",
+      "level": 2,
+      "name": {
+        "local": "Gutu",
+        "en": "Gutu",
+        "slug": "gutu-zw1804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1804",
+        "level": 2,
+        "name": {
+          "local": "Gutu",
+          "en": "Gutu",
+          "slug": "gutu-zw1804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.762",
+      "lon": "31.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180441",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "41",
+      "en": "41",
+      "slug": "41-zw180441"
+    },
+    "code": {
+      "id": "ZW180441",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1804",
+      "level": 2,
+      "name": {
+        "local": "Gutu",
+        "en": "Gutu",
+        "slug": "gutu-zw1804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1804",
+        "level": 2,
+        "name": {
+          "local": "Gutu",
+          "en": "Gutu",
+          "slug": "gutu-zw1804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.932",
+      "lon": "31.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180442",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "42",
+      "en": "42",
+      "slug": "42-zw180442"
+    },
+    "code": {
+      "id": "ZW180442",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1804",
+      "level": 2,
+      "name": {
+        "local": "Gutu",
+        "en": "Gutu",
+        "slug": "gutu-zw1804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1804",
+        "level": 2,
+        "name": {
+          "local": "Gutu",
+          "en": "Gutu",
+          "slug": "gutu-zw1804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.769",
+      "lon": "31.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180405",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw180405"
+    },
+    "code": {
+      "id": "ZW180405",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1804",
+      "level": 2,
+      "name": {
+        "local": "Gutu",
+        "en": "Gutu",
+        "slug": "gutu-zw1804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1804",
+        "level": 2,
+        "name": {
+          "local": "Gutu",
+          "en": "Gutu",
+          "slug": "gutu-zw1804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.494",
+      "lon": "30.929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180406",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw180406"
+    },
+    "code": {
+      "id": "ZW180406",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1804",
+      "level": 2,
+      "name": {
+        "local": "Gutu",
+        "en": "Gutu",
+        "slug": "gutu-zw1804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1804",
+        "level": 2,
+        "name": {
+          "local": "Gutu",
+          "en": "Gutu",
+          "slug": "gutu-zw1804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.557",
+      "lon": "30.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180407",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw180407"
+    },
+    "code": {
+      "id": "ZW180407",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1804",
+      "level": 2,
+      "name": {
+        "local": "Gutu",
+        "en": "Gutu",
+        "slug": "gutu-zw1804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1804",
+        "level": 2,
+        "name": {
+          "local": "Gutu",
+          "en": "Gutu",
+          "slug": "gutu-zw1804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.575",
+      "lon": "31.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180408",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw180408"
+    },
+    "code": {
+      "id": "ZW180408",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1804",
+      "level": 2,
+      "name": {
+        "local": "Gutu",
+        "en": "Gutu",
+        "slug": "gutu-zw1804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1804",
+        "level": 2,
+        "name": {
+          "local": "Gutu",
+          "en": "Gutu",
+          "slug": "gutu-zw1804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.583",
+      "lon": "31.203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180409",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw180409"
+    },
+    "code": {
+      "id": "ZW180409",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1804",
+      "level": 2,
+      "name": {
+        "local": "Gutu",
+        "en": "Gutu",
+        "slug": "gutu-zw1804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1804",
+        "level": 2,
+        "name": {
+          "local": "Gutu",
+          "en": "Gutu",
+          "slug": "gutu-zw1804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.565",
+      "lon": "31.336"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

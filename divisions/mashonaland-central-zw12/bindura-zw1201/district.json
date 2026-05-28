@@ -1,0 +1,47 @@
+{
+  "id": "ZW1201",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bindura",
+    "en": "Bindura",
+    "slug": "bindura-zw1201"
+  },
+  "code": {
+    "id": "ZW1201",
+    "iso": null
+  },
+  "parent": {
+    "id": "ZW12",
+    "level": 1,
+    "name": {
+      "local": "Mashonaland Central",
+      "en": "Mashonaland Central",
+      "slug": "mashonaland-central-zw12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ZW12",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland Central",
+        "en": "Mashonaland Central",
+        "slug": "mashonaland-central-zw12"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 21
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.238",
+    "lon": "31.317"
+  },
+  "metadata": {},
+  "source": {}
+}

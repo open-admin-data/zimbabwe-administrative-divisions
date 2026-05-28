@@ -1,0 +1,47 @@
+{
+  "id": "ZW1807",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Zaka",
+    "en": "Zaka",
+    "slug": "zaka-zw1807"
+  },
+  "code": {
+    "id": "ZW1807",
+    "iso": null
+  },
+  "parent": {
+    "id": "ZW18",
+    "level": 1,
+    "name": {
+      "local": "Masvingo",
+      "en": "Masvingo",
+      "slug": "masvingo-zw18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ZW18",
+      "level": 1,
+      "name": {
+        "local": "Masvingo",
+        "en": "Masvingo",
+        "slug": "masvingo-zw18"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 34
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.378",
+    "lon": "31.449"
+  },
+  "metadata": {},
+  "source": {}
+}

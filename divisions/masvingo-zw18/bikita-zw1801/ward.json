@@ -1,0 +1,1730 @@
+[
+  {
+    "id": "ZW180101",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw180101"
+    },
+    "code": {
+      "id": "ZW180101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1801",
+      "level": 2,
+      "name": {
+        "local": "Bikita",
+        "en": "Bikita",
+        "slug": "bikita-zw1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1801",
+        "level": 2,
+        "name": {
+          "local": "Bikita",
+          "en": "Bikita",
+          "slug": "bikita-zw1801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.534",
+      "lon": "31.781"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180110",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw180110"
+    },
+    "code": {
+      "id": "ZW180110",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1801",
+      "level": 2,
+      "name": {
+        "local": "Bikita",
+        "en": "Bikita",
+        "slug": "bikita-zw1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1801",
+        "level": 2,
+        "name": {
+          "local": "Bikita",
+          "en": "Bikita",
+          "slug": "bikita-zw1801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.05",
+      "lon": "31.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180111",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw180111"
+    },
+    "code": {
+      "id": "ZW180111",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1801",
+      "level": 2,
+      "name": {
+        "local": "Bikita",
+        "en": "Bikita",
+        "slug": "bikita-zw1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1801",
+        "level": 2,
+        "name": {
+          "local": "Bikita",
+          "en": "Bikita",
+          "slug": "bikita-zw1801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.974",
+      "lon": "31.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180112",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw180112"
+    },
+    "code": {
+      "id": "ZW180112",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1801",
+      "level": 2,
+      "name": {
+        "local": "Bikita",
+        "en": "Bikita",
+        "slug": "bikita-zw1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1801",
+        "level": 2,
+        "name": {
+          "local": "Bikita",
+          "en": "Bikita",
+          "slug": "bikita-zw1801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.934",
+      "lon": "31.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180113",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw180113"
+    },
+    "code": {
+      "id": "ZW180113",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1801",
+      "level": 2,
+      "name": {
+        "local": "Bikita",
+        "en": "Bikita",
+        "slug": "bikita-zw1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1801",
+        "level": 2,
+        "name": {
+          "local": "Bikita",
+          "en": "Bikita",
+          "slug": "bikita-zw1801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.016",
+      "lon": "31.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180114",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw180114"
+    },
+    "code": {
+      "id": "ZW180114",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1801",
+      "level": 2,
+      "name": {
+        "local": "Bikita",
+        "en": "Bikita",
+        "slug": "bikita-zw1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1801",
+        "level": 2,
+        "name": {
+          "local": "Bikita",
+          "en": "Bikita",
+          "slug": "bikita-zw1801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.131",
+      "lon": "31.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180115",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw180115"
+    },
+    "code": {
+      "id": "ZW180115",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1801",
+      "level": 2,
+      "name": {
+        "local": "Bikita",
+        "en": "Bikita",
+        "slug": "bikita-zw1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1801",
+        "level": 2,
+        "name": {
+          "local": "Bikita",
+          "en": "Bikita",
+          "slug": "bikita-zw1801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.038",
+      "lon": "31.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180116",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "16",
+      "en": "16",
+      "slug": "16-zw180116"
+    },
+    "code": {
+      "id": "ZW180116",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1801",
+      "level": 2,
+      "name": {
+        "local": "Bikita",
+        "en": "Bikita",
+        "slug": "bikita-zw1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1801",
+        "level": 2,
+        "name": {
+          "local": "Bikita",
+          "en": "Bikita",
+          "slug": "bikita-zw1801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.101",
+      "lon": "31.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180117",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "17",
+      "en": "17",
+      "slug": "17-zw180117"
+    },
+    "code": {
+      "id": "ZW180117",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1801",
+      "level": 2,
+      "name": {
+        "local": "Bikita",
+        "en": "Bikita",
+        "slug": "bikita-zw1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1801",
+        "level": 2,
+        "name": {
+          "local": "Bikita",
+          "en": "Bikita",
+          "slug": "bikita-zw1801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.053",
+      "lon": "31.88"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180118",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "18",
+      "en": "18",
+      "slug": "18-zw180118"
+    },
+    "code": {
+      "id": "ZW180118",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1801",
+      "level": 2,
+      "name": {
+        "local": "Bikita",
+        "en": "Bikita",
+        "slug": "bikita-zw1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1801",
+        "level": 2,
+        "name": {
+          "local": "Bikita",
+          "en": "Bikita",
+          "slug": "bikita-zw1801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.965",
+      "lon": "31.892"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180119",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "19",
+      "en": "19",
+      "slug": "19-zw180119"
+    },
+    "code": {
+      "id": "ZW180119",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1801",
+      "level": 2,
+      "name": {
+        "local": "Bikita",
+        "en": "Bikita",
+        "slug": "bikita-zw1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1801",
+        "level": 2,
+        "name": {
+          "local": "Bikita",
+          "en": "Bikita",
+          "slug": "bikita-zw1801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.962",
+      "lon": "31.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180102",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw180102"
+    },
+    "code": {
+      "id": "ZW180102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1801",
+      "level": 2,
+      "name": {
+        "local": "Bikita",
+        "en": "Bikita",
+        "slug": "bikita-zw1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1801",
+        "level": 2,
+        "name": {
+          "local": "Bikita",
+          "en": "Bikita",
+          "slug": "bikita-zw1801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.437",
+      "lon": "31.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180120",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "20",
+      "en": "20",
+      "slug": "20-zw180120"
+    },
+    "code": {
+      "id": "ZW180120",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1801",
+      "level": 2,
+      "name": {
+        "local": "Bikita",
+        "en": "Bikita",
+        "slug": "bikita-zw1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1801",
+        "level": 2,
+        "name": {
+          "local": "Bikita",
+          "en": "Bikita",
+          "slug": "bikita-zw1801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.9",
+      "lon": "31.936"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180121",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "21",
+      "en": "21",
+      "slug": "21-zw180121"
+    },
+    "code": {
+      "id": "ZW180121",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1801",
+      "level": 2,
+      "name": {
+        "local": "Bikita",
+        "en": "Bikita",
+        "slug": "bikita-zw1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1801",
+        "level": 2,
+        "name": {
+          "local": "Bikita",
+          "en": "Bikita",
+          "slug": "bikita-zw1801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.895",
+      "lon": "31.794"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180122",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "22",
+      "en": "22",
+      "slug": "22-zw180122"
+    },
+    "code": {
+      "id": "ZW180122",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1801",
+      "level": 2,
+      "name": {
+        "local": "Bikita",
+        "en": "Bikita",
+        "slug": "bikita-zw1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1801",
+        "level": 2,
+        "name": {
+          "local": "Bikita",
+          "en": "Bikita",
+          "slug": "bikita-zw1801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.892",
+      "lon": "31.681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180123",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "23",
+      "en": "23",
+      "slug": "23-zw180123"
+    },
+    "code": {
+      "id": "ZW180123",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1801",
+      "level": 2,
+      "name": {
+        "local": "Bikita",
+        "en": "Bikita",
+        "slug": "bikita-zw1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1801",
+        "level": 2,
+        "name": {
+          "local": "Bikita",
+          "en": "Bikita",
+          "slug": "bikita-zw1801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.915",
+      "lon": "31.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180124",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "24",
+      "en": "24",
+      "slug": "24-zw180124"
+    },
+    "code": {
+      "id": "ZW180124",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1801",
+      "level": 2,
+      "name": {
+        "local": "Bikita",
+        "en": "Bikita",
+        "slug": "bikita-zw1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1801",
+        "level": 2,
+        "name": {
+          "local": "Bikita",
+          "en": "Bikita",
+          "slug": "bikita-zw1801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.951",
+      "lon": "32.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180125",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "25",
+      "en": "25",
+      "slug": "25-zw180125"
+    },
+    "code": {
+      "id": "ZW180125",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1801",
+      "level": 2,
+      "name": {
+        "local": "Bikita",
+        "en": "Bikita",
+        "slug": "bikita-zw1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1801",
+        "level": 2,
+        "name": {
+          "local": "Bikita",
+          "en": "Bikita",
+          "slug": "bikita-zw1801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.138",
+      "lon": "31.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180126",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "26",
+      "en": "26",
+      "slug": "26-zw180126"
+    },
+    "code": {
+      "id": "ZW180126",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1801",
+      "level": 2,
+      "name": {
+        "local": "Bikita",
+        "en": "Bikita",
+        "slug": "bikita-zw1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1801",
+        "level": 2,
+        "name": {
+          "local": "Bikita",
+          "en": "Bikita",
+          "slug": "bikita-zw1801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.308",
+      "lon": "31.932"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180127",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "27",
+      "en": "27",
+      "slug": "27-zw180127"
+    },
+    "code": {
+      "id": "ZW180127",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1801",
+      "level": 2,
+      "name": {
+        "local": "Bikita",
+        "en": "Bikita",
+        "slug": "bikita-zw1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1801",
+        "level": 2,
+        "name": {
+          "local": "Bikita",
+          "en": "Bikita",
+          "slug": "bikita-zw1801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.211",
+      "lon": "32.17"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180128",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "28",
+      "en": "28",
+      "slug": "28-zw180128"
+    },
+    "code": {
+      "id": "ZW180128",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1801",
+      "level": 2,
+      "name": {
+        "local": "Bikita",
+        "en": "Bikita",
+        "slug": "bikita-zw1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1801",
+        "level": 2,
+        "name": {
+          "local": "Bikita",
+          "en": "Bikita",
+          "slug": "bikita-zw1801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.289",
+      "lon": "31.805"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180129",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "29",
+      "en": "29",
+      "slug": "29-zw180129"
+    },
+    "code": {
+      "id": "ZW180129",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1801",
+      "level": 2,
+      "name": {
+        "local": "Bikita",
+        "en": "Bikita",
+        "slug": "bikita-zw1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1801",
+        "level": 2,
+        "name": {
+          "local": "Bikita",
+          "en": "Bikita",
+          "slug": "bikita-zw1801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.313",
+      "lon": "31.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180103",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw180103"
+    },
+    "code": {
+      "id": "ZW180103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1801",
+      "level": 2,
+      "name": {
+        "local": "Bikita",
+        "en": "Bikita",
+        "slug": "bikita-zw1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1801",
+        "level": 2,
+        "name": {
+          "local": "Bikita",
+          "en": "Bikita",
+          "slug": "bikita-zw1801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.436",
+      "lon": "31.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180130",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "30",
+      "en": "30",
+      "slug": "30-zw180130"
+    },
+    "code": {
+      "id": "ZW180130",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1801",
+      "level": 2,
+      "name": {
+        "local": "Bikita",
+        "en": "Bikita",
+        "slug": "bikita-zw1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1801",
+        "level": 2,
+        "name": {
+          "local": "Bikita",
+          "en": "Bikita",
+          "slug": "bikita-zw1801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.957",
+      "lon": "31.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180131",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "31",
+      "en": "31",
+      "slug": "31-zw180131"
+    },
+    "code": {
+      "id": "ZW180131",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1801",
+      "level": 2,
+      "name": {
+        "local": "Bikita",
+        "en": "Bikita",
+        "slug": "bikita-zw1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1801",
+        "level": 2,
+        "name": {
+          "local": "Bikita",
+          "en": "Bikita",
+          "slug": "bikita-zw1801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.007",
+      "lon": "31.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180132",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "32",
+      "en": "32",
+      "slug": "32-zw180132"
+    },
+    "code": {
+      "id": "ZW180132",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1801",
+      "level": 2,
+      "name": {
+        "local": "Bikita",
+        "en": "Bikita",
+        "slug": "bikita-zw1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1801",
+        "level": 2,
+        "name": {
+          "local": "Bikita",
+          "en": "Bikita",
+          "slug": "bikita-zw1801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.978",
+      "lon": "31.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180104",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw180104"
+    },
+    "code": {
+      "id": "ZW180104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1801",
+      "level": 2,
+      "name": {
+        "local": "Bikita",
+        "en": "Bikita",
+        "slug": "bikita-zw1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1801",
+        "level": 2,
+        "name": {
+          "local": "Bikita",
+          "en": "Bikita",
+          "slug": "bikita-zw1801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.227",
+      "lon": "31.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180105",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw180105"
+    },
+    "code": {
+      "id": "ZW180105",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1801",
+      "level": 2,
+      "name": {
+        "local": "Bikita",
+        "en": "Bikita",
+        "slug": "bikita-zw1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1801",
+        "level": 2,
+        "name": {
+          "local": "Bikita",
+          "en": "Bikita",
+          "slug": "bikita-zw1801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.148",
+      "lon": "31.641"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180106",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw180106"
+    },
+    "code": {
+      "id": "ZW180106",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1801",
+      "level": 2,
+      "name": {
+        "local": "Bikita",
+        "en": "Bikita",
+        "slug": "bikita-zw1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1801",
+        "level": 2,
+        "name": {
+          "local": "Bikita",
+          "en": "Bikita",
+          "slug": "bikita-zw1801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.202",
+      "lon": "31.728"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180107",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw180107"
+    },
+    "code": {
+      "id": "ZW180107",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1801",
+      "level": 2,
+      "name": {
+        "local": "Bikita",
+        "en": "Bikita",
+        "slug": "bikita-zw1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1801",
+        "level": 2,
+        "name": {
+          "local": "Bikita",
+          "en": "Bikita",
+          "slug": "bikita-zw1801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.198",
+      "lon": "31.807"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180108",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw180108"
+    },
+    "code": {
+      "id": "ZW180108",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1801",
+      "level": 2,
+      "name": {
+        "local": "Bikita",
+        "en": "Bikita",
+        "slug": "bikita-zw1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1801",
+        "level": 2,
+        "name": {
+          "local": "Bikita",
+          "en": "Bikita",
+          "slug": "bikita-zw1801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.157",
+      "lon": "31.841"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180109",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw180109"
+    },
+    "code": {
+      "id": "ZW180109",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1801",
+      "level": 2,
+      "name": {
+        "local": "Bikita",
+        "en": "Bikita",
+        "slug": "bikita-zw1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1801",
+        "level": 2,
+        "name": {
+          "local": "Bikita",
+          "en": "Bikita",
+          "slug": "bikita-zw1801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.093",
+      "lon": "31.601"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

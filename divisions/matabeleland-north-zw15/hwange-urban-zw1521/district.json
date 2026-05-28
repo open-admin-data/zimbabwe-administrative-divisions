@@ -1,0 +1,47 @@
+{
+  "id": "ZW1521",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Hwange Urban",
+    "en": "Hwange Urban",
+    "slug": "hwange-urban-zw1521"
+  },
+  "code": {
+    "id": "ZW1521",
+    "iso": null
+  },
+  "parent": {
+    "id": "ZW15",
+    "level": 1,
+    "name": {
+      "local": "Matabeleland North",
+      "en": "Matabeleland North",
+      "slug": "matabeleland-north-zw15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ZW15",
+      "level": 1,
+      "name": {
+        "local": "Matabeleland North",
+        "en": "Matabeleland North",
+        "slug": "matabeleland-north-zw15"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.335",
+    "lon": "26.481"
+  },
+  "metadata": {},
+  "source": {}
+}

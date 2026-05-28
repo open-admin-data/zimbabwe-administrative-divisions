@@ -1,0 +1,1622 @@
+[
+  {
+    "id": "ZW130101",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw130101"
+    },
+    "code": {
+      "id": "ZW130101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1301",
+      "level": 2,
+      "name": {
+        "local": "Chikomba",
+        "en": "Chikomba",
+        "slug": "chikomba-zw1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1301",
+        "level": 2,
+        "name": {
+          "local": "Chikomba",
+          "en": "Chikomba",
+          "slug": "chikomba-zw1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.593",
+      "lon": "31.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130110",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw130110"
+    },
+    "code": {
+      "id": "ZW130110",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1301",
+      "level": 2,
+      "name": {
+        "local": "Chikomba",
+        "en": "Chikomba",
+        "slug": "chikomba-zw1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1301",
+        "level": 2,
+        "name": {
+          "local": "Chikomba",
+          "en": "Chikomba",
+          "slug": "chikomba-zw1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.99",
+      "lon": "30.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130111",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw130111"
+    },
+    "code": {
+      "id": "ZW130111",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1301",
+      "level": 2,
+      "name": {
+        "local": "Chikomba",
+        "en": "Chikomba",
+        "slug": "chikomba-zw1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1301",
+        "level": 2,
+        "name": {
+          "local": "Chikomba",
+          "en": "Chikomba",
+          "slug": "chikomba-zw1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.004",
+      "lon": "30.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130112",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw130112"
+    },
+    "code": {
+      "id": "ZW130112",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1301",
+      "level": 2,
+      "name": {
+        "local": "Chikomba",
+        "en": "Chikomba",
+        "slug": "chikomba-zw1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1301",
+        "level": 2,
+        "name": {
+          "local": "Chikomba",
+          "en": "Chikomba",
+          "slug": "chikomba-zw1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.995",
+      "lon": "30.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130113",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw130113"
+    },
+    "code": {
+      "id": "ZW130113",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1301",
+      "level": 2,
+      "name": {
+        "local": "Chikomba",
+        "en": "Chikomba",
+        "slug": "chikomba-zw1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1301",
+        "level": 2,
+        "name": {
+          "local": "Chikomba",
+          "en": "Chikomba",
+          "slug": "chikomba-zw1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.793",
+      "lon": "30.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130114",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw130114"
+    },
+    "code": {
+      "id": "ZW130114",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1301",
+      "level": 2,
+      "name": {
+        "local": "Chikomba",
+        "en": "Chikomba",
+        "slug": "chikomba-zw1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1301",
+        "level": 2,
+        "name": {
+          "local": "Chikomba",
+          "en": "Chikomba",
+          "slug": "chikomba-zw1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.171",
+      "lon": "31.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130115",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw130115"
+    },
+    "code": {
+      "id": "ZW130115",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1301",
+      "level": 2,
+      "name": {
+        "local": "Chikomba",
+        "en": "Chikomba",
+        "slug": "chikomba-zw1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1301",
+        "level": 2,
+        "name": {
+          "local": "Chikomba",
+          "en": "Chikomba",
+          "slug": "chikomba-zw1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.075",
+      "lon": "31.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130116",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "16",
+      "en": "16",
+      "slug": "16-zw130116"
+    },
+    "code": {
+      "id": "ZW130116",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1301",
+      "level": 2,
+      "name": {
+        "local": "Chikomba",
+        "en": "Chikomba",
+        "slug": "chikomba-zw1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1301",
+        "level": 2,
+        "name": {
+          "local": "Chikomba",
+          "en": "Chikomba",
+          "slug": "chikomba-zw1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.071",
+      "lon": "31.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130117",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "17",
+      "en": "17",
+      "slug": "17-zw130117"
+    },
+    "code": {
+      "id": "ZW130117",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1301",
+      "level": 2,
+      "name": {
+        "local": "Chikomba",
+        "en": "Chikomba",
+        "slug": "chikomba-zw1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1301",
+        "level": 2,
+        "name": {
+          "local": "Chikomba",
+          "en": "Chikomba",
+          "slug": "chikomba-zw1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.936",
+      "lon": "31.24"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130118",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "18",
+      "en": "18",
+      "slug": "18-zw130118"
+    },
+    "code": {
+      "id": "ZW130118",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1301",
+      "level": 2,
+      "name": {
+        "local": "Chikomba",
+        "en": "Chikomba",
+        "slug": "chikomba-zw1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1301",
+        "level": 2,
+        "name": {
+          "local": "Chikomba",
+          "en": "Chikomba",
+          "slug": "chikomba-zw1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.013",
+      "lon": "31.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130119",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "19",
+      "en": "19",
+      "slug": "19-zw130119"
+    },
+    "code": {
+      "id": "ZW130119",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1301",
+      "level": 2,
+      "name": {
+        "local": "Chikomba",
+        "en": "Chikomba",
+        "slug": "chikomba-zw1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1301",
+        "level": 2,
+        "name": {
+          "local": "Chikomba",
+          "en": "Chikomba",
+          "slug": "chikomba-zw1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.115",
+      "lon": "31.293"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130102",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw130102"
+    },
+    "code": {
+      "id": "ZW130102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1301",
+      "level": 2,
+      "name": {
+        "local": "Chikomba",
+        "en": "Chikomba",
+        "slug": "chikomba-zw1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1301",
+        "level": 2,
+        "name": {
+          "local": "Chikomba",
+          "en": "Chikomba",
+          "slug": "chikomba-zw1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.709",
+      "lon": "31.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130120",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "20",
+      "en": "20",
+      "slug": "20-zw130120"
+    },
+    "code": {
+      "id": "ZW130120",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1301",
+      "level": 2,
+      "name": {
+        "local": "Chikomba",
+        "en": "Chikomba",
+        "slug": "chikomba-zw1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1301",
+        "level": 2,
+        "name": {
+          "local": "Chikomba",
+          "en": "Chikomba",
+          "slug": "chikomba-zw1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.046",
+      "lon": "31.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130121",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "21",
+      "en": "21",
+      "slug": "21-zw130121"
+    },
+    "code": {
+      "id": "ZW130121",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1301",
+      "level": 2,
+      "name": {
+        "local": "Chikomba",
+        "en": "Chikomba",
+        "slug": "chikomba-zw1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1301",
+        "level": 2,
+        "name": {
+          "local": "Chikomba",
+          "en": "Chikomba",
+          "slug": "chikomba-zw1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.958",
+      "lon": "31.331"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130122",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "22",
+      "en": "22",
+      "slug": "22-zw130122"
+    },
+    "code": {
+      "id": "ZW130122",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1301",
+      "level": 2,
+      "name": {
+        "local": "Chikomba",
+        "en": "Chikomba",
+        "slug": "chikomba-zw1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1301",
+        "level": 2,
+        "name": {
+          "local": "Chikomba",
+          "en": "Chikomba",
+          "slug": "chikomba-zw1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.856",
+      "lon": "31.401"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130123",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "23",
+      "en": "23",
+      "slug": "23-zw130123"
+    },
+    "code": {
+      "id": "ZW130123",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1301",
+      "level": 2,
+      "name": {
+        "local": "Chikomba",
+        "en": "Chikomba",
+        "slug": "chikomba-zw1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1301",
+        "level": 2,
+        "name": {
+          "local": "Chikomba",
+          "en": "Chikomba",
+          "slug": "chikomba-zw1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.761",
+      "lon": "31.419"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130124",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "24",
+      "en": "24",
+      "slug": "24-zw130124"
+    },
+    "code": {
+      "id": "ZW130124",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1301",
+      "level": 2,
+      "name": {
+        "local": "Chikomba",
+        "en": "Chikomba",
+        "slug": "chikomba-zw1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1301",
+        "level": 2,
+        "name": {
+          "local": "Chikomba",
+          "en": "Chikomba",
+          "slug": "chikomba-zw1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.826",
+      "lon": "31.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130125",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "25",
+      "en": "25",
+      "slug": "25-zw130125"
+    },
+    "code": {
+      "id": "ZW130125",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1301",
+      "level": 2,
+      "name": {
+        "local": "Chikomba",
+        "en": "Chikomba",
+        "slug": "chikomba-zw1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1301",
+        "level": 2,
+        "name": {
+          "local": "Chikomba",
+          "en": "Chikomba",
+          "slug": "chikomba-zw1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.933",
+      "lon": "31.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130126",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "26",
+      "en": "26",
+      "slug": "26-zw130126"
+    },
+    "code": {
+      "id": "ZW130126",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1301",
+      "level": 2,
+      "name": {
+        "local": "Chikomba",
+        "en": "Chikomba",
+        "slug": "chikomba-zw1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1301",
+        "level": 2,
+        "name": {
+          "local": "Chikomba",
+          "en": "Chikomba",
+          "slug": "chikomba-zw1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.045",
+      "lon": "31.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130127",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "27",
+      "en": "27",
+      "slug": "27-zw130127"
+    },
+    "code": {
+      "id": "ZW130127",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1301",
+      "level": 2,
+      "name": {
+        "local": "Chikomba",
+        "en": "Chikomba",
+        "slug": "chikomba-zw1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1301",
+        "level": 2,
+        "name": {
+          "local": "Chikomba",
+          "en": "Chikomba",
+          "slug": "chikomba-zw1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.074",
+      "lon": "31.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130128",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "28",
+      "en": "28",
+      "slug": "28-zw130128"
+    },
+    "code": {
+      "id": "ZW130128",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1301",
+      "level": 2,
+      "name": {
+        "local": "Chikomba",
+        "en": "Chikomba",
+        "slug": "chikomba-zw1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1301",
+        "level": 2,
+        "name": {
+          "local": "Chikomba",
+          "en": "Chikomba",
+          "slug": "chikomba-zw1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.955",
+      "lon": "31.588"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130129",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "29",
+      "en": "29",
+      "slug": "29-zw130129"
+    },
+    "code": {
+      "id": "ZW130129",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1301",
+      "level": 2,
+      "name": {
+        "local": "Chikomba",
+        "en": "Chikomba",
+        "slug": "chikomba-zw1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1301",
+        "level": 2,
+        "name": {
+          "local": "Chikomba",
+          "en": "Chikomba",
+          "slug": "chikomba-zw1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.85",
+      "lon": "31.588"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130103",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw130103"
+    },
+    "code": {
+      "id": "ZW130103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1301",
+      "level": 2,
+      "name": {
+        "local": "Chikomba",
+        "en": "Chikomba",
+        "slug": "chikomba-zw1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1301",
+        "level": 2,
+        "name": {
+          "local": "Chikomba",
+          "en": "Chikomba",
+          "slug": "chikomba-zw1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.789",
+      "lon": "31.289"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130130",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "30",
+      "en": "30",
+      "slug": "30-zw130130"
+    },
+    "code": {
+      "id": "ZW130130",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1301",
+      "level": 2,
+      "name": {
+        "local": "Chikomba",
+        "en": "Chikomba",
+        "slug": "chikomba-zw1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1301",
+        "level": 2,
+        "name": {
+          "local": "Chikomba",
+          "en": "Chikomba",
+          "slug": "chikomba-zw1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.98",
+      "lon": "31.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130104",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw130104"
+    },
+    "code": {
+      "id": "ZW130104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1301",
+      "level": 2,
+      "name": {
+        "local": "Chikomba",
+        "en": "Chikomba",
+        "slug": "chikomba-zw1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1301",
+        "level": 2,
+        "name": {
+          "local": "Chikomba",
+          "en": "Chikomba",
+          "slug": "chikomba-zw1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.906",
+      "lon": "31.124"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130105",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw130105"
+    },
+    "code": {
+      "id": "ZW130105",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1301",
+      "level": 2,
+      "name": {
+        "local": "Chikomba",
+        "en": "Chikomba",
+        "slug": "chikomba-zw1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1301",
+        "level": 2,
+        "name": {
+          "local": "Chikomba",
+          "en": "Chikomba",
+          "slug": "chikomba-zw1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.837",
+      "lon": "31.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130106",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw130106"
+    },
+    "code": {
+      "id": "ZW130106",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1301",
+      "level": 2,
+      "name": {
+        "local": "Chikomba",
+        "en": "Chikomba",
+        "slug": "chikomba-zw1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1301",
+        "level": 2,
+        "name": {
+          "local": "Chikomba",
+          "en": "Chikomba",
+          "slug": "chikomba-zw1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.923",
+      "lon": "30.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130107",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw130107"
+    },
+    "code": {
+      "id": "ZW130107",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1301",
+      "level": 2,
+      "name": {
+        "local": "Chikomba",
+        "en": "Chikomba",
+        "slug": "chikomba-zw1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1301",
+        "level": 2,
+        "name": {
+          "local": "Chikomba",
+          "en": "Chikomba",
+          "slug": "chikomba-zw1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.766",
+      "lon": "30.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130108",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw130108"
+    },
+    "code": {
+      "id": "ZW130108",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1301",
+      "level": 2,
+      "name": {
+        "local": "Chikomba",
+        "en": "Chikomba",
+        "slug": "chikomba-zw1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1301",
+        "level": 2,
+        "name": {
+          "local": "Chikomba",
+          "en": "Chikomba",
+          "slug": "chikomba-zw1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.068",
+      "lon": "30.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130109",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw130109"
+    },
+    "code": {
+      "id": "ZW130109",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1301",
+      "level": 2,
+      "name": {
+        "local": "Chikomba",
+        "en": "Chikomba",
+        "slug": "chikomba-zw1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1301",
+        "level": 2,
+        "name": {
+          "local": "Chikomba",
+          "en": "Chikomba",
+          "slug": "chikomba-zw1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.016",
+      "lon": "30.879"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,1946 @@
+[
+  {
+    "id": "ZW110501",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw110501"
+    },
+    "code": {
+      "id": "ZW110501",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1105",
+      "level": 2,
+      "name": {
+        "local": "Mutare",
+        "en": "Mutare",
+        "slug": "mutare-zw1105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1105",
+        "level": 2,
+        "name": {
+          "local": "Mutare",
+          "en": "Mutare",
+          "slug": "mutare-zw1105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.815",
+      "lon": "32.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110510",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw110510"
+    },
+    "code": {
+      "id": "ZW110510",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1105",
+      "level": 2,
+      "name": {
+        "local": "Mutare",
+        "en": "Mutare",
+        "slug": "mutare-zw1105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1105",
+        "level": 2,
+        "name": {
+          "local": "Mutare",
+          "en": "Mutare",
+          "slug": "mutare-zw1105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.236",
+      "lon": "32.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110511",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw110511"
+    },
+    "code": {
+      "id": "ZW110511",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1105",
+      "level": 2,
+      "name": {
+        "local": "Mutare",
+        "en": "Mutare",
+        "slug": "mutare-zw1105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1105",
+        "level": 2,
+        "name": {
+          "local": "Mutare",
+          "en": "Mutare",
+          "slug": "mutare-zw1105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.187",
+      "lon": "32.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110512",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw110512"
+    },
+    "code": {
+      "id": "ZW110512",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1105",
+      "level": 2,
+      "name": {
+        "local": "Mutare",
+        "en": "Mutare",
+        "slug": "mutare-zw1105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1105",
+        "level": 2,
+        "name": {
+          "local": "Mutare",
+          "en": "Mutare",
+          "slug": "mutare-zw1105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.191",
+      "lon": "32.466"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110513",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw110513"
+    },
+    "code": {
+      "id": "ZW110513",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1105",
+      "level": 2,
+      "name": {
+        "local": "Mutare",
+        "en": "Mutare",
+        "slug": "mutare-zw1105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1105",
+        "level": 2,
+        "name": {
+          "local": "Mutare",
+          "en": "Mutare",
+          "slug": "mutare-zw1105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.158",
+      "lon": "32.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110514",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw110514"
+    },
+    "code": {
+      "id": "ZW110514",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1105",
+      "level": 2,
+      "name": {
+        "local": "Mutare",
+        "en": "Mutare",
+        "slug": "mutare-zw1105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1105",
+        "level": 2,
+        "name": {
+          "local": "Mutare",
+          "en": "Mutare",
+          "slug": "mutare-zw1105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.173",
+      "lon": "32.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110515",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw110515"
+    },
+    "code": {
+      "id": "ZW110515",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1105",
+      "level": 2,
+      "name": {
+        "local": "Mutare",
+        "en": "Mutare",
+        "slug": "mutare-zw1105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1105",
+        "level": 2,
+        "name": {
+          "local": "Mutare",
+          "en": "Mutare",
+          "slug": "mutare-zw1105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.152",
+      "lon": "32.672"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110516",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "16",
+      "en": "16",
+      "slug": "16-zw110516"
+    },
+    "code": {
+      "id": "ZW110516",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1105",
+      "level": 2,
+      "name": {
+        "local": "Mutare",
+        "en": "Mutare",
+        "slug": "mutare-zw1105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1105",
+        "level": 2,
+        "name": {
+          "local": "Mutare",
+          "en": "Mutare",
+          "slug": "mutare-zw1105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.352",
+      "lon": "32.155"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110517",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "17",
+      "en": "17",
+      "slug": "17-zw110517"
+    },
+    "code": {
+      "id": "ZW110517",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1105",
+      "level": 2,
+      "name": {
+        "local": "Mutare",
+        "en": "Mutare",
+        "slug": "mutare-zw1105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1105",
+        "level": 2,
+        "name": {
+          "local": "Mutare",
+          "en": "Mutare",
+          "slug": "mutare-zw1105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.303",
+      "lon": "32.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110518",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "18",
+      "en": "18",
+      "slug": "18-zw110518"
+    },
+    "code": {
+      "id": "ZW110518",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1105",
+      "level": 2,
+      "name": {
+        "local": "Mutare",
+        "en": "Mutare",
+        "slug": "mutare-zw1105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1105",
+        "level": 2,
+        "name": {
+          "local": "Mutare",
+          "en": "Mutare",
+          "slug": "mutare-zw1105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.261",
+      "lon": "32.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110519",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "19",
+      "en": "19",
+      "slug": "19-zw110519"
+    },
+    "code": {
+      "id": "ZW110519",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1105",
+      "level": 2,
+      "name": {
+        "local": "Mutare",
+        "en": "Mutare",
+        "slug": "mutare-zw1105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1105",
+        "level": 2,
+        "name": {
+          "local": "Mutare",
+          "en": "Mutare",
+          "slug": "mutare-zw1105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.319",
+      "lon": "32.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110502",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw110502"
+    },
+    "code": {
+      "id": "ZW110502",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1105",
+      "level": 2,
+      "name": {
+        "local": "Mutare",
+        "en": "Mutare",
+        "slug": "mutare-zw1105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1105",
+        "level": 2,
+        "name": {
+          "local": "Mutare",
+          "en": "Mutare",
+          "slug": "mutare-zw1105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.138",
+      "lon": "32.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110520",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "20",
+      "en": "20",
+      "slug": "20-zw110520"
+    },
+    "code": {
+      "id": "ZW110520",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1105",
+      "level": 2,
+      "name": {
+        "local": "Mutare",
+        "en": "Mutare",
+        "slug": "mutare-zw1105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1105",
+        "level": 2,
+        "name": {
+          "local": "Mutare",
+          "en": "Mutare",
+          "slug": "mutare-zw1105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.262",
+      "lon": "32.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110521",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "21",
+      "en": "21",
+      "slug": "21-zw110521"
+    },
+    "code": {
+      "id": "ZW110521",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1105",
+      "level": 2,
+      "name": {
+        "local": "Mutare",
+        "en": "Mutare",
+        "slug": "mutare-zw1105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1105",
+        "level": 2,
+        "name": {
+          "local": "Mutare",
+          "en": "Mutare",
+          "slug": "mutare-zw1105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.277",
+      "lon": "32.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110522",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "22",
+      "en": "22",
+      "slug": "22-zw110522"
+    },
+    "code": {
+      "id": "ZW110522",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1105",
+      "level": 2,
+      "name": {
+        "local": "Mutare",
+        "en": "Mutare",
+        "slug": "mutare-zw1105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1105",
+        "level": 2,
+        "name": {
+          "local": "Mutare",
+          "en": "Mutare",
+          "slug": "mutare-zw1105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.344",
+      "lon": "32.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110523",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "23",
+      "en": "23",
+      "slug": "23-zw110523"
+    },
+    "code": {
+      "id": "ZW110523",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1105",
+      "level": 2,
+      "name": {
+        "local": "Mutare",
+        "en": "Mutare",
+        "slug": "mutare-zw1105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1105",
+        "level": 2,
+        "name": {
+          "local": "Mutare",
+          "en": "Mutare",
+          "slug": "mutare-zw1105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.39",
+      "lon": "32.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110524",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "24",
+      "en": "24",
+      "slug": "24-zw110524"
+    },
+    "code": {
+      "id": "ZW110524",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1105",
+      "level": 2,
+      "name": {
+        "local": "Mutare",
+        "en": "Mutare",
+        "slug": "mutare-zw1105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1105",
+        "level": 2,
+        "name": {
+          "local": "Mutare",
+          "en": "Mutare",
+          "slug": "mutare-zw1105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.452",
+      "lon": "32.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110525",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "25",
+      "en": "25",
+      "slug": "25-zw110525"
+    },
+    "code": {
+      "id": "ZW110525",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1105",
+      "level": 2,
+      "name": {
+        "local": "Mutare",
+        "en": "Mutare",
+        "slug": "mutare-zw1105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1105",
+        "level": 2,
+        "name": {
+          "local": "Mutare",
+          "en": "Mutare",
+          "slug": "mutare-zw1105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.393",
+      "lon": "32.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110526",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "26",
+      "en": "26",
+      "slug": "26-zw110526"
+    },
+    "code": {
+      "id": "ZW110526",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1105",
+      "level": 2,
+      "name": {
+        "local": "Mutare",
+        "en": "Mutare",
+        "slug": "mutare-zw1105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1105",
+        "level": 2,
+        "name": {
+          "local": "Mutare",
+          "en": "Mutare",
+          "slug": "mutare-zw1105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.35",
+      "lon": "32.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110527",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "27",
+      "en": "27",
+      "slug": "27-zw110527"
+    },
+    "code": {
+      "id": "ZW110527",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1105",
+      "level": 2,
+      "name": {
+        "local": "Mutare",
+        "en": "Mutare",
+        "slug": "mutare-zw1105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1105",
+        "level": 2,
+        "name": {
+          "local": "Mutare",
+          "en": "Mutare",
+          "slug": "mutare-zw1105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.395",
+      "lon": "32.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110528",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "28",
+      "en": "28",
+      "slug": "28-zw110528"
+    },
+    "code": {
+      "id": "ZW110528",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1105",
+      "level": 2,
+      "name": {
+        "local": "Mutare",
+        "en": "Mutare",
+        "slug": "mutare-zw1105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1105",
+        "level": 2,
+        "name": {
+          "local": "Mutare",
+          "en": "Mutare",
+          "slug": "mutare-zw1105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.47",
+      "lon": "32.438"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110529",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "29",
+      "en": "29",
+      "slug": "29-zw110529"
+    },
+    "code": {
+      "id": "ZW110529",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1105",
+      "level": 2,
+      "name": {
+        "local": "Mutare",
+        "en": "Mutare",
+        "slug": "mutare-zw1105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1105",
+        "level": 2,
+        "name": {
+          "local": "Mutare",
+          "en": "Mutare",
+          "slug": "mutare-zw1105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.56",
+      "lon": "32.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110503",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw110503"
+    },
+    "code": {
+      "id": "ZW110503",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1105",
+      "level": 2,
+      "name": {
+        "local": "Mutare",
+        "en": "Mutare",
+        "slug": "mutare-zw1105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1105",
+        "level": 2,
+        "name": {
+          "local": "Mutare",
+          "en": "Mutare",
+          "slug": "mutare-zw1105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.993",
+      "lon": "32.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110530",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "30",
+      "en": "30",
+      "slug": "30-zw110530"
+    },
+    "code": {
+      "id": "ZW110530",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1105",
+      "level": 2,
+      "name": {
+        "local": "Mutare",
+        "en": "Mutare",
+        "slug": "mutare-zw1105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1105",
+        "level": 2,
+        "name": {
+          "local": "Mutare",
+          "en": "Mutare",
+          "slug": "mutare-zw1105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.628",
+      "lon": "32.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110531",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "31",
+      "en": "31",
+      "slug": "31-zw110531"
+    },
+    "code": {
+      "id": "ZW110531",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1105",
+      "level": 2,
+      "name": {
+        "local": "Mutare",
+        "en": "Mutare",
+        "slug": "mutare-zw1105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1105",
+        "level": 2,
+        "name": {
+          "local": "Mutare",
+          "en": "Mutare",
+          "slug": "mutare-zw1105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.956",
+      "lon": "32.388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110532",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "32",
+      "en": "32",
+      "slug": "32-zw110532"
+    },
+    "code": {
+      "id": "ZW110532",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1105",
+      "level": 2,
+      "name": {
+        "local": "Mutare",
+        "en": "Mutare",
+        "slug": "mutare-zw1105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1105",
+        "level": 2,
+        "name": {
+          "local": "Mutare",
+          "en": "Mutare",
+          "slug": "mutare-zw1105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.107",
+      "lon": "32.62"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110533",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "33",
+      "en": "33",
+      "slug": "33-zw110533"
+    },
+    "code": {
+      "id": "ZW110533",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1105",
+      "level": 2,
+      "name": {
+        "local": "Mutare",
+        "en": "Mutare",
+        "slug": "mutare-zw1105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1105",
+        "level": 2,
+        "name": {
+          "local": "Mutare",
+          "en": "Mutare",
+          "slug": "mutare-zw1105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.086",
+      "lon": "32.778"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110534",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "34",
+      "en": "34",
+      "slug": "34-zw110534"
+    },
+    "code": {
+      "id": "ZW110534",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1105",
+      "level": 2,
+      "name": {
+        "local": "Mutare",
+        "en": "Mutare",
+        "slug": "mutare-zw1105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1105",
+        "level": 2,
+        "name": {
+          "local": "Mutare",
+          "en": "Mutare",
+          "slug": "mutare-zw1105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.985",
+      "lon": "32.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110535",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "35",
+      "en": "35",
+      "slug": "35-zw110535"
+    },
+    "code": {
+      "id": "ZW110535",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1105",
+      "level": 2,
+      "name": {
+        "local": "Mutare",
+        "en": "Mutare",
+        "slug": "mutare-zw1105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1105",
+        "level": 2,
+        "name": {
+          "local": "Mutare",
+          "en": "Mutare",
+          "slug": "mutare-zw1105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.088",
+      "lon": "32.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110536",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "36",
+      "en": "36",
+      "slug": "36-zw110536"
+    },
+    "code": {
+      "id": "ZW110536",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1105",
+      "level": 2,
+      "name": {
+        "local": "Mutare",
+        "en": "Mutare",
+        "slug": "mutare-zw1105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1105",
+        "level": 2,
+        "name": {
+          "local": "Mutare",
+          "en": "Mutare",
+          "slug": "mutare-zw1105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.294",
+      "lon": "32.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110504",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw110504"
+    },
+    "code": {
+      "id": "ZW110504",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1105",
+      "level": 2,
+      "name": {
+        "local": "Mutare",
+        "en": "Mutare",
+        "slug": "mutare-zw1105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1105",
+        "level": 2,
+        "name": {
+          "local": "Mutare",
+          "en": "Mutare",
+          "slug": "mutare-zw1105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.149",
+      "lon": "32.295"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110505",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw110505"
+    },
+    "code": {
+      "id": "ZW110505",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1105",
+      "level": 2,
+      "name": {
+        "local": "Mutare",
+        "en": "Mutare",
+        "slug": "mutare-zw1105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1105",
+        "level": 2,
+        "name": {
+          "local": "Mutare",
+          "en": "Mutare",
+          "slug": "mutare-zw1105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.051",
+      "lon": "32.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110506",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw110506"
+    },
+    "code": {
+      "id": "ZW110506",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1105",
+      "level": 2,
+      "name": {
+        "local": "Mutare",
+        "en": "Mutare",
+        "slug": "mutare-zw1105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1105",
+        "level": 2,
+        "name": {
+          "local": "Mutare",
+          "en": "Mutare",
+          "slug": "mutare-zw1105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.122",
+      "lon": "32.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110507",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw110507"
+    },
+    "code": {
+      "id": "ZW110507",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1105",
+      "level": 2,
+      "name": {
+        "local": "Mutare",
+        "en": "Mutare",
+        "slug": "mutare-zw1105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1105",
+        "level": 2,
+        "name": {
+          "local": "Mutare",
+          "en": "Mutare",
+          "slug": "mutare-zw1105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.24",
+      "lon": "32.805"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110508",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw110508"
+    },
+    "code": {
+      "id": "ZW110508",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1105",
+      "level": 2,
+      "name": {
+        "local": "Mutare",
+        "en": "Mutare",
+        "slug": "mutare-zw1105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1105",
+        "level": 2,
+        "name": {
+          "local": "Mutare",
+          "en": "Mutare",
+          "slug": "mutare-zw1105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.231",
+      "lon": "32.109"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110509",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw110509"
+    },
+    "code": {
+      "id": "ZW110509",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1105",
+      "level": 2,
+      "name": {
+        "local": "Mutare",
+        "en": "Mutare",
+        "slug": "mutare-zw1105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1105",
+        "level": 2,
+        "name": {
+          "local": "Mutare",
+          "en": "Mutare",
+          "slug": "mutare-zw1105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.227",
+      "lon": "32.193"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,472 @@
+[
+  {
+    "id": "ZW1601",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Beitbridge",
+      "en": "Beitbridge",
+      "slug": "beitbridge-zw1601"
+    },
+    "code": {
+      "id": "ZW1601",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW16",
+      "level": 1,
+      "name": {
+        "local": "Matabeleland South",
+        "en": "Matabeleland South",
+        "slug": "matabeleland-south-zw16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.812",
+      "lon": "29.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1622",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Beitbridge Urban",
+      "en": "Beitbridge Urban",
+      "slug": "beitbridge-urban-zw1622"
+    },
+    "code": {
+      "id": "ZW1622",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW16",
+      "level": 1,
+      "name": {
+        "local": "Matabeleland South",
+        "en": "Matabeleland South",
+        "slug": "matabeleland-south-zw16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.205",
+      "lon": "30.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1602",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bulilima",
+      "en": "Bulilima",
+      "slug": "bulilima-zw1602"
+    },
+    "code": {
+      "id": "ZW1602",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW16",
+      "level": 1,
+      "name": {
+        "local": "Matabeleland South",
+        "en": "Matabeleland South",
+        "slug": "matabeleland-south-zw16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.155",
+      "lon": "27.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1604",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gwanda",
+      "en": "Gwanda",
+      "slug": "gwanda-zw1604"
+    },
+    "code": {
+      "id": "ZW1604",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW16",
+      "level": 1,
+      "name": {
+        "local": "Matabeleland South",
+        "en": "Matabeleland South",
+        "slug": "matabeleland-south-zw16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 24
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.28",
+      "lon": "29.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1621",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gwanda Urban",
+      "en": "Gwanda Urban",
+      "slug": "gwanda-urban-zw1621"
+    },
+    "code": {
+      "id": "ZW1621",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW16",
+      "level": 1,
+      "name": {
+        "local": "Matabeleland South",
+        "en": "Matabeleland South",
+        "slug": "matabeleland-south-zw16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.933",
+      "lon": "28.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1605",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Insiza",
+      "en": "Insiza",
+      "slug": "insiza-zw1605"
+    },
+    "code": {
+      "id": "ZW1605",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW16",
+      "level": 1,
+      "name": {
+        "local": "Matabeleland South",
+        "en": "Matabeleland South",
+        "slug": "matabeleland-south-zw16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.273",
+      "lon": "29.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1603",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mangwe",
+      "en": "Mangwe",
+      "slug": "mangwe-zw1603"
+    },
+    "code": {
+      "id": "ZW1603",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW16",
+      "level": 1,
+      "name": {
+        "local": "Matabeleland South",
+        "en": "Matabeleland South",
+        "slug": "matabeleland-south-zw16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.012",
+      "lon": "27.951"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1606",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Matobo",
+      "en": "Matobo",
+      "slug": "matobo-zw1606"
+    },
+    "code": {
+      "id": "ZW1606",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW16",
+      "level": 1,
+      "name": {
+        "local": "Matabeleland South",
+        "en": "Matabeleland South",
+        "slug": "matabeleland-south-zw16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 26
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.968",
+      "lon": "28.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1623",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Plumtree",
+      "en": "Plumtree",
+      "slug": "plumtree-zw1623"
+    },
+    "code": {
+      "id": "ZW1623",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW16",
+      "level": 1,
+      "name": {
+        "local": "Matabeleland South",
+        "en": "Matabeleland South",
+        "slug": "matabeleland-south-zw16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.507",
+      "lon": "27.82"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1607",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Umzingwane",
+      "en": "Umzingwane",
+      "slug": "umzingwane-zw1607"
+    },
+    "code": {
+      "id": "ZW1607",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW16",
+      "level": 1,
+      "name": {
+        "local": "Matabeleland South",
+        "en": "Matabeleland South",
+        "slug": "matabeleland-south-zw16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.329",
+      "lon": "28.954"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,2432 @@
+[
+  {
+    "id": "ZW192110",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw192110"
+    },
+    "code": {
+      "id": "ZW192110",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1921",
+      "level": 2,
+      "name": {
+        "local": "Harare",
+        "en": "Harare",
+        "slug": "harare-zw1921"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1921",
+        "level": 2,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw1921"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.862",
+      "lon": "31.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192111",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw192111"
+    },
+    "code": {
+      "id": "ZW192111",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1921",
+      "level": 2,
+      "name": {
+        "local": "Harare",
+        "en": "Harare",
+        "slug": "harare-zw1921"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1921",
+        "level": 2,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw1921"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.858",
+      "lon": "31.027"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192112",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw192112"
+    },
+    "code": {
+      "id": "ZW192112",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1921",
+      "level": 2,
+      "name": {
+        "local": "Harare",
+        "en": "Harare",
+        "slug": "harare-zw1921"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1921",
+        "level": 2,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw1921"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.868",
+      "lon": "31.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192113",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw192113"
+    },
+    "code": {
+      "id": "ZW192113",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1921",
+      "level": 2,
+      "name": {
+        "local": "Harare",
+        "en": "Harare",
+        "slug": "harare-zw1921"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1921",
+        "level": 2,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw1921"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.864",
+      "lon": "30.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192114",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw192114"
+    },
+    "code": {
+      "id": "ZW192114",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1921",
+      "level": 2,
+      "name": {
+        "local": "Harare",
+        "en": "Harare",
+        "slug": "harare-zw1921"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1921",
+        "level": 2,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw1921"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.855",
+      "lon": "30.964"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192115",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw192115"
+    },
+    "code": {
+      "id": "ZW192115",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1921",
+      "level": 2,
+      "name": {
+        "local": "Harare",
+        "en": "Harare",
+        "slug": "harare-zw1921"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1921",
+        "level": 2,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw1921"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.83",
+      "lon": "30.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192116",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "16",
+      "en": "16",
+      "slug": "16-zw192116"
+    },
+    "code": {
+      "id": "ZW192116",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1921",
+      "level": 2,
+      "name": {
+        "local": "Harare",
+        "en": "Harare",
+        "slug": "harare-zw1921"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1921",
+        "level": 2,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw1921"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.791",
+      "lon": "30.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192117",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "17",
+      "en": "17",
+      "slug": "17-zw192117"
+    },
+    "code": {
+      "id": "ZW192117",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1921",
+      "level": 2,
+      "name": {
+        "local": "Harare",
+        "en": "Harare",
+        "slug": "harare-zw1921"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1921",
+        "level": 2,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw1921"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.756",
+      "lon": "31.06"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192118",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "18",
+      "en": "18",
+      "slug": "18-zw192118"
+    },
+    "code": {
+      "id": "ZW192118",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1921",
+      "level": 2,
+      "name": {
+        "local": "Harare",
+        "en": "Harare",
+        "slug": "harare-zw1921"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1921",
+        "level": 2,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw1921"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.73",
+      "lon": "31.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192119",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "19",
+      "en": "19",
+      "slug": "19-zw192119"
+    },
+    "code": {
+      "id": "ZW192119",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1921",
+      "level": 2,
+      "name": {
+        "local": "Harare",
+        "en": "Harare",
+        "slug": "harare-zw1921"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1921",
+        "level": 2,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw1921"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.83",
+      "lon": "31.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192102",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw192102"
+    },
+    "code": {
+      "id": "ZW192102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1921",
+      "level": 2,
+      "name": {
+        "local": "Harare",
+        "en": "Harare",
+        "slug": "harare-zw1921"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1921",
+        "level": 2,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw1921"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.841",
+      "lon": "31.075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192120",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "20",
+      "en": "20",
+      "slug": "20-zw192120"
+    },
+    "code": {
+      "id": "ZW192120",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1921",
+      "level": 2,
+      "name": {
+        "local": "Harare",
+        "en": "Harare",
+        "slug": "harare-zw1921"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1921",
+        "level": 2,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw1921"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.842",
+      "lon": "31.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192121",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "21",
+      "en": "21",
+      "slug": "21-zw192121"
+    },
+    "code": {
+      "id": "ZW192121",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1921",
+      "level": 2,
+      "name": {
+        "local": "Harare",
+        "en": "Harare",
+        "slug": "harare-zw1921"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1921",
+        "level": 2,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw1921"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.858",
+      "lon": "31.174"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192122",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "22",
+      "en": "22",
+      "slug": "22-zw192122"
+    },
+    "code": {
+      "id": "ZW192122",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1921",
+      "level": 2,
+      "name": {
+        "local": "Harare",
+        "en": "Harare",
+        "slug": "harare-zw1921"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1921",
+        "level": 2,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw1921"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.874",
+      "lon": "31.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192123",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "23",
+      "en": "23",
+      "slug": "23-zw192123"
+    },
+    "code": {
+      "id": "ZW192123",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1921",
+      "level": 2,
+      "name": {
+        "local": "Harare",
+        "en": "Harare",
+        "slug": "harare-zw1921"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1921",
+        "level": 2,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw1921"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.902",
+      "lon": "31.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192124",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "24",
+      "en": "24",
+      "slug": "24-zw192124"
+    },
+    "code": {
+      "id": "ZW192124",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1921",
+      "level": 2,
+      "name": {
+        "local": "Harare",
+        "en": "Harare",
+        "slug": "harare-zw1921"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1921",
+        "level": 2,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw1921"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.889",
+      "lon": "31"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192125",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "25",
+      "en": "25",
+      "slug": "25-zw192125"
+    },
+    "code": {
+      "id": "ZW192125",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1921",
+      "level": 2,
+      "name": {
+        "local": "Harare",
+        "en": "Harare",
+        "slug": "harare-zw1921"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1921",
+        "level": 2,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw1921"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.884",
+      "lon": "30.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192126",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "26",
+      "en": "26",
+      "slug": "26-zw192126"
+    },
+    "code": {
+      "id": "ZW192126",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1921",
+      "level": 2,
+      "name": {
+        "local": "Harare",
+        "en": "Harare",
+        "slug": "harare-zw1921"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1921",
+        "level": 2,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw1921"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.887",
+      "lon": "30.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192127",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "27",
+      "en": "27",
+      "slug": "27-zw192127"
+    },
+    "code": {
+      "id": "ZW192127",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1921",
+      "level": 2,
+      "name": {
+        "local": "Harare",
+        "en": "Harare",
+        "slug": "harare-zw1921"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1921",
+        "level": 2,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw1921"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.91",
+      "lon": "30.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192128",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "28",
+      "en": "28",
+      "slug": "28-zw192128"
+    },
+    "code": {
+      "id": "ZW192128",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1921",
+      "level": 2,
+      "name": {
+        "local": "Harare",
+        "en": "Harare",
+        "slug": "harare-zw1921"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1921",
+        "level": 2,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw1921"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.916",
+      "lon": "30.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192129",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "29",
+      "en": "29",
+      "slug": "29-zw192129"
+    },
+    "code": {
+      "id": "ZW192129",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1921",
+      "level": 2,
+      "name": {
+        "local": "Harare",
+        "en": "Harare",
+        "slug": "harare-zw1921"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1921",
+        "level": 2,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw1921"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.9",
+      "lon": "30.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192103",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw192103"
+    },
+    "code": {
+      "id": "ZW192103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1921",
+      "level": 2,
+      "name": {
+        "local": "Harare",
+        "en": "Harare",
+        "slug": "harare-zw1921"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1921",
+        "level": 2,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw1921"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.86",
+      "lon": "31.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192130",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "30",
+      "en": "30",
+      "slug": "30-zw192130"
+    },
+    "code": {
+      "id": "ZW192130",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1921",
+      "level": 2,
+      "name": {
+        "local": "Harare",
+        "en": "Harare",
+        "slug": "harare-zw1921"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1921",
+        "level": 2,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw1921"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.896",
+      "lon": "30.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192131",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "31",
+      "en": "31",
+      "slug": "31-zw192131"
+    },
+    "code": {
+      "id": "ZW192131",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1921",
+      "level": 2,
+      "name": {
+        "local": "Harare",
+        "en": "Harare",
+        "slug": "harare-zw1921"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1921",
+        "level": 2,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw1921"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.913",
+      "lon": "30.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192132",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "32",
+      "en": "32",
+      "slug": "32-zw192132"
+    },
+    "code": {
+      "id": "ZW192132",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1921",
+      "level": 2,
+      "name": {
+        "local": "Harare",
+        "en": "Harare",
+        "slug": "harare-zw1921"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1921",
+        "level": 2,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw1921"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.906",
+      "lon": "30.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192133",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "33",
+      "en": "33",
+      "slug": "33-zw192133"
+    },
+    "code": {
+      "id": "ZW192133",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1921",
+      "level": 2,
+      "name": {
+        "local": "Harare",
+        "en": "Harare",
+        "slug": "harare-zw1921"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1921",
+        "level": 2,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw1921"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.89",
+      "lon": "30.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192134",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "34",
+      "en": "34",
+      "slug": "34-zw192134"
+    },
+    "code": {
+      "id": "ZW192134",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1921",
+      "level": 2,
+      "name": {
+        "local": "Harare",
+        "en": "Harare",
+        "slug": "harare-zw1921"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1921",
+        "level": 2,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw1921"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.859",
+      "lon": "30.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192135",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "35",
+      "en": "35",
+      "slug": "35-zw192135"
+    },
+    "code": {
+      "id": "ZW192135",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1921",
+      "level": 2,
+      "name": {
+        "local": "Harare",
+        "en": "Harare",
+        "slug": "harare-zw1921"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1921",
+        "level": 2,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw1921"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.869",
+      "lon": "30.94"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192136",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "36",
+      "en": "36",
+      "slug": "36-zw192136"
+    },
+    "code": {
+      "id": "ZW192136",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1921",
+      "level": 2,
+      "name": {
+        "local": "Harare",
+        "en": "Harare",
+        "slug": "harare-zw1921"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1921",
+        "level": 2,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw1921"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.859",
+      "lon": "30.936"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192137",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "37",
+      "en": "37",
+      "slug": "37-zw192137"
+    },
+    "code": {
+      "id": "ZW192137",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1921",
+      "level": 2,
+      "name": {
+        "local": "Harare",
+        "en": "Harare",
+        "slug": "harare-zw1921"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1921",
+        "level": 2,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw1921"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.84",
+      "lon": "30.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192138",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "38",
+      "en": "38",
+      "slug": "38-zw192138"
+    },
+    "code": {
+      "id": "ZW192138",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1921",
+      "level": 2,
+      "name": {
+        "local": "Harare",
+        "en": "Harare",
+        "slug": "harare-zw1921"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1921",
+        "level": 2,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw1921"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.828",
+      "lon": "30.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192139",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "39",
+      "en": "39",
+      "slug": "39-zw192139"
+    },
+    "code": {
+      "id": "ZW192139",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1921",
+      "level": 2,
+      "name": {
+        "local": "Harare",
+        "en": "Harare",
+        "slug": "harare-zw1921"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1921",
+        "level": 2,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw1921"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.809",
+      "lon": "30.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192104",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw192104"
+    },
+    "code": {
+      "id": "ZW192104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1921",
+      "level": 2,
+      "name": {
+        "local": "Harare",
+        "en": "Harare",
+        "slug": "harare-zw1921"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1921",
+        "level": 2,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw1921"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.846",
+      "lon": "31.042"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192140",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "40",
+      "en": "40",
+      "slug": "40-zw192140"
+    },
+    "code": {
+      "id": "ZW192140",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1921",
+      "level": 2,
+      "name": {
+        "local": "Harare",
+        "en": "Harare",
+        "slug": "harare-zw1921"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1921",
+        "level": 2,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw1921"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.798",
+      "lon": "30.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192141",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "41",
+      "en": "41",
+      "slug": "41-zw192141"
+    },
+    "code": {
+      "id": "ZW192141",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1921",
+      "level": 2,
+      "name": {
+        "local": "Harare",
+        "en": "Harare",
+        "slug": "harare-zw1921"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1921",
+        "level": 2,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw1921"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.749",
+      "lon": "30.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192142",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "42",
+      "en": "42",
+      "slug": "42-zw192142"
+    },
+    "code": {
+      "id": "ZW192142",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1921",
+      "level": 2,
+      "name": {
+        "local": "Harare",
+        "en": "Harare",
+        "slug": "harare-zw1921"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1921",
+        "level": 2,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw1921"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.698",
+      "lon": "31.095"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192143",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "43",
+      "en": "43",
+      "slug": "43-zw192143"
+    },
+    "code": {
+      "id": "ZW192143",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1921",
+      "level": 2,
+      "name": {
+        "local": "Harare",
+        "en": "Harare",
+        "slug": "harare-zw1921"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1921",
+        "level": 2,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw1921"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.883",
+      "lon": "30.918"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192144",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "44",
+      "en": "44",
+      "slug": "44-zw192144"
+    },
+    "code": {
+      "id": "ZW192144",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1921",
+      "level": 2,
+      "name": {
+        "local": "Harare",
+        "en": "Harare",
+        "slug": "harare-zw1921"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1921",
+        "level": 2,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw1921"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.833",
+      "lon": "30.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192145",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "45",
+      "en": "45",
+      "slug": "45-zw192145"
+    },
+    "code": {
+      "id": "ZW192145",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1921",
+      "level": 2,
+      "name": {
+        "local": "Harare",
+        "en": "Harare",
+        "slug": "harare-zw1921"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1921",
+        "level": 2,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw1921"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.805",
+      "lon": "30.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192146",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "46",
+      "en": "46",
+      "slug": "46-zw192146"
+    },
+    "code": {
+      "id": "ZW192146",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1921",
+      "level": 2,
+      "name": {
+        "local": "Harare",
+        "en": "Harare",
+        "slug": "harare-zw1921"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1921",
+        "level": 2,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw1921"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.826",
+      "lon": "31.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192105",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw192105"
+    },
+    "code": {
+      "id": "ZW192105",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1921",
+      "level": 2,
+      "name": {
+        "local": "Harare",
+        "en": "Harare",
+        "slug": "harare-zw1921"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1921",
+        "level": 2,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw1921"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.822",
+      "lon": "31.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192106",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw192106"
+    },
+    "code": {
+      "id": "ZW192106",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1921",
+      "level": 2,
+      "name": {
+        "local": "Harare",
+        "en": "Harare",
+        "slug": "harare-zw1921"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1921",
+        "level": 2,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw1921"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.826",
+      "lon": "31.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192107",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw192107"
+    },
+    "code": {
+      "id": "ZW192107",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1921",
+      "level": 2,
+      "name": {
+        "local": "Harare",
+        "en": "Harare",
+        "slug": "harare-zw1921"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1921",
+        "level": 2,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw1921"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.794",
+      "lon": "31.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192108",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw192108"
+    },
+    "code": {
+      "id": "ZW192108",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1921",
+      "level": 2,
+      "name": {
+        "local": "Harare",
+        "en": "Harare",
+        "slug": "harare-zw1921"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1921",
+        "level": 2,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw1921"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.794",
+      "lon": "31.101"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW192109",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw192109"
+    },
+    "code": {
+      "id": "ZW192109",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1921",
+      "level": 2,
+      "name": {
+        "local": "Harare",
+        "en": "Harare",
+        "slug": "harare-zw1921"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW19",
+        "level": 1,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw19"
+        }
+      },
+      {
+        "id": "ZW1921",
+        "level": 2,
+        "name": {
+          "local": "Harare",
+          "en": "Harare",
+          "slug": "harare-zw1921"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.807",
+      "lon": "31.154"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,974 @@
+[
+  {
+    "id": "ZW180601",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw180601"
+    },
+    "code": {
+      "id": "ZW180601",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1806",
+      "level": 2,
+      "name": {
+        "local": "Mwenezi",
+        "en": "Mwenezi",
+        "slug": "mwenezi-zw1806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1806",
+        "level": 2,
+        "name": {
+          "local": "Mwenezi",
+          "en": "Mwenezi",
+          "slug": "mwenezi-zw1806"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.923",
+      "lon": "30.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180610",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw180610"
+    },
+    "code": {
+      "id": "ZW180610",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1806",
+      "level": 2,
+      "name": {
+        "local": "Mwenezi",
+        "en": "Mwenezi",
+        "slug": "mwenezi-zw1806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1806",
+        "level": 2,
+        "name": {
+          "local": "Mwenezi",
+          "en": "Mwenezi",
+          "slug": "mwenezi-zw1806"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.126",
+      "lon": "30.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180611",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw180611"
+    },
+    "code": {
+      "id": "ZW180611",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1806",
+      "level": 2,
+      "name": {
+        "local": "Mwenezi",
+        "en": "Mwenezi",
+        "slug": "mwenezi-zw1806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1806",
+        "level": 2,
+        "name": {
+          "local": "Mwenezi",
+          "en": "Mwenezi",
+          "slug": "mwenezi-zw1806"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.179",
+      "lon": "30.214"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180612",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw180612"
+    },
+    "code": {
+      "id": "ZW180612",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1806",
+      "level": 2,
+      "name": {
+        "local": "Mwenezi",
+        "en": "Mwenezi",
+        "slug": "mwenezi-zw1806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1806",
+        "level": 2,
+        "name": {
+          "local": "Mwenezi",
+          "en": "Mwenezi",
+          "slug": "mwenezi-zw1806"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.224",
+      "lon": "30.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180613",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw180613"
+    },
+    "code": {
+      "id": "ZW180613",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1806",
+      "level": 2,
+      "name": {
+        "local": "Mwenezi",
+        "en": "Mwenezi",
+        "slug": "mwenezi-zw1806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1806",
+        "level": 2,
+        "name": {
+          "local": "Mwenezi",
+          "en": "Mwenezi",
+          "slug": "mwenezi-zw1806"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.202",
+      "lon": "31.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180614",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw180614"
+    },
+    "code": {
+      "id": "ZW180614",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1806",
+      "level": 2,
+      "name": {
+        "local": "Mwenezi",
+        "en": "Mwenezi",
+        "slug": "mwenezi-zw1806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1806",
+        "level": 2,
+        "name": {
+          "local": "Mwenezi",
+          "en": "Mwenezi",
+          "slug": "mwenezi-zw1806"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.253",
+      "lon": "30.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180615",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw180615"
+    },
+    "code": {
+      "id": "ZW180615",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1806",
+      "level": 2,
+      "name": {
+        "local": "Mwenezi",
+        "en": "Mwenezi",
+        "slug": "mwenezi-zw1806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1806",
+        "level": 2,
+        "name": {
+          "local": "Mwenezi",
+          "en": "Mwenezi",
+          "slug": "mwenezi-zw1806"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.725",
+      "lon": "30.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180616",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "16",
+      "en": "16",
+      "slug": "16-zw180616"
+    },
+    "code": {
+      "id": "ZW180616",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1806",
+      "level": 2,
+      "name": {
+        "local": "Mwenezi",
+        "en": "Mwenezi",
+        "slug": "mwenezi-zw1806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1806",
+        "level": 2,
+        "name": {
+          "local": "Mwenezi",
+          "en": "Mwenezi",
+          "slug": "mwenezi-zw1806"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.475",
+      "lon": "30.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180617",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "17",
+      "en": "17",
+      "slug": "17-zw180617"
+    },
+    "code": {
+      "id": "ZW180617",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1806",
+      "level": 2,
+      "name": {
+        "local": "Mwenezi",
+        "en": "Mwenezi",
+        "slug": "mwenezi-zw1806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1806",
+        "level": 2,
+        "name": {
+          "local": "Mwenezi",
+          "en": "Mwenezi",
+          "slug": "mwenezi-zw1806"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.11",
+      "lon": "29.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180618",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "18",
+      "en": "18",
+      "slug": "18-zw180618"
+    },
+    "code": {
+      "id": "ZW180618",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1806",
+      "level": 2,
+      "name": {
+        "local": "Mwenezi",
+        "en": "Mwenezi",
+        "slug": "mwenezi-zw1806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1806",
+        "level": 2,
+        "name": {
+          "local": "Mwenezi",
+          "en": "Mwenezi",
+          "slug": "mwenezi-zw1806"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.231",
+      "lon": "30.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180602",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw180602"
+    },
+    "code": {
+      "id": "ZW180602",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1806",
+      "level": 2,
+      "name": {
+        "local": "Mwenezi",
+        "en": "Mwenezi",
+        "slug": "mwenezi-zw1806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1806",
+        "level": 2,
+        "name": {
+          "local": "Mwenezi",
+          "en": "Mwenezi",
+          "slug": "mwenezi-zw1806"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.851",
+      "lon": "30.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180603",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw180603"
+    },
+    "code": {
+      "id": "ZW180603",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1806",
+      "level": 2,
+      "name": {
+        "local": "Mwenezi",
+        "en": "Mwenezi",
+        "slug": "mwenezi-zw1806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1806",
+        "level": 2,
+        "name": {
+          "local": "Mwenezi",
+          "en": "Mwenezi",
+          "slug": "mwenezi-zw1806"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.782",
+      "lon": "30.549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180604",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw180604"
+    },
+    "code": {
+      "id": "ZW180604",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1806",
+      "level": 2,
+      "name": {
+        "local": "Mwenezi",
+        "en": "Mwenezi",
+        "slug": "mwenezi-zw1806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1806",
+        "level": 2,
+        "name": {
+          "local": "Mwenezi",
+          "en": "Mwenezi",
+          "slug": "mwenezi-zw1806"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.964",
+      "lon": "30.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180605",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw180605"
+    },
+    "code": {
+      "id": "ZW180605",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1806",
+      "level": 2,
+      "name": {
+        "local": "Mwenezi",
+        "en": "Mwenezi",
+        "slug": "mwenezi-zw1806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1806",
+        "level": 2,
+        "name": {
+          "local": "Mwenezi",
+          "en": "Mwenezi",
+          "slug": "mwenezi-zw1806"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.972",
+      "lon": "30.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180606",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw180606"
+    },
+    "code": {
+      "id": "ZW180606",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1806",
+      "level": 2,
+      "name": {
+        "local": "Mwenezi",
+        "en": "Mwenezi",
+        "slug": "mwenezi-zw1806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1806",
+        "level": 2,
+        "name": {
+          "local": "Mwenezi",
+          "en": "Mwenezi",
+          "slug": "mwenezi-zw1806"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.067",
+      "lon": "30.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180607",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw180607"
+    },
+    "code": {
+      "id": "ZW180607",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1806",
+      "level": 2,
+      "name": {
+        "local": "Mwenezi",
+        "en": "Mwenezi",
+        "slug": "mwenezi-zw1806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1806",
+        "level": 2,
+        "name": {
+          "local": "Mwenezi",
+          "en": "Mwenezi",
+          "slug": "mwenezi-zw1806"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.115",
+      "lon": "30.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180608",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw180608"
+    },
+    "code": {
+      "id": "ZW180608",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1806",
+      "level": 2,
+      "name": {
+        "local": "Mwenezi",
+        "en": "Mwenezi",
+        "slug": "mwenezi-zw1806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1806",
+        "level": 2,
+        "name": {
+          "local": "Mwenezi",
+          "en": "Mwenezi",
+          "slug": "mwenezi-zw1806"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.22",
+      "lon": "30.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW180609",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw180609"
+    },
+    "code": {
+      "id": "ZW180609",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1806",
+      "level": 2,
+      "name": {
+        "local": "Mwenezi",
+        "en": "Mwenezi",
+        "slug": "mwenezi-zw1806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW18",
+        "level": 1,
+        "name": {
+          "local": "Masvingo",
+          "en": "Masvingo",
+          "slug": "masvingo-zw18"
+        }
+      },
+      {
+        "id": "ZW1806",
+        "level": 2,
+        "name": {
+          "local": "Mwenezi",
+          "en": "Mwenezi",
+          "slug": "mwenezi-zw1806"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.121",
+      "lon": "30.369"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

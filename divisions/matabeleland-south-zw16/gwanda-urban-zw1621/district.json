@@ -1,0 +1,47 @@
+{
+  "id": "ZW1621",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Gwanda Urban",
+    "en": "Gwanda Urban",
+    "slug": "gwanda-urban-zw1621"
+  },
+  "code": {
+    "id": "ZW1621",
+    "iso": null
+  },
+  "parent": {
+    "id": "ZW16",
+    "level": 1,
+    "name": {
+      "local": "Matabeleland South",
+      "en": "Matabeleland South",
+      "slug": "matabeleland-south-zw16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ZW16",
+      "level": 1,
+      "name": {
+        "local": "Matabeleland South",
+        "en": "Matabeleland South",
+        "slug": "matabeleland-south-zw16"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.933",
+    "lon": "28.998"
+  },
+  "metadata": {},
+  "source": {}
+}

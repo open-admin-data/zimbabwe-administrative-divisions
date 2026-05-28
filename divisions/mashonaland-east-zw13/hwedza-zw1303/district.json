@@ -1,0 +1,47 @@
+{
+  "id": "ZW1303",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Hwedza",
+    "en": "Hwedza",
+    "slug": "hwedza-zw1303"
+  },
+  "code": {
+    "id": "ZW1303",
+    "iso": null
+  },
+  "parent": {
+    "id": "ZW13",
+    "level": 1,
+    "name": {
+      "local": "Mashonaland East",
+      "en": "Mashonaland East",
+      "slug": "mashonaland-east-zw13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ZW13",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland East",
+        "en": "Mashonaland East",
+        "slug": "mashonaland-east-zw13"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.765",
+    "lon": "31.685"
+  },
+  "metadata": {},
+  "source": {}
+}

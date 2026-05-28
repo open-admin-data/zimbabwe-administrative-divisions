@@ -1,0 +1,1244 @@
+[
+  {
+    "id": "ZW160501",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw160501"
+    },
+    "code": {
+      "id": "ZW160501",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1605",
+      "level": 2,
+      "name": {
+        "local": "Insiza",
+        "en": "Insiza",
+        "slug": "insiza-zw1605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1605",
+        "level": 2,
+        "name": {
+          "local": "Insiza",
+          "en": "Insiza",
+          "slug": "insiza-zw1605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.649",
+      "lon": "29.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160510",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw160510"
+    },
+    "code": {
+      "id": "ZW160510",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1605",
+      "level": 2,
+      "name": {
+        "local": "Insiza",
+        "en": "Insiza",
+        "slug": "insiza-zw1605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1605",
+        "level": 2,
+        "name": {
+          "local": "Insiza",
+          "en": "Insiza",
+          "slug": "insiza-zw1605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.429",
+      "lon": "29.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160511",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw160511"
+    },
+    "code": {
+      "id": "ZW160511",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1605",
+      "level": 2,
+      "name": {
+        "local": "Insiza",
+        "en": "Insiza",
+        "slug": "insiza-zw1605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1605",
+        "level": 2,
+        "name": {
+          "local": "Insiza",
+          "en": "Insiza",
+          "slug": "insiza-zw1605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.807",
+      "lon": "29.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160512",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw160512"
+    },
+    "code": {
+      "id": "ZW160512",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1605",
+      "level": 2,
+      "name": {
+        "local": "Insiza",
+        "en": "Insiza",
+        "slug": "insiza-zw1605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1605",
+        "level": 2,
+        "name": {
+          "local": "Insiza",
+          "en": "Insiza",
+          "slug": "insiza-zw1605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.802",
+      "lon": "29.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160513",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw160513"
+    },
+    "code": {
+      "id": "ZW160513",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1605",
+      "level": 2,
+      "name": {
+        "local": "Insiza",
+        "en": "Insiza",
+        "slug": "insiza-zw1605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1605",
+        "level": 2,
+        "name": {
+          "local": "Insiza",
+          "en": "Insiza",
+          "slug": "insiza-zw1605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.076",
+      "lon": "29.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160514",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw160514"
+    },
+    "code": {
+      "id": "ZW160514",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1605",
+      "level": 2,
+      "name": {
+        "local": "Insiza",
+        "en": "Insiza",
+        "slug": "insiza-zw1605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1605",
+        "level": 2,
+        "name": {
+          "local": "Insiza",
+          "en": "Insiza",
+          "slug": "insiza-zw1605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.109",
+      "lon": "29.287"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160515",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw160515"
+    },
+    "code": {
+      "id": "ZW160515",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1605",
+      "level": 2,
+      "name": {
+        "local": "Insiza",
+        "en": "Insiza",
+        "slug": "insiza-zw1605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1605",
+        "level": 2,
+        "name": {
+          "local": "Insiza",
+          "en": "Insiza",
+          "slug": "insiza-zw1605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.436",
+      "lon": "29.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160516",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "16",
+      "en": "16",
+      "slug": "16-zw160516"
+    },
+    "code": {
+      "id": "ZW160516",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1605",
+      "level": 2,
+      "name": {
+        "local": "Insiza",
+        "en": "Insiza",
+        "slug": "insiza-zw1605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1605",
+        "level": 2,
+        "name": {
+          "local": "Insiza",
+          "en": "Insiza",
+          "slug": "insiza-zw1605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.475",
+      "lon": "29.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160517",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "17",
+      "en": "17",
+      "slug": "17-zw160517"
+    },
+    "code": {
+      "id": "ZW160517",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1605",
+      "level": 2,
+      "name": {
+        "local": "Insiza",
+        "en": "Insiza",
+        "slug": "insiza-zw1605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1605",
+        "level": 2,
+        "name": {
+          "local": "Insiza",
+          "en": "Insiza",
+          "slug": "insiza-zw1605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.462",
+      "lon": "29.39"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160518",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "18",
+      "en": "18",
+      "slug": "18-zw160518"
+    },
+    "code": {
+      "id": "ZW160518",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1605",
+      "level": 2,
+      "name": {
+        "local": "Insiza",
+        "en": "Insiza",
+        "slug": "insiza-zw1605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1605",
+        "level": 2,
+        "name": {
+          "local": "Insiza",
+          "en": "Insiza",
+          "slug": "insiza-zw1605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.075",
+      "lon": "29.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160519",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "19",
+      "en": "19",
+      "slug": "19-zw160519"
+    },
+    "code": {
+      "id": "ZW160519",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1605",
+      "level": 2,
+      "name": {
+        "local": "Insiza",
+        "en": "Insiza",
+        "slug": "insiza-zw1605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1605",
+        "level": 2,
+        "name": {
+          "local": "Insiza",
+          "en": "Insiza",
+          "slug": "insiza-zw1605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.436",
+      "lon": "29.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160502",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw160502"
+    },
+    "code": {
+      "id": "ZW160502",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1605",
+      "level": 2,
+      "name": {
+        "local": "Insiza",
+        "en": "Insiza",
+        "slug": "insiza-zw1605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1605",
+        "level": 2,
+        "name": {
+          "local": "Insiza",
+          "en": "Insiza",
+          "slug": "insiza-zw1605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.625",
+      "lon": "29.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160520",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "20",
+      "en": "20",
+      "slug": "20-zw160520"
+    },
+    "code": {
+      "id": "ZW160520",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1605",
+      "level": 2,
+      "name": {
+        "local": "Insiza",
+        "en": "Insiza",
+        "slug": "insiza-zw1605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1605",
+        "level": 2,
+        "name": {
+          "local": "Insiza",
+          "en": "Insiza",
+          "slug": "insiza-zw1605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.191",
+      "lon": "29.699"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160521",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "21",
+      "en": "21",
+      "slug": "21-zw160521"
+    },
+    "code": {
+      "id": "ZW160521",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1605",
+      "level": 2,
+      "name": {
+        "local": "Insiza",
+        "en": "Insiza",
+        "slug": "insiza-zw1605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1605",
+        "level": 2,
+        "name": {
+          "local": "Insiza",
+          "en": "Insiza",
+          "slug": "insiza-zw1605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.042",
+      "lon": "29.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160522",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "22",
+      "en": "22",
+      "slug": "22-zw160522"
+    },
+    "code": {
+      "id": "ZW160522",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1605",
+      "level": 2,
+      "name": {
+        "local": "Insiza",
+        "en": "Insiza",
+        "slug": "insiza-zw1605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1605",
+        "level": 2,
+        "name": {
+          "local": "Insiza",
+          "en": "Insiza",
+          "slug": "insiza-zw1605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.826",
+      "lon": "29.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160523",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "23",
+      "en": "23",
+      "slug": "23-zw160523"
+    },
+    "code": {
+      "id": "ZW160523",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1605",
+      "level": 2,
+      "name": {
+        "local": "Insiza",
+        "en": "Insiza",
+        "slug": "insiza-zw1605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1605",
+        "level": 2,
+        "name": {
+          "local": "Insiza",
+          "en": "Insiza",
+          "slug": "insiza-zw1605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.734",
+      "lon": "29.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160503",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw160503"
+    },
+    "code": {
+      "id": "ZW160503",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1605",
+      "level": 2,
+      "name": {
+        "local": "Insiza",
+        "en": "Insiza",
+        "slug": "insiza-zw1605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1605",
+        "level": 2,
+        "name": {
+          "local": "Insiza",
+          "en": "Insiza",
+          "slug": "insiza-zw1605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.78",
+      "lon": "29.325"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160504",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw160504"
+    },
+    "code": {
+      "id": "ZW160504",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1605",
+      "level": 2,
+      "name": {
+        "local": "Insiza",
+        "en": "Insiza",
+        "slug": "insiza-zw1605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1605",
+        "level": 2,
+        "name": {
+          "local": "Insiza",
+          "en": "Insiza",
+          "slug": "insiza-zw1605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.696",
+      "lon": "29.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160505",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw160505"
+    },
+    "code": {
+      "id": "ZW160505",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1605",
+      "level": 2,
+      "name": {
+        "local": "Insiza",
+        "en": "Insiza",
+        "slug": "insiza-zw1605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1605",
+        "level": 2,
+        "name": {
+          "local": "Insiza",
+          "en": "Insiza",
+          "slug": "insiza-zw1605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.82",
+      "lon": "29.441"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160506",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw160506"
+    },
+    "code": {
+      "id": "ZW160506",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1605",
+      "level": 2,
+      "name": {
+        "local": "Insiza",
+        "en": "Insiza",
+        "slug": "insiza-zw1605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1605",
+        "level": 2,
+        "name": {
+          "local": "Insiza",
+          "en": "Insiza",
+          "slug": "insiza-zw1605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.947",
+      "lon": "29.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160507",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw160507"
+    },
+    "code": {
+      "id": "ZW160507",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1605",
+      "level": 2,
+      "name": {
+        "local": "Insiza",
+        "en": "Insiza",
+        "slug": "insiza-zw1605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1605",
+        "level": 2,
+        "name": {
+          "local": "Insiza",
+          "en": "Insiza",
+          "slug": "insiza-zw1605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.911",
+      "lon": "29.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160508",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw160508"
+    },
+    "code": {
+      "id": "ZW160508",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1605",
+      "level": 2,
+      "name": {
+        "local": "Insiza",
+        "en": "Insiza",
+        "slug": "insiza-zw1605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1605",
+        "level": 2,
+        "name": {
+          "local": "Insiza",
+          "en": "Insiza",
+          "slug": "insiza-zw1605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.771",
+      "lon": "29.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160509",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw160509"
+    },
+    "code": {
+      "id": "ZW160509",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1605",
+      "level": 2,
+      "name": {
+        "local": "Insiza",
+        "en": "Insiza",
+        "slug": "insiza-zw1605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1605",
+        "level": 2,
+        "name": {
+          "local": "Insiza",
+          "en": "Insiza",
+          "slug": "insiza-zw1605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.639",
+      "lon": "29.539"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

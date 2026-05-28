@@ -1,0 +1,47 @@
+{
+  "id": "ZW1504",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lupane",
+    "en": "Lupane",
+    "slug": "lupane-zw1504"
+  },
+  "code": {
+    "id": "ZW1504",
+    "iso": null
+  },
+  "parent": {
+    "id": "ZW15",
+    "level": 1,
+    "name": {
+      "local": "Matabeleland North",
+      "en": "Matabeleland North",
+      "slug": "matabeleland-north-zw15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ZW15",
+      "level": 1,
+      "name": {
+        "local": "Matabeleland North",
+        "en": "Matabeleland North",
+        "slug": "matabeleland-north-zw15"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 28
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.882",
+    "lon": "27.829"
+  },
+  "metadata": {},
+  "source": {}
+}

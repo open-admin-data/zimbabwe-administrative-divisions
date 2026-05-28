@@ -1,0 +1,30 @@
+{
+  "id": "ZW13",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Mashonaland East",
+    "en": "Mashonaland East",
+    "slug": "mashonaland-east-zw13"
+  },
+  "code": {
+    "id": "ZW13",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 11,
+    "ward": 229
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.977",
+    "lon": "31.603"
+  },
+  "metadata": {},
+  "source": {}
+}

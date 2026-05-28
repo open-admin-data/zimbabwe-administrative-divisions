@@ -1,0 +1,1244 @@
+[
+  {
+    "id": "ZW110201",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw110201"
+    },
+    "code": {
+      "id": "ZW110201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1102",
+      "level": 2,
+      "name": {
+        "local": "Chimanimani",
+        "en": "Chimanimani",
+        "slug": "chimanimani-zw1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1102",
+        "level": 2,
+        "name": {
+          "local": "Chimanimani",
+          "en": "Chimanimani",
+          "slug": "chimanimani-zw1102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.541",
+      "lon": "32.806"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110210",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw110210"
+    },
+    "code": {
+      "id": "ZW110210",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1102",
+      "level": 2,
+      "name": {
+        "local": "Chimanimani",
+        "en": "Chimanimani",
+        "slug": "chimanimani-zw1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1102",
+        "level": 2,
+        "name": {
+          "local": "Chimanimani",
+          "en": "Chimanimani",
+          "slug": "chimanimani-zw1102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.684",
+      "lon": "32.948"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110211",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw110211"
+    },
+    "code": {
+      "id": "ZW110211",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1102",
+      "level": 2,
+      "name": {
+        "local": "Chimanimani",
+        "en": "Chimanimani",
+        "slug": "chimanimani-zw1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1102",
+        "level": 2,
+        "name": {
+          "local": "Chimanimani",
+          "en": "Chimanimani",
+          "slug": "chimanimani-zw1102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.743",
+      "lon": "32.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110212",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw110212"
+    },
+    "code": {
+      "id": "ZW110212",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1102",
+      "level": 2,
+      "name": {
+        "local": "Chimanimani",
+        "en": "Chimanimani",
+        "slug": "chimanimani-zw1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1102",
+        "level": 2,
+        "name": {
+          "local": "Chimanimani",
+          "en": "Chimanimani",
+          "slug": "chimanimani-zw1102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.881",
+      "lon": "32.951"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110213",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw110213"
+    },
+    "code": {
+      "id": "ZW110213",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1102",
+      "level": 2,
+      "name": {
+        "local": "Chimanimani",
+        "en": "Chimanimani",
+        "slug": "chimanimani-zw1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1102",
+        "level": 2,
+        "name": {
+          "local": "Chimanimani",
+          "en": "Chimanimani",
+          "slug": "chimanimani-zw1102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.915",
+      "lon": "32.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110214",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw110214"
+    },
+    "code": {
+      "id": "ZW110214",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1102",
+      "level": 2,
+      "name": {
+        "local": "Chimanimani",
+        "en": "Chimanimani",
+        "slug": "chimanimani-zw1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1102",
+        "level": 2,
+        "name": {
+          "local": "Chimanimani",
+          "en": "Chimanimani",
+          "slug": "chimanimani-zw1102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.867",
+      "lon": "32.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110215",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw110215"
+    },
+    "code": {
+      "id": "ZW110215",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1102",
+      "level": 2,
+      "name": {
+        "local": "Chimanimani",
+        "en": "Chimanimani",
+        "slug": "chimanimani-zw1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1102",
+        "level": 2,
+        "name": {
+          "local": "Chimanimani",
+          "en": "Chimanimani",
+          "slug": "chimanimani-zw1102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.812",
+      "lon": "32.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110216",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "16",
+      "en": "16",
+      "slug": "16-zw110216"
+    },
+    "code": {
+      "id": "ZW110216",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1102",
+      "level": 2,
+      "name": {
+        "local": "Chimanimani",
+        "en": "Chimanimani",
+        "slug": "chimanimani-zw1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1102",
+        "level": 2,
+        "name": {
+          "local": "Chimanimani",
+          "en": "Chimanimani",
+          "slug": "chimanimani-zw1102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.973",
+      "lon": "32.701"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110217",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "17",
+      "en": "17",
+      "slug": "17-zw110217"
+    },
+    "code": {
+      "id": "ZW110217",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1102",
+      "level": 2,
+      "name": {
+        "local": "Chimanimani",
+        "en": "Chimanimani",
+        "slug": "chimanimani-zw1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1102",
+        "level": 2,
+        "name": {
+          "local": "Chimanimani",
+          "en": "Chimanimani",
+          "slug": "chimanimani-zw1102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.834",
+      "lon": "32.714"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110218",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "18",
+      "en": "18",
+      "slug": "18-zw110218"
+    },
+    "code": {
+      "id": "ZW110218",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1102",
+      "level": 2,
+      "name": {
+        "local": "Chimanimani",
+        "en": "Chimanimani",
+        "slug": "chimanimani-zw1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1102",
+        "level": 2,
+        "name": {
+          "local": "Chimanimani",
+          "en": "Chimanimani",
+          "slug": "chimanimani-zw1102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.825",
+      "lon": "32.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110219",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "19",
+      "en": "19",
+      "slug": "19-zw110219"
+    },
+    "code": {
+      "id": "ZW110219",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1102",
+      "level": 2,
+      "name": {
+        "local": "Chimanimani",
+        "en": "Chimanimani",
+        "slug": "chimanimani-zw1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1102",
+        "level": 2,
+        "name": {
+          "local": "Chimanimani",
+          "en": "Chimanimani",
+          "slug": "chimanimani-zw1102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.867",
+      "lon": "32.566"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110202",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw110202"
+    },
+    "code": {
+      "id": "ZW110202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1102",
+      "level": 2,
+      "name": {
+        "local": "Chimanimani",
+        "en": "Chimanimani",
+        "slug": "chimanimani-zw1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1102",
+        "level": 2,
+        "name": {
+          "local": "Chimanimani",
+          "en": "Chimanimani",
+          "slug": "chimanimani-zw1102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.521",
+      "lon": "32.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110220",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "20",
+      "en": "20",
+      "slug": "20-zw110220"
+    },
+    "code": {
+      "id": "ZW110220",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1102",
+      "level": 2,
+      "name": {
+        "local": "Chimanimani",
+        "en": "Chimanimani",
+        "slug": "chimanimani-zw1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1102",
+        "level": 2,
+        "name": {
+          "local": "Chimanimani",
+          "en": "Chimanimani",
+          "slug": "chimanimani-zw1102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.882",
+      "lon": "32.439"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110221",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "21",
+      "en": "21",
+      "slug": "21-zw110221"
+    },
+    "code": {
+      "id": "ZW110221",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1102",
+      "level": 2,
+      "name": {
+        "local": "Chimanimani",
+        "en": "Chimanimani",
+        "slug": "chimanimani-zw1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1102",
+        "level": 2,
+        "name": {
+          "local": "Chimanimani",
+          "en": "Chimanimani",
+          "slug": "chimanimani-zw1102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.037",
+      "lon": "32.868"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110222",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "22",
+      "en": "22",
+      "slug": "22-zw110222"
+    },
+    "code": {
+      "id": "ZW110222",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1102",
+      "level": 2,
+      "name": {
+        "local": "Chimanimani",
+        "en": "Chimanimani",
+        "slug": "chimanimani-zw1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1102",
+        "level": 2,
+        "name": {
+          "local": "Chimanimani",
+          "en": "Chimanimani",
+          "slug": "chimanimani-zw1102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.025",
+      "lon": "32.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110223",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "23",
+      "en": "23",
+      "slug": "23-zw110223"
+    },
+    "code": {
+      "id": "ZW110223",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1102",
+      "level": 2,
+      "name": {
+        "local": "Chimanimani",
+        "en": "Chimanimani",
+        "slug": "chimanimani-zw1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1102",
+        "level": 2,
+        "name": {
+          "local": "Chimanimani",
+          "en": "Chimanimani",
+          "slug": "chimanimani-zw1102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.077",
+      "lon": "32.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110203",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw110203"
+    },
+    "code": {
+      "id": "ZW110203",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1102",
+      "level": 2,
+      "name": {
+        "local": "Chimanimani",
+        "en": "Chimanimani",
+        "slug": "chimanimani-zw1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1102",
+        "level": 2,
+        "name": {
+          "local": "Chimanimani",
+          "en": "Chimanimani",
+          "slug": "chimanimani-zw1102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.584",
+      "lon": "32.549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110204",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw110204"
+    },
+    "code": {
+      "id": "ZW110204",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1102",
+      "level": 2,
+      "name": {
+        "local": "Chimanimani",
+        "en": "Chimanimani",
+        "slug": "chimanimani-zw1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1102",
+        "level": 2,
+        "name": {
+          "local": "Chimanimani",
+          "en": "Chimanimani",
+          "slug": "chimanimani-zw1102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.553",
+      "lon": "32.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110205",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw110205"
+    },
+    "code": {
+      "id": "ZW110205",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1102",
+      "level": 2,
+      "name": {
+        "local": "Chimanimani",
+        "en": "Chimanimani",
+        "slug": "chimanimani-zw1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1102",
+        "level": 2,
+        "name": {
+          "local": "Chimanimani",
+          "en": "Chimanimani",
+          "slug": "chimanimani-zw1102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.684",
+      "lon": "32.48"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110206",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw110206"
+    },
+    "code": {
+      "id": "ZW110206",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1102",
+      "level": 2,
+      "name": {
+        "local": "Chimanimani",
+        "en": "Chimanimani",
+        "slug": "chimanimani-zw1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1102",
+        "level": 2,
+        "name": {
+          "local": "Chimanimani",
+          "en": "Chimanimani",
+          "slug": "chimanimani-zw1102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.687",
+      "lon": "32.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110207",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw110207"
+    },
+    "code": {
+      "id": "ZW110207",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1102",
+      "level": 2,
+      "name": {
+        "local": "Chimanimani",
+        "en": "Chimanimani",
+        "slug": "chimanimani-zw1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1102",
+        "level": 2,
+        "name": {
+          "local": "Chimanimani",
+          "en": "Chimanimani",
+          "slug": "chimanimani-zw1102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.661",
+      "lon": "32.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110208",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw110208"
+    },
+    "code": {
+      "id": "ZW110208",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1102",
+      "level": 2,
+      "name": {
+        "local": "Chimanimani",
+        "en": "Chimanimani",
+        "slug": "chimanimani-zw1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1102",
+        "level": 2,
+        "name": {
+          "local": "Chimanimani",
+          "en": "Chimanimani",
+          "slug": "chimanimani-zw1102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.777",
+      "lon": "32.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW110209",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw110209"
+    },
+    "code": {
+      "id": "ZW110209",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1102",
+      "level": 2,
+      "name": {
+        "local": "Chimanimani",
+        "en": "Chimanimani",
+        "slug": "chimanimani-zw1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW11",
+        "level": 1,
+        "name": {
+          "local": "Manicaland",
+          "en": "Manicaland",
+          "slug": "manicaland-zw11"
+        }
+      },
+      {
+        "id": "ZW1102",
+        "level": 2,
+        "name": {
+          "local": "Chimanimani",
+          "en": "Chimanimani",
+          "slug": "chimanimani-zw1102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.777",
+      "lon": "32.597"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

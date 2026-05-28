@@ -1,0 +1,30 @@
+{
+  "id": "ZW15",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Matabeleland North",
+    "en": "Matabeleland North",
+    "slug": "matabeleland-north-zw15"
+  },
+  "code": {
+    "id": "ZW15",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 9,
+    "ward": 193
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.618",
+    "lon": "27.453"
+  },
+  "metadata": {},
+  "source": {}
+}

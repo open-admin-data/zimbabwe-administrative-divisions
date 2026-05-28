@@ -1,0 +1,47 @@
+{
+  "id": "ZW1603",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mangwe",
+    "en": "Mangwe",
+    "slug": "mangwe-zw1603"
+  },
+  "code": {
+    "id": "ZW1603",
+    "iso": null
+  },
+  "parent": {
+    "id": "ZW16",
+    "level": 1,
+    "name": {
+      "local": "Matabeleland South",
+      "en": "Matabeleland South",
+      "slug": "matabeleland-south-zw16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ZW16",
+      "level": 1,
+      "name": {
+        "local": "Matabeleland South",
+        "en": "Matabeleland South",
+        "slug": "matabeleland-south-zw16"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.012",
+    "lon": "27.951"
+  },
+  "metadata": {},
+  "source": {}
+}

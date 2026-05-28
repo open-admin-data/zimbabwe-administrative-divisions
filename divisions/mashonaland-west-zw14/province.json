@@ -1,0 +1,30 @@
+{
+  "id": "ZW14",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Mashonaland West",
+    "en": "Mashonaland West",
+    "slug": "mashonaland-west-zw14"
+  },
+  "code": {
+    "id": "ZW14",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 13,
+    "ward": 231
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.259",
+    "lon": "29.868"
+  },
+  "metadata": {},
+  "source": {}
+}

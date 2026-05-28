@@ -1,0 +1,47 @@
+{
+  "id": "ZW1729",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Gokwe South Urban",
+    "en": "Gokwe South Urban",
+    "slug": "gokwe-south-urban-zw1729"
+  },
+  "code": {
+    "id": "ZW1729",
+    "iso": null
+  },
+  "parent": {
+    "id": "ZW17",
+    "level": 1,
+    "name": {
+      "local": "Midlands",
+      "en": "Midlands",
+      "slug": "midlands-zw17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ZW17",
+      "level": 1,
+      "name": {
+        "local": "Midlands",
+        "en": "Midlands",
+        "slug": "midlands-zw17"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.22",
+    "lon": "28.944"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,980 @@
+# Mashonaland East — Zimbabwe Administrative Divisions
+
+> 11 districts, 229 wards
+> Code: ZW13
+> Coordinates: -17.977, 31.603
+> Last updated: 2026-05-28. License: CC-BY-4.0.
+
+## Districts
+
+### Chikomba
+
+Code: ZW1301, Coordinates: -18.851, 31.103
+Wards: 30
+
+#### 1
+
+Code: ZW130101, Coordinates: -18.593, 31.058
+
+#### 10
+
+Code: ZW130110, Coordinates: -18.99, 30.874
+
+#### 11
+
+Code: ZW130111, Coordinates: -19.004, 30.898
+
+#### 12
+
+Code: ZW130112, Coordinates: -18.995, 30.898
+
+#### 13
+
+Code: ZW130113, Coordinates: -18.793, 30.923
+
+#### 14
+
+Code: ZW130114, Coordinates: -19.171, 31.213
+
+#### 15
+
+Code: ZW130115, Coordinates: -19.075, 31.045
+
+#### 16
+
+Code: ZW130116, Coordinates: -19.071, 31.145
+
+#### 17
+
+Code: ZW130117, Coordinates: -18.936, 31.24
+
+#### 18
+
+Code: ZW130118, Coordinates: -19.013, 31.253
+
+#### 19
+
+Code: ZW130119, Coordinates: -19.115, 31.293
+
+#### 2
+
+Code: ZW130102, Coordinates: -18.709, 31.159
+
+#### 20
+
+Code: ZW130120, Coordinates: -19.046, 31.364
+
+#### 21
+
+Code: ZW130121, Coordinates: -18.958, 31.331
+
+#### 22
+
+Code: ZW130122, Coordinates: -18.856, 31.401
+
+#### 23
+
+Code: ZW130123, Coordinates: -18.761, 31.419
+
+#### 24
+
+Code: ZW130124, Coordinates: -18.826, 31.492
+
+#### 25
+
+Code: ZW130125, Coordinates: -18.933, 31.461
+
+#### 26
+
+Code: ZW130126, Coordinates: -19.045, 31.46
+
+#### 27
+
+Code: ZW130127, Coordinates: -19.074, 31.538
+
+#### 28
+
+Code: ZW130128, Coordinates: -18.955, 31.588
+
+#### 29
+
+Code: ZW130129, Coordinates: -18.85, 31.588
+
+#### 3
+
+Code: ZW130103, Coordinates: -18.789, 31.289
+
+#### 30
+
+Code: ZW130130, Coordinates: -18.98, 31.644
+
+#### 4
+
+Code: ZW130104, Coordinates: -18.906, 31.124
+
+#### 5
+
+Code: ZW130105, Coordinates: -18.837, 31.008
+
+#### 6
+
+Code: ZW130106, Coordinates: -18.923, 30.955
+
+#### 7
+
+Code: ZW130107, Coordinates: -18.766, 30.741
+
+#### 8
+
+Code: ZW130108, Coordinates: -19.068, 30.856
+
+#### 9
+
+Code: ZW130109, Coordinates: -19.016, 30.879
+
+### Goromonzi
+
+Code: ZW1302, Coordinates: -17.8, 31.369
+Wards: 25
+
+#### 1
+
+Code: ZW130201, Coordinates: -17.509, 31.152
+
+#### 10
+
+Code: ZW130210, Coordinates: -17.514, 31.549
+
+#### 11
+
+Code: ZW130211, Coordinates: -17.605, 31.5
+
+#### 12
+
+Code: ZW130212, Coordinates: -17.729, 31.492
+
+#### 13
+
+Code: ZW130213, Coordinates: -17.758, 31.407
+
+#### 14
+
+Code: ZW130214, Coordinates: -17.764, 31.308
+
+#### 15
+
+Code: ZW130215, Coordinates: -17.782, 31.253
+
+#### 16
+
+Code: ZW130216, Coordinates: -17.838, 31.354
+
+#### 17
+
+Code: ZW130217, Coordinates: -17.873, 31.402
+
+#### 18
+
+Code: ZW130218, Coordinates: -17.842, 31.522
+
+#### 19
+
+Code: ZW130219, Coordinates: -17.924, 31.532
+
+#### 2
+
+Code: ZW130202, Coordinates: -17.524, 31.232
+
+#### 20
+
+Code: ZW130220, Coordinates: -17.97, 31.41
+
+#### 21
+
+Code: ZW130221, Coordinates: -18.051, 31.402
+
+#### 22
+
+Code: ZW130222, Coordinates: -18.047, 31.278
+
+#### 23
+
+Code: ZW130223, Coordinates: -17.974, 31.169
+
+#### 24
+
+Code: ZW130224, Coordinates: -17.94, 31.229
+
+#### 25
+
+Code: ZW130225, Coordinates: -17.878, 31.288
+
+#### 3
+
+Code: ZW130203, Coordinates: -17.6, 31.251
+
+#### 4
+
+Code: ZW130204, Coordinates: -17.59, 31.185
+
+#### 5
+
+Code: ZW130205, Coordinates: -17.561, 31.101
+
+#### 6
+
+Code: ZW130206, Coordinates: -17.623, 31.082
+
+#### 7
+
+Code: ZW130207, Coordinates: -17.676, 31.234
+
+#### 8
+
+Code: ZW130208, Coordinates: -17.683, 31.334
+
+#### 9
+
+Code: ZW130209, Coordinates: -17.65, 31.412
+
+### Hwedza
+
+Code: ZW1303, Coordinates: -18.765, 31.685
+Wards: 15
+
+#### 1
+
+Code: ZW130301, Coordinates: -18.54, 31.308
+
+#### 10
+
+Code: ZW130310, Coordinates: -18.796, 31.862
+
+#### 11
+
+Code: ZW130311, Coordinates: -18.879, 31.805
+
+#### 12
+
+Code: ZW130312, Coordinates: -18.882, 31.878
+
+#### 13
+
+Code: ZW130313, Coordinates: -18.987, 31.802
+
+#### 14
+
+Code: ZW130314, Coordinates: -19.045, 31.881
+
+#### 15
+
+Code: ZW130315, Coordinates: -18.613, 31.578
+
+#### 2
+
+Code: ZW130302, Coordinates: -18.525, 31.507
+
+#### 3
+
+Code: ZW130303, Coordinates: -18.591, 31.663
+
+#### 4
+
+Code: ZW130304, Coordinates: -18.675, 31.451
+
+#### 5
+
+Code: ZW130305, Coordinates: -18.652, 31.636
+
+#### 6
+
+Code: ZW130306, Coordinates: -18.714, 31.561
+
+#### 7
+
+Code: ZW130307, Coordinates: -18.723, 31.665
+
+#### 8
+
+Code: ZW130308, Coordinates: -18.762, 31.766
+
+#### 9
+
+Code: ZW130309, Coordinates: -18.853, 31.716
+
+### Marondera
+
+Code: ZW1304, Coordinates: -18.25, 31.29
+Wards: 23
+
+#### 1
+
+Code: ZW130401, Coordinates: -18.057, 31.579
+
+#### 10
+
+Code: ZW130410, Coordinates: -18.338, 31.28
+
+#### 11
+
+Code: ZW130411, Coordinates: -18.33, 31.211
+
+#### 12
+
+Code: ZW130412, Coordinates: -18.311, 31.13
+
+#### 13
+
+Code: ZW130413, Coordinates: -18.302, 31.054
+
+#### 14
+
+Code: ZW130414, Coordinates: -18.206, 31.127
+
+#### 15
+
+Code: ZW130415, Coordinates: -18.232, 31.171
+
+#### 16
+
+Code: ZW130416, Coordinates: -18.264, 31.22
+
+#### 17
+
+Code: ZW130417, Coordinates: -18.247, 31.303
+
+#### 18
+
+Code: ZW130418, Coordinates: -18.198, 31.291
+
+#### 19
+
+Code: ZW130419, Coordinates: -18.332, 31.679
+
+#### 2
+
+Code: ZW130402, Coordinates: -18.113, 31.49
+
+#### 20
+
+Code: ZW130420, Coordinates: -18.366, 31.718
+
+#### 21
+
+Code: ZW130421, Coordinates: -18.294, 31.809
+
+#### 22
+
+Code: ZW130422, Coordinates: -18.481, 31.729
+
+#### 23
+
+Code: ZW130423, Coordinates: -18.184, 31.655
+
+#### 3
+
+Code: ZW130403, Coordinates: -17.992, 31.63
+
+#### 4
+
+Code: ZW130404, Coordinates: -18.218, 31.454
+
+#### 5
+
+Code: ZW130405, Coordinates: -18.372, 31.451
+
+#### 6
+
+Code: ZW130406, Coordinates: -18.312, 31.59
+
+#### 7
+
+Code: ZW130407, Coordinates: -18.444, 31.649
+
+#### 8
+
+Code: ZW130408, Coordinates: -18.424, 31.3
+
+#### 9
+
+Code: ZW130409, Coordinates: -18.388, 31.151
+
+### Marondera Urban
+
+Code: ZW1321, Coordinates: -18.213, 31.532
+Wards: 12
+
+#### 1
+
+Code: ZW132101, Coordinates: -18.181, 31.558
+
+#### 10
+
+Code: ZW132110, Coordinates: -18.225, 31.519
+
+#### 11
+
+Code: ZW132111, Coordinates: -18.196, 31.565
+
+#### 12
+
+Code: ZW132112, Coordinates: -18.222, 31.543
+
+#### 2
+
+Code: ZW132102, Coordinates: -18.182, 31.562
+
+#### 3
+
+Code: ZW132103, Coordinates: -18.18, 31.57
+
+#### 4
+
+Code: ZW132104, Coordinates: -18.172, 31.572
+
+#### 5
+
+Code: ZW132105, Coordinates: -18.172, 31.559
+
+#### 6
+
+Code: ZW132106, Coordinates: -18.168, 31.559
+
+#### 7
+
+Code: ZW132107, Coordinates: -18.176, 31.557
+
+#### 8
+
+Code: ZW132108, Coordinates: -18.203, 31.547
+
+#### 9
+
+Code: ZW132109, Coordinates: -18.22, 31.533
+
+### Mudzi
+
+Code: ZW1305, Coordinates: -17.049, 32.551
+Wards: 18
+
+#### 1
+
+Code: ZW130501, Coordinates: -16.861, 32.907
+
+#### 10
+
+Code: ZW130510, Coordinates: -16.988, 32.681
+
+#### 11
+
+Code: ZW130511, Coordinates: -16.982, 32.785
+
+#### 12
+
+Code: ZW130512, Coordinates: -17.111, 32.712
+
+#### 13
+
+Code: ZW130513, Coordinates: -17.239, 32.496
+
+#### 14
+
+Code: ZW130514, Coordinates: -17.334, 32.695
+
+#### 15
+
+Code: ZW130515, Coordinates: -17.222, 32.73
+
+#### 16
+
+Code: ZW130516, Coordinates: -17.155, 32.878
+
+#### 17
+
+Code: ZW130517, Coordinates: -16.817, 32.789
+
+#### 18
+
+Code: ZW130518, Coordinates: -17.214, 32.563
+
+#### 2
+
+Code: ZW130502, Coordinates: -16.849, 32.611
+
+#### 3
+
+Code: ZW130503, Coordinates: -16.914, 32.513
+
+#### 4
+
+Code: ZW130504, Coordinates: -16.969, 32.395
+
+#### 5
+
+Code: ZW130505, Coordinates: -17.002, 32.274
+
+#### 6
+
+Code: ZW130506, Coordinates: -17.093, 32.275
+
+#### 7
+
+Code: ZW130507, Coordinates: -17.13, 32.466
+
+#### 8
+
+Code: ZW130508, Coordinates: -17.068, 32.624
+
+#### 9
+
+Code: ZW130509, Coordinates: -16.972, 32.593
+
+### Murehwa
+
+Code: ZW1306, Coordinates: -17.8, 31.836
+Wards: 30
+
+#### 1
+
+Code: ZW130601, Coordinates: -17.434, 31.646
+
+#### 10
+
+Code: ZW130610, Coordinates: -17.6, 31.736
+
+#### 11
+
+Code: ZW130611, Coordinates: -17.669, 31.633
+
+#### 12
+
+Code: ZW130612, Coordinates: -17.637, 31.567
+
+#### 13
+
+Code: ZW130613, Coordinates: -17.751, 31.566
+
+#### 14
+
+Code: ZW130614, Coordinates: -17.732, 31.676
+
+#### 15
+
+Code: ZW130615, Coordinates: -17.767, 31.737
+
+#### 16
+
+Code: ZW130616, Coordinates: -17.695, 31.765
+
+#### 17
+
+Code: ZW130617, Coordinates: -17.701, 31.911
+
+#### 18
+
+Code: ZW130618, Coordinates: -17.682, 31.983
+
+#### 19
+
+Code: ZW130619, Coordinates: -17.768, 31.942
+
+#### 2
+
+Code: ZW130602, Coordinates: -17.471, 31.671
+
+#### 20
+
+Code: ZW130620, Coordinates: -17.762, 32.062
+
+#### 21
+
+Code: ZW130621, Coordinates: -17.796, 31.986
+
+#### 22
+
+Code: ZW130622, Coordinates: -17.918, 32.036
+
+#### 23
+
+Code: ZW130623, Coordinates: -18.124, 31.93
+
+#### 24
+
+Code: ZW130624, Coordinates: -17.878, 31.871
+
+#### 25
+
+Code: ZW130625, Coordinates: -17.869, 31.773
+
+#### 26
+
+Code: ZW130626, Coordinates: -17.881, 31.713
+
+#### 27
+
+Code: ZW130627, Coordinates: -17.86, 31.605
+
+#### 28
+
+Code: ZW130628, Coordinates: -17.804, 31.584
+
+#### 29
+
+Code: ZW130629, Coordinates: -18.133, 31.852
+
+#### 3
+
+Code: ZW130603, Coordinates: -17.543, 31.629
+
+#### 30
+
+Code: ZW130630, Coordinates: -17.648, 31.78
+
+#### 4
+
+Code: ZW130604, Coordinates: -17.51, 31.734
+
+#### 5
+
+Code: ZW130605, Coordinates: -17.528, 31.807
+
+#### 6
+
+Code: ZW130606, Coordinates: -17.496, 31.857
+
+#### 7
+
+Code: ZW130607, Coordinates: -17.583, 31.895
+
+#### 8
+
+Code: ZW130608, Coordinates: -17.667, 31.854
+
+#### 9
+
+Code: ZW130609, Coordinates: -17.598, 31.811
+
+### Mutoko
+
+Code: ZW1307, Coordinates: -17.423, 32.359
+Wards: 29
+
+#### 1
+
+Code: ZW130701, Coordinates: -17.104, 32.134
+
+#### 10
+
+Code: ZW130710, Coordinates: -17.375, 32.086
+
+#### 11
+
+Code: ZW130711, Coordinates: -17.37, 32.218
+
+#### 12
+
+Code: ZW130712, Coordinates: -17.336, 32.274
+
+#### 13
+
+Code: ZW130713, Coordinates: -17.307, 32.356
+
+#### 14
+
+Code: ZW130714, Coordinates: -17.325, 32.447
+
+#### 15
+
+Code: ZW130715, Coordinates: -17.283, 32.464
+
+#### 16
+
+Code: ZW130716, Coordinates: -17.363, 32.371
+
+#### 17
+
+Code: ZW130717, Coordinates: -17.432, 32.4
+
+#### 18
+
+Code: ZW130718, Coordinates: -17.411, 32.521
+
+#### 19
+
+Code: ZW130719, Coordinates: -17.488, 32.593
+
+#### 2
+
+Code: ZW130702, Coordinates: -17.232, 32.097
+
+#### 20
+
+Code: ZW130720, Coordinates: -17.415, 32.221
+
+#### 21
+
+Code: ZW130721, Coordinates: -17.431, 32.112
+
+#### 22
+
+Code: ZW130722, Coordinates: -17.453, 32.266
+
+#### 23
+
+Code: ZW130723, Coordinates: -17.487, 32.387
+
+#### 24
+
+Code: ZW130724, Coordinates: -17.584, 32.448
+
+#### 25
+
+Code: ZW130725, Coordinates: -17.488, 31.998
+
+#### 26
+
+Code: ZW130726, Coordinates: -17.61, 32.018
+
+#### 27
+
+Code: ZW130727, Coordinates: -17.543, 32.148
+
+#### 28
+
+Code: ZW130728, Coordinates: -17.607, 32.315
+
+#### 29
+
+Code: ZW130729, Coordinates: -17.71, 32.186
+
+#### 3
+
+Code: ZW130703, Coordinates: -17.177, 32.2
+
+#### 4
+
+Code: ZW130704, Coordinates: -17.195, 32.347
+
+#### 5
+
+Code: ZW130705, Coordinates: -17.343, 32.138
+
+#### 6
+
+Code: ZW130706, Coordinates: -17.291, 32.205
+
+#### 7
+
+Code: ZW130707, Coordinates: -17.256, 32.243
+
+#### 8
+
+Code: ZW130708, Coordinates: -17.261, 32.318
+
+#### 9
+
+Code: ZW130709, Coordinates: -17.237, 32.43
+
+### Ruwa
+
+Code: ZW1326, Coordinates: -17.887, 31.233
+Wards: 9
+
+#### 1
+
+Code: ZW132601, Coordinates: -17.893, 31.249
+
+#### 2
+
+Code: ZW132602, Coordinates: -17.905, 31.261
+
+#### 3
+
+Code: ZW132603, Coordinates: -17.897, 31.241
+
+#### 4
+
+Code: ZW132604, Coordinates: -17.901, 31.236
+
+#### 5
+
+Code: ZW132605, Coordinates: -17.912, 31.233
+
+#### 6
+
+Code: ZW132606, Coordinates: -17.906, 31.232
+
+#### 7
+
+Code: ZW132607, Coordinates: -17.898, 31.216
+
+#### 8
+
+Code: ZW132608, Coordinates: -17.865, 31.212
+
+#### 9
+
+Code: ZW132609, Coordinates: -17.871, 31.24
+
+### Seke
+
+Code: ZW1308, Coordinates: -18.302, 30.865
+Wards: 21
+
+#### 1
+
+Code: ZW130801, Coordinates: -18.017, 31.157
+
+#### 10
+
+Code: ZW130810, Coordinates: -18.035, 30.898
+
+#### 11
+
+Code: ZW130811, Coordinates: -18.094, 30.799
+
+#### 12
+
+Code: ZW130812, Coordinates: -18.184, 30.848
+
+#### 13
+
+Code: ZW130813, Coordinates: -18.239, 30.841
+
+#### 14
+
+Code: ZW130814, Coordinates: -18.326, 30.801
+
+#### 15
+
+Code: ZW130815, Coordinates: -18.362, 30.933
+
+#### 16
+
+Code: ZW130816, Coordinates: -18.255, 31.041
+
+#### 17
+
+Code: ZW130817, Coordinates: -18.367, 31.032
+
+#### 18
+
+Code: ZW130818, Coordinates: -18.398, 31.088
+
+#### 19
+
+Code: ZW130819, Coordinates: -18.489, 30.977
+
+#### 2
+
+Code: ZW130802, Coordinates: -18.076, 31.211
+
+#### 20
+
+Code: ZW130820, Coordinates: -18.513, 30.862
+
+#### 21
+
+Code: ZW130821, Coordinates: -18.613, 30.741
+
+#### 3
+
+Code: ZW130803, Coordinates: -18.124, 31.279
+
+#### 4
+
+Code: ZW130804, Coordinates: -18.18, 31.35
+
+#### 5
+
+Code: ZW130805, Coordinates: -18.144, 31.228
+
+#### 6
+
+Code: ZW130806, Coordinates: -18.142, 31.168
+
+#### 7
+
+Code: ZW130807, Coordinates: -18.077, 31.147
+
+#### 8
+
+Code: ZW130808, Coordinates: -18.054, 31.11
+
+#### 9
+
+Code: ZW130809, Coordinates: -18.152, 31.028
+
+### Uzumba Maramba Pfungwe
+
+Code: ZW1309, Coordinates: -17.097, 31.965
+Wards: 17
+
+#### 1
+
+Code: ZW130901, Coordinates: -16.801, 32.37
+
+#### 10
+
+Code: ZW130910, Coordinates: -17.323, 31.931
+
+#### 11
+
+Code: ZW130911, Coordinates: -17.3, 32.017
+
+#### 12
+
+Code: ZW130912, Coordinates: -17.383, 32.02
+
+#### 13
+
+Code: ZW130913, Coordinates: -17.364, 31.858
+
+#### 14
+
+Code: ZW130914, Coordinates: -17.354, 31.76
+
+#### 15
+
+Code: ZW130915, Coordinates: -17.424, 31.759
+
+#### 16
+
+Code: ZW130916, Coordinates: -16.987, 31.97
+
+#### 17
+
+Code: ZW130917, Coordinates: -17.103, 31.908
+
+#### 2
+
+Code: ZW130902, Coordinates: -16.841, 32.22
+
+#### 3
+
+Code: ZW130903, Coordinates: -16.943, 32.215
+
+#### 4
+
+Code: ZW130904, Coordinates: -16.902, 32.058
+
+#### 5
+
+Code: ZW130905, Coordinates: -16.975, 32.066
+
+#### 6
+
+Code: ZW130906, Coordinates: -17.117, 32.019
+
+#### 7
+
+Code: ZW130907, Coordinates: -17.2, 31.764
+
+#### 8
+
+Code: ZW130908, Coordinates: -17.239, 31.894
+
+#### 9
+
+Code: ZW130909, Coordinates: -17.246, 31.783
+

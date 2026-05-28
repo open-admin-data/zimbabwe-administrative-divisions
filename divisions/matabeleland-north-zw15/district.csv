@@ -1,0 +1,10 @@
+id,name.local,name.en,name.slug,code.id,children_count.ward,geo.lat,geo.lon
+ZW1501,Binga,Binga,binga-zw1501,ZW1501,25,-17.692,27.71
+ZW1502,Bubi,Bubi,bubi-zw1502,ZW1502,23,-19.567,28.843
+ZW1503,Hwange,Hwange,hwange-zw1503,ZW1503,20,-18.84,26.594
+ZW1521,Hwange Urban,Hwange Urban,hwange-urban-zw1521,ZW1521,15,-18.335,26.481
+ZW1504,Lupane,Lupane,lupane-zw1504,ZW1504,28,-18.882,27.829
+ZW1505,Nkayi,Nkayi,nkayi-zw1505,ZW1505,30,-18.923,28.614
+ZW1506,Tsholotsho,Tsholotsho,tsholotsho-zw1506,ZW1506,22,-19.64,27.289
+ZW1507,Umguza,Umguza,umguza-zw1507,ZW1507,19,-19.86,28.252
+ZW1522,Victoria Falls,Victoria Falls,victoria-falls-zw1522,ZW1522,11,-17.931,25.831

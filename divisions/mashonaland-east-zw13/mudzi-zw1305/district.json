@@ -1,0 +1,47 @@
+{
+  "id": "ZW1305",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mudzi",
+    "en": "Mudzi",
+    "slug": "mudzi-zw1305"
+  },
+  "code": {
+    "id": "ZW1305",
+    "iso": null
+  },
+  "parent": {
+    "id": "ZW13",
+    "level": 1,
+    "name": {
+      "local": "Mashonaland East",
+      "en": "Mashonaland East",
+      "slug": "mashonaland-east-zw13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ZW13",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland East",
+        "en": "Mashonaland East",
+        "slug": "mashonaland-east-zw13"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.049",
+    "lon": "32.551"
+  },
+  "metadata": {},
+  "source": {}
+}

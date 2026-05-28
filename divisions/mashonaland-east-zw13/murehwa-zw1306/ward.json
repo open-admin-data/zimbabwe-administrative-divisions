@@ -1,0 +1,1622 @@
+[
+  {
+    "id": "ZW130601",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw130601"
+    },
+    "code": {
+      "id": "ZW130601",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1306",
+      "level": 2,
+      "name": {
+        "local": "Murehwa",
+        "en": "Murehwa",
+        "slug": "murehwa-zw1306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1306",
+        "level": 2,
+        "name": {
+          "local": "Murehwa",
+          "en": "Murehwa",
+          "slug": "murehwa-zw1306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.434",
+      "lon": "31.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130610",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw130610"
+    },
+    "code": {
+      "id": "ZW130610",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1306",
+      "level": 2,
+      "name": {
+        "local": "Murehwa",
+        "en": "Murehwa",
+        "slug": "murehwa-zw1306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1306",
+        "level": 2,
+        "name": {
+          "local": "Murehwa",
+          "en": "Murehwa",
+          "slug": "murehwa-zw1306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.6",
+      "lon": "31.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130611",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw130611"
+    },
+    "code": {
+      "id": "ZW130611",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1306",
+      "level": 2,
+      "name": {
+        "local": "Murehwa",
+        "en": "Murehwa",
+        "slug": "murehwa-zw1306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1306",
+        "level": 2,
+        "name": {
+          "local": "Murehwa",
+          "en": "Murehwa",
+          "slug": "murehwa-zw1306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.669",
+      "lon": "31.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130612",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw130612"
+    },
+    "code": {
+      "id": "ZW130612",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1306",
+      "level": 2,
+      "name": {
+        "local": "Murehwa",
+        "en": "Murehwa",
+        "slug": "murehwa-zw1306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1306",
+        "level": 2,
+        "name": {
+          "local": "Murehwa",
+          "en": "Murehwa",
+          "slug": "murehwa-zw1306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.637",
+      "lon": "31.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130613",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw130613"
+    },
+    "code": {
+      "id": "ZW130613",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1306",
+      "level": 2,
+      "name": {
+        "local": "Murehwa",
+        "en": "Murehwa",
+        "slug": "murehwa-zw1306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1306",
+        "level": 2,
+        "name": {
+          "local": "Murehwa",
+          "en": "Murehwa",
+          "slug": "murehwa-zw1306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.751",
+      "lon": "31.566"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130614",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw130614"
+    },
+    "code": {
+      "id": "ZW130614",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1306",
+      "level": 2,
+      "name": {
+        "local": "Murehwa",
+        "en": "Murehwa",
+        "slug": "murehwa-zw1306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1306",
+        "level": 2,
+        "name": {
+          "local": "Murehwa",
+          "en": "Murehwa",
+          "slug": "murehwa-zw1306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.732",
+      "lon": "31.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130615",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw130615"
+    },
+    "code": {
+      "id": "ZW130615",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1306",
+      "level": 2,
+      "name": {
+        "local": "Murehwa",
+        "en": "Murehwa",
+        "slug": "murehwa-zw1306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1306",
+        "level": 2,
+        "name": {
+          "local": "Murehwa",
+          "en": "Murehwa",
+          "slug": "murehwa-zw1306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.767",
+      "lon": "31.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130616",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "16",
+      "en": "16",
+      "slug": "16-zw130616"
+    },
+    "code": {
+      "id": "ZW130616",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1306",
+      "level": 2,
+      "name": {
+        "local": "Murehwa",
+        "en": "Murehwa",
+        "slug": "murehwa-zw1306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1306",
+        "level": 2,
+        "name": {
+          "local": "Murehwa",
+          "en": "Murehwa",
+          "slug": "murehwa-zw1306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.695",
+      "lon": "31.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130617",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "17",
+      "en": "17",
+      "slug": "17-zw130617"
+    },
+    "code": {
+      "id": "ZW130617",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1306",
+      "level": 2,
+      "name": {
+        "local": "Murehwa",
+        "en": "Murehwa",
+        "slug": "murehwa-zw1306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1306",
+        "level": 2,
+        "name": {
+          "local": "Murehwa",
+          "en": "Murehwa",
+          "slug": "murehwa-zw1306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.701",
+      "lon": "31.911"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130618",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "18",
+      "en": "18",
+      "slug": "18-zw130618"
+    },
+    "code": {
+      "id": "ZW130618",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1306",
+      "level": 2,
+      "name": {
+        "local": "Murehwa",
+        "en": "Murehwa",
+        "slug": "murehwa-zw1306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1306",
+        "level": 2,
+        "name": {
+          "local": "Murehwa",
+          "en": "Murehwa",
+          "slug": "murehwa-zw1306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.682",
+      "lon": "31.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130619",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "19",
+      "en": "19",
+      "slug": "19-zw130619"
+    },
+    "code": {
+      "id": "ZW130619",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1306",
+      "level": 2,
+      "name": {
+        "local": "Murehwa",
+        "en": "Murehwa",
+        "slug": "murehwa-zw1306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1306",
+        "level": 2,
+        "name": {
+          "local": "Murehwa",
+          "en": "Murehwa",
+          "slug": "murehwa-zw1306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.768",
+      "lon": "31.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130602",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw130602"
+    },
+    "code": {
+      "id": "ZW130602",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1306",
+      "level": 2,
+      "name": {
+        "local": "Murehwa",
+        "en": "Murehwa",
+        "slug": "murehwa-zw1306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1306",
+        "level": 2,
+        "name": {
+          "local": "Murehwa",
+          "en": "Murehwa",
+          "slug": "murehwa-zw1306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.471",
+      "lon": "31.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130620",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "20",
+      "en": "20",
+      "slug": "20-zw130620"
+    },
+    "code": {
+      "id": "ZW130620",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1306",
+      "level": 2,
+      "name": {
+        "local": "Murehwa",
+        "en": "Murehwa",
+        "slug": "murehwa-zw1306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1306",
+        "level": 2,
+        "name": {
+          "local": "Murehwa",
+          "en": "Murehwa",
+          "slug": "murehwa-zw1306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.762",
+      "lon": "32.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130621",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "21",
+      "en": "21",
+      "slug": "21-zw130621"
+    },
+    "code": {
+      "id": "ZW130621",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1306",
+      "level": 2,
+      "name": {
+        "local": "Murehwa",
+        "en": "Murehwa",
+        "slug": "murehwa-zw1306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1306",
+        "level": 2,
+        "name": {
+          "local": "Murehwa",
+          "en": "Murehwa",
+          "slug": "murehwa-zw1306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.796",
+      "lon": "31.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130622",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "22",
+      "en": "22",
+      "slug": "22-zw130622"
+    },
+    "code": {
+      "id": "ZW130622",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1306",
+      "level": 2,
+      "name": {
+        "local": "Murehwa",
+        "en": "Murehwa",
+        "slug": "murehwa-zw1306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1306",
+        "level": 2,
+        "name": {
+          "local": "Murehwa",
+          "en": "Murehwa",
+          "slug": "murehwa-zw1306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.918",
+      "lon": "32.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130623",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "23",
+      "en": "23",
+      "slug": "23-zw130623"
+    },
+    "code": {
+      "id": "ZW130623",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1306",
+      "level": 2,
+      "name": {
+        "local": "Murehwa",
+        "en": "Murehwa",
+        "slug": "murehwa-zw1306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1306",
+        "level": 2,
+        "name": {
+          "local": "Murehwa",
+          "en": "Murehwa",
+          "slug": "murehwa-zw1306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.124",
+      "lon": "31.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130624",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "24",
+      "en": "24",
+      "slug": "24-zw130624"
+    },
+    "code": {
+      "id": "ZW130624",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1306",
+      "level": 2,
+      "name": {
+        "local": "Murehwa",
+        "en": "Murehwa",
+        "slug": "murehwa-zw1306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1306",
+        "level": 2,
+        "name": {
+          "local": "Murehwa",
+          "en": "Murehwa",
+          "slug": "murehwa-zw1306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.878",
+      "lon": "31.871"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130625",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "25",
+      "en": "25",
+      "slug": "25-zw130625"
+    },
+    "code": {
+      "id": "ZW130625",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1306",
+      "level": 2,
+      "name": {
+        "local": "Murehwa",
+        "en": "Murehwa",
+        "slug": "murehwa-zw1306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1306",
+        "level": 2,
+        "name": {
+          "local": "Murehwa",
+          "en": "Murehwa",
+          "slug": "murehwa-zw1306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.869",
+      "lon": "31.773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130626",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "26",
+      "en": "26",
+      "slug": "26-zw130626"
+    },
+    "code": {
+      "id": "ZW130626",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1306",
+      "level": 2,
+      "name": {
+        "local": "Murehwa",
+        "en": "Murehwa",
+        "slug": "murehwa-zw1306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1306",
+        "level": 2,
+        "name": {
+          "local": "Murehwa",
+          "en": "Murehwa",
+          "slug": "murehwa-zw1306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.881",
+      "lon": "31.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130627",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "27",
+      "en": "27",
+      "slug": "27-zw130627"
+    },
+    "code": {
+      "id": "ZW130627",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1306",
+      "level": 2,
+      "name": {
+        "local": "Murehwa",
+        "en": "Murehwa",
+        "slug": "murehwa-zw1306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1306",
+        "level": 2,
+        "name": {
+          "local": "Murehwa",
+          "en": "Murehwa",
+          "slug": "murehwa-zw1306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.86",
+      "lon": "31.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130628",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "28",
+      "en": "28",
+      "slug": "28-zw130628"
+    },
+    "code": {
+      "id": "ZW130628",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1306",
+      "level": 2,
+      "name": {
+        "local": "Murehwa",
+        "en": "Murehwa",
+        "slug": "murehwa-zw1306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1306",
+        "level": 2,
+        "name": {
+          "local": "Murehwa",
+          "en": "Murehwa",
+          "slug": "murehwa-zw1306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.804",
+      "lon": "31.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130629",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "29",
+      "en": "29",
+      "slug": "29-zw130629"
+    },
+    "code": {
+      "id": "ZW130629",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1306",
+      "level": 2,
+      "name": {
+        "local": "Murehwa",
+        "en": "Murehwa",
+        "slug": "murehwa-zw1306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1306",
+        "level": 2,
+        "name": {
+          "local": "Murehwa",
+          "en": "Murehwa",
+          "slug": "murehwa-zw1306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.133",
+      "lon": "31.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130603",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw130603"
+    },
+    "code": {
+      "id": "ZW130603",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1306",
+      "level": 2,
+      "name": {
+        "local": "Murehwa",
+        "en": "Murehwa",
+        "slug": "murehwa-zw1306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1306",
+        "level": 2,
+        "name": {
+          "local": "Murehwa",
+          "en": "Murehwa",
+          "slug": "murehwa-zw1306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.543",
+      "lon": "31.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130630",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "30",
+      "en": "30",
+      "slug": "30-zw130630"
+    },
+    "code": {
+      "id": "ZW130630",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1306",
+      "level": 2,
+      "name": {
+        "local": "Murehwa",
+        "en": "Murehwa",
+        "slug": "murehwa-zw1306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1306",
+        "level": 2,
+        "name": {
+          "local": "Murehwa",
+          "en": "Murehwa",
+          "slug": "murehwa-zw1306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.648",
+      "lon": "31.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130604",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw130604"
+    },
+    "code": {
+      "id": "ZW130604",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1306",
+      "level": 2,
+      "name": {
+        "local": "Murehwa",
+        "en": "Murehwa",
+        "slug": "murehwa-zw1306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1306",
+        "level": 2,
+        "name": {
+          "local": "Murehwa",
+          "en": "Murehwa",
+          "slug": "murehwa-zw1306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.51",
+      "lon": "31.734"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130605",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw130605"
+    },
+    "code": {
+      "id": "ZW130605",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1306",
+      "level": 2,
+      "name": {
+        "local": "Murehwa",
+        "en": "Murehwa",
+        "slug": "murehwa-zw1306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1306",
+        "level": 2,
+        "name": {
+          "local": "Murehwa",
+          "en": "Murehwa",
+          "slug": "murehwa-zw1306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.528",
+      "lon": "31.807"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130606",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw130606"
+    },
+    "code": {
+      "id": "ZW130606",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1306",
+      "level": 2,
+      "name": {
+        "local": "Murehwa",
+        "en": "Murehwa",
+        "slug": "murehwa-zw1306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1306",
+        "level": 2,
+        "name": {
+          "local": "Murehwa",
+          "en": "Murehwa",
+          "slug": "murehwa-zw1306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.496",
+      "lon": "31.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130607",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw130607"
+    },
+    "code": {
+      "id": "ZW130607",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1306",
+      "level": 2,
+      "name": {
+        "local": "Murehwa",
+        "en": "Murehwa",
+        "slug": "murehwa-zw1306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1306",
+        "level": 2,
+        "name": {
+          "local": "Murehwa",
+          "en": "Murehwa",
+          "slug": "murehwa-zw1306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.583",
+      "lon": "31.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130608",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw130608"
+    },
+    "code": {
+      "id": "ZW130608",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1306",
+      "level": 2,
+      "name": {
+        "local": "Murehwa",
+        "en": "Murehwa",
+        "slug": "murehwa-zw1306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1306",
+        "level": 2,
+        "name": {
+          "local": "Murehwa",
+          "en": "Murehwa",
+          "slug": "murehwa-zw1306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.667",
+      "lon": "31.854"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130609",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw130609"
+    },
+    "code": {
+      "id": "ZW130609",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1306",
+      "level": 2,
+      "name": {
+        "local": "Murehwa",
+        "en": "Murehwa",
+        "slug": "murehwa-zw1306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1306",
+        "level": 2,
+        "name": {
+          "local": "Murehwa",
+          "en": "Murehwa",
+          "slug": "murehwa-zw1306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.598",
+      "lon": "31.811"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

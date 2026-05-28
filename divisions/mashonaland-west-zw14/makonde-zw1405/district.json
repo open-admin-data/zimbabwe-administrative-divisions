@@ -1,0 +1,47 @@
+{
+  "id": "ZW1405",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Makonde",
+    "en": "Makonde",
+    "slug": "makonde-zw1405"
+  },
+  "code": {
+    "id": "ZW1405",
+    "iso": null
+  },
+  "parent": {
+    "id": "ZW14",
+    "level": 1,
+    "name": {
+      "local": "Mashonaland West",
+      "en": "Mashonaland West",
+      "slug": "mashonaland-west-zw14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ZW14",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland West",
+        "en": "Mashonaland West",
+        "slug": "mashonaland-west-zw14"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.062",
+    "lon": "30.146"
+  },
+  "metadata": {},
+  "source": {}
+}

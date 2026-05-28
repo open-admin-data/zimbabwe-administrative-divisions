@@ -1,0 +1,47 @@
+{
+  "id": "ZW1702",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Gokwe North",
+    "en": "Gokwe North",
+    "slug": "gokwe-north-zw1702"
+  },
+  "code": {
+    "id": "ZW1702",
+    "iso": null
+  },
+  "parent": {
+    "id": "ZW17",
+    "level": 1,
+    "name": {
+      "local": "Midlands",
+      "en": "Midlands",
+      "slug": "midlands-zw17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ZW17",
+      "level": 1,
+      "name": {
+        "local": "Midlands",
+        "en": "Midlands",
+        "slug": "midlands-zw17"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 36
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.557",
+    "lon": "28.775"
+  },
+  "metadata": {},
+  "source": {}
+}

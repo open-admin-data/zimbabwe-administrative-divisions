@@ -1,0 +1,974 @@
+[
+  {
+    "id": "ZW172101",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw172101"
+    },
+    "code": {
+      "id": "ZW172101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1721",
+      "level": 2,
+      "name": {
+        "local": "Gweru Urban",
+        "en": "Gweru Urban",
+        "slug": "gweru-urban-zw1721"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1721",
+        "level": 2,
+        "name": {
+          "local": "Gweru Urban",
+          "en": "Gweru Urban",
+          "slug": "gweru-urban-zw1721"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.41",
+      "lon": "29.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW172110",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw172110"
+    },
+    "code": {
+      "id": "ZW172110",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1721",
+      "level": 2,
+      "name": {
+        "local": "Gweru Urban",
+        "en": "Gweru Urban",
+        "slug": "gweru-urban-zw1721"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1721",
+        "level": 2,
+        "name": {
+          "local": "Gweru Urban",
+          "en": "Gweru Urban",
+          "slug": "gweru-urban-zw1721"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.471",
+      "lon": "29.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW172111",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw172111"
+    },
+    "code": {
+      "id": "ZW172111",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1721",
+      "level": 2,
+      "name": {
+        "local": "Gweru Urban",
+        "en": "Gweru Urban",
+        "slug": "gweru-urban-zw1721"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1721",
+        "level": 2,
+        "name": {
+          "local": "Gweru Urban",
+          "en": "Gweru Urban",
+          "slug": "gweru-urban-zw1721"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.471",
+      "lon": "29.755"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW172112",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw172112"
+    },
+    "code": {
+      "id": "ZW172112",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1721",
+      "level": 2,
+      "name": {
+        "local": "Gweru Urban",
+        "en": "Gweru Urban",
+        "slug": "gweru-urban-zw1721"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1721",
+        "level": 2,
+        "name": {
+          "local": "Gweru Urban",
+          "en": "Gweru Urban",
+          "slug": "gweru-urban-zw1721"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.461",
+      "lon": "29.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW172113",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw172113"
+    },
+    "code": {
+      "id": "ZW172113",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1721",
+      "level": 2,
+      "name": {
+        "local": "Gweru Urban",
+        "en": "Gweru Urban",
+        "slug": "gweru-urban-zw1721"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1721",
+        "level": 2,
+        "name": {
+          "local": "Gweru Urban",
+          "en": "Gweru Urban",
+          "slug": "gweru-urban-zw1721"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.457",
+      "lon": "29.755"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW172114",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw172114"
+    },
+    "code": {
+      "id": "ZW172114",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1721",
+      "level": 2,
+      "name": {
+        "local": "Gweru Urban",
+        "en": "Gweru Urban",
+        "slug": "gweru-urban-zw1721"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1721",
+        "level": 2,
+        "name": {
+          "local": "Gweru Urban",
+          "en": "Gweru Urban",
+          "slug": "gweru-urban-zw1721"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.459",
+      "lon": "29.746"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW172115",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw172115"
+    },
+    "code": {
+      "id": "ZW172115",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1721",
+      "level": 2,
+      "name": {
+        "local": "Gweru Urban",
+        "en": "Gweru Urban",
+        "slug": "gweru-urban-zw1721"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1721",
+        "level": 2,
+        "name": {
+          "local": "Gweru Urban",
+          "en": "Gweru Urban",
+          "slug": "gweru-urban-zw1721"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.446",
+      "lon": "29.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW172116",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "16",
+      "en": "16",
+      "slug": "16-zw172116"
+    },
+    "code": {
+      "id": "ZW172116",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1721",
+      "level": 2,
+      "name": {
+        "local": "Gweru Urban",
+        "en": "Gweru Urban",
+        "slug": "gweru-urban-zw1721"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1721",
+        "level": 2,
+        "name": {
+          "local": "Gweru Urban",
+          "en": "Gweru Urban",
+          "slug": "gweru-urban-zw1721"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.436",
+      "lon": "29.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW172117",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "17",
+      "en": "17",
+      "slug": "17-zw172117"
+    },
+    "code": {
+      "id": "ZW172117",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1721",
+      "level": 2,
+      "name": {
+        "local": "Gweru Urban",
+        "en": "Gweru Urban",
+        "slug": "gweru-urban-zw1721"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1721",
+        "level": 2,
+        "name": {
+          "local": "Gweru Urban",
+          "en": "Gweru Urban",
+          "slug": "gweru-urban-zw1721"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.452",
+      "lon": "29.743"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW172118",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "18",
+      "en": "18",
+      "slug": "18-zw172118"
+    },
+    "code": {
+      "id": "ZW172118",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1721",
+      "level": 2,
+      "name": {
+        "local": "Gweru Urban",
+        "en": "Gweru Urban",
+        "slug": "gweru-urban-zw1721"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1721",
+        "level": 2,
+        "name": {
+          "local": "Gweru Urban",
+          "en": "Gweru Urban",
+          "slug": "gweru-urban-zw1721"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.457",
+      "lon": "29.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW172102",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw172102"
+    },
+    "code": {
+      "id": "ZW172102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1721",
+      "level": 2,
+      "name": {
+        "local": "Gweru Urban",
+        "en": "Gweru Urban",
+        "slug": "gweru-urban-zw1721"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1721",
+        "level": 2,
+        "name": {
+          "local": "Gweru Urban",
+          "en": "Gweru Urban",
+          "slug": "gweru-urban-zw1721"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.445",
+      "lon": "29.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW172103",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw172103"
+    },
+    "code": {
+      "id": "ZW172103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1721",
+      "level": 2,
+      "name": {
+        "local": "Gweru Urban",
+        "en": "Gweru Urban",
+        "slug": "gweru-urban-zw1721"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1721",
+        "level": 2,
+        "name": {
+          "local": "Gweru Urban",
+          "en": "Gweru Urban",
+          "slug": "gweru-urban-zw1721"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.482",
+      "lon": "29.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW172104",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw172104"
+    },
+    "code": {
+      "id": "ZW172104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1721",
+      "level": 2,
+      "name": {
+        "local": "Gweru Urban",
+        "en": "Gweru Urban",
+        "slug": "gweru-urban-zw1721"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1721",
+        "level": 2,
+        "name": {
+          "local": "Gweru Urban",
+          "en": "Gweru Urban",
+          "slug": "gweru-urban-zw1721"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.499",
+      "lon": "29.788"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW172105",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw172105"
+    },
+    "code": {
+      "id": "ZW172105",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1721",
+      "level": 2,
+      "name": {
+        "local": "Gweru Urban",
+        "en": "Gweru Urban",
+        "slug": "gweru-urban-zw1721"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1721",
+        "level": 2,
+        "name": {
+          "local": "Gweru Urban",
+          "en": "Gweru Urban",
+          "slug": "gweru-urban-zw1721"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.495",
+      "lon": "29.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW172106",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw172106"
+    },
+    "code": {
+      "id": "ZW172106",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1721",
+      "level": 2,
+      "name": {
+        "local": "Gweru Urban",
+        "en": "Gweru Urban",
+        "slug": "gweru-urban-zw1721"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1721",
+        "level": 2,
+        "name": {
+          "local": "Gweru Urban",
+          "en": "Gweru Urban",
+          "slug": "gweru-urban-zw1721"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.431",
+      "lon": "29.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW172107",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw172107"
+    },
+    "code": {
+      "id": "ZW172107",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1721",
+      "level": 2,
+      "name": {
+        "local": "Gweru Urban",
+        "en": "Gweru Urban",
+        "slug": "gweru-urban-zw1721"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1721",
+        "level": 2,
+        "name": {
+          "local": "Gweru Urban",
+          "en": "Gweru Urban",
+          "slug": "gweru-urban-zw1721"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.445",
+      "lon": "29.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW172108",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw172108"
+    },
+    "code": {
+      "id": "ZW172108",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1721",
+      "level": 2,
+      "name": {
+        "local": "Gweru Urban",
+        "en": "Gweru Urban",
+        "slug": "gweru-urban-zw1721"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1721",
+        "level": 2,
+        "name": {
+          "local": "Gweru Urban",
+          "en": "Gweru Urban",
+          "slug": "gweru-urban-zw1721"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.43",
+      "lon": "29.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW172109",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw172109"
+    },
+    "code": {
+      "id": "ZW172109",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1721",
+      "level": 2,
+      "name": {
+        "local": "Gweru Urban",
+        "en": "Gweru Urban",
+        "slug": "gweru-urban-zw1721"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1721",
+        "level": 2,
+        "name": {
+          "local": "Gweru Urban",
+          "en": "Gweru Urban",
+          "slug": "gweru-urban-zw1721"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.465",
+      "lon": "29.769"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

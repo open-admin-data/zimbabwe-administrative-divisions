@@ -1,0 +1,47 @@
+{
+  "id": "ZW1406",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Zvimba",
+    "en": "Zvimba",
+    "slug": "zvimba-zw1406"
+  },
+  "code": {
+    "id": "ZW1406",
+    "iso": null
+  },
+  "parent": {
+    "id": "ZW14",
+    "level": 1,
+    "name": {
+      "local": "Mashonaland West",
+      "en": "Mashonaland West",
+      "slug": "mashonaland-west-zw14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ZW14",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland West",
+        "en": "Mashonaland West",
+        "slug": "mashonaland-west-zw14"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 35
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.376",
+    "lon": "30.42"
+  },
+  "metadata": {},
+  "source": {}
+}

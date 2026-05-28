@@ -1,0 +1,1298 @@
+[
+  {
+    "id": "ZW120301",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw120301"
+    },
+    "code": {
+      "id": "ZW120301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1203",
+      "level": 2,
+      "name": {
+        "local": "Guruve",
+        "en": "Guruve",
+        "slug": "guruve-zw1203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1203",
+        "level": 2,
+        "name": {
+          "local": "Guruve",
+          "en": "Guruve",
+          "slug": "guruve-zw1203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.705",
+      "lon": "30.889"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120310",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw120310"
+    },
+    "code": {
+      "id": "ZW120310",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1203",
+      "level": 2,
+      "name": {
+        "local": "Guruve",
+        "en": "Guruve",
+        "slug": "guruve-zw1203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1203",
+        "level": 2,
+        "name": {
+          "local": "Guruve",
+          "en": "Guruve",
+          "slug": "guruve-zw1203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.803",
+      "lon": "30.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120311",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw120311"
+    },
+    "code": {
+      "id": "ZW120311",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1203",
+      "level": 2,
+      "name": {
+        "local": "Guruve",
+        "en": "Guruve",
+        "slug": "guruve-zw1203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1203",
+        "level": 2,
+        "name": {
+          "local": "Guruve",
+          "en": "Guruve",
+          "slug": "guruve-zw1203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.798",
+      "lon": "30.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120312",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw120312"
+    },
+    "code": {
+      "id": "ZW120312",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1203",
+      "level": 2,
+      "name": {
+        "local": "Guruve",
+        "en": "Guruve",
+        "slug": "guruve-zw1203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1203",
+        "level": 2,
+        "name": {
+          "local": "Guruve",
+          "en": "Guruve",
+          "slug": "guruve-zw1203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.874",
+      "lon": "30.692"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120313",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw120313"
+    },
+    "code": {
+      "id": "ZW120313",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1203",
+      "level": 2,
+      "name": {
+        "local": "Guruve",
+        "en": "Guruve",
+        "slug": "guruve-zw1203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1203",
+        "level": 2,
+        "name": {
+          "local": "Guruve",
+          "en": "Guruve",
+          "slug": "guruve-zw1203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.969",
+      "lon": "30.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120314",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw120314"
+    },
+    "code": {
+      "id": "ZW120314",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1203",
+      "level": 2,
+      "name": {
+        "local": "Guruve",
+        "en": "Guruve",
+        "slug": "guruve-zw1203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1203",
+        "level": 2,
+        "name": {
+          "local": "Guruve",
+          "en": "Guruve",
+          "slug": "guruve-zw1203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.937",
+      "lon": "30.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120315",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw120315"
+    },
+    "code": {
+      "id": "ZW120315",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1203",
+      "level": 2,
+      "name": {
+        "local": "Guruve",
+        "en": "Guruve",
+        "slug": "guruve-zw1203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1203",
+        "level": 2,
+        "name": {
+          "local": "Guruve",
+          "en": "Guruve",
+          "slug": "guruve-zw1203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.829",
+      "lon": "30.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120316",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "16",
+      "en": "16",
+      "slug": "16-zw120316"
+    },
+    "code": {
+      "id": "ZW120316",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1203",
+      "level": 2,
+      "name": {
+        "local": "Guruve",
+        "en": "Guruve",
+        "slug": "guruve-zw1203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1203",
+        "level": 2,
+        "name": {
+          "local": "Guruve",
+          "en": "Guruve",
+          "slug": "guruve-zw1203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.574",
+      "lon": "30.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120317",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "17",
+      "en": "17",
+      "slug": "17-zw120317"
+    },
+    "code": {
+      "id": "ZW120317",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1203",
+      "level": 2,
+      "name": {
+        "local": "Guruve",
+        "en": "Guruve",
+        "slug": "guruve-zw1203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1203",
+        "level": 2,
+        "name": {
+          "local": "Guruve",
+          "en": "Guruve",
+          "slug": "guruve-zw1203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.484",
+      "lon": "30.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120318",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "18",
+      "en": "18",
+      "slug": "18-zw120318"
+    },
+    "code": {
+      "id": "ZW120318",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1203",
+      "level": 2,
+      "name": {
+        "local": "Guruve",
+        "en": "Guruve",
+        "slug": "guruve-zw1203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1203",
+        "level": 2,
+        "name": {
+          "local": "Guruve",
+          "en": "Guruve",
+          "slug": "guruve-zw1203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.533",
+      "lon": "30.529"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120319",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "19",
+      "en": "19",
+      "slug": "19-zw120319"
+    },
+    "code": {
+      "id": "ZW120319",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1203",
+      "level": 2,
+      "name": {
+        "local": "Guruve",
+        "en": "Guruve",
+        "slug": "guruve-zw1203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1203",
+        "level": 2,
+        "name": {
+          "local": "Guruve",
+          "en": "Guruve",
+          "slug": "guruve-zw1203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.5",
+      "lon": "30.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120302",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw120302"
+    },
+    "code": {
+      "id": "ZW120302",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1203",
+      "level": 2,
+      "name": {
+        "local": "Guruve",
+        "en": "Guruve",
+        "slug": "guruve-zw1203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1203",
+        "level": 2,
+        "name": {
+          "local": "Guruve",
+          "en": "Guruve",
+          "slug": "guruve-zw1203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.576",
+      "lon": "30.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120320",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "20",
+      "en": "20",
+      "slug": "20-zw120320"
+    },
+    "code": {
+      "id": "ZW120320",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1203",
+      "level": 2,
+      "name": {
+        "local": "Guruve",
+        "en": "Guruve",
+        "slug": "guruve-zw1203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1203",
+        "level": 2,
+        "name": {
+          "local": "Guruve",
+          "en": "Guruve",
+          "slug": "guruve-zw1203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.409",
+      "lon": "30.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120321",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "21",
+      "en": "21",
+      "slug": "21-zw120321"
+    },
+    "code": {
+      "id": "ZW120321",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1203",
+      "level": 2,
+      "name": {
+        "local": "Guruve",
+        "en": "Guruve",
+        "slug": "guruve-zw1203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1203",
+        "level": 2,
+        "name": {
+          "local": "Guruve",
+          "en": "Guruve",
+          "slug": "guruve-zw1203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.545",
+      "lon": "30.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120322",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "22",
+      "en": "22",
+      "slug": "22-zw120322"
+    },
+    "code": {
+      "id": "ZW120322",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1203",
+      "level": 2,
+      "name": {
+        "local": "Guruve",
+        "en": "Guruve",
+        "slug": "guruve-zw1203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1203",
+        "level": 2,
+        "name": {
+          "local": "Guruve",
+          "en": "Guruve",
+          "slug": "guruve-zw1203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.728",
+      "lon": "30.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120323",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "23",
+      "en": "23",
+      "slug": "23-zw120323"
+    },
+    "code": {
+      "id": "ZW120323",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1203",
+      "level": 2,
+      "name": {
+        "local": "Guruve",
+        "en": "Guruve",
+        "slug": "guruve-zw1203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1203",
+        "level": 2,
+        "name": {
+          "local": "Guruve",
+          "en": "Guruve",
+          "slug": "guruve-zw1203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.606",
+      "lon": "30.419"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120324",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "24",
+      "en": "24",
+      "slug": "24-zw120324"
+    },
+    "code": {
+      "id": "ZW120324",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1203",
+      "level": 2,
+      "name": {
+        "local": "Guruve",
+        "en": "Guruve",
+        "slug": "guruve-zw1203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1203",
+        "level": 2,
+        "name": {
+          "local": "Guruve",
+          "en": "Guruve",
+          "slug": "guruve-zw1203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.419",
+      "lon": "30.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120303",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw120303"
+    },
+    "code": {
+      "id": "ZW120303",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1203",
+      "level": 2,
+      "name": {
+        "local": "Guruve",
+        "en": "Guruve",
+        "slug": "guruve-zw1203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1203",
+        "level": 2,
+        "name": {
+          "local": "Guruve",
+          "en": "Guruve",
+          "slug": "guruve-zw1203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.706",
+      "lon": "30.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120304",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw120304"
+    },
+    "code": {
+      "id": "ZW120304",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1203",
+      "level": 2,
+      "name": {
+        "local": "Guruve",
+        "en": "Guruve",
+        "slug": "guruve-zw1203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1203",
+        "level": 2,
+        "name": {
+          "local": "Guruve",
+          "en": "Guruve",
+          "slug": "guruve-zw1203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.626",
+      "lon": "30.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120305",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw120305"
+    },
+    "code": {
+      "id": "ZW120305",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1203",
+      "level": 2,
+      "name": {
+        "local": "Guruve",
+        "en": "Guruve",
+        "slug": "guruve-zw1203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1203",
+        "level": 2,
+        "name": {
+          "local": "Guruve",
+          "en": "Guruve",
+          "slug": "guruve-zw1203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.676",
+      "lon": "30.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120306",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw120306"
+    },
+    "code": {
+      "id": "ZW120306",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1203",
+      "level": 2,
+      "name": {
+        "local": "Guruve",
+        "en": "Guruve",
+        "slug": "guruve-zw1203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1203",
+        "level": 2,
+        "name": {
+          "local": "Guruve",
+          "en": "Guruve",
+          "slug": "guruve-zw1203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.676",
+      "lon": "30.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120307",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw120307"
+    },
+    "code": {
+      "id": "ZW120307",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1203",
+      "level": 2,
+      "name": {
+        "local": "Guruve",
+        "en": "Guruve",
+        "slug": "guruve-zw1203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1203",
+        "level": 2,
+        "name": {
+          "local": "Guruve",
+          "en": "Guruve",
+          "slug": "guruve-zw1203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.736",
+      "lon": "30.694"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120308",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw120308"
+    },
+    "code": {
+      "id": "ZW120308",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1203",
+      "level": 2,
+      "name": {
+        "local": "Guruve",
+        "en": "Guruve",
+        "slug": "guruve-zw1203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1203",
+        "level": 2,
+        "name": {
+          "local": "Guruve",
+          "en": "Guruve",
+          "slug": "guruve-zw1203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.776",
+      "lon": "30.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120309",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw120309"
+    },
+    "code": {
+      "id": "ZW120309",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1203",
+      "level": 2,
+      "name": {
+        "local": "Guruve",
+        "en": "Guruve",
+        "slug": "guruve-zw1203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1203",
+        "level": 2,
+        "name": {
+          "local": "Guruve",
+          "en": "Guruve",
+          "slug": "guruve-zw1203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.862",
+      "lon": "30.597"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

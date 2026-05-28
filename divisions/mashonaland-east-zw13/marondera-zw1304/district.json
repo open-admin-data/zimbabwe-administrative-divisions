@@ -1,0 +1,47 @@
+{
+  "id": "ZW1304",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Marondera",
+    "en": "Marondera",
+    "slug": "marondera-zw1304"
+  },
+  "code": {
+    "id": "ZW1304",
+    "iso": null
+  },
+  "parent": {
+    "id": "ZW13",
+    "level": 1,
+    "name": {
+      "local": "Mashonaland East",
+      "en": "Mashonaland East",
+      "slug": "mashonaland-east-zw13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ZW13",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland East",
+        "en": "Mashonaland East",
+        "slug": "mashonaland-east-zw13"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 23
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.25",
+    "lon": "31.29"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "ZW150301",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw150301"
+    },
+    "code": {
+      "id": "ZW150301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1503",
+      "level": 2,
+      "name": {
+        "local": "Hwange",
+        "en": "Hwange",
+        "slug": "hwange-zw1503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1503",
+        "level": 2,
+        "name": {
+          "local": "Hwange",
+          "en": "Hwange",
+          "slug": "hwange-zw1503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.211",
+      "lon": "25.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150310",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw150310"
+    },
+    "code": {
+      "id": "ZW150310",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1503",
+      "level": 2,
+      "name": {
+        "local": "Hwange",
+        "en": "Hwange",
+        "slug": "hwange-zw1503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1503",
+        "level": 2,
+        "name": {
+          "local": "Hwange",
+          "en": "Hwange",
+          "slug": "hwange-zw1503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.096",
+      "lon": "26.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150311",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw150311"
+    },
+    "code": {
+      "id": "ZW150311",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1503",
+      "level": 2,
+      "name": {
+        "local": "Hwange",
+        "en": "Hwange",
+        "slug": "hwange-zw1503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1503",
+        "level": 2,
+        "name": {
+          "local": "Hwange",
+          "en": "Hwange",
+          "slug": "hwange-zw1503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.351",
+      "lon": "27.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150312",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw150312"
+    },
+    "code": {
+      "id": "ZW150312",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1503",
+      "level": 2,
+      "name": {
+        "local": "Hwange",
+        "en": "Hwange",
+        "slug": "hwange-zw1503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1503",
+        "level": 2,
+        "name": {
+          "local": "Hwange",
+          "en": "Hwange",
+          "slug": "hwange-zw1503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.241",
+      "lon": "26.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150313",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw150313"
+    },
+    "code": {
+      "id": "ZW150313",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1503",
+      "level": 2,
+      "name": {
+        "local": "Hwange",
+        "en": "Hwange",
+        "slug": "hwange-zw1503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1503",
+        "level": 2,
+        "name": {
+          "local": "Hwange",
+          "en": "Hwange",
+          "slug": "hwange-zw1503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.338",
+      "lon": "26.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150314",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw150314"
+    },
+    "code": {
+      "id": "ZW150314",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1503",
+      "level": 2,
+      "name": {
+        "local": "Hwange",
+        "en": "Hwange",
+        "slug": "hwange-zw1503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1503",
+        "level": 2,
+        "name": {
+          "local": "Hwange",
+          "en": "Hwange",
+          "slug": "hwange-zw1503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.45",
+      "lon": "26.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150315",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw150315"
+    },
+    "code": {
+      "id": "ZW150315",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1503",
+      "level": 2,
+      "name": {
+        "local": "Hwange",
+        "en": "Hwange",
+        "slug": "hwange-zw1503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1503",
+        "level": 2,
+        "name": {
+          "local": "Hwange",
+          "en": "Hwange",
+          "slug": "hwange-zw1503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.525",
+      "lon": "26.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150316",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "16",
+      "en": "16",
+      "slug": "16-zw150316"
+    },
+    "code": {
+      "id": "ZW150316",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1503",
+      "level": 2,
+      "name": {
+        "local": "Hwange",
+        "en": "Hwange",
+        "slug": "hwange-zw1503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1503",
+        "level": 2,
+        "name": {
+          "local": "Hwange",
+          "en": "Hwange",
+          "slug": "hwange-zw1503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.441",
+      "lon": "26.964"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150317",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "17",
+      "en": "17",
+      "slug": "17-zw150317"
+    },
+    "code": {
+      "id": "ZW150317",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1503",
+      "level": 2,
+      "name": {
+        "local": "Hwange",
+        "en": "Hwange",
+        "slug": "hwange-zw1503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1503",
+        "level": 2,
+        "name": {
+          "local": "Hwange",
+          "en": "Hwange",
+          "slug": "hwange-zw1503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.534",
+      "lon": "27.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150318",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "18",
+      "en": "18",
+      "slug": "18-zw150318"
+    },
+    "code": {
+      "id": "ZW150318",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1503",
+      "level": 2,
+      "name": {
+        "local": "Hwange",
+        "en": "Hwange",
+        "slug": "hwange-zw1503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1503",
+        "level": 2,
+        "name": {
+          "local": "Hwange",
+          "en": "Hwange",
+          "slug": "hwange-zw1503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.626",
+      "lon": "26.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150319",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "19",
+      "en": "19",
+      "slug": "19-zw150319"
+    },
+    "code": {
+      "id": "ZW150319",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1503",
+      "level": 2,
+      "name": {
+        "local": "Hwange",
+        "en": "Hwange",
+        "slug": "hwange-zw1503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1503",
+        "level": 2,
+        "name": {
+          "local": "Hwange",
+          "en": "Hwange",
+          "slug": "hwange-zw1503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.84",
+      "lon": "26.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150302",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw150302"
+    },
+    "code": {
+      "id": "ZW150302",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1503",
+      "level": 2,
+      "name": {
+        "local": "Hwange",
+        "en": "Hwange",
+        "slug": "hwange-zw1503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1503",
+        "level": 2,
+        "name": {
+          "local": "Hwange",
+          "en": "Hwange",
+          "slug": "hwange-zw1503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.035",
+      "lon": "25.892"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150320",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "20",
+      "en": "20",
+      "slug": "20-zw150320"
+    },
+    "code": {
+      "id": "ZW150320",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1503",
+      "level": 2,
+      "name": {
+        "local": "Hwange",
+        "en": "Hwange",
+        "slug": "hwange-zw1503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1503",
+        "level": 2,
+        "name": {
+          "local": "Hwange",
+          "en": "Hwange",
+          "slug": "hwange-zw1503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.375",
+      "lon": "26.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150303",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw150303"
+    },
+    "code": {
+      "id": "ZW150303",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1503",
+      "level": 2,
+      "name": {
+        "local": "Hwange",
+        "en": "Hwange",
+        "slug": "hwange-zw1503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1503",
+        "level": 2,
+        "name": {
+          "local": "Hwange",
+          "en": "Hwange",
+          "slug": "hwange-zw1503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.065",
+      "lon": "25.957"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150304",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw150304"
+    },
+    "code": {
+      "id": "ZW150304",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1503",
+      "level": 2,
+      "name": {
+        "local": "Hwange",
+        "en": "Hwange",
+        "slug": "hwange-zw1503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1503",
+        "level": 2,
+        "name": {
+          "local": "Hwange",
+          "en": "Hwange",
+          "slug": "hwange-zw1503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.009",
+      "lon": "26.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150305",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw150305"
+    },
+    "code": {
+      "id": "ZW150305",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1503",
+      "level": 2,
+      "name": {
+        "local": "Hwange",
+        "en": "Hwange",
+        "slug": "hwange-zw1503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1503",
+        "level": 2,
+        "name": {
+          "local": "Hwange",
+          "en": "Hwange",
+          "slug": "hwange-zw1503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.139",
+      "lon": "26.055"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150306",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw150306"
+    },
+    "code": {
+      "id": "ZW150306",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1503",
+      "level": 2,
+      "name": {
+        "local": "Hwange",
+        "en": "Hwange",
+        "slug": "hwange-zw1503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1503",
+        "level": 2,
+        "name": {
+          "local": "Hwange",
+          "en": "Hwange",
+          "slug": "hwange-zw1503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.139",
+      "lon": "26.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150307",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw150307"
+    },
+    "code": {
+      "id": "ZW150307",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1503",
+      "level": 2,
+      "name": {
+        "local": "Hwange",
+        "en": "Hwange",
+        "slug": "hwange-zw1503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1503",
+        "level": 2,
+        "name": {
+          "local": "Hwange",
+          "en": "Hwange",
+          "slug": "hwange-zw1503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.997",
+      "lon": "26.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150308",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw150308"
+    },
+    "code": {
+      "id": "ZW150308",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1503",
+      "level": 2,
+      "name": {
+        "local": "Hwange",
+        "en": "Hwange",
+        "slug": "hwange-zw1503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1503",
+        "level": 2,
+        "name": {
+          "local": "Hwange",
+          "en": "Hwange",
+          "slug": "hwange-zw1503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.046",
+      "lon": "26.457"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150309",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw150309"
+    },
+    "code": {
+      "id": "ZW150309",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1503",
+      "level": 2,
+      "name": {
+        "local": "Hwange",
+        "en": "Hwange",
+        "slug": "hwange-zw1503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1503",
+        "level": 2,
+        "name": {
+          "local": "Hwange",
+          "en": "Hwange",
+          "slug": "hwange-zw1503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.229",
+      "lon": "26.416"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

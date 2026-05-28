@@ -1,0 +1,1568 @@
+[
+  {
+    "id": "ZW140101",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw140101"
+    },
+    "code": {
+      "id": "ZW140101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1401",
+      "level": 2,
+      "name": {
+        "local": "Chegutu",
+        "en": "Chegutu",
+        "slug": "chegutu-zw1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1401",
+        "level": 2,
+        "name": {
+          "local": "Chegutu",
+          "en": "Chegutu",
+          "slug": "chegutu-zw1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.501",
+      "lon": "30.681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140110",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw140110"
+    },
+    "code": {
+      "id": "ZW140110",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1401",
+      "level": 2,
+      "name": {
+        "local": "Chegutu",
+        "en": "Chegutu",
+        "slug": "chegutu-zw1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1401",
+        "level": 2,
+        "name": {
+          "local": "Chegutu",
+          "en": "Chegutu",
+          "slug": "chegutu-zw1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.146",
+      "lon": "30.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140111",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw140111"
+    },
+    "code": {
+      "id": "ZW140111",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1401",
+      "level": 2,
+      "name": {
+        "local": "Chegutu",
+        "en": "Chegutu",
+        "slug": "chegutu-zw1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1401",
+        "level": 2,
+        "name": {
+          "local": "Chegutu",
+          "en": "Chegutu",
+          "slug": "chegutu-zw1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.071",
+      "lon": "30.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140112",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw140112"
+    },
+    "code": {
+      "id": "ZW140112",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1401",
+      "level": 2,
+      "name": {
+        "local": "Chegutu",
+        "en": "Chegutu",
+        "slug": "chegutu-zw1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1401",
+        "level": 2,
+        "name": {
+          "local": "Chegutu",
+          "en": "Chegutu",
+          "slug": "chegutu-zw1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.141",
+      "lon": "30.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140113",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw140113"
+    },
+    "code": {
+      "id": "ZW140113",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1401",
+      "level": 2,
+      "name": {
+        "local": "Chegutu",
+        "en": "Chegutu",
+        "slug": "chegutu-zw1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1401",
+        "level": 2,
+        "name": {
+          "local": "Chegutu",
+          "en": "Chegutu",
+          "slug": "chegutu-zw1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.96",
+      "lon": "30.439"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140114",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw140114"
+    },
+    "code": {
+      "id": "ZW140114",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1401",
+      "level": 2,
+      "name": {
+        "local": "Chegutu",
+        "en": "Chegutu",
+        "slug": "chegutu-zw1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1401",
+        "level": 2,
+        "name": {
+          "local": "Chegutu",
+          "en": "Chegutu",
+          "slug": "chegutu-zw1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.905",
+      "lon": "30.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140115",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw140115"
+    },
+    "code": {
+      "id": "ZW140115",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1401",
+      "level": 2,
+      "name": {
+        "local": "Chegutu",
+        "en": "Chegutu",
+        "slug": "chegutu-zw1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1401",
+        "level": 2,
+        "name": {
+          "local": "Chegutu",
+          "en": "Chegutu",
+          "slug": "chegutu-zw1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.991",
+      "lon": "30.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140116",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "16",
+      "en": "16",
+      "slug": "16-zw140116"
+    },
+    "code": {
+      "id": "ZW140116",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1401",
+      "level": 2,
+      "name": {
+        "local": "Chegutu",
+        "en": "Chegutu",
+        "slug": "chegutu-zw1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1401",
+        "level": 2,
+        "name": {
+          "local": "Chegutu",
+          "en": "Chegutu",
+          "slug": "chegutu-zw1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.915",
+      "lon": "30.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140117",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "17",
+      "en": "17",
+      "slug": "17-zw140117"
+    },
+    "code": {
+      "id": "ZW140117",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1401",
+      "level": 2,
+      "name": {
+        "local": "Chegutu",
+        "en": "Chegutu",
+        "slug": "chegutu-zw1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1401",
+        "level": 2,
+        "name": {
+          "local": "Chegutu",
+          "en": "Chegutu",
+          "slug": "chegutu-zw1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.941",
+      "lon": "30.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140118",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "18",
+      "en": "18",
+      "slug": "18-zw140118"
+    },
+    "code": {
+      "id": "ZW140118",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1401",
+      "level": 2,
+      "name": {
+        "local": "Chegutu",
+        "en": "Chegutu",
+        "slug": "chegutu-zw1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1401",
+        "level": 2,
+        "name": {
+          "local": "Chegutu",
+          "en": "Chegutu",
+          "slug": "chegutu-zw1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.894",
+      "lon": "30.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140119",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "19",
+      "en": "19",
+      "slug": "19-zw140119"
+    },
+    "code": {
+      "id": "ZW140119",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1401",
+      "level": 2,
+      "name": {
+        "local": "Chegutu",
+        "en": "Chegutu",
+        "slug": "chegutu-zw1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1401",
+        "level": 2,
+        "name": {
+          "local": "Chegutu",
+          "en": "Chegutu",
+          "slug": "chegutu-zw1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.898",
+      "lon": "30.371"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140102",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw140102"
+    },
+    "code": {
+      "id": "ZW140102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1401",
+      "level": 2,
+      "name": {
+        "local": "Chegutu",
+        "en": "Chegutu",
+        "slug": "chegutu-zw1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1401",
+        "level": 2,
+        "name": {
+          "local": "Chegutu",
+          "en": "Chegutu",
+          "slug": "chegutu-zw1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.447",
+      "lon": "30.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140120",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "20",
+      "en": "20",
+      "slug": "20-zw140120"
+    },
+    "code": {
+      "id": "ZW140120",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1401",
+      "level": 2,
+      "name": {
+        "local": "Chegutu",
+        "en": "Chegutu",
+        "slug": "chegutu-zw1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1401",
+        "level": 2,
+        "name": {
+          "local": "Chegutu",
+          "en": "Chegutu",
+          "slug": "chegutu-zw1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.912",
+      "lon": "30.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140121",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "21",
+      "en": "21",
+      "slug": "21-zw140121"
+    },
+    "code": {
+      "id": "ZW140121",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1401",
+      "level": 2,
+      "name": {
+        "local": "Chegutu",
+        "en": "Chegutu",
+        "slug": "chegutu-zw1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1401",
+        "level": 2,
+        "name": {
+          "local": "Chegutu",
+          "en": "Chegutu",
+          "slug": "chegutu-zw1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.105",
+      "lon": "30.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140122",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "22",
+      "en": "22",
+      "slug": "22-zw140122"
+    },
+    "code": {
+      "id": "ZW140122",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1401",
+      "level": 2,
+      "name": {
+        "local": "Chegutu",
+        "en": "Chegutu",
+        "slug": "chegutu-zw1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1401",
+        "level": 2,
+        "name": {
+          "local": "Chegutu",
+          "en": "Chegutu",
+          "slug": "chegutu-zw1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.012",
+      "lon": "30.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140123",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "23",
+      "en": "23",
+      "slug": "23-zw140123"
+    },
+    "code": {
+      "id": "ZW140123",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1401",
+      "level": 2,
+      "name": {
+        "local": "Chegutu",
+        "en": "Chegutu",
+        "slug": "chegutu-zw1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1401",
+        "level": 2,
+        "name": {
+          "local": "Chegutu",
+          "en": "Chegutu",
+          "slug": "chegutu-zw1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.043",
+      "lon": "29.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140124",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "24",
+      "en": "24",
+      "slug": "24-zw140124"
+    },
+    "code": {
+      "id": "ZW140124",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1401",
+      "level": 2,
+      "name": {
+        "local": "Chegutu",
+        "en": "Chegutu",
+        "slug": "chegutu-zw1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1401",
+        "level": 2,
+        "name": {
+          "local": "Chegutu",
+          "en": "Chegutu",
+          "slug": "chegutu-zw1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.178",
+      "lon": "30.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140125",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "25",
+      "en": "25",
+      "slug": "25-zw140125"
+    },
+    "code": {
+      "id": "ZW140125",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1401",
+      "level": 2,
+      "name": {
+        "local": "Chegutu",
+        "en": "Chegutu",
+        "slug": "chegutu-zw1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1401",
+        "level": 2,
+        "name": {
+          "local": "Chegutu",
+          "en": "Chegutu",
+          "slug": "chegutu-zw1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.27",
+      "lon": "30.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140126",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "26",
+      "en": "26",
+      "slug": "26-zw140126"
+    },
+    "code": {
+      "id": "ZW140126",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1401",
+      "level": 2,
+      "name": {
+        "local": "Chegutu",
+        "en": "Chegutu",
+        "slug": "chegutu-zw1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1401",
+        "level": 2,
+        "name": {
+          "local": "Chegutu",
+          "en": "Chegutu",
+          "slug": "chegutu-zw1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.348",
+      "lon": "30.39"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140127",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "27",
+      "en": "27",
+      "slug": "27-zw140127"
+    },
+    "code": {
+      "id": "ZW140127",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1401",
+      "level": 2,
+      "name": {
+        "local": "Chegutu",
+        "en": "Chegutu",
+        "slug": "chegutu-zw1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1401",
+        "level": 2,
+        "name": {
+          "local": "Chegutu",
+          "en": "Chegutu",
+          "slug": "chegutu-zw1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.287",
+      "lon": "30.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140128",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "28",
+      "en": "28",
+      "slug": "28-zw140128"
+    },
+    "code": {
+      "id": "ZW140128",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1401",
+      "level": 2,
+      "name": {
+        "local": "Chegutu",
+        "en": "Chegutu",
+        "slug": "chegutu-zw1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1401",
+        "level": 2,
+        "name": {
+          "local": "Chegutu",
+          "en": "Chegutu",
+          "slug": "chegutu-zw1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.154",
+      "lon": "30.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140129",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "29",
+      "en": "29",
+      "slug": "29-zw140129"
+    },
+    "code": {
+      "id": "ZW140129",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1401",
+      "level": 2,
+      "name": {
+        "local": "Chegutu",
+        "en": "Chegutu",
+        "slug": "chegutu-zw1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1401",
+        "level": 2,
+        "name": {
+          "local": "Chegutu",
+          "en": "Chegutu",
+          "slug": "chegutu-zw1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.264",
+      "lon": "30.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140103",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw140103"
+    },
+    "code": {
+      "id": "ZW140103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1401",
+      "level": 2,
+      "name": {
+        "local": "Chegutu",
+        "en": "Chegutu",
+        "slug": "chegutu-zw1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1401",
+        "level": 2,
+        "name": {
+          "local": "Chegutu",
+          "en": "Chegutu",
+          "slug": "chegutu-zw1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.288",
+      "lon": "30.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140104",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw140104"
+    },
+    "code": {
+      "id": "ZW140104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1401",
+      "level": 2,
+      "name": {
+        "local": "Chegutu",
+        "en": "Chegutu",
+        "slug": "chegutu-zw1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1401",
+        "level": 2,
+        "name": {
+          "local": "Chegutu",
+          "en": "Chegutu",
+          "slug": "chegutu-zw1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.352",
+      "lon": "30.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140105",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw140105"
+    },
+    "code": {
+      "id": "ZW140105",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1401",
+      "level": 2,
+      "name": {
+        "local": "Chegutu",
+        "en": "Chegutu",
+        "slug": "chegutu-zw1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1401",
+        "level": 2,
+        "name": {
+          "local": "Chegutu",
+          "en": "Chegutu",
+          "slug": "chegutu-zw1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.432",
+      "lon": "30.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140106",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw140106"
+    },
+    "code": {
+      "id": "ZW140106",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1401",
+      "level": 2,
+      "name": {
+        "local": "Chegutu",
+        "en": "Chegutu",
+        "slug": "chegutu-zw1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1401",
+        "level": 2,
+        "name": {
+          "local": "Chegutu",
+          "en": "Chegutu",
+          "slug": "chegutu-zw1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.453",
+      "lon": "30.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140107",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw140107"
+    },
+    "code": {
+      "id": "ZW140107",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1401",
+      "level": 2,
+      "name": {
+        "local": "Chegutu",
+        "en": "Chegutu",
+        "slug": "chegutu-zw1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1401",
+        "level": 2,
+        "name": {
+          "local": "Chegutu",
+          "en": "Chegutu",
+          "slug": "chegutu-zw1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.358",
+      "lon": "30.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140108",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw140108"
+    },
+    "code": {
+      "id": "ZW140108",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1401",
+      "level": 2,
+      "name": {
+        "local": "Chegutu",
+        "en": "Chegutu",
+        "slug": "chegutu-zw1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1401",
+        "level": 2,
+        "name": {
+          "local": "Chegutu",
+          "en": "Chegutu",
+          "slug": "chegutu-zw1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.193",
+      "lon": "30.604"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW140109",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw140109"
+    },
+    "code": {
+      "id": "ZW140109",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1401",
+      "level": 2,
+      "name": {
+        "local": "Chegutu",
+        "en": "Chegutu",
+        "slug": "chegutu-zw1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW14",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland West",
+          "en": "Mashonaland West",
+          "slug": "mashonaland-west-zw14"
+        }
+      },
+      {
+        "id": "ZW1401",
+        "level": 2,
+        "name": {
+          "local": "Chegutu",
+          "en": "Chegutu",
+          "slug": "chegutu-zw1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.19",
+      "lon": "30.669"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

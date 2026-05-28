@@ -1,0 +1,542 @@
+[
+  {
+    "id": "ZW172501",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw172501"
+    },
+    "code": {
+      "id": "ZW172501",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1725",
+      "level": 2,
+      "name": {
+        "local": "Zvishavane Urban",
+        "en": "Zvishavane Urban",
+        "slug": "zvishavane-urban-zw1725"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1725",
+        "level": 2,
+        "name": {
+          "local": "Zvishavane Urban",
+          "en": "Zvishavane Urban",
+          "slug": "zvishavane-urban-zw1725"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.304",
+      "lon": "30.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW172510",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw172510"
+    },
+    "code": {
+      "id": "ZW172510",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1725",
+      "level": 2,
+      "name": {
+        "local": "Zvishavane Urban",
+        "en": "Zvishavane Urban",
+        "slug": "zvishavane-urban-zw1725"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1725",
+        "level": 2,
+        "name": {
+          "local": "Zvishavane Urban",
+          "en": "Zvishavane Urban",
+          "slug": "zvishavane-urban-zw1725"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.325",
+      "lon": "30.038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW172502",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw172502"
+    },
+    "code": {
+      "id": "ZW172502",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1725",
+      "level": 2,
+      "name": {
+        "local": "Zvishavane Urban",
+        "en": "Zvishavane Urban",
+        "slug": "zvishavane-urban-zw1725"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1725",
+        "level": 2,
+        "name": {
+          "local": "Zvishavane Urban",
+          "en": "Zvishavane Urban",
+          "slug": "zvishavane-urban-zw1725"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.31",
+      "lon": "30.068"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW172503",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw172503"
+    },
+    "code": {
+      "id": "ZW172503",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1725",
+      "level": 2,
+      "name": {
+        "local": "Zvishavane Urban",
+        "en": "Zvishavane Urban",
+        "slug": "zvishavane-urban-zw1725"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1725",
+        "level": 2,
+        "name": {
+          "local": "Zvishavane Urban",
+          "en": "Zvishavane Urban",
+          "slug": "zvishavane-urban-zw1725"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.307",
+      "lon": "30.063"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW172504",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw172504"
+    },
+    "code": {
+      "id": "ZW172504",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1725",
+      "level": 2,
+      "name": {
+        "local": "Zvishavane Urban",
+        "en": "Zvishavane Urban",
+        "slug": "zvishavane-urban-zw1725"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1725",
+        "level": 2,
+        "name": {
+          "local": "Zvishavane Urban",
+          "en": "Zvishavane Urban",
+          "slug": "zvishavane-urban-zw1725"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.293",
+      "lon": "30.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW172505",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw172505"
+    },
+    "code": {
+      "id": "ZW172505",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1725",
+      "level": 2,
+      "name": {
+        "local": "Zvishavane Urban",
+        "en": "Zvishavane Urban",
+        "slug": "zvishavane-urban-zw1725"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1725",
+        "level": 2,
+        "name": {
+          "local": "Zvishavane Urban",
+          "en": "Zvishavane Urban",
+          "slug": "zvishavane-urban-zw1725"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.318",
+      "lon": "30.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW172506",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw172506"
+    },
+    "code": {
+      "id": "ZW172506",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1725",
+      "level": 2,
+      "name": {
+        "local": "Zvishavane Urban",
+        "en": "Zvishavane Urban",
+        "slug": "zvishavane-urban-zw1725"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1725",
+        "level": 2,
+        "name": {
+          "local": "Zvishavane Urban",
+          "en": "Zvishavane Urban",
+          "slug": "zvishavane-urban-zw1725"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.297",
+      "lon": "30.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW172507",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw172507"
+    },
+    "code": {
+      "id": "ZW172507",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1725",
+      "level": 2,
+      "name": {
+        "local": "Zvishavane Urban",
+        "en": "Zvishavane Urban",
+        "slug": "zvishavane-urban-zw1725"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1725",
+        "level": 2,
+        "name": {
+          "local": "Zvishavane Urban",
+          "en": "Zvishavane Urban",
+          "slug": "zvishavane-urban-zw1725"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.3",
+      "lon": "30.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW172508",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw172508"
+    },
+    "code": {
+      "id": "ZW172508",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1725",
+      "level": 2,
+      "name": {
+        "local": "Zvishavane Urban",
+        "en": "Zvishavane Urban",
+        "slug": "zvishavane-urban-zw1725"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1725",
+        "level": 2,
+        "name": {
+          "local": "Zvishavane Urban",
+          "en": "Zvishavane Urban",
+          "slug": "zvishavane-urban-zw1725"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.332",
+      "lon": "30.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW172509",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw172509"
+    },
+    "code": {
+      "id": "ZW172509",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1725",
+      "level": 2,
+      "name": {
+        "local": "Zvishavane Urban",
+        "en": "Zvishavane Urban",
+        "slug": "zvishavane-urban-zw1725"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1725",
+        "level": 2,
+        "name": {
+          "local": "Zvishavane Urban",
+          "en": "Zvishavane Urban",
+          "slug": "zvishavane-urban-zw1725"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.335",
+      "lon": "30.062"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

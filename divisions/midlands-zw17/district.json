@@ -1,0 +1,660 @@
+[
+  {
+    "id": "ZW1701",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Chirumhanzu",
+      "en": "Chirumhanzu",
+      "slug": "chirumhanzu-zw1701"
+    },
+    "code": {
+      "id": "ZW1701",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW17",
+      "level": 1,
+      "name": {
+        "local": "Midlands",
+        "en": "Midlands",
+        "slug": "midlands-zw17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 25
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.353",
+      "lon": "30.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1702",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gokwe North",
+      "en": "Gokwe North",
+      "slug": "gokwe-north-zw1702"
+    },
+    "code": {
+      "id": "ZW1702",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW17",
+      "level": 1,
+      "name": {
+        "local": "Midlands",
+        "en": "Midlands",
+        "slug": "midlands-zw17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 36
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.557",
+      "lon": "28.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1703",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gokwe South",
+      "en": "Gokwe South",
+      "slug": "gokwe-south-zw1703"
+    },
+    "code": {
+      "id": "ZW1703",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW17",
+      "level": 1,
+      "name": {
+        "local": "Midlands",
+        "en": "Midlands",
+        "slug": "midlands-zw17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 33
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.131",
+      "lon": "28.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1729",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gokwe South Urban",
+      "en": "Gokwe South Urban",
+      "slug": "gokwe-south-urban-zw1729"
+    },
+    "code": {
+      "id": "ZW1729",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW17",
+      "level": 1,
+      "name": {
+        "local": "Midlands",
+        "en": "Midlands",
+        "slug": "midlands-zw17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.22",
+      "lon": "28.944"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1704",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gweru",
+      "en": "Gweru",
+      "slug": "gweru-zw1704"
+    },
+    "code": {
+      "id": "ZW1704",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW17",
+      "level": 1,
+      "name": {
+        "local": "Midlands",
+        "en": "Midlands",
+        "slug": "midlands-zw17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.531",
+      "lon": "29.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1721",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gweru Urban",
+      "en": "Gweru Urban",
+      "slug": "gweru-urban-zw1721"
+    },
+    "code": {
+      "id": "ZW1721",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW17",
+      "level": 1,
+      "name": {
+        "local": "Midlands",
+        "en": "Midlands",
+        "slug": "midlands-zw17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.456",
+      "lon": "29.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1705",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kwekwe",
+      "en": "Kwekwe",
+      "slug": "kwekwe-zw1705"
+    },
+    "code": {
+      "id": "ZW1705",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW17",
+      "level": 1,
+      "name": {
+        "local": "Midlands",
+        "en": "Midlands",
+        "slug": "midlands-zw17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 33
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.821",
+      "lon": "29.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1722",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kwekwe Urban",
+      "en": "Kwekwe Urban",
+      "slug": "kwekwe-urban-zw1722"
+    },
+    "code": {
+      "id": "ZW1722",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW17",
+      "level": 1,
+      "name": {
+        "local": "Midlands",
+        "en": "Midlands",
+        "slug": "midlands-zw17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.913",
+      "lon": "29.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1706",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mberengwa",
+      "en": "Mberengwa",
+      "slug": "mberengwa-zw1706"
+    },
+    "code": {
+      "id": "ZW1706",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW17",
+      "level": 1,
+      "name": {
+        "local": "Midlands",
+        "en": "Midlands",
+        "slug": "midlands-zw17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 37
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.688",
+      "lon": "30.093"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1723",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Redcliff",
+      "en": "Redcliff",
+      "slug": "redcliff-zw1723"
+    },
+    "code": {
+      "id": "ZW1723",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW17",
+      "level": 1,
+      "name": {
+        "local": "Midlands",
+        "en": "Midlands",
+        "slug": "midlands-zw17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.012",
+      "lon": "29.76"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1707",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Shurugwi",
+      "en": "Shurugwi",
+      "slug": "shurugwi-zw1707"
+    },
+    "code": {
+      "id": "ZW1707",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW17",
+      "level": 1,
+      "name": {
+        "local": "Midlands",
+        "en": "Midlands",
+        "slug": "midlands-zw17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 24
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.744",
+      "lon": "30.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1728",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Shurugwi Town",
+      "en": "Shurugwi Town",
+      "slug": "shurugwi-town-zw1728"
+    },
+    "code": {
+      "id": "ZW1728",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW17",
+      "level": 1,
+      "name": {
+        "local": "Midlands",
+        "en": "Midlands",
+        "slug": "midlands-zw17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.693",
+      "lon": "29.993"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1708",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zvishavane",
+      "en": "Zvishavane",
+      "slug": "zvishavane-zw1708"
+    },
+    "code": {
+      "id": "ZW1708",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW17",
+      "level": 1,
+      "name": {
+        "local": "Midlands",
+        "en": "Midlands",
+        "slug": "midlands-zw17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.28",
+      "lon": "29.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1725",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Zvishavane Urban",
+      "en": "Zvishavane Urban",
+      "slug": "zvishavane-urban-zw1725"
+    },
+    "code": {
+      "id": "ZW1725",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW17",
+      "level": 1,
+      "name": {
+        "local": "Midlands",
+        "en": "Midlands",
+        "slug": "midlands-zw17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.326",
+      "lon": "30.065"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

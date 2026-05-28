@@ -1,0 +1,1352 @@
+[
+  {
+    "id": "ZW120601",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw120601"
+    },
+    "code": {
+      "id": "ZW120601",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1206",
+      "level": 2,
+      "name": {
+        "local": "Rushinga",
+        "en": "Rushinga",
+        "slug": "rushinga-zw1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1206",
+        "level": 2,
+        "name": {
+          "local": "Rushinga",
+          "en": "Rushinga",
+          "slug": "rushinga-zw1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.656",
+      "lon": "32.672"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120610",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw120610"
+    },
+    "code": {
+      "id": "ZW120610",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1206",
+      "level": 2,
+      "name": {
+        "local": "Rushinga",
+        "en": "Rushinga",
+        "slug": "rushinga-zw1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1206",
+        "level": 2,
+        "name": {
+          "local": "Rushinga",
+          "en": "Rushinga",
+          "slug": "rushinga-zw1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.551",
+      "lon": "32.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120611",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw120611"
+    },
+    "code": {
+      "id": "ZW120611",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1206",
+      "level": 2,
+      "name": {
+        "local": "Rushinga",
+        "en": "Rushinga",
+        "slug": "rushinga-zw1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1206",
+        "level": 2,
+        "name": {
+          "local": "Rushinga",
+          "en": "Rushinga",
+          "slug": "rushinga-zw1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.583",
+      "lon": "31.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120612",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw120612"
+    },
+    "code": {
+      "id": "ZW120612",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1206",
+      "level": 2,
+      "name": {
+        "local": "Rushinga",
+        "en": "Rushinga",
+        "slug": "rushinga-zw1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1206",
+        "level": 2,
+        "name": {
+          "local": "Rushinga",
+          "en": "Rushinga",
+          "slug": "rushinga-zw1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.633",
+      "lon": "31.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120613",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw120613"
+    },
+    "code": {
+      "id": "ZW120613",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1206",
+      "level": 2,
+      "name": {
+        "local": "Rushinga",
+        "en": "Rushinga",
+        "slug": "rushinga-zw1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1206",
+        "level": 2,
+        "name": {
+          "local": "Rushinga",
+          "en": "Rushinga",
+          "slug": "rushinga-zw1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.631",
+      "lon": "32.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120614",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw120614"
+    },
+    "code": {
+      "id": "ZW120614",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1206",
+      "level": 2,
+      "name": {
+        "local": "Rushinga",
+        "en": "Rushinga",
+        "slug": "rushinga-zw1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1206",
+        "level": 2,
+        "name": {
+          "local": "Rushinga",
+          "en": "Rushinga",
+          "slug": "rushinga-zw1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.721",
+      "lon": "32.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120615",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw120615"
+    },
+    "code": {
+      "id": "ZW120615",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1206",
+      "level": 2,
+      "name": {
+        "local": "Rushinga",
+        "en": "Rushinga",
+        "slug": "rushinga-zw1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1206",
+        "level": 2,
+        "name": {
+          "local": "Rushinga",
+          "en": "Rushinga",
+          "slug": "rushinga-zw1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.649",
+      "lon": "32.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120616",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "16",
+      "en": "16",
+      "slug": "16-zw120616"
+    },
+    "code": {
+      "id": "ZW120616",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1206",
+      "level": 2,
+      "name": {
+        "local": "Rushinga",
+        "en": "Rushinga",
+        "slug": "rushinga-zw1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1206",
+        "level": 2,
+        "name": {
+          "local": "Rushinga",
+          "en": "Rushinga",
+          "slug": "rushinga-zw1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.72",
+      "lon": "32.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120617",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "17",
+      "en": "17",
+      "slug": "17-zw120617"
+    },
+    "code": {
+      "id": "ZW120617",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1206",
+      "level": 2,
+      "name": {
+        "local": "Rushinga",
+        "en": "Rushinga",
+        "slug": "rushinga-zw1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1206",
+        "level": 2,
+        "name": {
+          "local": "Rushinga",
+          "en": "Rushinga",
+          "slug": "rushinga-zw1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.62",
+      "lon": "32.186"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120618",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "18",
+      "en": "18",
+      "slug": "18-zw120618"
+    },
+    "code": {
+      "id": "ZW120618",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1206",
+      "level": 2,
+      "name": {
+        "local": "Rushinga",
+        "en": "Rushinga",
+        "slug": "rushinga-zw1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1206",
+        "level": 2,
+        "name": {
+          "local": "Rushinga",
+          "en": "Rushinga",
+          "slug": "rushinga-zw1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.72",
+      "lon": "32.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120619",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "19",
+      "en": "19",
+      "slug": "19-zw120619"
+    },
+    "code": {
+      "id": "ZW120619",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1206",
+      "level": 2,
+      "name": {
+        "local": "Rushinga",
+        "en": "Rushinga",
+        "slug": "rushinga-zw1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1206",
+        "level": 2,
+        "name": {
+          "local": "Rushinga",
+          "en": "Rushinga",
+          "slug": "rushinga-zw1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.669",
+      "lon": "32.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120602",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw120602"
+    },
+    "code": {
+      "id": "ZW120602",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1206",
+      "level": 2,
+      "name": {
+        "local": "Rushinga",
+        "en": "Rushinga",
+        "slug": "rushinga-zw1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1206",
+        "level": 2,
+        "name": {
+          "local": "Rushinga",
+          "en": "Rushinga",
+          "slug": "rushinga-zw1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.647",
+      "lon": "32.603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120620",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "20",
+      "en": "20",
+      "slug": "20-zw120620"
+    },
+    "code": {
+      "id": "ZW120620",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1206",
+      "level": 2,
+      "name": {
+        "local": "Rushinga",
+        "en": "Rushinga",
+        "slug": "rushinga-zw1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1206",
+        "level": 2,
+        "name": {
+          "local": "Rushinga",
+          "en": "Rushinga",
+          "slug": "rushinga-zw1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.566",
+      "lon": "32.549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120621",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "21",
+      "en": "21",
+      "slug": "21-zw120621"
+    },
+    "code": {
+      "id": "ZW120621",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1206",
+      "level": 2,
+      "name": {
+        "local": "Rushinga",
+        "en": "Rushinga",
+        "slug": "rushinga-zw1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1206",
+        "level": 2,
+        "name": {
+          "local": "Rushinga",
+          "en": "Rushinga",
+          "slug": "rushinga-zw1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.573",
+      "lon": "32.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120622",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "22",
+      "en": "22",
+      "slug": "22-zw120622"
+    },
+    "code": {
+      "id": "ZW120622",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1206",
+      "level": 2,
+      "name": {
+        "local": "Rushinga",
+        "en": "Rushinga",
+        "slug": "rushinga-zw1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1206",
+        "level": 2,
+        "name": {
+          "local": "Rushinga",
+          "en": "Rushinga",
+          "slug": "rushinga-zw1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.518",
+      "lon": "32.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120623",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "23",
+      "en": "23",
+      "slug": "23-zw120623"
+    },
+    "code": {
+      "id": "ZW120623",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1206",
+      "level": 2,
+      "name": {
+        "local": "Rushinga",
+        "en": "Rushinga",
+        "slug": "rushinga-zw1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1206",
+        "level": 2,
+        "name": {
+          "local": "Rushinga",
+          "en": "Rushinga",
+          "slug": "rushinga-zw1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.498",
+      "lon": "32.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120624",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "24",
+      "en": "24",
+      "slug": "24-zw120624"
+    },
+    "code": {
+      "id": "ZW120624",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1206",
+      "level": 2,
+      "name": {
+        "local": "Rushinga",
+        "en": "Rushinga",
+        "slug": "rushinga-zw1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1206",
+        "level": 2,
+        "name": {
+          "local": "Rushinga",
+          "en": "Rushinga",
+          "slug": "rushinga-zw1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.632",
+      "lon": "32.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120625",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "25",
+      "en": "25",
+      "slug": "25-zw120625"
+    },
+    "code": {
+      "id": "ZW120625",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1206",
+      "level": 2,
+      "name": {
+        "local": "Rushinga",
+        "en": "Rushinga",
+        "slug": "rushinga-zw1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1206",
+        "level": 2,
+        "name": {
+          "local": "Rushinga",
+          "en": "Rushinga",
+          "slug": "rushinga-zw1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.777",
+      "lon": "32.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120603",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw120603"
+    },
+    "code": {
+      "id": "ZW120603",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1206",
+      "level": 2,
+      "name": {
+        "local": "Rushinga",
+        "en": "Rushinga",
+        "slug": "rushinga-zw1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1206",
+        "level": 2,
+        "name": {
+          "local": "Rushinga",
+          "en": "Rushinga",
+          "slug": "rushinga-zw1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.651",
+      "lon": "32.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120604",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw120604"
+    },
+    "code": {
+      "id": "ZW120604",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1206",
+      "level": 2,
+      "name": {
+        "local": "Rushinga",
+        "en": "Rushinga",
+        "slug": "rushinga-zw1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1206",
+        "level": 2,
+        "name": {
+          "local": "Rushinga",
+          "en": "Rushinga",
+          "slug": "rushinga-zw1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.651",
+      "lon": "32.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120605",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw120605"
+    },
+    "code": {
+      "id": "ZW120605",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1206",
+      "level": 2,
+      "name": {
+        "local": "Rushinga",
+        "en": "Rushinga",
+        "slug": "rushinga-zw1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1206",
+        "level": 2,
+        "name": {
+          "local": "Rushinga",
+          "en": "Rushinga",
+          "slug": "rushinga-zw1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.581",
+      "lon": "32.287"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120606",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw120606"
+    },
+    "code": {
+      "id": "ZW120606",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1206",
+      "level": 2,
+      "name": {
+        "local": "Rushinga",
+        "en": "Rushinga",
+        "slug": "rushinga-zw1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1206",
+        "level": 2,
+        "name": {
+          "local": "Rushinga",
+          "en": "Rushinga",
+          "slug": "rushinga-zw1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.605",
+      "lon": "32.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120607",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw120607"
+    },
+    "code": {
+      "id": "ZW120607",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1206",
+      "level": 2,
+      "name": {
+        "local": "Rushinga",
+        "en": "Rushinga",
+        "slug": "rushinga-zw1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1206",
+        "level": 2,
+        "name": {
+          "local": "Rushinga",
+          "en": "Rushinga",
+          "slug": "rushinga-zw1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.506",
+      "lon": "32.214"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120608",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw120608"
+    },
+    "code": {
+      "id": "ZW120608",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1206",
+      "level": 2,
+      "name": {
+        "local": "Rushinga",
+        "en": "Rushinga",
+        "slug": "rushinga-zw1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1206",
+        "level": 2,
+        "name": {
+          "local": "Rushinga",
+          "en": "Rushinga",
+          "slug": "rushinga-zw1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.521",
+      "lon": "32.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW120609",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw120609"
+    },
+    "code": {
+      "id": "ZW120609",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1206",
+      "level": 2,
+      "name": {
+        "local": "Rushinga",
+        "en": "Rushinga",
+        "slug": "rushinga-zw1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      },
+      {
+        "id": "ZW1206",
+        "level": 2,
+        "name": {
+          "local": "Rushinga",
+          "en": "Rushinga",
+          "slug": "rushinga-zw1206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.525",
+      "lon": "32.087"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

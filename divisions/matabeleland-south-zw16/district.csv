@@ -1,0 +1,11 @@
+id,name.local,name.en,name.slug,code.id,children_count.ward,geo.lat,geo.lon
+ZW1601,Beitbridge,Beitbridge,beitbridge-zw1601,ZW1601,16,-21.812,29.942
+ZW1622,Beitbridge Urban,Beitbridge Urban,beitbridge-urban-zw1622,ZW1622,6,-22.205,30.001
+ZW1602,Bulilima,Bulilima,bulilima-zw1602,ZW1602,22,-20.155,27.527
+ZW1604,Gwanda,Gwanda,gwanda-zw1604,ZW1604,24,-21.28,29.292
+ZW1621,Gwanda Urban,Gwanda Urban,gwanda-urban-zw1621,ZW1621,10,-20.933,28.998
+ZW1605,Insiza,Insiza,insiza-zw1605,ZW1605,23,-20.273,29.486
+ZW1603,Mangwe,Mangwe,mangwe-zw1603,ZW1603,17,-21.012,27.951
+ZW1606,Matobo,Matobo,matobo-zw1606,ZW1606,26,-20.968,28.46
+ZW1623,Plumtree,Plumtree,plumtree-zw1623,ZW1623,6,-20.507,27.82
+ZW1607,Umzingwane,Umzingwane,umzingwane-zw1607,ZW1607,20,-20.329,28.954

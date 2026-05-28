@@ -1,0 +1,30 @@
+{
+  "id": "ZW10",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Bulawayo",
+    "en": "Bulawayo",
+    "slug": "bulawayo-zw10"
+  },
+  "code": {
+    "id": "ZW10",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 1,
+    "ward": 29
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.106",
+    "lon": "28.535"
+  },
+  "metadata": {},
+  "source": {}
+}

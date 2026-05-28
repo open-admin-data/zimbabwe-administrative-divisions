@@ -1,0 +1,758 @@
+[
+  {
+    "id": "ZW172201",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw172201"
+    },
+    "code": {
+      "id": "ZW172201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1722",
+      "level": 2,
+      "name": {
+        "local": "Kwekwe Urban",
+        "en": "Kwekwe Urban",
+        "slug": "kwekwe-urban-zw1722"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1722",
+        "level": 2,
+        "name": {
+          "local": "Kwekwe Urban",
+          "en": "Kwekwe Urban",
+          "slug": "kwekwe-urban-zw1722"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.903",
+      "lon": "29.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW172210",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw172210"
+    },
+    "code": {
+      "id": "ZW172210",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1722",
+      "level": 2,
+      "name": {
+        "local": "Kwekwe Urban",
+        "en": "Kwekwe Urban",
+        "slug": "kwekwe-urban-zw1722"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1722",
+        "level": 2,
+        "name": {
+          "local": "Kwekwe Urban",
+          "en": "Kwekwe Urban",
+          "slug": "kwekwe-urban-zw1722"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.95",
+      "lon": "29.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW172211",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw172211"
+    },
+    "code": {
+      "id": "ZW172211",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1722",
+      "level": 2,
+      "name": {
+        "local": "Kwekwe Urban",
+        "en": "Kwekwe Urban",
+        "slug": "kwekwe-urban-zw1722"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1722",
+        "level": 2,
+        "name": {
+          "local": "Kwekwe Urban",
+          "en": "Kwekwe Urban",
+          "slug": "kwekwe-urban-zw1722"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.915",
+      "lon": "29.861"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW172212",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw172212"
+    },
+    "code": {
+      "id": "ZW172212",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1722",
+      "level": 2,
+      "name": {
+        "local": "Kwekwe Urban",
+        "en": "Kwekwe Urban",
+        "slug": "kwekwe-urban-zw1722"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1722",
+        "level": 2,
+        "name": {
+          "local": "Kwekwe Urban",
+          "en": "Kwekwe Urban",
+          "slug": "kwekwe-urban-zw1722"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.877",
+      "lon": "29.855"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW172213",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw172213"
+    },
+    "code": {
+      "id": "ZW172213",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1722",
+      "level": 2,
+      "name": {
+        "local": "Kwekwe Urban",
+        "en": "Kwekwe Urban",
+        "slug": "kwekwe-urban-zw1722"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1722",
+        "level": 2,
+        "name": {
+          "local": "Kwekwe Urban",
+          "en": "Kwekwe Urban",
+          "slug": "kwekwe-urban-zw1722"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.937",
+      "lon": "29.818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW172214",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw172214"
+    },
+    "code": {
+      "id": "ZW172214",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1722",
+      "level": 2,
+      "name": {
+        "local": "Kwekwe Urban",
+        "en": "Kwekwe Urban",
+        "slug": "kwekwe-urban-zw1722"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1722",
+        "level": 2,
+        "name": {
+          "local": "Kwekwe Urban",
+          "en": "Kwekwe Urban",
+          "slug": "kwekwe-urban-zw1722"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.943",
+      "lon": "29.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW172202",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw172202"
+    },
+    "code": {
+      "id": "ZW172202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1722",
+      "level": 2,
+      "name": {
+        "local": "Kwekwe Urban",
+        "en": "Kwekwe Urban",
+        "slug": "kwekwe-urban-zw1722"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1722",
+        "level": 2,
+        "name": {
+          "local": "Kwekwe Urban",
+          "en": "Kwekwe Urban",
+          "slug": "kwekwe-urban-zw1722"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.924",
+      "lon": "29.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW172203",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw172203"
+    },
+    "code": {
+      "id": "ZW172203",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1722",
+      "level": 2,
+      "name": {
+        "local": "Kwekwe Urban",
+        "en": "Kwekwe Urban",
+        "slug": "kwekwe-urban-zw1722"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1722",
+        "level": 2,
+        "name": {
+          "local": "Kwekwe Urban",
+          "en": "Kwekwe Urban",
+          "slug": "kwekwe-urban-zw1722"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.908",
+      "lon": "29.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW172204",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw172204"
+    },
+    "code": {
+      "id": "ZW172204",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1722",
+      "level": 2,
+      "name": {
+        "local": "Kwekwe Urban",
+        "en": "Kwekwe Urban",
+        "slug": "kwekwe-urban-zw1722"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1722",
+        "level": 2,
+        "name": {
+          "local": "Kwekwe Urban",
+          "en": "Kwekwe Urban",
+          "slug": "kwekwe-urban-zw1722"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.908",
+      "lon": "29.854"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW172205",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw172205"
+    },
+    "code": {
+      "id": "ZW172205",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1722",
+      "level": 2,
+      "name": {
+        "local": "Kwekwe Urban",
+        "en": "Kwekwe Urban",
+        "slug": "kwekwe-urban-zw1722"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1722",
+        "level": 2,
+        "name": {
+          "local": "Kwekwe Urban",
+          "en": "Kwekwe Urban",
+          "slug": "kwekwe-urban-zw1722"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.883",
+      "lon": "29.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW172206",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw172206"
+    },
+    "code": {
+      "id": "ZW172206",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1722",
+      "level": 2,
+      "name": {
+        "local": "Kwekwe Urban",
+        "en": "Kwekwe Urban",
+        "slug": "kwekwe-urban-zw1722"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1722",
+        "level": 2,
+        "name": {
+          "local": "Kwekwe Urban",
+          "en": "Kwekwe Urban",
+          "slug": "kwekwe-urban-zw1722"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.905",
+      "lon": "29.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW172207",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw172207"
+    },
+    "code": {
+      "id": "ZW172207",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1722",
+      "level": 2,
+      "name": {
+        "local": "Kwekwe Urban",
+        "en": "Kwekwe Urban",
+        "slug": "kwekwe-urban-zw1722"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1722",
+        "level": 2,
+        "name": {
+          "local": "Kwekwe Urban",
+          "en": "Kwekwe Urban",
+          "slug": "kwekwe-urban-zw1722"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.94",
+      "lon": "29.784"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW172208",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw172208"
+    },
+    "code": {
+      "id": "ZW172208",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1722",
+      "level": 2,
+      "name": {
+        "local": "Kwekwe Urban",
+        "en": "Kwekwe Urban",
+        "slug": "kwekwe-urban-zw1722"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1722",
+        "level": 2,
+        "name": {
+          "local": "Kwekwe Urban",
+          "en": "Kwekwe Urban",
+          "slug": "kwekwe-urban-zw1722"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.924",
+      "lon": "29.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW172209",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw172209"
+    },
+    "code": {
+      "id": "ZW172209",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1722",
+      "level": 2,
+      "name": {
+        "local": "Kwekwe Urban",
+        "en": "Kwekwe Urban",
+        "slug": "kwekwe-urban-zw1722"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW17",
+        "level": 1,
+        "name": {
+          "local": "Midlands",
+          "en": "Midlands",
+          "slug": "midlands-zw17"
+        }
+      },
+      {
+        "id": "ZW1722",
+        "level": 2,
+        "name": {
+          "local": "Kwekwe Urban",
+          "en": "Kwekwe Urban",
+          "slug": "kwekwe-urban-zw1722"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.934",
+      "lon": "29.778"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

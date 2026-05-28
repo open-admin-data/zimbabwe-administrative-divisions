@@ -1,0 +1,472 @@
+[
+  {
+    "id": "ZW1201",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bindura",
+      "en": "Bindura",
+      "slug": "bindura-zw1201"
+    },
+    "code": {
+      "id": "ZW1201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW12",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland Central",
+        "en": "Mashonaland Central",
+        "slug": "mashonaland-central-zw12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.238",
+      "lon": "31.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1221",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bindura Urban",
+      "en": "Bindura Urban",
+      "slug": "bindura-urban-zw1221"
+    },
+    "code": {
+      "id": "ZW1221",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW12",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland Central",
+        "en": "Mashonaland Central",
+        "slug": "mashonaland-central-zw12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.307",
+      "lon": "31.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1202",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Centenary/ Muzarabani",
+      "en": "Centenary/ Muzarabani",
+      "slug": "centenary-muzarabani-zw1202"
+    },
+    "code": {
+      "id": "ZW1202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW12",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland Central",
+        "en": "Mashonaland Central",
+        "slug": "mashonaland-central-zw12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 29
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.418",
+      "lon": "31.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1203",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Guruve",
+      "en": "Guruve",
+      "slug": "guruve-zw1203"
+    },
+    "code": {
+      "id": "ZW1203",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW12",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland Central",
+        "en": "Mashonaland Central",
+        "slug": "mashonaland-central-zw12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 24
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.701",
+      "lon": "30.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1204",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mazowe",
+      "en": "Mazowe",
+      "slug": "mazowe-zw1204"
+    },
+    "code": {
+      "id": "ZW1204",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW12",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland Central",
+        "en": "Mashonaland Central",
+        "slug": "mashonaland-central-zw12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 34
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.259",
+      "lon": "30.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1208",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mbire",
+      "en": "Mbire",
+      "slug": "mbire-zw1208"
+    },
+    "code": {
+      "id": "ZW1208",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW12",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland Central",
+        "en": "Mashonaland Central",
+        "slug": "mashonaland-central-zw12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.018",
+      "lon": "30.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1205",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mount Darwin",
+      "en": "Mount Darwin",
+      "slug": "mount-darwin-zw1205"
+    },
+    "code": {
+      "id": "ZW1205",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW12",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland Central",
+        "en": "Mashonaland Central",
+        "slug": "mashonaland-central-zw12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 40
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.539",
+      "lon": "31.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1209",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mvurwi",
+      "en": "Mvurwi",
+      "slug": "mvurwi-zw1209"
+    },
+    "code": {
+      "id": "ZW1209",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW12",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland Central",
+        "en": "Mashonaland Central",
+        "slug": "mashonaland-central-zw12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.024",
+      "lon": "30.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1206",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rushinga",
+      "en": "Rushinga",
+      "slug": "rushinga-zw1206"
+    },
+    "code": {
+      "id": "ZW1206",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW12",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland Central",
+        "en": "Mashonaland Central",
+        "slug": "mashonaland-central-zw12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 25
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.618",
+      "lon": "32.336"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW1207",
+    "level": 2,
+    "level_name": {
+      "local": "District",
+      "en": "District"
+    },
+    "name": {
+      "local": "Shamva",
+      "en": "Shamva",
+      "slug": "shamva-zw1207"
+    },
+    "code": {
+      "id": "ZW1207",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW12",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland Central",
+        "en": "Mashonaland Central",
+        "slug": "mashonaland-central-zw12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW12",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland Central",
+          "en": "Mashonaland Central",
+          "slug": "mashonaland-central-zw12"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 29
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.164",
+      "lon": "31.624"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,920 @@
+[
+  {
+    "id": "ZW130901",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw130901"
+    },
+    "code": {
+      "id": "ZW130901",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1309",
+      "level": 2,
+      "name": {
+        "local": "Uzumba Maramba Pfungwe",
+        "en": "Uzumba Maramba Pfungwe",
+        "slug": "uzumba-maramba-pfungwe-zw1309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1309",
+        "level": 2,
+        "name": {
+          "local": "Uzumba Maramba Pfungwe",
+          "en": "Uzumba Maramba Pfungwe",
+          "slug": "uzumba-maramba-pfungwe-zw1309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.801",
+      "lon": "32.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130910",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw130910"
+    },
+    "code": {
+      "id": "ZW130910",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1309",
+      "level": 2,
+      "name": {
+        "local": "Uzumba Maramba Pfungwe",
+        "en": "Uzumba Maramba Pfungwe",
+        "slug": "uzumba-maramba-pfungwe-zw1309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1309",
+        "level": 2,
+        "name": {
+          "local": "Uzumba Maramba Pfungwe",
+          "en": "Uzumba Maramba Pfungwe",
+          "slug": "uzumba-maramba-pfungwe-zw1309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.323",
+      "lon": "31.931"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130911",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw130911"
+    },
+    "code": {
+      "id": "ZW130911",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1309",
+      "level": 2,
+      "name": {
+        "local": "Uzumba Maramba Pfungwe",
+        "en": "Uzumba Maramba Pfungwe",
+        "slug": "uzumba-maramba-pfungwe-zw1309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1309",
+        "level": 2,
+        "name": {
+          "local": "Uzumba Maramba Pfungwe",
+          "en": "Uzumba Maramba Pfungwe",
+          "slug": "uzumba-maramba-pfungwe-zw1309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.3",
+      "lon": "32.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130912",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw130912"
+    },
+    "code": {
+      "id": "ZW130912",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1309",
+      "level": 2,
+      "name": {
+        "local": "Uzumba Maramba Pfungwe",
+        "en": "Uzumba Maramba Pfungwe",
+        "slug": "uzumba-maramba-pfungwe-zw1309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1309",
+        "level": 2,
+        "name": {
+          "local": "Uzumba Maramba Pfungwe",
+          "en": "Uzumba Maramba Pfungwe",
+          "slug": "uzumba-maramba-pfungwe-zw1309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.383",
+      "lon": "32.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130913",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw130913"
+    },
+    "code": {
+      "id": "ZW130913",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1309",
+      "level": 2,
+      "name": {
+        "local": "Uzumba Maramba Pfungwe",
+        "en": "Uzumba Maramba Pfungwe",
+        "slug": "uzumba-maramba-pfungwe-zw1309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1309",
+        "level": 2,
+        "name": {
+          "local": "Uzumba Maramba Pfungwe",
+          "en": "Uzumba Maramba Pfungwe",
+          "slug": "uzumba-maramba-pfungwe-zw1309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.364",
+      "lon": "31.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130914",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw130914"
+    },
+    "code": {
+      "id": "ZW130914",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1309",
+      "level": 2,
+      "name": {
+        "local": "Uzumba Maramba Pfungwe",
+        "en": "Uzumba Maramba Pfungwe",
+        "slug": "uzumba-maramba-pfungwe-zw1309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1309",
+        "level": 2,
+        "name": {
+          "local": "Uzumba Maramba Pfungwe",
+          "en": "Uzumba Maramba Pfungwe",
+          "slug": "uzumba-maramba-pfungwe-zw1309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.354",
+      "lon": "31.76"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130915",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw130915"
+    },
+    "code": {
+      "id": "ZW130915",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1309",
+      "level": 2,
+      "name": {
+        "local": "Uzumba Maramba Pfungwe",
+        "en": "Uzumba Maramba Pfungwe",
+        "slug": "uzumba-maramba-pfungwe-zw1309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1309",
+        "level": 2,
+        "name": {
+          "local": "Uzumba Maramba Pfungwe",
+          "en": "Uzumba Maramba Pfungwe",
+          "slug": "uzumba-maramba-pfungwe-zw1309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.424",
+      "lon": "31.759"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130916",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "16",
+      "en": "16",
+      "slug": "16-zw130916"
+    },
+    "code": {
+      "id": "ZW130916",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1309",
+      "level": 2,
+      "name": {
+        "local": "Uzumba Maramba Pfungwe",
+        "en": "Uzumba Maramba Pfungwe",
+        "slug": "uzumba-maramba-pfungwe-zw1309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1309",
+        "level": 2,
+        "name": {
+          "local": "Uzumba Maramba Pfungwe",
+          "en": "Uzumba Maramba Pfungwe",
+          "slug": "uzumba-maramba-pfungwe-zw1309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.987",
+      "lon": "31.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130917",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "17",
+      "en": "17",
+      "slug": "17-zw130917"
+    },
+    "code": {
+      "id": "ZW130917",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1309",
+      "level": 2,
+      "name": {
+        "local": "Uzumba Maramba Pfungwe",
+        "en": "Uzumba Maramba Pfungwe",
+        "slug": "uzumba-maramba-pfungwe-zw1309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1309",
+        "level": 2,
+        "name": {
+          "local": "Uzumba Maramba Pfungwe",
+          "en": "Uzumba Maramba Pfungwe",
+          "slug": "uzumba-maramba-pfungwe-zw1309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.103",
+      "lon": "31.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130902",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw130902"
+    },
+    "code": {
+      "id": "ZW130902",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1309",
+      "level": 2,
+      "name": {
+        "local": "Uzumba Maramba Pfungwe",
+        "en": "Uzumba Maramba Pfungwe",
+        "slug": "uzumba-maramba-pfungwe-zw1309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1309",
+        "level": 2,
+        "name": {
+          "local": "Uzumba Maramba Pfungwe",
+          "en": "Uzumba Maramba Pfungwe",
+          "slug": "uzumba-maramba-pfungwe-zw1309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.841",
+      "lon": "32.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130903",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw130903"
+    },
+    "code": {
+      "id": "ZW130903",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1309",
+      "level": 2,
+      "name": {
+        "local": "Uzumba Maramba Pfungwe",
+        "en": "Uzumba Maramba Pfungwe",
+        "slug": "uzumba-maramba-pfungwe-zw1309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1309",
+        "level": 2,
+        "name": {
+          "local": "Uzumba Maramba Pfungwe",
+          "en": "Uzumba Maramba Pfungwe",
+          "slug": "uzumba-maramba-pfungwe-zw1309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.943",
+      "lon": "32.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130904",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw130904"
+    },
+    "code": {
+      "id": "ZW130904",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1309",
+      "level": 2,
+      "name": {
+        "local": "Uzumba Maramba Pfungwe",
+        "en": "Uzumba Maramba Pfungwe",
+        "slug": "uzumba-maramba-pfungwe-zw1309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1309",
+        "level": 2,
+        "name": {
+          "local": "Uzumba Maramba Pfungwe",
+          "en": "Uzumba Maramba Pfungwe",
+          "slug": "uzumba-maramba-pfungwe-zw1309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.902",
+      "lon": "32.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130905",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw130905"
+    },
+    "code": {
+      "id": "ZW130905",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1309",
+      "level": 2,
+      "name": {
+        "local": "Uzumba Maramba Pfungwe",
+        "en": "Uzumba Maramba Pfungwe",
+        "slug": "uzumba-maramba-pfungwe-zw1309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1309",
+        "level": 2,
+        "name": {
+          "local": "Uzumba Maramba Pfungwe",
+          "en": "Uzumba Maramba Pfungwe",
+          "slug": "uzumba-maramba-pfungwe-zw1309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.975",
+      "lon": "32.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130906",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw130906"
+    },
+    "code": {
+      "id": "ZW130906",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1309",
+      "level": 2,
+      "name": {
+        "local": "Uzumba Maramba Pfungwe",
+        "en": "Uzumba Maramba Pfungwe",
+        "slug": "uzumba-maramba-pfungwe-zw1309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1309",
+        "level": 2,
+        "name": {
+          "local": "Uzumba Maramba Pfungwe",
+          "en": "Uzumba Maramba Pfungwe",
+          "slug": "uzumba-maramba-pfungwe-zw1309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.117",
+      "lon": "32.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130907",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw130907"
+    },
+    "code": {
+      "id": "ZW130907",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1309",
+      "level": 2,
+      "name": {
+        "local": "Uzumba Maramba Pfungwe",
+        "en": "Uzumba Maramba Pfungwe",
+        "slug": "uzumba-maramba-pfungwe-zw1309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1309",
+        "level": 2,
+        "name": {
+          "local": "Uzumba Maramba Pfungwe",
+          "en": "Uzumba Maramba Pfungwe",
+          "slug": "uzumba-maramba-pfungwe-zw1309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.2",
+      "lon": "31.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130908",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw130908"
+    },
+    "code": {
+      "id": "ZW130908",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1309",
+      "level": 2,
+      "name": {
+        "local": "Uzumba Maramba Pfungwe",
+        "en": "Uzumba Maramba Pfungwe",
+        "slug": "uzumba-maramba-pfungwe-zw1309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1309",
+        "level": 2,
+        "name": {
+          "local": "Uzumba Maramba Pfungwe",
+          "en": "Uzumba Maramba Pfungwe",
+          "slug": "uzumba-maramba-pfungwe-zw1309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.239",
+      "lon": "31.894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW130909",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw130909"
+    },
+    "code": {
+      "id": "ZW130909",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1309",
+      "level": 2,
+      "name": {
+        "local": "Uzumba Maramba Pfungwe",
+        "en": "Uzumba Maramba Pfungwe",
+        "slug": "uzumba-maramba-pfungwe-zw1309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW13",
+        "level": 1,
+        "name": {
+          "local": "Mashonaland East",
+          "en": "Mashonaland East",
+          "slug": "mashonaland-east-zw13"
+        }
+      },
+      {
+        "id": "ZW1309",
+        "level": 2,
+        "name": {
+          "local": "Uzumba Maramba Pfungwe",
+          "en": "Uzumba Maramba Pfungwe",
+          "slug": "uzumba-maramba-pfungwe-zw1309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.246",
+      "lon": "31.783"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,1514 @@
+[
+  {
+    "id": "ZW150401",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw150401"
+    },
+    "code": {
+      "id": "ZW150401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1504",
+      "level": 2,
+      "name": {
+        "local": "Lupane",
+        "en": "Lupane",
+        "slug": "lupane-zw1504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1504",
+        "level": 2,
+        "name": {
+          "local": "Lupane",
+          "en": "Lupane",
+          "slug": "lupane-zw1504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.436",
+      "lon": "27.406"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150410",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw150410"
+    },
+    "code": {
+      "id": "ZW150410",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1504",
+      "level": 2,
+      "name": {
+        "local": "Lupane",
+        "en": "Lupane",
+        "slug": "lupane-zw1504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1504",
+        "level": 2,
+        "name": {
+          "local": "Lupane",
+          "en": "Lupane",
+          "slug": "lupane-zw1504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.728",
+      "lon": "27.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150411",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw150411"
+    },
+    "code": {
+      "id": "ZW150411",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1504",
+      "level": 2,
+      "name": {
+        "local": "Lupane",
+        "en": "Lupane",
+        "slug": "lupane-zw1504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1504",
+        "level": 2,
+        "name": {
+          "local": "Lupane",
+          "en": "Lupane",
+          "slug": "lupane-zw1504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.727",
+      "lon": "28.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150412",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw150412"
+    },
+    "code": {
+      "id": "ZW150412",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1504",
+      "level": 2,
+      "name": {
+        "local": "Lupane",
+        "en": "Lupane",
+        "slug": "lupane-zw1504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1504",
+        "level": 2,
+        "name": {
+          "local": "Lupane",
+          "en": "Lupane",
+          "slug": "lupane-zw1504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.716",
+      "lon": "28.257"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150413",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw150413"
+    },
+    "code": {
+      "id": "ZW150413",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1504",
+      "level": 2,
+      "name": {
+        "local": "Lupane",
+        "en": "Lupane",
+        "slug": "lupane-zw1504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1504",
+        "level": 2,
+        "name": {
+          "local": "Lupane",
+          "en": "Lupane",
+          "slug": "lupane-zw1504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.737",
+      "lon": "27.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150414",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw150414"
+    },
+    "code": {
+      "id": "ZW150414",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1504",
+      "level": 2,
+      "name": {
+        "local": "Lupane",
+        "en": "Lupane",
+        "slug": "lupane-zw1504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1504",
+        "level": 2,
+        "name": {
+          "local": "Lupane",
+          "en": "Lupane",
+          "slug": "lupane-zw1504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.808",
+      "lon": "27.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150415",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw150415"
+    },
+    "code": {
+      "id": "ZW150415",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1504",
+      "level": 2,
+      "name": {
+        "local": "Lupane",
+        "en": "Lupane",
+        "slug": "lupane-zw1504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1504",
+        "level": 2,
+        "name": {
+          "local": "Lupane",
+          "en": "Lupane",
+          "slug": "lupane-zw1504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.859",
+      "lon": "27.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150416",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "16",
+      "en": "16",
+      "slug": "16-zw150416"
+    },
+    "code": {
+      "id": "ZW150416",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1504",
+      "level": 2,
+      "name": {
+        "local": "Lupane",
+        "en": "Lupane",
+        "slug": "lupane-zw1504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1504",
+        "level": 2,
+        "name": {
+          "local": "Lupane",
+          "en": "Lupane",
+          "slug": "lupane-zw1504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.867",
+      "lon": "27.977"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150417",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "17",
+      "en": "17",
+      "slug": "17-zw150417"
+    },
+    "code": {
+      "id": "ZW150417",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1504",
+      "level": 2,
+      "name": {
+        "local": "Lupane",
+        "en": "Lupane",
+        "slug": "lupane-zw1504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1504",
+        "level": 2,
+        "name": {
+          "local": "Lupane",
+          "en": "Lupane",
+          "slug": "lupane-zw1504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.861",
+      "lon": "28.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150418",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "18",
+      "en": "18",
+      "slug": "18-zw150418"
+    },
+    "code": {
+      "id": "ZW150418",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1504",
+      "level": 2,
+      "name": {
+        "local": "Lupane",
+        "en": "Lupane",
+        "slug": "lupane-zw1504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1504",
+        "level": 2,
+        "name": {
+          "local": "Lupane",
+          "en": "Lupane",
+          "slug": "lupane-zw1504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.97",
+      "lon": "27.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150419",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "19",
+      "en": "19",
+      "slug": "19-zw150419"
+    },
+    "code": {
+      "id": "ZW150419",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1504",
+      "level": 2,
+      "name": {
+        "local": "Lupane",
+        "en": "Lupane",
+        "slug": "lupane-zw1504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1504",
+        "level": 2,
+        "name": {
+          "local": "Lupane",
+          "en": "Lupane",
+          "slug": "lupane-zw1504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.041",
+      "lon": "27.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150402",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw150402"
+    },
+    "code": {
+      "id": "ZW150402",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1504",
+      "level": 2,
+      "name": {
+        "local": "Lupane",
+        "en": "Lupane",
+        "slug": "lupane-zw1504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1504",
+        "level": 2,
+        "name": {
+          "local": "Lupane",
+          "en": "Lupane",
+          "slug": "lupane-zw1504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.445",
+      "lon": "27.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150420",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "20",
+      "en": "20",
+      "slug": "20-zw150420"
+    },
+    "code": {
+      "id": "ZW150420",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1504",
+      "level": 2,
+      "name": {
+        "local": "Lupane",
+        "en": "Lupane",
+        "slug": "lupane-zw1504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1504",
+        "level": 2,
+        "name": {
+          "local": "Lupane",
+          "en": "Lupane",
+          "slug": "lupane-zw1504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.953",
+      "lon": "28.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150421",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "21",
+      "en": "21",
+      "slug": "21-zw150421"
+    },
+    "code": {
+      "id": "ZW150421",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1504",
+      "level": 2,
+      "name": {
+        "local": "Lupane",
+        "en": "Lupane",
+        "slug": "lupane-zw1504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1504",
+        "level": 2,
+        "name": {
+          "local": "Lupane",
+          "en": "Lupane",
+          "slug": "lupane-zw1504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.084",
+      "lon": "28.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150422",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "22",
+      "en": "22",
+      "slug": "22-zw150422"
+    },
+    "code": {
+      "id": "ZW150422",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1504",
+      "level": 2,
+      "name": {
+        "local": "Lupane",
+        "en": "Lupane",
+        "slug": "lupane-zw1504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1504",
+        "level": 2,
+        "name": {
+          "local": "Lupane",
+          "en": "Lupane",
+          "slug": "lupane-zw1504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.105",
+      "lon": "27.743"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150423",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "23",
+      "en": "23",
+      "slug": "23-zw150423"
+    },
+    "code": {
+      "id": "ZW150423",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1504",
+      "level": 2,
+      "name": {
+        "local": "Lupane",
+        "en": "Lupane",
+        "slug": "lupane-zw1504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1504",
+        "level": 2,
+        "name": {
+          "local": "Lupane",
+          "en": "Lupane",
+          "slug": "lupane-zw1504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.132",
+      "lon": "28.125"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150424",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "24",
+      "en": "24",
+      "slug": "24-zw150424"
+    },
+    "code": {
+      "id": "ZW150424",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1504",
+      "level": 2,
+      "name": {
+        "local": "Lupane",
+        "en": "Lupane",
+        "slug": "lupane-zw1504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1504",
+        "level": 2,
+        "name": {
+          "local": "Lupane",
+          "en": "Lupane",
+          "slug": "lupane-zw1504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.569",
+      "lon": "27.309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150425",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "25",
+      "en": "25",
+      "slug": "25-zw150425"
+    },
+    "code": {
+      "id": "ZW150425",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1504",
+      "level": 2,
+      "name": {
+        "local": "Lupane",
+        "en": "Lupane",
+        "slug": "lupane-zw1504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1504",
+        "level": 2,
+        "name": {
+          "local": "Lupane",
+          "en": "Lupane",
+          "slug": "lupane-zw1504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.722",
+      "lon": "27.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150426",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "26",
+      "en": "26",
+      "slug": "26-zw150426"
+    },
+    "code": {
+      "id": "ZW150426",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1504",
+      "level": 2,
+      "name": {
+        "local": "Lupane",
+        "en": "Lupane",
+        "slug": "lupane-zw1504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1504",
+        "level": 2,
+        "name": {
+          "local": "Lupane",
+          "en": "Lupane",
+          "slug": "lupane-zw1504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.937",
+      "lon": "27.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150427",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "27",
+      "en": "27",
+      "slug": "27-zw150427"
+    },
+    "code": {
+      "id": "ZW150427",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1504",
+      "level": 2,
+      "name": {
+        "local": "Lupane",
+        "en": "Lupane",
+        "slug": "lupane-zw1504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1504",
+        "level": 2,
+        "name": {
+          "local": "Lupane",
+          "en": "Lupane",
+          "slug": "lupane-zw1504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.484",
+      "lon": "27.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150428",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "28",
+      "en": "28",
+      "slug": "28-zw150428"
+    },
+    "code": {
+      "id": "ZW150428",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1504",
+      "level": 2,
+      "name": {
+        "local": "Lupane",
+        "en": "Lupane",
+        "slug": "lupane-zw1504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1504",
+        "level": 2,
+        "name": {
+          "local": "Lupane",
+          "en": "Lupane",
+          "slug": "lupane-zw1504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.214",
+      "lon": "27.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150403",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw150403"
+    },
+    "code": {
+      "id": "ZW150403",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1504",
+      "level": 2,
+      "name": {
+        "local": "Lupane",
+        "en": "Lupane",
+        "slug": "lupane-zw1504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1504",
+        "level": 2,
+        "name": {
+          "local": "Lupane",
+          "en": "Lupane",
+          "slug": "lupane-zw1504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.354",
+      "lon": "27.929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150404",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw150404"
+    },
+    "code": {
+      "id": "ZW150404",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1504",
+      "level": 2,
+      "name": {
+        "local": "Lupane",
+        "en": "Lupane",
+        "slug": "lupane-zw1504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1504",
+        "level": 2,
+        "name": {
+          "local": "Lupane",
+          "en": "Lupane",
+          "slug": "lupane-zw1504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.518",
+      "lon": "27.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150405",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw150405"
+    },
+    "code": {
+      "id": "ZW150405",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1504",
+      "level": 2,
+      "name": {
+        "local": "Lupane",
+        "en": "Lupane",
+        "slug": "lupane-zw1504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1504",
+        "level": 2,
+        "name": {
+          "local": "Lupane",
+          "en": "Lupane",
+          "slug": "lupane-zw1504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.578",
+      "lon": "27.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150406",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw150406"
+    },
+    "code": {
+      "id": "ZW150406",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1504",
+      "level": 2,
+      "name": {
+        "local": "Lupane",
+        "en": "Lupane",
+        "slug": "lupane-zw1504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1504",
+        "level": 2,
+        "name": {
+          "local": "Lupane",
+          "en": "Lupane",
+          "slug": "lupane-zw1504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.587",
+      "lon": "28.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150407",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw150407"
+    },
+    "code": {
+      "id": "ZW150407",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1504",
+      "level": 2,
+      "name": {
+        "local": "Lupane",
+        "en": "Lupane",
+        "slug": "lupane-zw1504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1504",
+        "level": 2,
+        "name": {
+          "local": "Lupane",
+          "en": "Lupane",
+          "slug": "lupane-zw1504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.589",
+      "lon": "28.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150408",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw150408"
+    },
+    "code": {
+      "id": "ZW150408",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1504",
+      "level": 2,
+      "name": {
+        "local": "Lupane",
+        "en": "Lupane",
+        "slug": "lupane-zw1504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1504",
+        "level": 2,
+        "name": {
+          "local": "Lupane",
+          "en": "Lupane",
+          "slug": "lupane-zw1504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.646",
+      "lon": "27.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW150409",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw150409"
+    },
+    "code": {
+      "id": "ZW150409",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1504",
+      "level": 2,
+      "name": {
+        "local": "Lupane",
+        "en": "Lupane",
+        "slug": "lupane-zw1504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW15",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland North",
+          "en": "Matabeleland North",
+          "slug": "matabeleland-north-zw15"
+        }
+      },
+      {
+        "id": "ZW1504",
+        "level": 2,
+        "name": {
+          "local": "Lupane",
+          "en": "Lupane",
+          "slug": "lupane-zw1504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.696",
+      "lon": "27.802"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

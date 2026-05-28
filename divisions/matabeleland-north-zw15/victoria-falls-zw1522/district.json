@@ -1,0 +1,47 @@
+{
+  "id": "ZW1522",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Victoria Falls",
+    "en": "Victoria Falls",
+    "slug": "victoria-falls-zw1522"
+  },
+  "code": {
+    "id": "ZW1522",
+    "iso": null
+  },
+  "parent": {
+    "id": "ZW15",
+    "level": 1,
+    "name": {
+      "local": "Matabeleland North",
+      "en": "Matabeleland North",
+      "slug": "matabeleland-north-zw15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ZW15",
+      "level": 1,
+      "name": {
+        "local": "Matabeleland North",
+        "en": "Matabeleland North",
+        "slug": "matabeleland-north-zw15"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.931",
+    "lon": "25.831"
+  },
+  "metadata": {},
+  "source": {}
+}

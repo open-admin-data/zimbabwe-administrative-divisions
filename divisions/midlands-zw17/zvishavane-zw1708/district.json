@@ -1,0 +1,47 @@
+{
+  "id": "ZW1708",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Zvishavane",
+    "en": "Zvishavane",
+    "slug": "zvishavane-zw1708"
+  },
+  "code": {
+    "id": "ZW1708",
+    "iso": null
+  },
+  "parent": {
+    "id": "ZW17",
+    "level": 1,
+    "name": {
+      "local": "Midlands",
+      "en": "Midlands",
+      "slug": "midlands-zw17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ZW17",
+      "level": 1,
+      "name": {
+        "local": "Midlands",
+        "en": "Midlands",
+        "slug": "midlands-zw17"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.28",
+    "lon": "29.906"
+  },
+  "metadata": {},
+  "source": {}
+}

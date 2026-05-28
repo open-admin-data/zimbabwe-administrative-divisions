@@ -1,0 +1,47 @@
+{
+  "id": "ZW1207",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Shamva",
+    "en": "Shamva",
+    "slug": "shamva-zw1207"
+  },
+  "code": {
+    "id": "ZW1207",
+    "iso": null
+  },
+  "parent": {
+    "id": "ZW12",
+    "level": 1,
+    "name": {
+      "local": "Mashonaland Central",
+      "en": "Mashonaland Central",
+      "slug": "mashonaland-central-zw12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ZW12",
+      "level": 1,
+      "name": {
+        "local": "Mashonaland Central",
+        "en": "Mashonaland Central",
+        "slug": "mashonaland-central-zw12"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 29
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.164",
+    "lon": "31.624"
+  },
+  "metadata": {},
+  "source": {}
+}

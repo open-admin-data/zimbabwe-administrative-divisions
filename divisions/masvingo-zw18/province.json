@@ -1,0 +1,30 @@
+{
+  "id": "ZW18",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Masvingo",
+    "en": "Masvingo",
+    "slug": "masvingo-zw18"
+  },
+  "code": {
+    "id": "ZW18",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 9,
+    "ward": 243
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.785",
+    "lon": "31.342"
+  },
+  "metadata": {},
+  "source": {}
+}

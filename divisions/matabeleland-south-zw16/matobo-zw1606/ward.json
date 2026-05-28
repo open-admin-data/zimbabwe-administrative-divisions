@@ -1,0 +1,1406 @@
+[
+  {
+    "id": "ZW160601",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1",
+      "en": "1",
+      "slug": "1-zw160601"
+    },
+    "code": {
+      "id": "ZW160601",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1606",
+      "level": 2,
+      "name": {
+        "local": "Matobo",
+        "en": "Matobo",
+        "slug": "matobo-zw1606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1606",
+        "level": 2,
+        "name": {
+          "local": "Matobo",
+          "en": "Matobo",
+          "slug": "matobo-zw1606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.467",
+      "lon": "28.702"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160610",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "10",
+      "en": "10",
+      "slug": "10-zw160610"
+    },
+    "code": {
+      "id": "ZW160610",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1606",
+      "level": 2,
+      "name": {
+        "local": "Matobo",
+        "en": "Matobo",
+        "slug": "matobo-zw1606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1606",
+        "level": 2,
+        "name": {
+          "local": "Matobo",
+          "en": "Matobo",
+          "slug": "matobo-zw1606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.094",
+      "lon": "28.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160611",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "11",
+      "en": "11",
+      "slug": "11-zw160611"
+    },
+    "code": {
+      "id": "ZW160611",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1606",
+      "level": 2,
+      "name": {
+        "local": "Matobo",
+        "en": "Matobo",
+        "slug": "matobo-zw1606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1606",
+        "level": 2,
+        "name": {
+          "local": "Matobo",
+          "en": "Matobo",
+          "slug": "matobo-zw1606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.055",
+      "lon": "28.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160612",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "12",
+      "en": "12",
+      "slug": "12-zw160612"
+    },
+    "code": {
+      "id": "ZW160612",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1606",
+      "level": 2,
+      "name": {
+        "local": "Matobo",
+        "en": "Matobo",
+        "slug": "matobo-zw1606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1606",
+        "level": 2,
+        "name": {
+          "local": "Matobo",
+          "en": "Matobo",
+          "slug": "matobo-zw1606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.989",
+      "lon": "28.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160613",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "13",
+      "en": "13",
+      "slug": "13-zw160613"
+    },
+    "code": {
+      "id": "ZW160613",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1606",
+      "level": 2,
+      "name": {
+        "local": "Matobo",
+        "en": "Matobo",
+        "slug": "matobo-zw1606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1606",
+        "level": 2,
+        "name": {
+          "local": "Matobo",
+          "en": "Matobo",
+          "slug": "matobo-zw1606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.858",
+      "lon": "28.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160614",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "14",
+      "en": "14",
+      "slug": "14-zw160614"
+    },
+    "code": {
+      "id": "ZW160614",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1606",
+      "level": 2,
+      "name": {
+        "local": "Matobo",
+        "en": "Matobo",
+        "slug": "matobo-zw1606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1606",
+        "level": 2,
+        "name": {
+          "local": "Matobo",
+          "en": "Matobo",
+          "slug": "matobo-zw1606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.951",
+      "lon": "28.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160615",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "15",
+      "en": "15",
+      "slug": "15-zw160615"
+    },
+    "code": {
+      "id": "ZW160615",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1606",
+      "level": 2,
+      "name": {
+        "local": "Matobo",
+        "en": "Matobo",
+        "slug": "matobo-zw1606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1606",
+        "level": 2,
+        "name": {
+          "local": "Matobo",
+          "en": "Matobo",
+          "slug": "matobo-zw1606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.466",
+      "lon": "28.623"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160616",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "16",
+      "en": "16",
+      "slug": "16-zw160616"
+    },
+    "code": {
+      "id": "ZW160616",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1606",
+      "level": 2,
+      "name": {
+        "local": "Matobo",
+        "en": "Matobo",
+        "slug": "matobo-zw1606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1606",
+        "level": 2,
+        "name": {
+          "local": "Matobo",
+          "en": "Matobo",
+          "slug": "matobo-zw1606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.621",
+      "lon": "28.711"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160617",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "17",
+      "en": "17",
+      "slug": "17-zw160617"
+    },
+    "code": {
+      "id": "ZW160617",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1606",
+      "level": 2,
+      "name": {
+        "local": "Matobo",
+        "en": "Matobo",
+        "slug": "matobo-zw1606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1606",
+        "level": 2,
+        "name": {
+          "local": "Matobo",
+          "en": "Matobo",
+          "slug": "matobo-zw1606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.637",
+      "lon": "28.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160618",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "18",
+      "en": "18",
+      "slug": "18-zw160618"
+    },
+    "code": {
+      "id": "ZW160618",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1606",
+      "level": 2,
+      "name": {
+        "local": "Matobo",
+        "en": "Matobo",
+        "slug": "matobo-zw1606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1606",
+        "level": 2,
+        "name": {
+          "local": "Matobo",
+          "en": "Matobo",
+          "slug": "matobo-zw1606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.631",
+      "lon": "28.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160619",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "19",
+      "en": "19",
+      "slug": "19-zw160619"
+    },
+    "code": {
+      "id": "ZW160619",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1606",
+      "level": 2,
+      "name": {
+        "local": "Matobo",
+        "en": "Matobo",
+        "slug": "matobo-zw1606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1606",
+        "level": 2,
+        "name": {
+          "local": "Matobo",
+          "en": "Matobo",
+          "slug": "matobo-zw1606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.086",
+      "lon": "28.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160602",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "2",
+      "en": "2",
+      "slug": "2-zw160602"
+    },
+    "code": {
+      "id": "ZW160602",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1606",
+      "level": 2,
+      "name": {
+        "local": "Matobo",
+        "en": "Matobo",
+        "slug": "matobo-zw1606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1606",
+        "level": 2,
+        "name": {
+          "local": "Matobo",
+          "en": "Matobo",
+          "slug": "matobo-zw1606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.326",
+      "lon": "28.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160620",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "20",
+      "en": "20",
+      "slug": "20-zw160620"
+    },
+    "code": {
+      "id": "ZW160620",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1606",
+      "level": 2,
+      "name": {
+        "local": "Matobo",
+        "en": "Matobo",
+        "slug": "matobo-zw1606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1606",
+        "level": 2,
+        "name": {
+          "local": "Matobo",
+          "en": "Matobo",
+          "slug": "matobo-zw1606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.559",
+      "lon": "28.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160621",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "21",
+      "en": "21",
+      "slug": "21-zw160621"
+    },
+    "code": {
+      "id": "ZW160621",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1606",
+      "level": 2,
+      "name": {
+        "local": "Matobo",
+        "en": "Matobo",
+        "slug": "matobo-zw1606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1606",
+        "level": 2,
+        "name": {
+          "local": "Matobo",
+          "en": "Matobo",
+          "slug": "matobo-zw1606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.859",
+      "lon": "28.524"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160622",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "22",
+      "en": "22",
+      "slug": "22-zw160622"
+    },
+    "code": {
+      "id": "ZW160622",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1606",
+      "level": 2,
+      "name": {
+        "local": "Matobo",
+        "en": "Matobo",
+        "slug": "matobo-zw1606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1606",
+        "level": 2,
+        "name": {
+          "local": "Matobo",
+          "en": "Matobo",
+          "slug": "matobo-zw1606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.01",
+      "lon": "28.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160623",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "23",
+      "en": "23",
+      "slug": "23-zw160623"
+    },
+    "code": {
+      "id": "ZW160623",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1606",
+      "level": 2,
+      "name": {
+        "local": "Matobo",
+        "en": "Matobo",
+        "slug": "matobo-zw1606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1606",
+        "level": 2,
+        "name": {
+          "local": "Matobo",
+          "en": "Matobo",
+          "slug": "matobo-zw1606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.774",
+      "lon": "28.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160624",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "24",
+      "en": "24",
+      "slug": "24-zw160624"
+    },
+    "code": {
+      "id": "ZW160624",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1606",
+      "level": 2,
+      "name": {
+        "local": "Matobo",
+        "en": "Matobo",
+        "slug": "matobo-zw1606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1606",
+        "level": 2,
+        "name": {
+          "local": "Matobo",
+          "en": "Matobo",
+          "slug": "matobo-zw1606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.481",
+      "lon": "28.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160625",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "25",
+      "en": "25",
+      "slug": "25-zw160625"
+    },
+    "code": {
+      "id": "ZW160625",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1606",
+      "level": 2,
+      "name": {
+        "local": "Matobo",
+        "en": "Matobo",
+        "slug": "matobo-zw1606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1606",
+        "level": 2,
+        "name": {
+          "local": "Matobo",
+          "en": "Matobo",
+          "slug": "matobo-zw1606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.443",
+      "lon": "28.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160626",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "26",
+      "en": "26",
+      "slug": "26-zw160626"
+    },
+    "code": {
+      "id": "ZW160626",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1606",
+      "level": 2,
+      "name": {
+        "local": "Matobo",
+        "en": "Matobo",
+        "slug": "matobo-zw1606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1606",
+        "level": 2,
+        "name": {
+          "local": "Matobo",
+          "en": "Matobo",
+          "slug": "matobo-zw1606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.889",
+      "lon": "28.297"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160603",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "3",
+      "en": "3",
+      "slug": "3-zw160603"
+    },
+    "code": {
+      "id": "ZW160603",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1606",
+      "level": 2,
+      "name": {
+        "local": "Matobo",
+        "en": "Matobo",
+        "slug": "matobo-zw1606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1606",
+        "level": 2,
+        "name": {
+          "local": "Matobo",
+          "en": "Matobo",
+          "slug": "matobo-zw1606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.189",
+      "lon": "28.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160604",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "4",
+      "en": "4",
+      "slug": "4-zw160604"
+    },
+    "code": {
+      "id": "ZW160604",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1606",
+      "level": 2,
+      "name": {
+        "local": "Matobo",
+        "en": "Matobo",
+        "slug": "matobo-zw1606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1606",
+        "level": 2,
+        "name": {
+          "local": "Matobo",
+          "en": "Matobo",
+          "slug": "matobo-zw1606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.125",
+      "lon": "28.593"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160605",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "5",
+      "en": "5",
+      "slug": "5-zw160605"
+    },
+    "code": {
+      "id": "ZW160605",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1606",
+      "level": 2,
+      "name": {
+        "local": "Matobo",
+        "en": "Matobo",
+        "slug": "matobo-zw1606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1606",
+        "level": 2,
+        "name": {
+          "local": "Matobo",
+          "en": "Matobo",
+          "slug": "matobo-zw1606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.536",
+      "lon": "28.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160606",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "6",
+      "en": "6",
+      "slug": "6-zw160606"
+    },
+    "code": {
+      "id": "ZW160606",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1606",
+      "level": 2,
+      "name": {
+        "local": "Matobo",
+        "en": "Matobo",
+        "slug": "matobo-zw1606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1606",
+        "level": 2,
+        "name": {
+          "local": "Matobo",
+          "en": "Matobo",
+          "slug": "matobo-zw1606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.364",
+      "lon": "28.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160607",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "7",
+      "en": "7",
+      "slug": "7-zw160607"
+    },
+    "code": {
+      "id": "ZW160607",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1606",
+      "level": 2,
+      "name": {
+        "local": "Matobo",
+        "en": "Matobo",
+        "slug": "matobo-zw1606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1606",
+        "level": 2,
+        "name": {
+          "local": "Matobo",
+          "en": "Matobo",
+          "slug": "matobo-zw1606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.287",
+      "lon": "28.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160608",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "8",
+      "en": "8",
+      "slug": "8-zw160608"
+    },
+    "code": {
+      "id": "ZW160608",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1606",
+      "level": 2,
+      "name": {
+        "local": "Matobo",
+        "en": "Matobo",
+        "slug": "matobo-zw1606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1606",
+        "level": 2,
+        "name": {
+          "local": "Matobo",
+          "en": "Matobo",
+          "slug": "matobo-zw1606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.215",
+      "lon": "28.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ZW160609",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "9",
+      "en": "9",
+      "slug": "9-zw160609"
+    },
+    "code": {
+      "id": "ZW160609",
+      "iso": null
+    },
+    "parent": {
+      "id": "ZW1606",
+      "level": 2,
+      "name": {
+        "local": "Matobo",
+        "en": "Matobo",
+        "slug": "matobo-zw1606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ZW16",
+        "level": 1,
+        "name": {
+          "local": "Matabeleland South",
+          "en": "Matabeleland South",
+          "slug": "matabeleland-south-zw16"
+        }
+      },
+      {
+        "id": "ZW1606",
+        "level": 2,
+        "name": {
+          "local": "Matobo",
+          "en": "Matobo",
+          "slug": "matobo-zw1606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.201",
+      "lon": "28.226"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "ZW1924",
+  "level": 2,
+  "level_name": {
+    "local": "District",
+    "en": "District"
+  },
+  "name": {
+    "local": "Harare Rural",
+    "en": "Harare Rural",
+    "slug": "harare-rural-zw1924"
+  },
+  "code": {
+    "id": "ZW1924",
+    "iso": null
+  },
+  "parent": {
+    "id": "ZW19",
+    "level": 1,
+    "name": {
+      "local": "Harare",
+      "en": "Harare",
+      "slug": "harare-zw19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ZW19",
+      "level": 1,
+      "name": {
+        "local": "Harare",
+        "en": "Harare",
+        "slug": "harare-zw19"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.946",
+    "lon": "31.015"
+  },
+  "metadata": {},
+  "source": {}
+}
