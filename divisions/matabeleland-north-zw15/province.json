@@ -26,5 +26,9 @@
     "lon": "27.453"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/zw/provinces/matabeleland-north-zw15/",
+    "api": "https://openadmindata.org/api/zw/"
+  }
 }

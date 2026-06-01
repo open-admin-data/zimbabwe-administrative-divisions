@@ -3,7 +3,7 @@
 > 11 districts, 229 wards
 > Code: ZW13
 > Coordinates: -17.977, 31.603
-> Last updated: 2026-05-28. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Districts
 

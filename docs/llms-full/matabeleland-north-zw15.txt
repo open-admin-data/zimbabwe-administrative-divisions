@@ -3,7 +3,7 @@
 > 9 districts, 193 wards
 > Code: ZW15
 > Coordinates: -18.618, 27.453
-> Last updated: 2026-05-28. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Districts
 

@@ -4,8 +4,8 @@ type: dataset
 authors:
   - name: "jakkrapongt"
 title: "Zimbabwe Administrative Divisions Dataset"
-version: "2026.05"
-date-released: "2026-05-28"
+version: "2026.06"
+date-released: "2026-06-01"
 url: "https://github.com/open-admin-data/zimbabwe-administrative-divisions"
 repository-code: "https://github.com/open-admin-data/zimbabwe-administrative-divisions"
 license: CC-BY-4.0

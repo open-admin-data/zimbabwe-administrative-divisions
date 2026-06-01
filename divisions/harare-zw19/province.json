@@ -26,5 +26,9 @@
     "lon": "31.052"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/zw/provinces/harare-zw19/",
+    "api": "https://openadmindata.org/api/zw/"
+  }
 }

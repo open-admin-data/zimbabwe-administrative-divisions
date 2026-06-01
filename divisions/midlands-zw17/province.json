@@ -26,5 +26,9 @@
     "lon": "29.862"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/zw/provinces/midlands-zw17/",
+    "api": "https://openadmindata.org/api/zw/"
+  }
 }

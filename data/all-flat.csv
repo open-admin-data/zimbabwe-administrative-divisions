@@ -1,102 +1,103 @@
-id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.province,children_count.district,children_count.ward,zip_codes,geo.lat,geo.lon
-ZW10,1,Province,Province,Bulawayo,Bulawayo,bulawayo-zw10,ZW10,,,,,,1,29,,-20.106,28.535
-ZW1021,2,District,District,Bulawayo,Bulawayo,bulawayo-zw1021,ZW1021,,ZW10,Bulawayo,Bulawayo,,,29,,-20.106,28.535
-ZW11,1,Province,Province,Manicaland,Manicaland,manicaland-zw11,ZW11,,,,,,10,260,,-19.287,32.07
-ZW1101,2,District,District,Buhera,Buhera,buhera-zw1101,ZW1101,,ZW11,Manicaland,Manicaland,,,33,,-19.506,31.937
-ZW1102,2,District,District,Chimanimani,Chimanimani,chimanimani-zw1102,ZW1102,,ZW11,Manicaland,Manicaland,,,23,,-19.741,32.698
-ZW1103,2,District,District,Chipinge,Chipinge,chipinge-zw1103,ZW1103,,ZW11,Manicaland,Manicaland,,,30,,-20.62,32.381
-ZW1104,2,District,District,Makoni,Makoni,makoni-zw1104,ZW1104,,ZW11,Manicaland,Manicaland,,,39,,-18.385,32.144
-ZW1105,2,District,District,Mutare,Mutare,mutare-zw1105,ZW1105,,ZW11,Manicaland,Manicaland,,,36,,-19.249,32.439
-ZW1106,2,District,District,Mutasa,Mutasa,mutasa-zw1106,ZW1106,,ZW11,Manicaland,Manicaland,,,31,,-18.58,32.677
-ZW1107,2,District,District,Nyanga,Nyanga,nyanga-zw1107,ZW1107,,ZW11,Manicaland,Manicaland,,,31,,-17.911,32.777
-ZW1121,2,District,District,Mutare Urban,Mutare Urban,mutare-urban-zw1121,ZW1121,,ZW11,Manicaland,Manicaland,,,19,,-18.996,32.613
-ZW1122,2,District,District,Rusape,Rusape,rusape-zw1122,ZW1122,,ZW11,Manicaland,Manicaland,,,10,,-18.534,32.13
-ZW1123,2,District,District,Chipinge Urban,Chipinge Urban,chipinge-urban-zw1123,ZW1123,,ZW11,Manicaland,Manicaland,,,8,,-20.196,32.627
-ZW12,1,Province,Province,Mashonaland Central,Mashonaland Central,mashonaland-central-zw12,ZW12,,,,,,10,232,,-16.679,31.602
-ZW1201,2,District,District,Bindura,Bindura,bindura-zw1201,ZW1201,,ZW12,Mashonaland Central,Mashonaland Central,,,21,,-17.238,31.317
-ZW1202,2,District,District,Centenary/ Muzarabani,Centenary/ Muzarabani,centenary-muzarabani-zw1202,ZW1202,,ZW12,Mashonaland Central,Mashonaland Central,,,29,,-16.418,31.14
-ZW1203,2,District,District,Guruve,Guruve,guruve-zw1203,ZW1203,,ZW12,Mashonaland Central,Mashonaland Central,,,24,,-16.701,30.742
-ZW1204,2,District,District,Mazowe,Mazowe,mazowe-zw1204,ZW1204,,ZW12,Mashonaland Central,Mashonaland Central,,,34,,-17.259,30.901
-ZW1205,2,District,District,Mount Darwin,Mount Darwin,mount-darwin-zw1205,ZW1205,,ZW12,Mashonaland Central,Mashonaland Central,,,40,,-16.539,31.639
-ZW1206,2,District,District,Rushinga,Rushinga,rushinga-zw1206,ZW1206,,ZW12,Mashonaland Central,Mashonaland Central,,,25,,-16.618,32.336
-ZW1207,2,District,District,Shamva,Shamva,shamva-zw1207,ZW1207,,ZW12,Mashonaland Central,Mashonaland Central,,,29,,-17.164,31.624
-ZW1208,2,District,District,Mbire,Mbire,mbire-zw1208,ZW1208,,ZW12,Mashonaland Central,Mashonaland Central,,,17,,-16.018,30.508
-ZW1209,2,District,District,Mvurwi,Mvurwi,mvurwi-zw1209,ZW1209,,ZW12,Mashonaland Central,Mashonaland Central,,,1,,-17.024,30.852
-ZW1221,2,District,District,Bindura Urban,Bindura Urban,bindura-urban-zw1221,ZW1221,,ZW12,Mashonaland Central,Mashonaland Central,,,12,,-17.307,31.333
-ZW13,1,Province,Province,Mashonaland East,Mashonaland East,mashonaland-east-zw13,ZW13,,,,,,11,229,,-17.977,31.603
-ZW1301,2,District,District,Chikomba,Chikomba,chikomba-zw1301,ZW1301,,ZW13,Mashonaland East,Mashonaland East,,,30,,-18.851,31.103
-ZW1302,2,District,District,Goromonzi,Goromonzi,goromonzi-zw1302,ZW1302,,ZW13,Mashonaland East,Mashonaland East,,,25,,-17.8,31.369
-ZW1303,2,District,District,Hwedza,Hwedza,hwedza-zw1303,ZW1303,,ZW13,Mashonaland East,Mashonaland East,,,15,,-18.765,31.685
-ZW1304,2,District,District,Marondera,Marondera,marondera-zw1304,ZW1304,,ZW13,Mashonaland East,Mashonaland East,,,23,,-18.25,31.29
-ZW1305,2,District,District,Mudzi,Mudzi,mudzi-zw1305,ZW1305,,ZW13,Mashonaland East,Mashonaland East,,,18,,-17.049,32.551
-ZW1306,2,District,District,Murehwa,Murehwa,murehwa-zw1306,ZW1306,,ZW13,Mashonaland East,Mashonaland East,,,30,,-17.8,31.836
-ZW1307,2,District,District,Mutoko,Mutoko,mutoko-zw1307,ZW1307,,ZW13,Mashonaland East,Mashonaland East,,,29,,-17.423,32.359
-ZW1308,2,District,District,Seke,Seke,seke-zw1308,ZW1308,,ZW13,Mashonaland East,Mashonaland East,,,21,,-18.302,30.865
-ZW1309,2,District,District,Uzumba Maramba Pfungwe,Uzumba Maramba Pfungwe,uzumba-maramba-pfungwe-zw1309,ZW1309,,ZW13,Mashonaland East,Mashonaland East,,,17,,-17.097,31.965
-ZW1321,2,District,District,Marondera Urban,Marondera Urban,marondera-urban-zw1321,ZW1321,,ZW13,Mashonaland East,Mashonaland East,,,12,,-18.213,31.532
-ZW1326,2,District,District,Ruwa,Ruwa,ruwa-zw1326,ZW1326,,ZW13,Mashonaland East,Mashonaland East,,,9,,-17.887,31.233
-ZW14,1,Province,Province,Mashonaland West,Mashonaland West,mashonaland-west-zw14,ZW14,,,,,,13,231,,-17.259,29.868
-ZW1401,2,District,District,Chegutu,Chegutu,chegutu-zw1401,ZW1401,,ZW14,Mashonaland West,Mashonaland West,,,29,,-18.189,30.378
-ZW1402,2,District,District,Hurungwe,Hurungwe,hurungwe-zw1402,ZW1402,,ZW14,Mashonaland West,Mashonaland West,,,26,,-16.521,29.58
-ZW1403,2,District,District,Kadoma Urban,Kadoma Urban,kadoma-urban-zw1403,ZW1403,,ZW14,Mashonaland West,Mashonaland West,,,17,,-18.318,29.943
-ZW1404,2,District,District,Kariba,Kariba,kariba-zw1404,ZW1404,,ZW14,Mashonaland West,Mashonaland West,,,12,,-16.888,28.564
-ZW1405,2,District,District,Makonde,Makonde,makonde-zw1405,ZW1405,,ZW14,Mashonaland West,Mashonaland West,,,19,,-17.062,30.146
-ZW1406,2,District,District,Zvimba,Zvimba,zvimba-zw1406,ZW1406,,ZW14,Mashonaland West,Mashonaland West,,,35,,-17.376,30.42
-ZW1421,2,District,District,Chinhoyi,Chinhoyi,chinhoyi-zw1421,ZW1421,,ZW14,Mashonaland West,Mashonaland West,,,15,,-17.351,30.186
-ZW1423,2,District,District,Chegutu Urban,Chegutu Urban,chegutu-urban-zw1423,ZW1423,,ZW14,Mashonaland West,Mashonaland West,,,12,,-18.125,30.138
-ZW1424,2,District,District,Kariba Urban,Kariba Urban,kariba-urban-zw1424,ZW1424,,ZW14,Mashonaland West,Mashonaland West,,,9,,-16.528,28.807
-ZW1425,2,District,District,Norton,Norton,norton-zw1425,ZW1425,,ZW14,Mashonaland West,Mashonaland West,,,13,,-17.885,30.679
-ZW1426,2,District,District,Karoi,Karoi,karoi-zw1426,ZW1426,,ZW14,Mashonaland West,Mashonaland West,,,10,,-16.822,29.694
-ZW1427,2,District,District,Mhondoro-Ngezi,Mhondoro-Ngezi,mhondoro-ngezi-zw1427,ZW1427,,ZW14,Mashonaland West,Mashonaland West,,,16,,-18.569,30.16
-ZW1428,2,District,District,Sanyati,Sanyati,sanyati-zw1428,ZW1428,,ZW14,Mashonaland West,Mashonaland West,,,18,,-17.973,29.561
-ZW15,1,Province,Province,Matabeleland North,Matabeleland North,matabeleland-north-zw15,ZW15,,,,,,9,193,,-18.618,27.453
-ZW1501,2,District,District,Binga,Binga,binga-zw1501,ZW1501,,ZW15,Matabeleland North,Matabeleland North,,,25,,-17.692,27.71
-ZW1502,2,District,District,Bubi,Bubi,bubi-zw1502,ZW1502,,ZW15,Matabeleland North,Matabeleland North,,,23,,-19.567,28.843
-ZW1503,2,District,District,Hwange,Hwange,hwange-zw1503,ZW1503,,ZW15,Matabeleland North,Matabeleland North,,,20,,-18.84,26.594
-ZW1504,2,District,District,Lupane,Lupane,lupane-zw1504,ZW1504,,ZW15,Matabeleland North,Matabeleland North,,,28,,-18.882,27.829
-ZW1505,2,District,District,Nkayi,Nkayi,nkayi-zw1505,ZW1505,,ZW15,Matabeleland North,Matabeleland North,,,30,,-18.923,28.614
-ZW1506,2,District,District,Tsholotsho,Tsholotsho,tsholotsho-zw1506,ZW1506,,ZW15,Matabeleland North,Matabeleland North,,,22,,-19.64,27.289
-ZW1507,2,District,District,Umguza,Umguza,umguza-zw1507,ZW1507,,ZW15,Matabeleland North,Matabeleland North,,,19,,-19.86,28.252
-ZW1521,2,District,District,Hwange Urban,Hwange Urban,hwange-urban-zw1521,ZW1521,,ZW15,Matabeleland North,Matabeleland North,,,15,,-18.335,26.481
-ZW1522,2,District,District,Victoria Falls,Victoria Falls,victoria-falls-zw1522,ZW1522,,ZW15,Matabeleland North,Matabeleland North,,,11,,-17.931,25.831
-ZW16,1,Province,Province,Matabeleland South,Matabeleland South,matabeleland-south-zw16,ZW16,,,,,,10,170,,-20.918,28.646
-ZW1601,2,District,District,Beitbridge,Beitbridge,beitbridge-zw1601,ZW1601,,ZW16,Matabeleland South,Matabeleland South,,,16,,-21.812,29.942
-ZW1602,2,District,District,Bulilima,Bulilima,bulilima-zw1602,ZW1602,,ZW16,Matabeleland South,Matabeleland South,,,22,,-20.155,27.527
-ZW1603,2,District,District,Mangwe,Mangwe,mangwe-zw1603,ZW1603,,ZW16,Matabeleland South,Matabeleland South,,,17,,-21.012,27.951
-ZW1604,2,District,District,Gwanda,Gwanda,gwanda-zw1604,ZW1604,,ZW16,Matabeleland South,Matabeleland South,,,24,,-21.28,29.292
-ZW1605,2,District,District,Insiza,Insiza,insiza-zw1605,ZW1605,,ZW16,Matabeleland South,Matabeleland South,,,23,,-20.273,29.486
-ZW1606,2,District,District,Matobo,Matobo,matobo-zw1606,ZW1606,,ZW16,Matabeleland South,Matabeleland South,,,26,,-20.968,28.46
-ZW1607,2,District,District,Umzingwane,Umzingwane,umzingwane-zw1607,ZW1607,,ZW16,Matabeleland South,Matabeleland South,,,20,,-20.329,28.954
-ZW1621,2,District,District,Gwanda Urban,Gwanda Urban,gwanda-urban-zw1621,ZW1621,,ZW16,Matabeleland South,Matabeleland South,,,10,,-20.933,28.998
-ZW1622,2,District,District,Beitbridge Urban,Beitbridge Urban,beitbridge-urban-zw1622,ZW1622,,ZW16,Matabeleland South,Matabeleland South,,,6,,-22.205,30.001
-ZW1623,2,District,District,Plumtree,Plumtree,plumtree-zw1623,ZW1623,,ZW16,Matabeleland South,Matabeleland South,,,6,,-20.507,27.82
-ZW17,1,Province,Province,Midlands,Midlands,midlands-zw17,ZW17,,,,,,14,296,,-19.082,29.862
-ZW1701,2,District,District,Chirumhanzu,Chirumhanzu,chirumhanzu-zw1701,ZW1701,,ZW17,Midlands,Midlands,,,25,,-19.353,30.428
-ZW1702,2,District,District,Gokwe North,Gokwe North,gokwe-north-zw1702,ZW1702,,ZW17,Midlands,Midlands,,,36,,-17.557,28.775
-ZW1703,2,District,District,Gokwe South,Gokwe South,gokwe-south-zw1703,ZW1703,,ZW17,Midlands,Midlands,,,33,,-18.131,28.661
-ZW1704,2,District,District,Gweru,Gweru,gweru-zw1704,ZW1704,,ZW17,Midlands,Midlands,,,19,,-19.531,29.519
-ZW1705,2,District,District,Kwekwe,Kwekwe,kwekwe-zw1705,ZW1705,,ZW17,Midlands,Midlands,,,33,,-18.821,29.608
-ZW1706,2,District,District,Mberengwa,Mberengwa,mberengwa-zw1706,ZW1706,,ZW17,Midlands,Midlands,,,37,,-20.688,30.093
-ZW1707,2,District,District,Shurugwi,Shurugwi,shurugwi-zw1707,ZW1707,,ZW17,Midlands,Midlands,,,24,,-19.744,30.252
-ZW1708,2,District,District,Zvishavane,Zvishavane,zvishavane-zw1708,ZW1708,,ZW17,Midlands,Midlands,,,19,,-20.28,29.906
-ZW1721,2,District,District,Gweru Urban,Gweru Urban,gweru-urban-zw1721,ZW1721,,ZW17,Midlands,Midlands,,,18,,-19.456,29.808
-ZW1722,2,District,District,Kwekwe Urban,Kwekwe Urban,kwekwe-urban-zw1722,ZW1722,,ZW17,Midlands,Midlands,,,14,,-18.913,29.808
-ZW1723,2,District,District,Redcliff,Redcliff,redcliff-zw1723,ZW1723,,ZW17,Midlands,Midlands,,,9,,-19.012,29.76
-ZW1725,2,District,District,Zvishavane Urban,Zvishavane Urban,zvishavane-urban-zw1725,ZW1725,,ZW17,Midlands,Midlands,,,10,,-20.326,30.065
-ZW1728,2,District,District,Shurugwi Town,Shurugwi Town,shurugwi-town-zw1728,ZW1728,,ZW17,Midlands,Midlands,,,13,,-19.693,29.993
-ZW1729,2,District,District,Gokwe South Urban,Gokwe South Urban,gokwe-south-urban-zw1729,ZW1729,,ZW17,Midlands,Midlands,,,6,,-18.22,28.944
-ZW18,1,Province,Province,Masvingo,Masvingo,masvingo-zw18,ZW18,,,,,,9,243,,-20.785,31.342
-ZW1801,2,District,District,Bikita,Bikita,bikita-zw1801,ZW1801,,ZW18,Masvingo,Masvingo,,,32,,-20.202,31.959
-ZW1802,2,District,District,Chiredzi,Chiredzi,chiredzi-zw1802,ZW1802,,ZW18,Masvingo,Masvingo,,,32,,-21.419,31.834
-ZW1803,2,District,District,Chivi,Chivi,chivi-zw1803,ZW1803,,ZW18,Masvingo,Masvingo,,,32,,-20.5,30.568
-ZW1804,2,District,District,Gutu,Gutu,gutu-zw1804,ZW1804,,ZW18,Masvingo,Masvingo,,,42,,-19.591,31.233
-ZW1805,2,District,District,Masvingo,Masvingo,masvingo-zw1805,ZW1805,,ZW18,Masvingo,Masvingo,,,35,,-20.31,30.881
-ZW1806,2,District,District,Mwenezi,Mwenezi,mwenezi-zw1806,ZW1806,,ZW18,Masvingo,Masvingo,,,18,,-21.398,30.7
-ZW1807,2,District,District,Zaka,Zaka,zaka-zw1807,ZW1807,,ZW18,Masvingo,Masvingo,,,34,,-20.378,31.449
-ZW1821,2,District,District,Masvingo Urban,Masvingo Urban,masvingo-urban-zw1821,ZW1821,,ZW18,Masvingo,Masvingo,,,10,,-20.082,30.83
-ZW1822,2,District,District,Chiredzi Urban,Chiredzi Urban,chiredzi-urban-zw1822,ZW1822,,ZW18,Masvingo,Masvingo,,,8,,-21.034,31.662
-ZW19,1,Province,Province,Harare,Harare,harare-zw19,ZW19,,,,,,4,78,,-17.855,31.052
-ZW1921,2,District,District,Harare,Harare,harare-zw1921,ZW1921,,ZW19,Harare,Harare,,,45,,-17.799,31.047
-ZW1922,2,District,District,Chitungwiza,Chitungwiza,chitungwiza-zw1922,ZW1922,,ZW19,Harare,Harare,,,25,,-18.015,31.07
-ZW1923,2,District,District,Epworth,Epworth,epworth-zw1923,ZW1923,,ZW19,Harare,Harare,,,7,,-17.898,31.167
-ZW1924,2,District,District,Harare Rural,Harare Rural,harare-rural-zw1924,ZW1924,,ZW19,Harare,Harare,,,1,,-17.946,31.015
+# Data from Open Admin Data (https://openadmindata.org/zw/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/zimbabwe-administrative-divisions
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.province,children_count.district,children_count.ward,zip_codes,geo.lat,geo.lon,source_url
+ZW10,1,Province,Province,Bulawayo,Bulawayo,bulawayo-zw10,ZW10,,,,,,1,29,,-20.106,28.535,https://openadmindata.org/zw/provinces/bulawayo-zw10/
+ZW1021,2,District,District,Bulawayo,Bulawayo,bulawayo-zw1021,ZW1021,,ZW10,Bulawayo,Bulawayo,,,29,,-20.106,28.535,
+ZW11,1,Province,Province,Manicaland,Manicaland,manicaland-zw11,ZW11,,,,,,10,260,,-19.287,32.07,https://openadmindata.org/zw/provinces/manicaland-zw11/
+ZW1101,2,District,District,Buhera,Buhera,buhera-zw1101,ZW1101,,ZW11,Manicaland,Manicaland,,,33,,-19.506,31.937,
+ZW1102,2,District,District,Chimanimani,Chimanimani,chimanimani-zw1102,ZW1102,,ZW11,Manicaland,Manicaland,,,23,,-19.741,32.698,
+ZW1103,2,District,District,Chipinge,Chipinge,chipinge-zw1103,ZW1103,,ZW11,Manicaland,Manicaland,,,30,,-20.62,32.381,
+ZW1104,2,District,District,Makoni,Makoni,makoni-zw1104,ZW1104,,ZW11,Manicaland,Manicaland,,,39,,-18.385,32.144,
+ZW1105,2,District,District,Mutare,Mutare,mutare-zw1105,ZW1105,,ZW11,Manicaland,Manicaland,,,36,,-19.249,32.439,
+ZW1106,2,District,District,Mutasa,Mutasa,mutasa-zw1106,ZW1106,,ZW11,Manicaland,Manicaland,,,31,,-18.58,32.677,
+ZW1107,2,District,District,Nyanga,Nyanga,nyanga-zw1107,ZW1107,,ZW11,Manicaland,Manicaland,,,31,,-17.911,32.777,
+ZW1121,2,District,District,Mutare Urban,Mutare Urban,mutare-urban-zw1121,ZW1121,,ZW11,Manicaland,Manicaland,,,19,,-18.996,32.613,
+ZW1122,2,District,District,Rusape,Rusape,rusape-zw1122,ZW1122,,ZW11,Manicaland,Manicaland,,,10,,-18.534,32.13,
+ZW1123,2,District,District,Chipinge Urban,Chipinge Urban,chipinge-urban-zw1123,ZW1123,,ZW11,Manicaland,Manicaland,,,8,,-20.196,32.627,
+ZW12,1,Province,Province,Mashonaland Central,Mashonaland Central,mashonaland-central-zw12,ZW12,,,,,,10,232,,-16.679,31.602,https://openadmindata.org/zw/provinces/mashonaland-central-zw12/
+ZW1201,2,District,District,Bindura,Bindura,bindura-zw1201,ZW1201,,ZW12,Mashonaland Central,Mashonaland Central,,,21,,-17.238,31.317,
+ZW1202,2,District,District,Centenary/ Muzarabani,Centenary/ Muzarabani,centenary-muzarabani-zw1202,ZW1202,,ZW12,Mashonaland Central,Mashonaland Central,,,29,,-16.418,31.14,
+ZW1203,2,District,District,Guruve,Guruve,guruve-zw1203,ZW1203,,ZW12,Mashonaland Central,Mashonaland Central,,,24,,-16.701,30.742,
+ZW1204,2,District,District,Mazowe,Mazowe,mazowe-zw1204,ZW1204,,ZW12,Mashonaland Central,Mashonaland Central,,,34,,-17.259,30.901,
+ZW1205,2,District,District,Mount Darwin,Mount Darwin,mount-darwin-zw1205,ZW1205,,ZW12,Mashonaland Central,Mashonaland Central,,,40,,-16.539,31.639,
+ZW1206,2,District,District,Rushinga,Rushinga,rushinga-zw1206,ZW1206,,ZW12,Mashonaland Central,Mashonaland Central,,,25,,-16.618,32.336,
+ZW1207,2,District,District,Shamva,Shamva,shamva-zw1207,ZW1207,,ZW12,Mashonaland Central,Mashonaland Central,,,29,,-17.164,31.624,
+ZW1208,2,District,District,Mbire,Mbire,mbire-zw1208,ZW1208,,ZW12,Mashonaland Central,Mashonaland Central,,,17,,-16.018,30.508,
+ZW1209,2,District,District,Mvurwi,Mvurwi,mvurwi-zw1209,ZW1209,,ZW12,Mashonaland Central,Mashonaland Central,,,1,,-17.024,30.852,
+ZW1221,2,District,District,Bindura Urban,Bindura Urban,bindura-urban-zw1221,ZW1221,,ZW12,Mashonaland Central,Mashonaland Central,,,12,,-17.307,31.333,
+ZW13,1,Province,Province,Mashonaland East,Mashonaland East,mashonaland-east-zw13,ZW13,,,,,,11,229,,-17.977,31.603,https://openadmindata.org/zw/provinces/mashonaland-east-zw13/
+ZW1301,2,District,District,Chikomba,Chikomba,chikomba-zw1301,ZW1301,,ZW13,Mashonaland East,Mashonaland East,,,30,,-18.851,31.103,
+ZW1302,2,District,District,Goromonzi,Goromonzi,goromonzi-zw1302,ZW1302,,ZW13,Mashonaland East,Mashonaland East,,,25,,-17.8,31.369,
+ZW1303,2,District,District,Hwedza,Hwedza,hwedza-zw1303,ZW1303,,ZW13,Mashonaland East,Mashonaland East,,,15,,-18.765,31.685,
+ZW1304,2,District,District,Marondera,Marondera,marondera-zw1304,ZW1304,,ZW13,Mashonaland East,Mashonaland East,,,23,,-18.25,31.29,
+ZW1305,2,District,District,Mudzi,Mudzi,mudzi-zw1305,ZW1305,,ZW13,Mashonaland East,Mashonaland East,,,18,,-17.049,32.551,
+ZW1306,2,District,District,Murehwa,Murehwa,murehwa-zw1306,ZW1306,,ZW13,Mashonaland East,Mashonaland East,,,30,,-17.8,31.836,
+ZW1307,2,District,District,Mutoko,Mutoko,mutoko-zw1307,ZW1307,,ZW13,Mashonaland East,Mashonaland East,,,29,,-17.423,32.359,
+ZW1308,2,District,District,Seke,Seke,seke-zw1308,ZW1308,,ZW13,Mashonaland East,Mashonaland East,,,21,,-18.302,30.865,
+ZW1309,2,District,District,Uzumba Maramba Pfungwe,Uzumba Maramba Pfungwe,uzumba-maramba-pfungwe-zw1309,ZW1309,,ZW13,Mashonaland East,Mashonaland East,,,17,,-17.097,31.965,
+ZW1321,2,District,District,Marondera Urban,Marondera Urban,marondera-urban-zw1321,ZW1321,,ZW13,Mashonaland East,Mashonaland East,,,12,,-18.213,31.532,
+ZW1326,2,District,District,Ruwa,Ruwa,ruwa-zw1326,ZW1326,,ZW13,Mashonaland East,Mashonaland East,,,9,,-17.887,31.233,
+ZW14,1,Province,Province,Mashonaland West,Mashonaland West,mashonaland-west-zw14,ZW14,,,,,,13,231,,-17.259,29.868,https://openadmindata.org/zw/provinces/mashonaland-west-zw14/
+ZW1401,2,District,District,Chegutu,Chegutu,chegutu-zw1401,ZW1401,,ZW14,Mashonaland West,Mashonaland West,,,29,,-18.189,30.378,
+ZW1402,2,District,District,Hurungwe,Hurungwe,hurungwe-zw1402,ZW1402,,ZW14,Mashonaland West,Mashonaland West,,,26,,-16.521,29.58,
+ZW1403,2,District,District,Kadoma Urban,Kadoma Urban,kadoma-urban-zw1403,ZW1403,,ZW14,Mashonaland West,Mashonaland West,,,17,,-18.318,29.943,
+ZW1404,2,District,District,Kariba,Kariba,kariba-zw1404,ZW1404,,ZW14,Mashonaland West,Mashonaland West,,,12,,-16.888,28.564,
+ZW1405,2,District,District,Makonde,Makonde,makonde-zw1405,ZW1405,,ZW14,Mashonaland West,Mashonaland West,,,19,,-17.062,30.146,
+ZW1406,2,District,District,Zvimba,Zvimba,zvimba-zw1406,ZW1406,,ZW14,Mashonaland West,Mashonaland West,,,35,,-17.376,30.42,
+ZW1421,2,District,District,Chinhoyi,Chinhoyi,chinhoyi-zw1421,ZW1421,,ZW14,Mashonaland West,Mashonaland West,,,15,,-17.351,30.186,
+ZW1423,2,District,District,Chegutu Urban,Chegutu Urban,chegutu-urban-zw1423,ZW1423,,ZW14,Mashonaland West,Mashonaland West,,,12,,-18.125,30.138,
+ZW1424,2,District,District,Kariba Urban,Kariba Urban,kariba-urban-zw1424,ZW1424,,ZW14,Mashonaland West,Mashonaland West,,,9,,-16.528,28.807,
+ZW1425,2,District,District,Norton,Norton,norton-zw1425,ZW1425,,ZW14,Mashonaland West,Mashonaland West,,,13,,-17.885,30.679,
+ZW1426,2,District,District,Karoi,Karoi,karoi-zw1426,ZW1426,,ZW14,Mashonaland West,Mashonaland West,,,10,,-16.822,29.694,
+ZW1427,2,District,District,Mhondoro-Ngezi,Mhondoro-Ngezi,mhondoro-ngezi-zw1427,ZW1427,,ZW14,Mashonaland West,Mashonaland West,,,16,,-18.569,30.16,
+ZW1428,2,District,District,Sanyati,Sanyati,sanyati-zw1428,ZW1428,,ZW14,Mashonaland West,Mashonaland West,,,18,,-17.973,29.561,
+ZW15,1,Province,Province,Matabeleland North,Matabeleland North,matabeleland-north-zw15,ZW15,,,,,,9,193,,-18.618,27.453,https://openadmindata.org/zw/provinces/matabeleland-north-zw15/
+ZW1501,2,District,District,Binga,Binga,binga-zw1501,ZW1501,,ZW15,Matabeleland North,Matabeleland North,,,25,,-17.692,27.71,
+ZW1502,2,District,District,Bubi,Bubi,bubi-zw1502,ZW1502,,ZW15,Matabeleland North,Matabeleland North,,,23,,-19.567,28.843,
+ZW1503,2,District,District,Hwange,Hwange,hwange-zw1503,ZW1503,,ZW15,Matabeleland North,Matabeleland North,,,20,,-18.84,26.594,
+ZW1504,2,District,District,Lupane,Lupane,lupane-zw1504,ZW1504,,ZW15,Matabeleland North,Matabeleland North,,,28,,-18.882,27.829,
+ZW1505,2,District,District,Nkayi,Nkayi,nkayi-zw1505,ZW1505,,ZW15,Matabeleland North,Matabeleland North,,,30,,-18.923,28.614,
+ZW1506,2,District,District,Tsholotsho,Tsholotsho,tsholotsho-zw1506,ZW1506,,ZW15,Matabeleland North,Matabeleland North,,,22,,-19.64,27.289,
+ZW1507,2,District,District,Umguza,Umguza,umguza-zw1507,ZW1507,,ZW15,Matabeleland North,Matabeleland North,,,19,,-19.86,28.252,
+ZW1521,2,District,District,Hwange Urban,Hwange Urban,hwange-urban-zw1521,ZW1521,,ZW15,Matabeleland North,Matabeleland North,,,15,,-18.335,26.481,
+ZW1522,2,District,District,Victoria Falls,Victoria Falls,victoria-falls-zw1522,ZW1522,,ZW15,Matabeleland North,Matabeleland North,,,11,,-17.931,25.831,
+ZW16,1,Province,Province,Matabeleland South,Matabeleland South,matabeleland-south-zw16,ZW16,,,,,,10,170,,-20.918,28.646,https://openadmindata.org/zw/provinces/matabeleland-south-zw16/
+ZW1601,2,District,District,Beitbridge,Beitbridge,beitbridge-zw1601,ZW1601,,ZW16,Matabeleland South,Matabeleland South,,,16,,-21.812,29.942,
+ZW1602,2,District,District,Bulilima,Bulilima,bulilima-zw1602,ZW1602,,ZW16,Matabeleland South,Matabeleland South,,,22,,-20.155,27.527,
+ZW1603,2,District,District,Mangwe,Mangwe,mangwe-zw1603,ZW1603,,ZW16,Matabeleland South,Matabeleland South,,,17,,-21.012,27.951,
+ZW1604,2,District,District,Gwanda,Gwanda,gwanda-zw1604,ZW1604,,ZW16,Matabeleland South,Matabeleland South,,,24,,-21.28,29.292,
+ZW1605,2,District,District,Insiza,Insiza,insiza-zw1605,ZW1605,,ZW16,Matabeleland South,Matabeleland South,,,23,,-20.273,29.486,
+ZW1606,2,District,District,Matobo,Matobo,matobo-zw1606,ZW1606,,ZW16,Matabeleland South,Matabeleland South,,,26,,-20.968,28.46,
+ZW1607,2,District,District,Umzingwane,Umzingwane,umzingwane-zw1607,ZW1607,,ZW16,Matabeleland South,Matabeleland South,,,20,,-20.329,28.954,
+ZW1621,2,District,District,Gwanda Urban,Gwanda Urban,gwanda-urban-zw1621,ZW1621,,ZW16,Matabeleland South,Matabeleland South,,,10,,-20.933,28.998,
+ZW1622,2,District,District,Beitbridge Urban,Beitbridge Urban,beitbridge-urban-zw1622,ZW1622,,ZW16,Matabeleland South,Matabeleland South,,,6,,-22.205,30.001,
+ZW1623,2,District,District,Plumtree,Plumtree,plumtree-zw1623,ZW1623,,ZW16,Matabeleland South,Matabeleland South,,,6,,-20.507,27.82,
+ZW17,1,Province,Province,Midlands,Midlands,midlands-zw17,ZW17,,,,,,14,296,,-19.082,29.862,https://openadmindata.org/zw/provinces/midlands-zw17/
+ZW1701,2,District,District,Chirumhanzu,Chirumhanzu,chirumhanzu-zw1701,ZW1701,,ZW17,Midlands,Midlands,,,25,,-19.353,30.428,
+ZW1702,2,District,District,Gokwe North,Gokwe North,gokwe-north-zw1702,ZW1702,,ZW17,Midlands,Midlands,,,36,,-17.557,28.775,
+ZW1703,2,District,District,Gokwe South,Gokwe South,gokwe-south-zw1703,ZW1703,,ZW17,Midlands,Midlands,,,33,,-18.131,28.661,
+ZW1704,2,District,District,Gweru,Gweru,gweru-zw1704,ZW1704,,ZW17,Midlands,Midlands,,,19,,-19.531,29.519,
+ZW1705,2,District,District,Kwekwe,Kwekwe,kwekwe-zw1705,ZW1705,,ZW17,Midlands,Midlands,,,33,,-18.821,29.608,
+ZW1706,2,District,District,Mberengwa,Mberengwa,mberengwa-zw1706,ZW1706,,ZW17,Midlands,Midlands,,,37,,-20.688,30.093,
+ZW1707,2,District,District,Shurugwi,Shurugwi,shurugwi-zw1707,ZW1707,,ZW17,Midlands,Midlands,,,24,,-19.744,30.252,
+ZW1708,2,District,District,Zvishavane,Zvishavane,zvishavane-zw1708,ZW1708,,ZW17,Midlands,Midlands,,,19,,-20.28,29.906,
+ZW1721,2,District,District,Gweru Urban,Gweru Urban,gweru-urban-zw1721,ZW1721,,ZW17,Midlands,Midlands,,,18,,-19.456,29.808,
+ZW1722,2,District,District,Kwekwe Urban,Kwekwe Urban,kwekwe-urban-zw1722,ZW1722,,ZW17,Midlands,Midlands,,,14,,-18.913,29.808,
+ZW1723,2,District,District,Redcliff,Redcliff,redcliff-zw1723,ZW1723,,ZW17,Midlands,Midlands,,,9,,-19.012,29.76,
+ZW1725,2,District,District,Zvishavane Urban,Zvishavane Urban,zvishavane-urban-zw1725,ZW1725,,ZW17,Midlands,Midlands,,,10,,-20.326,30.065,
+ZW1728,2,District,District,Shurugwi Town,Shurugwi Town,shurugwi-town-zw1728,ZW1728,,ZW17,Midlands,Midlands,,,13,,-19.693,29.993,
+ZW1729,2,District,District,Gokwe South Urban,Gokwe South Urban,gokwe-south-urban-zw1729,ZW1729,,ZW17,Midlands,Midlands,,,6,,-18.22,28.944,
+ZW18,1,Province,Province,Masvingo,Masvingo,masvingo-zw18,ZW18,,,,,,9,243,,-20.785,31.342,https://openadmindata.org/zw/provinces/masvingo-zw18/
+ZW1801,2,District,District,Bikita,Bikita,bikita-zw1801,ZW1801,,ZW18,Masvingo,Masvingo,,,32,,-20.202,31.959,
+ZW1802,2,District,District,Chiredzi,Chiredzi,chiredzi-zw1802,ZW1802,,ZW18,Masvingo,Masvingo,,,32,,-21.419,31.834,
+ZW1803,2,District,District,Chivi,Chivi,chivi-zw1803,ZW1803,,ZW18,Masvingo,Masvingo,,,32,,-20.5,30.568,
+ZW1804,2,District,District,Gutu,Gutu,gutu-zw1804,ZW1804,,ZW18,Masvingo,Masvingo,,,42,,-19.591,31.233,
+ZW1805,2,District,District,Masvingo,Masvingo,masvingo-zw1805,ZW1805,,ZW18,Masvingo,Masvingo,,,35,,-20.31,30.881,
+ZW1806,2,District,District,Mwenezi,Mwenezi,mwenezi-zw1806,ZW1806,,ZW18,Masvingo,Masvingo,,,18,,-21.398,30.7,
+ZW1807,2,District,District,Zaka,Zaka,zaka-zw1807,ZW1807,,ZW18,Masvingo,Masvingo,,,34,,-20.378,31.449,
+ZW1821,2,District,District,Masvingo Urban,Masvingo Urban,masvingo-urban-zw1821,ZW1821,,ZW18,Masvingo,Masvingo,,,10,,-20.082,30.83,
+ZW1822,2,District,District,Chiredzi Urban,Chiredzi Urban,chiredzi-urban-zw1822,ZW1822,,ZW18,Masvingo,Masvingo,,,8,,-21.034,31.662,
+ZW19,1,Province,Province,Harare,Harare,harare-zw19,ZW19,,,,,,4,78,,-17.855,31.052,https://openadmindata.org/zw/provinces/harare-zw19/
+ZW1921,2,District,District,Harare,Harare,harare-zw1921,ZW1921,,ZW19,Harare,Harare,,,45,,-17.799,31.047,
+ZW1922,2,District,District,Chitungwiza,Chitungwiza,chitungwiza-zw1922,ZW1922,,ZW19,Harare,Harare,,,25,,-18.015,31.07,
+ZW1923,2,District,District,Epworth,Epworth,epworth-zw1923,ZW1923,,ZW19,Harare,Harare,,,7,,-17.898,31.167,
+ZW1924,2,District,District,Harare Rural,Harare Rural,harare-rural-zw1924,ZW1924,,ZW19,Harare,Harare,,,1,,-17.946,31.015,

@@ -26,5 +26,9 @@
     "lon": "31.342"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/zw/provinces/masvingo-zw18/",
+    "api": "https://openadmindata.org/api/zw/"
+  }
 }

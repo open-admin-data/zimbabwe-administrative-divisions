@@ -26,5 +26,9 @@
     "lon": "28.535"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/zw/provinces/bulawayo-zw10/",
+    "api": "https://openadmindata.org/api/zw/"
+  }
 }

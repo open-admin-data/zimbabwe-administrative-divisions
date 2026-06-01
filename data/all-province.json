@@ -27,7 +27,11 @@
       "lon": "28.535"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/zw/provinces/bulawayo-zw10/",
+      "api": "https://openadmindata.org/api/zw/"
+    }
   },
   {
     "id": "ZW19",
@@ -57,7 +61,11 @@
       "lon": "31.052"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/zw/provinces/harare-zw19/",
+      "api": "https://openadmindata.org/api/zw/"
+    }
   },
   {
     "id": "ZW11",
@@ -87,7 +95,11 @@
       "lon": "32.07"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/zw/provinces/manicaland-zw11/",
+      "api": "https://openadmindata.org/api/zw/"
+    }
   },
   {
     "id": "ZW12",
@@ -117,7 +129,11 @@
       "lon": "31.602"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/zw/provinces/mashonaland-central-zw12/",
+      "api": "https://openadmindata.org/api/zw/"
+    }
   },
   {
     "id": "ZW13",
@@ -147,7 +163,11 @@
       "lon": "31.603"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/zw/provinces/mashonaland-east-zw13/",
+      "api": "https://openadmindata.org/api/zw/"
+    }
   },
   {
     "id": "ZW14",
@@ -177,7 +197,11 @@
       "lon": "29.868"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/zw/provinces/mashonaland-west-zw14/",
+      "api": "https://openadmindata.org/api/zw/"
+    }
   },
   {
     "id": "ZW18",
@@ -207,7 +231,11 @@
       "lon": "31.342"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/zw/provinces/masvingo-zw18/",
+      "api": "https://openadmindata.org/api/zw/"
+    }
   },
   {
     "id": "ZW15",
@@ -237,7 +265,11 @@
       "lon": "27.453"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/zw/provinces/matabeleland-north-zw15/",
+      "api": "https://openadmindata.org/api/zw/"
+    }
   },
   {
     "id": "ZW16",
@@ -267,7 +299,11 @@
       "lon": "28.646"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/zw/provinces/matabeleland-south-zw16/",
+      "api": "https://openadmindata.org/api/zw/"
+    }
   },
   {
     "id": "ZW17",
@@ -297,6 +333,10 @@
       "lon": "29.862"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/zw/provinces/midlands-zw17/",
+      "api": "https://openadmindata.org/api/zw/"
+    }
   }
 ]

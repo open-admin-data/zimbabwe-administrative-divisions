@@ -3,7 +3,7 @@
 > 1 districts, 29 wards
 > Code: ZW10
 > Coordinates: -20.106, 28.535
-> Last updated: 2026-05-28. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Districts
 

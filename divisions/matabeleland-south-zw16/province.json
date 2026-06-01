@@ -26,5 +26,9 @@
     "lon": "28.646"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/zw/provinces/matabeleland-south-zw16/",
+    "api": "https://openadmindata.org/api/zw/"
+  }
 }

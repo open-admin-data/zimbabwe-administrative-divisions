@@ -26,5 +26,9 @@
     "lon": "31.602"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/zw/provinces/mashonaland-central-zw12/",
+    "api": "https://openadmindata.org/api/zw/"
+  }
 }

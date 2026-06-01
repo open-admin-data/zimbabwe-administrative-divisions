@@ -3,7 +3,7 @@
 > 10 districts, 170 wards
 > Code: ZW16
 > Coordinates: -20.918, 28.646
-> Last updated: 2026-05-28. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Districts
 

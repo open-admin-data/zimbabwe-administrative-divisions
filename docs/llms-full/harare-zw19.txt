@@ -3,7 +3,7 @@
 > 4 districts, 78 wards
 > Code: ZW19
 > Coordinates: -17.855, 31.052
-> Last updated: 2026-05-28. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Districts
 

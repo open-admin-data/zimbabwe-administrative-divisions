@@ -26,5 +26,9 @@
     "lon": "32.07"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/zw/provinces/manicaland-zw11/",
+    "api": "https://openadmindata.org/api/zw/"
+  }
 }
