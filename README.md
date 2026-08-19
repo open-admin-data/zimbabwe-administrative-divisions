@@ -12,9 +12,10 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-06-01 |
+| Last Updated | 2026-08-19 |
 | Website | [openadmindata.org/zw](https://openadmindata.org/zw/) |
 | API | [openadmindata.org/api/zw](https://openadmindata.org/api/zw/) |
+| National Anthem | [🎵 Listen & Download Zimbabwe National Anthem MP3](https://onlygames.me/national-anthems/zw/) |
 
 ## Browse by Province
 
